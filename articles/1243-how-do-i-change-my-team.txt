@@ -1,0 +1,15 @@
+---
+id: 1243
+title: How do I change my team?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1243-how-do-i-change-my-team/
+---
+
+Once you reach level 5 and visit a Gym, you can choose to join of three teams: Instinct (yellow), Mystic (blue), or Valor (red). You’ll stick with your team throughout your Pokémon GO journey, so choose wisely! Trainers from opposing teams battle for control of Gyms, which is reflected by the color of the Gym.
+
+[![image](../data/images/e1c10b53-a843-4e55-a0cf-5a2ef6f71407-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/bafda361-acc6-4343-9f02-f1a0648295dd.jpg)
+
+If you’d like to change your team, you can purchase a Team Medallion in the Shop. This is a one-time use item, that can only be bought once every 365 days. To start the team change process, tap on the item in your Bag.
+
+[![image](../data/images/347f2ca1-efc3-42e2-8dd1-0c5fcd53f33c-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/90b74bbf-adf7-4fa6-b747-eb036873c40b.png)
+
+**Important note** : If you currently have any Pokémon in Gyms, then remote Berry feeding will be disabled. These Pokémon will be returned to your Pokémon storage once they are defeated or if you visit that Gym. You will not receive any PokéCoins for defending those Gyms.
