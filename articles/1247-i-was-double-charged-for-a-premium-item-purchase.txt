@@ -1,0 +1,7 @@
+---
+id: 1247
+title: I was double charged for a Premium Item purchase
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1247-i-was-double-charged-for-a-premium-item-purchase/
+---
+
+If you have been charged twice fora Premium Item you purchased, please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) within 48 hours of the incident.
