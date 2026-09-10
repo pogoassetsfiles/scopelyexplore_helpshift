@@ -1,0 +1,39 @@
+---
+id: 1277
+title: Linking an Additional Login Provider to your Account
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1277-linking-an-additional-login-provider-to-your-account/
+---
+
+After creating your Pokémon GO account, you may link an additional login provider—either Pokémon Trainer Central, Facebook, Google, or Apple—to your account. Once linked, you’ll be able to sign into Pokémon GO using any of the login providers linked to your account, but note that you can only have one login linked for each login provider (e.g., only one Pokémon Trainer Central account, Facebook profile, Gmail address, or Apple ID can be connected at a time).
+
+Some reasons we advise having multiple login providers include:
+
+* If you created an account using a non-permanent email address (e.g. a work or school email address) that you may lose access to in the future.
+
+* If the single login provider you’ve chosen is experiencing an interruption in service, you will be able to log in using a different provider.
+
+* If you choose to change the login provider account to which your Pokémon GO account is linked.
+
+Note about child accounts: Linking multiple login providers is not available for child accounts. Trainers with child accounts will not see the option in the Settings menu.
+
+Important note if you play other Scopely Explore games: Account linking and unlinking takes effect across all Scopely Explore products. Unlinking a login provider that is used for multiple Scopely Explore games will unlink the login provider for all of those games. For example: if you're unlinking a Google account from your Pokémon GO account, you will no longer be able to log into any other Scopely Explore game with Google.
+
+**To link an additional account:**
+
+* In Map View, tap the Main Menu  [![](../data/images/267b3ecf-fa73-4cfa-b25c-0519ea8ea770.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/267b3ecf-fa73-4cfa-b25c-0519ea8ea770.png)
+
+* At the top right, tap Settings  [![](../data/images/3f831828-a674-46bf-b2b4-007d345409f8.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/3f831828-a674-46bf-b2b4-007d345409f8.png)
+
+* Under the Account section, select the “Not Linked” checkbox next to the login provider you would like to connect.
+
+Follow the prompts to link your account. Once your account is linked, you can use that login provider to sign into your Pokémon GO account. If you receive an error message when attempting to link a login provider to your account, it is often because that account is already linked to another Pokémon GO account.
+
+Note about child accounts: If you have linked a Google, Apple, or Facebook login provider to Pokémon GO, you will not be able to link a Kids at Scopely Explore or Pokémon Trainer Central kids account to Pokémon GO.
+
+### Unlinking a Login Provider
+
+To disconnect a login provider from your account, deselect the “Linked” checkbox next to the login provider you would like to disconnect. After you unlink, you will no longer be able to sign into your account using that login provider. Note that you cannot remove the login provider you used to sign into your current gameplay session.
+
+### Updating a Login Provider
+
+You may update your Google, Apple, Facebook login providers at any time. To do so, unlink the account you no longer want, and re-link your desired account. Keep in mind that to do so, you will need to have a secondary login linked from one of these login providers, as you are unable to unlink all login methods from your account at one time.
