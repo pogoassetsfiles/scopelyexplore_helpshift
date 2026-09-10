@@ -1,0 +1,11 @@
+---
+id: 1141
+title: What are Gift stickers?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1141-what-are-gift-stickers/
+---
+
+You can add a sticker to a Gift before sending it to a friend. Each sticker can only be used once and will disappear from your inventory when you send a Gift with it. You can only hold 25 of the same Gift sticker type at a time.
+
+Trainers can obtain some stickers from opening Gifts from Friends, while other stickers can only be purchased in the shop.
+
+**Note about child accounts:**  Trainers on child accounts are only able to attach stickers to Gifts if their parents or guardians opt into enabling social features through the [Kids at Scopely Explore Parent Portal](https://parents.nianticlabs.com/) or  [Pokémon Trainer Central](https://www.pokemon.com/us/pokemon-trainer-club/login) website.
