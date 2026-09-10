@@ -1,0 +1,38 @@
+---
+id: 1214
+title: Max Battles and Catching Max Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1214-max-battles-and-catching-max-pokemon/
+---
+
+Participate in difficult  **Max Battles**  against Max Pokémon to earn rewards and get a chance to catch the Max Pokémon. Up to four Trainers can join together to challenge the Power Spot Boss.
+
+With at least one Max Pokémon in the Battle Party, each Trainer can challenge a Max Battle boss at select Power Spots.
+
+### Participating in Max Battles
+
+Each Trainer must use a certain amount of Max Particles to engage in battle. The specific amount of Max Particles required will vary depending on the power of the Max Battle boss. Learn more about collecting [Max Particles](https://niantic.helpshift.com/hc/faq/4797-collecting-max-particles-and-dynamaxing-pokemon/).
+
+To join a Max Battle:
+
+* Enter the Power Spot by tapping on it on the Map.
+* If you have enough Max Particles, tap Battle to join the lobby and be matched with other nearby Trainers.
+* Select three Pokémon you want to bring with you into battle, keeping in mind that you must bring at least one Max Pokémon and that only Dynamax or Gigantamax Pokémon can join Max Battles.
+* When 4 Trainers have joined or the lobby timer reaches 0, you will enter into the Max Battle.
+
+Just like in a Raid Battle, tap your screen to use Fast Attacks, build up energy to use Charged Attacks and swipe to dodge attacks from the opposing Max Battle boss. If there are other Max Pokémon stationed at the Power Spot, your attacks may be boosted by the  **Attack Bonus** . The more Pokémon stationed at a Power Spot, the greater the boost from the Attack Bonus.
+
+Trainer Tip: Using a  **Max Mushroom**  will boost the amount of damage your Pokémon will cause during Max Battles. Their effect will last for 30 minutes but may last longer during special events. You can activate multiple Max Mushrooms to stack their duration.
+
+Keep an eye on the Max meter at the top of the battle screen, once it is full, your Max Pokémon will Dynamax or Giganamax for 3 turns! It will automatically fill as you attack the Power Spot Boss. Fill your Max Meter faster by swiping towards the energy that appears on the battlefield.
+
+If all of your Pokémon faint while battling a three-star Max Battle boss or higher, you still have a fighting chance! You can Cheer for your teammates so that their Max Meter fills faster.  Note that, unlike Raid Battles, once all of your Pokémon faint, you cannot select new Pokémon and rejoin the battle.
+
+### After the Max Battle
+
+If you are not able to defeat the Power Spot Boss during the battle, you may rejoin the Max Battle and try again. You won’t need to use more Max Particles to rejoin as they are only deducted if you successfully defeat the Power Spot Boss. You can attempt the battle as many times as you’d like before the Power Spot closes.
+
+If you and your fellow Trainers are successful in defeating the Power Spot Boss, you’ll earn special items and a chance at catching the Max Pokémon. Special items may include Golden Razz Berries, Fast and Charged TM, or Rare Candy. You can also use Poké Coins to increase your rewards.
+
+Upon victory, you can place one of the Pokémon from your Battle Party at that Power Spot to earn Candy, and help future Trainers by providing a damage bonus! These Candies are sent to Trainers upon their Pokémon’s return from the Power Spot, either after assisting with a certain number of Max Battles or after a Power Spot closes. Learn more about [Power Spots](https://niantic.helpshift.com/hc/faq/4796-what-are-power-spots-and-how-can-i-find-them/).
+
+After collecting your rewards, you will encounter the Power Spot Boss and have a chance to catch it! Watch as your Poké Ball temporarily powers up when you throw to capture the Max Pokémon. If you successfully catch the Max Pokémon, it will return to its normal form in your Pokémon Storage, however you can use Max Particles you’ve collected to Dynamax or Gigantamax your Pokémon and take it into future Max Battles. Learn more about [Max Pokémon](https://niantic.helpshift.com/hc/faq/4795-what-are-dynamax-pokemon/).
