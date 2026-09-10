@@ -1,0 +1,46 @@
+---
+id: 1292
+title: Child Accounts and Pokémon Trainer Central
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1292-child-accounts-and-pokemon-trainer-central/
+---
+
+Trainers logging into Pokémon GO for the first time and who are using a child account are able to do so by connecting their Pokémon Trainer Central (PTC) child account to Pokémon GO.
+
+Make sure your parent or guardian is nearby and follow these steps to connect your PTC account to Pokémon GO:
+
+* Open the Pokémon GO app.
+* Tap Pokémon Trainer Central.
+* Log into your PTC account.
+* Pass your device to your parent or guardian.
+* Tap on the  **I’m the Parent/Guardian** button.
+* Review the information on the  *We’ll Need your Permission*  page and scroll to the bottom of the page.
+* Tap  **Continue as the Parent/Guardian**  and log into your Parent Pokémon Trainer Central account.
+* Make sure that your child’s PTC account is displayed at the top of the page and review the details that the Pokémon GO app will access from your child’s PTC account. Tap  **Allow**  or  **Deny** .
+* Review and toggle the sliders to update your child’s Pokémon GO permissions (more details below). After confirming their permissions, tap  **Continue**  to close out of this window.
+* Tap the button saying  **Back to Pokémon GO**  and pass the device back to your child, so that they can login again.
+* The child should now be logged into their account.
+
+**Please Note:** your PTC screen name or account name may not necessarily be the same as your Pokémon GO Trainer Nickname.
+
+### Parents Updating Child Permissions
+
+Parents wishing to update the permissions for their Trainer using a child account from PTC can change them at any time by following the below steps:
+
+* Log in to your parent Pokémon Trainer Central account [here](https://trainer.pokemon.com/start).
+* Select the child account whose permissions you would like to update.
+* Choose Pokémon GO Settings from the left-hand toolbar.
+* Under Permissions for Your Child, you can select what features your child will have access to. Tap the checkbox below each permission to enable it for the child.
+
+Please note that some permissions are only available by first selecting others.
+
+If you do not see certain permissions, it means that your child is old enough to choose settings and permissions on their own Pokémon Trainer Central account.
+
+### Forgot your PTC login information?
+
+Visit [Pokémon GO Account Recovery website](https://my.nianticlabs.com/account-recovery) to get a reminder of the account information tied to PTC login. If you’re still unable to login with your PTC account or need help with resetting your password, see the  *Recovering your PTC Account*  section for how to contact The Pokémon Company International for help with your PTC account.
+
+### Recovering your PTC Account
+
+Because PTC is a service that is operated by The Pokémon Company International, Scopely Explore Support is unable to assist with updating your PTC account information. If you’ve lost your PTC username and/or password, you may recover them [here](http://recover.pokemon.com/). You’ll need the email address linked to your PTC account to get started. If you don’t remember your email address, see  *Forgot your PTC login information?* above.
+
+If you need further assistance, please contact The Pokémon Company International’s Customer Support team [here](https://support.pokemon.com/hc/en-us/requests/new?ticket_form_id=114094020574).
