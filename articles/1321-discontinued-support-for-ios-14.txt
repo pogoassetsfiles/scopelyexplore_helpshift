@@ -1,0 +1,17 @@
+---
+id: 1321
+title: Discontinued Support for iOS 14
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1321-discontinued-support-for-ios-14/
+---
+
+Pokémon GO is ending support for devices running iOS 14. Trainers using devices with this operating system will no longer be able to play Pokémon GO after release version 0.305. We encourage Trainers on iOS 14 to update their OS if they wish to continue playing Pokémon GO.
+
+ **Am I affected by this change?**
+Only devices with iOS 14 installed are affected by this change. Apple users on iOS 15 or later and Android users are not affected and don’t need to take any action.
+
+If you aren’t sure which OS version is installed on your device, you can find this information in the device settings. Go to Settings > General > About.
+
+ **What do I need to do?**
+If you’re using a device running iOS 14, you’ll need to update your OS to continue to play Pokémon GO. For detailed information on how to upgrade to the latest version of the Apple OS, please view this support article on the Apple Help Center: ​​https://support.apple.com/en-us/HT204204
+
+There are no changes to which devices are supported.
