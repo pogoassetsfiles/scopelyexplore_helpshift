@@ -1,0 +1,64 @@
+---
+id: 1091
+title: The Today View
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1091-the-today-view/
+---
+
+The Today View is a page where Trainers can check out the information that is relevant to what’s happening right now.
+
+To see the Today View, tap the Binoculars[![image](../data/images/4febb24e-76d0-4ed4-bbc3-bf78ebbe6b11-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/4febb24e-76d0-4ed4-bbc3-bf78ebbe6b11-t.png)at the bottom right corner of the Map View.
+
+On a typical day, the Today View will display the following sections:
+
+### Today
+
+This section presents information that is helpful to reference on a daily basis.
+
+* **Field Research Tasks and Research Breakthrough Progress:**  This section will contain any Field Research Tasks that you have received and your progress towards receiving your Research Breakthrough. Learn more about [Types of Research](https://niantic.helpshift.com/hc/faq/45-types-of-research/).
+ [![](../data/images/d28b83cf-4839-4dea-a362-7f7ef001b7e2.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d28b83cf-4839-4dea-a362-7f7ef001b7e2.jpg)
+
+* **Happening Now:** This section will show any information around events that are currently live, how long they last, and links to the associated blog post.
+ [![](../data/images/7d22d909-0787-4138-b0c1-3705c4879136.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/7d22d909-0787-4138-b0c1-3705c4879136.jpg)
+
+* **Daily Activities:**  Here you can see the current state of your current gameplay:
+
+* **PokéCoins Earned**  - This section displays how many PokéCoins you've earned within the day. [![](../data/images/258a3966-f24f-4da8-8bd4-c378b15d131f.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/258a3966-f24f-4da8-8bd4-c378b15d131f.jpg)
+
+* * **Pokémon in Gyms**  - This section displays the health of each of your Pokémon [defending a Gym](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/383-earning-the-defender-bonus/) and how long they’ve been there.
+
+![image](../data/images/043ec299-e62f-4c62-a9f1-67c0ac6e770e-2t.png)
+
+* **Pokémon at Power Spots**  - This section will display any Pokémon that you have stationed at Power Spots to assist other Trainers in Max Battles. You will also see how long the Pokémon has been stationed there. Tap the Pokémon to see more details and recall your Pokémon.
+ [![](../data/images/40213bc4-3584-4abe-9b82-741604ff0a76.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/40213bc4-3584-4abe-9b82-741604ff0a76.png)
+
+* * **Streaks**  - This section displays your current [Daily Spin and Daily Catch streaks](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/105-daily-bonuses/). You can earn bonuses for catching Pokémon or visiting PokéStops each day and earn larger bonuses for completing these activities multiple in a row. Your progress resets when you hit 7 days in a row, so reach 7-day streaks for each to earn the best possible rewards.
+[![image](../data/images/037230db-b110-4016-9d94-6837f8bf9ed8-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/49f6e3c2-e647-4e0c-a56b-ada3b5d8c5b4.png)
+
+* **Pokémon in Showcases**  - This section displays any Pokémon entered into [PokéStop Showcases](https://niantic.helpshift.com/hc/faq/4142-what-is-a-pokestop-showcase-and-how-can-i-be-featured/) and your current standing.
+  [![](../data/images/8df4d5c8-50e1-444b-9ce6-d85cf69acced.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/8df4d5c8-50e1-444b-9ce6-d85cf69acced.png) https://d2duuy9yo5pldo.cloudfront.net/niantic/69137fd8-9315-4f0d-a44d-28ac6e910ac9.jpeg
+
+* **Pokémon in Hyper Training**  - This section will display any Pokémon currently undergoing Hyper Training as well as the current tasks, progress towards completing these tasks and the total amount of time remaining for Hyper Training for that specific Pokémon.
+ [![](../data/images/078b60c3-1ab2-422d-ab66-ea8012409bf7.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/078b60c3-1ab2-422d-ab66-ea8012409bf7.png)
+
+### Events
+
+This section showcases information that will change with the Season or the currently active in-game event. If there are no upcoming or active events, this tab may appear empty and direct you to the Official Blog.
+
+* **Upcoming**   **Events**  - This section displays news related to upcoming events, limited-time offers, feature updates, and more along with links to learn more.
+ [![](../data/images/6b81af48-3d37-4f23-911a-02593396e257.jpeg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/6b81af48-3d37-4f23-911a-02593396e257.jpeg)
+
+* **Global Challenge**  - During Special Events, like Pokémon GO Fest or Pokémon GO Tour, you may also see currently active Global Challenges, Timed Bonuses and you and your Friends’ progress towards completing the Global Challenge.
+ [![](../data/images/7af6bc71-ab1c-4358-91b0-5b94b0364b20.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/7af6bc71-ab1c-4358-91b0-5b94b0364b20.png)
+
+* **Collection Challenges**  - Certain events may feature different  **Collection Challenges** , sets of specific Pokémon to collect in order to earn rewards. The Events tab will show any active Collection Challenges, rewards, as well as your progress towards completing them.
+
+![image](../data/images/ndlycncqvta5j7higzkfuvxefk95zefnx_eewcwjpkvgtxwoxhapd5opfx0rhqzqymdthk67sxk2zbbvq0figovrtwp0cuv3t0kklm4b8xti7c9giepkcacuuht0-ccrgqo9ojgvtt-uzygk6al5qqk.png)
+
+* **Timed Research:** The Events tab is also where you can find any [Timed Research Tasks](https://niantic.helpshift.com/hc/faq/45-types-of-research/#timed-research) that are currently live.
+ [![](../data/images/6ff80de6-4940-46e5-84f1-e75f7b1a24f8.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/6ff80de6-4940-46e5-84f1-e75f7b1a24f8.png)
+
+### Special
+
+The  **Special**  tab is where you can find all of your active and completed [Special Research](https://niantic.helpshift.com/hc/faq/45-types-of-research/#special-research) tasks as well as a list of Special Research that you have completed in the past. New Special Research will be added to this tab automatically, however completing a Special Research page will move that specific Special Research to the top of this page.
+
+[![](../data/images/29e796d5-1ba1-404f-b87d-2d83ba048ac7.jpeg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/29e796d5-1ba1-404f-b87d-2d83ba048ac7.jpeg)
