@@ -1,0 +1,9 @@
+---
+id: 1101
+title: Why is there an orange dot on the Poké Ball menu?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1101-why-is-there-an-orange-dot-on-the-poke-ball-menu/
+---
+
+If you are seeing an orange dot on the center of the Main Menu button[![image](../data/images/01fe1ae0-fc2b-4163-9368-891f37ec320d-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/3862fe32-73a7-4532-9186-dde9dff357e5.png) this is an indication that either your Pokémon storage or Item Bag is full. Tap on the Main Menu button [![image](../data/images/7e8b6089-1fc2-46de-9ecc-847cb952e9b9-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ddf0876f-cd3b-4809-9b47-7cc794d8668f.png)to see an indicator of which inventory has reached its max capacity.
+
+[Transfer Pokémon](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2389-transferring-pokemon/) to Professor Willow to free up space in your Pokémon storage. Use or discard items to free up space in your [Item Bag](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/). Additionally, you can increase either Pokémon storage or your Item Bag by purchasing an upgrade in the Shop.
