@@ -1,0 +1,15 @@
+---
+id: 1333
+title: Discontinued Support for Apple Watch
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1333-discontinued-support-for-apple-watch-1783975663/
+---
+
+Pokémon GO is officially ending support for Apple Watch devices. Trainers using Apple Watch will no longer be able to connect their Apple Watch to Pokémon GO after  **July 1, 2019** .
+
+### **Why this change?**
+
+Because Adventure Sync allows Trainers the option of tracking their steps, earning Buddy Candy, and hatching Eggs in one mobile device rather than 2 separate devices, we want to focus on building Adventure Sync so that Trainers will no longer have to split their gameplay between 2 devices.
+
+### **How can I continue to track my distance?**
+
+Trainers can use Adventure Sync to track their distance by syncing their fitness apps in their phones which does not require devices such as Apple Watches. For more information on how Adventure Sync works, please see our [article here](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3265-adventure-sync/).
