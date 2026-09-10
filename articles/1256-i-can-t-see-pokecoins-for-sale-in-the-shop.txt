@@ -1,0 +1,11 @@
+---
+id: 1256
+title: I can't see PokéCoins for sale in the Shop
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1256-i-can-t-see-pokecoins-for-sale-in-the-shop/
+---
+
+There are some cases where PokéCoins may not appear available for purchase:
+
+* **Purchase restrictions are enabled -** It's possible that you've enabled a setting on your device to prevent someone else (perhaps a child) from making a purchase. Check your Google Play, Galaxy Store, or iTunes settings to ensure that you’re able to make purchases from apps.
+* **Pokémon GO cannot communicate with Google Play Services (Android) -** On Android, Pokémon GO needs to communicate with Google Play Services in the background to process purchases. Some devices' data saver settings disable background data Google Play Services. You can also try toggling the background data setting: Go to Settings > Data usage > Google Play Services, and enable background data.
+* **Data connection issues**  - Ensure your device is connected to a reliable data connection (Wi-Fi, 3G, or 4G). Try switching internet sources: if you have trouble connecting on Wi-Fi, try to connect using 3G or 4G. If you have trouble connecting on 3G or 4G, try to connect using Wi-Fi.
