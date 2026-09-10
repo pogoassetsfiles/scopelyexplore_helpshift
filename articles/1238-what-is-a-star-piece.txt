@@ -1,0 +1,11 @@
+---
+id: 1238
+title: What is a Star Piece?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1238-what-is-a-star-piece/
+---
+
+**Star Pieces**  increase the amount of Stardust you earn by 50% for a limited period of time. Star Pieces typically last for 30 minutes but may last longer during special events. [Keep an eye on the Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view-1616435549/) to see what in-game events are in progress.
+
+[![image](../data/images/af2059aa-f8d3-4df4-a8f2-fd3bf3ab8122-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ecca840c-a1f6-4893-97dc-f3702c4667d5.jpg)
+
+You can also activate up to 200 Star Pieces at a time to stack the duration of their effects instead of using one every 30 minutes.
