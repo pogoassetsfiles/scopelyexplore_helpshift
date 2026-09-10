@@ -1,0 +1,35 @@
+---
+id: 1189
+title: Joining Raids from your Friend List
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1189-joining-raids-from-your-friend-list/
+---
+
+If one of your friends is currently in the raid lobby, waiting for the Raid to start, you will be able to use a Remote Raid Pass to join that Raid without an invitation! Please note that you must be Great Friends or higher with someone to join their Raid.
+
+To join a Raid from your Friend List:
+
+* In Map View, navigate to your Trainer Profile.
+* Tap the  **Friends**  tab at the top of the screen to open your Friend List.
+* Friends that are currently waiting to join a Raid will appear in your Friend List with the Raid Boss below their Trainer Name. You can also sort your Friend List by which friends are currently waiting to join a Raid.
+
+![image](../data/images/ad_4nxfotdo2kabxuuhrhy34_0wxl_luhcdghsbk3l6sp7gxtv5ib8ikqfwgymoj-thmn8lejoayc1xy2mmp8sq1bqok7nr4xopzi12a4owqeddragoffczptyb1ioizx_qbp_frvuscfq.png)
+
+Note that you can only join Raids for friends who have opted in to sharing their Raid activity.
+* Tap on your Friend to view the Raid information, including the number of Trainers waiting to join the Raid and the time left before the Raid begins.
+* Tap  **BATTLE**  to join the Raid. Note that the button will change color to reflect the type of Raid Pass that would be required to join, Green for an in-person Raid and pink for a Remote Raid.
+
+![image](../data/images/ad_4nxcjduxkosgqg8vejfpfrkm0obdawawkscy6-zninxejqyu1ncxy4bzxsmtmekibrej_nit3u4qm0-gcatot8dh1hfrfzl8rd1ye69gcvp1augbmu4yyrxfoi0f_zkfy9_r_vvaapfk1bovouisnhwsb7e8.png)
+
+Please note that, just like with other types of Remote Raids, up to 10 Trainers can join the same raid lobby with a Remote Raid Pass, though this number may be temporarily adjusted during specified time periods. If the raid lobby is full, you will be notified and prevented from joining a different lobby for the Raid Battle. Additionally, Trainers will only be able to participate in 5 Remote Raids per day. This maximum may change and increase  for special events.
+
+Note that once you join a Raid Battle from your Friend List, you will not be able to invite additional Trainers from your Friend List to that specific raid lobby. Certain types of Raids that are not able to be joined via Remote Raids, such as Shadow Raids and Elite Raids, cannot be joined from Friend List.
+
+Avatars of Trainers joining remotely have a different appearance in the lobby.
+
+Learn more about [Remote Raids](https://niantic.helpshift.com/hc/faq/2487-joining-raids-remotely/).
+
+### Controlling your Experience
+
+If you are not interested in allowing your friends to join your Raids, you can choose not to share your Raid attendance with friends.
+
+To opt out of this feature, open the Settings menu and tap the button next to  **Share Raid Attendance with Friends** . Note that this is enabled by default.
