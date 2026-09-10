@@ -1,0 +1,15 @@
+---
+id: 1192
+title: Team GO Rocket Balloons
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1192-team-go-rocket-balloons/
+---
+
+**Team GO Rocket**   **balloons**  float above the map and contain members of Team GO Rocket that you can challenge to a Battle. When you see a round shadow near your Trainer avatar in the Map View, zoom out and look around to find the hovering Team GO Rocket balloon.
+
+[![](../data/images/6c050ec5-a69d-44d1-847d-28ac5370c7e8.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/6c050ec5-a69d-44d1-847d-28ac5370c7e8.png)
+
+Team GO Rocket balloons only stay on the map for a limited time, so make sure to tap on the balloon to challenge the Team GO Rocket member before they fly away. Normally, these balloons only appear occasionally. However, during specified periods and events, they may appear more frequently, allowing you to challenge several Team GO Rocket members in a single day! Keep an eye on our official channels and the [Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/) for updates on these events.
+
+You can challenge [Grunts](https://scopelyexplore.helpshift.com/hc/faq/1190-team-go-rocket-grunts/) or [Team GO Rocket Leaders](https://scopelyexplore.helpshift.com/hc/faq/1191-team-go-rocket-leaders-giovanni/) by tapping on a Team GO Rocket balloon. If you have a Rocket Radar equipped, the next balloon that comes to your location will be piloted by Arlo, Cliff, or Sierra. You’ll have to wait for a different balloon if you want to challenge a different Team GO Rocket leader. If you have a Super Rocket Radar equipped, the next balloon will be piloted by Giovanni himself.
+
+These balloons are unique to you, so other Trainers will have a different experience than you and might not even be able to see them even if they’re nearby.
