@@ -1,0 +1,43 @@
+---
+id: 1218
+title: Route Requirements and Best Practices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1218-route-requirements-and-best-practices/
+---
+
+There are a few best practices to follow in order to create a high-quality Route:
+
+* **Route Length:** While a Route can be anywhere between 0.5 km and 20 km, we recommend a distance of no more than 2km to make your route accessible for as many Trainers as possible.
+
+* **Route Start & End Points:**
+
+* Select PokéStops or Gyms that are in places you like to play Pokémon GO with others, like a local park, to serve as your Route's start and end points.
+
+* Please note that PokéStops or Gyms associated with special events (like Pokémon GO Fest) or Sponsored PokéStops can not be selected as Start or end Points.
+
+* If you have created a long Route, consider having your end point somewhere Trainers can rest for a moment once they’ve completed the Route.
+
+* **Route Path**
+
+* Your Route should be one, continuous path with a clearly defined start and end point. It can’t start in one place, pause, and then resume in another with a jump in between.
+
+* Routes cannot be used to display inappropriate or abusive imagery on the Map or to draw attention to or abuse individual Trainers.
+
+* **How the Route Feels:**
+
+* A great Route takes fellow Trainers somewhere that may feature a great view, a garden, interesting artwork, or be a quiet part of town that people may not know about.
+
+* Routes should be safe and publicly accessible by pedestrians.
+
+* The Route should feel “evergreen” and not focus on something temporary, like a concert or special event.
+
+* **Route Title & Description:**
+
+* The title should describe the intention behind the Route, such as “A Quiet Walk Through my City,” "Learn More About our Town's History," or "Tour of my Favorite Parks."
+
+* The description can be more personal about what makes the Route special to you such as “If you walk here in the morning, you can see many cute dogs.”
+
+* Try to use the tags to help people fully understand what they’re getting into based on their personal desires and capabilities
+
+* E.g. If your Route passes by several Gyms, other Trainers might want to know that it is  **Raid-friendly** .
+
+* Make sure that you exclude any personally identifiable information from your Route title and description.
