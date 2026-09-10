@@ -1,0 +1,38 @@
+---
+id: 1168
+title: The GO Battle League Leaderboard
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1168-the-go-battle-league-leaderboard/
+---
+
+The  **GO Battle League Leaderboard**  is a page on the Pokémon GO website that displays the top 500 Trainers in the world by their GO Battle League ranking. To access the GO Battle League Leaderboard, go to the Pokémon GO Leaderboard.
+
+The Leaderboard lists each top-500 Trainer’s nickname, team, rating, rank, and number of battles played.
+
+The Leaderboard reflects the previous day’s ratings and is scheduled to refresh every day between approximately 8:00 p.m. GMT and 10:00 p.m. GMT. However, the page may sometimes not update due to maintenance or system issues.
+
+The following Trainers will be excluded from the Leaderboard without prior notice:
+
+* Trainers below rank 7
+
+* Trainers with active disciplinary actions
+
+* Trainers with inappropriate nicknames
+
+* Trainers with child accounts
+
+If you are listed on the Leaderboard and would like to be removed, please contact support through the Pokémon GO app:
+
+* From the Map View, open the  **Main Menu**
+![image](https://lh5.googleusercontent.com/cNuUo-X_sJfScT9Bbzi7rvrXEhW2MNR13r5pnYccbD8q9OlnnX9CnggIf1_j7KhkX8VasHIk42h9sZCph8g6J32_Rt5zjRsYKOcpKCusPVs4bdSWkNPCE927aiqUA3MLZnqIdmT7ypD2quvlcALnRYQ)
+
+* At the top right, tap  **Settings**
+![image](https://lh3.googleusercontent.com/cgwnf9v2iTsK6k3RyFJz9eIf9XAgIO1eLE5D40ZkSb-K3yxy6HjMfarL125wRYWnSJOPBC_LpGmfxREsqczKpmvMyPeMxwUeg3BgRWIFuEQjxfMykhI9SO24LysxFyByTJDtp09OxPixM0fXvNHcBZ4)
+
+* Tap on  **Help**
+![image](https://lh3.googleusercontent.com/Kf6J1ZAeCTavQuyxnCCxhpi4m-zvlvulnrWzD7NHT-P-QhQua-dWriwc0BOwRyC9SNLIW9iN-TRBxtYN9Lkw7h_R2zKEczO793o3wlqfRfOogLIjWqPrg6Q2vt-YZfv0hrDEXT-mzmBHyGp2nqMjZiw)
+ in the top right corner to access the help center.
+
+* On iOS, tap  **Contact Us**  in the upper right corner. On Android, tap  **this button** :
+![image](https://lh4.googleusercontent.com/4vJs5Gx17dQ06Q3fcsJH5onhdkXuxP1iN5bonntSd8xa6-jw1Wjg4rHFyyKnTtXUZLiB_AOdyZan8vzSZa14SzwAYuYlThaQgKlCnhBbcvcKvAl39akvM7z2ZQb70q-N_je5MYHfq9zSCJSICXSQNcI)
+
+Once you’ve been removed from the Leaderboard, you will no longer be listed unless you request to be added again at a later date.
