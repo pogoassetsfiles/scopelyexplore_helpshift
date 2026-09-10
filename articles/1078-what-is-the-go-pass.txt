@@ -1,0 +1,31 @@
+---
+id: 1078
+title: What is the GO Pass?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1078-what-is-the-go-pass/
+---
+
+The  **GO Pass**  is a reward system that runs for a set duration of time.  Complete various gameplay activities to earn points and progress through the GO Pass and earn rewards like items, avatar items, Pokémon Candy, Pokémon encounters, timed bonuses and more.
+
+![image](../data/images/ad_4nxcgbfdepbyswtatbkjqszy04m-tp6mcyonrrmdviafrs2_8xysjx_kzmv4mbj4ckaaq_wwgwwwoxxcllhrklaoeajro14s1hlrxze4e1bu4phqjru_2yztrkxgwnwamfovn_scsua.png)
+
+The GO Pass may feature two tracks of rewards:
+
+* The Basic Pass available to all participating Trainers at no cost.
+
+* The Deluxe Pass that can be purchased via the in-app Shop.
+
+During the event, you can view the GO Pass and your progress in the Events Tab of the Today View.
+
+**Please Note:**  Each GO Pass may have a unique name corresponding to its specific event (e.g.  *Tour Pass*  for Pokémon GO Tour’s GO Pass).
+
+### What's the difference between the Basic and Deluxe Pass?
+
+While both Basic and Deluxe GO Passes allow you to progress through ranks and earn rewards, the Basic Pass is available to all players at no cost, while the Deluxe Pass requires an in-app purchase to unlock and may provide more valuable or rare rewards.
+
+Both Passes progress simultaneously, allowing you to claim all potential rewards as you advance.
+
+Keep in mind that certain events do require a paid ticket in order to participate and therefore receive the Basic Pass (e.g. Pokémon GO Tour: Los Angeles or Pokémon GO Tour: New Taipei City).
+
+### Can I upgrade to the Deluxe Pass after starting the event?
+
+Yes! You can upgrade to the Deluxe Pass any time that the GO Pass is active by purchasing access through the in-app shop. When you upgrade, you'll automatically get all rewards from Basic Pass ranks that you've previously unlocked.
