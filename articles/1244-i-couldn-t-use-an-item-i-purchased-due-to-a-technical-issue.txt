@@ -1,0 +1,7 @@
+---
+id: 1244
+title: I couldn’t use an item I purchased due to a technical issue
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1244-i-couldn-t-use-an-item-i-purchased-due-to-a-technical-issue/
+---
+
+If you have not been able to successfully use a Premium Item you purchased, please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) within 48 hours of the incident.
