@@ -1,0 +1,35 @@
+---
+id: 1065
+title: What is a Raid Hour?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1065-what-is-a-raid-hour/
+---
+
+**Raid Hour**  is an hour-long global event during which one particular Pokémon or a group of Pokémon appears more frequently in Raids. Raid Hours may feature new, rare, Legendary, or Mythical Pokémon as Raid Bosses, sometimes with exclusive moves.
+
+[Read this article](https://niantic.helpshift.com/hc/faq/2187-what-are-raid-battles/) to learn more about Raid Battles and how they work.
+
+When preparing for a Raid Hour, keep these tips in mind:
+
+* Ensure your device is set to automatically detect your time zone.
+
+* Set your GPS settings to the highest accuracy possible to ensure Pokémon GO can precisely locate where you are.
+
+* Ensure your internet connection is as strong as possible. We recommend disconnecting from Wi-Fi so your connection stays stable as you walk around.
+
+* Collect your daily free Raid Pass by spinning the Photo Disc at any Gym.
+
+* Raid Hours usually feature difficult Bosses, so it’s best to take them on with a group of friends.
+
+* Check the featured Pokémon’s Types and prepare a Battle Party in advance to ensure your Attacks are super effective and your Pokémon resist the Bosses’ attacks.
+
+To learn about upcoming Raid Hours, keep an eye on our in-game news and follow our official social media channels. You can also turn on push notifications for “Events, Offers, and Updates” in your Pokémon GO’s Settings menu.
+
+To turn on push notifications:
+
+* From the Map View, tap  **Main Menu [![](../data/images/8d24cd02-5552-480e-b157-582fcde606cb.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/8d24cd02-5552-480e-b157-582fcde606cb.png)** button
+
+* At the top right, tap  **Settings  **[![](../data/images/164c9317-77f3-42a2-97ac-e91e6ba99756.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/164c9317-77f3-42a2-97ac-e91e6ba99756.png)****
+
+* Tap  **Notifications**
+
+* Scroll to Push Notifications and enable  **Events, Offers, and Updates**
