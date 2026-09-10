@@ -1,0 +1,78 @@
+---
+id: 1096
+title: Types of Research
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1096-types-of-research/
+---
+
+Professor Willow is seeking Trainers to help study the mysterious world of Pokémon. By completing research tasks, you can contribute to the Professor’s discoveries and earn rewards for yourself at the same time. Research tasks may include objectives such as catching certain Pokémon, walking a certain distance with your Buddy Pokémon, or winning Gym Battles.
+
+For each task you complete, you’ll unlock a reward. The more challenging a research task is, the greater the reward. When you complete a series of research tasks, you’ll unlock even more rewards.
+
+There are different types of Pokémon Research: Field Research, Special Research, Timed Research, and Level-Up Research.
+
+* **Field Research**  tasks can be collected by visiting nearby PokéStops or [automatically during specified time periods.](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/)
+
+* **Sponsored Research**  is a type of Field Research that can only be collected by visiting sponsored locations.
+
+* **Special Research**  is guided by Professor Willow with more challenging tasks but with greater rewards.
+
+* **Timed Research**  is similar to Special Research but is only available for a specified period of time.
+
+* **Level-Up Research**  is a set of challenging tasks that Trainers need to complete in order to level up beyond Level 70.
+
+Some research tasks will offer multiple paths, each featuring unique tasks and rewards. Choose carefully, as you will be unable to reverse or update your selection once it’s been made.
+
+### Field Research
+
+[![image](../data/images/d66c89f2-d84b-410e-9ec6-66a6996a5aea-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/177ca899-33d5-4301-9bda-d8fe66323125.jpg)
+
+To collect Field Research tasks, spin the Photo Disc at nearby PokéStops. You can collect one Field Research task per PokéStop per day. You’ll receive a notification on the bottom-right corner of the screen when you collect or make progress on your tasks. From the Map View, tap the  **Binoculars
+![image](../data/images/d7f4bc96-1b84-413c-a76c-a553e1c605d5.png)** to view your current tasks.
+
+You can collect and make progress on up to 4 Field Research tasks at a time. However, you can only collect up to 3 tasks from PokéStops; the fourth slot only opens up if you [receive Bonus Research](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/) with 3 tasks already in your inventory.
+
+After you complete a task and tap to claim its reward, you free up space to collect another task. If you find a task too difficult, you have the option to discard it. Tap the trash button in the corner of a task to discard it.
+
+As you complete more tasks, you earn Stamps which unlock Research Breakthroughs. You can earn up to one Stamp per day for each Field Research task you complete. After you earn 7 Stamps, you will achieve a Research Breakthrough and receive additional rewards.
+
+![image](../data/images/ad_4nxf_lintofcnuao60jmnfrzbtpxyhsfhk8rqbqbw5n4vrqxjwxhagu2bp_hxzta2ri5oytanqwrimgiioxhu8nxui3udkm7jzasy8rtg_jsvtmuwyzdi6tnyblyruiq4dw7yndn6nwzmirztxam2vi65kq0.png)
+
+Field Research tasks may also reflect the current Season or in-app event and appear with a gold border and the label “Event.”
+
+**Tip:**  You can complete Field Research tasks together with friends. You and your friends will receive the same Field Research task if you visit the same PokéStops on the same day.
+
+### Sponsored Research
+
+If you spin the Photo Disc at a sponsored in-game location, you may receive a special type of Field Research: Sponsored Research. Sponsored locations appear on the Map with a marker to distinguish them from other locations. The Photo Disc will also display a “SPONSORED” label at the top. Spin the Photo Disc at sponsored locations to collect Sponsored Research.
+
+[![image](../data/images/d39f06b8-2335-4781-8f9c-54b5d270ac45-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/e0bbca2a-fc73-4f93-9e60-57505865b8c7.png)  [![image](../data/images/aed2e9a1-b6df-439d-a5a4-57920a0c60f6-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/f5f562af-6321-4e49-b43a-90e6ff66fb00.png)
+
+Sponsored research will appear alongside other Field Research tasks in your Binoculars menu, distinguished by a colored banner and the “Sponsored” label. It behaves just like other Field Research tasks in that you can collect one Sponsored Research task per sponsored location per day, you can discard the task and completing it will make progress towards your Research Breakthrough.
+
+[![image](../data/images/a4d77f15-ccd7-459b-9fe8-a98735804916-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ac92d80f-2702-4ab3-829e-da7531b7b139.png)
+
+Please note that, if you are logging in using a child account, you may need [special permissions](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/67-how-can-my-child-access-sponsored-in-game-locations/) to be enabled through the Parent Portal to see sponsored locations.
+
+### Special Research
+
+[![image](../data/images/bd66bb78-a333-48a5-ac0c-2fe35c6bac2c-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d15b8b00-3c0a-4f85-9f6a-159a399f9820.jpg)
+
+Special Research is similar to Field Research but different in several ways. Unlike Field Research, Special Research cannot be obtained by spinning PokéStops, completion doesn't award Stamps, and tasks cannot be discarded. Rather, Professor Willow will contact you directly to request assistance with Special Research. These tasks will take you on a multi-part journey to make important discoveries.
+
+Like Field Research, Trainers receive a reward for each Special Research task they complete. After they complete a series of Special Research tasks, Trainers unlock even greater and more valuable rewards for their contributions. While Trainers cannot repeat Special Research tasks, Professor Willow will periodically seek assistance with new tasks.
+
+### Timed Research
+
+Timed Research is similar to Special Research but disappears after a specified period of time, whereas Special Research remains available until completed.
+
+[![image](../data/images/3b62fd12-afb6-4731-8954-a15f738ba621-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/801fb73f-92c2-4b80-9d80-4d36bbbfc872.jpg)
+
+[Timed Research may appear in your Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/) during particular events. Keep an eye on our official blog to learn about upcoming events where Timed Research will be available.
+
+### Level-Up Research
+
+Certain levels will require you to gain XP and complete Level-Up Research before you're able to move onto the next level. Level-Up Research will appear automatically in your Trainer Profile once you’ve reached level 70.
+
+[![image](../data/images/362e39ba-21e5-4822-9ad1-5deec01ded06-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d2c8cd01-cc4e-475d-a438-b724647c5e34.png)
+
+Tap on the  **Binoculars** [**![image](../data/images/d7f4bc96-1b84-413c-a76c-a553e1c605d5.png)**](https://lh3.googleusercontent.com/g25wmKIlQdE1OGjcQGywqjqgXuz0cKhRSJ4jMKjpAQAHjfTV9Kl6-QGOZt8I7LLd4WZL9sH_XiXAErQLET8X2Wo80r0TSrBPrH72k3YUkGoHJwMXHVPaqio0AyNMVZLWS9QbiG27)next to your XP progress bar to see what Level-Up Research is required to level up, your progress against these requirements, and rewards for completing each task.
