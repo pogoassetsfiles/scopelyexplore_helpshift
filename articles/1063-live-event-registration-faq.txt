@@ -1,0 +1,48 @@
+---
+id: 1063
+title: Live Event Registration FAQ
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1063-live-event-registration-faq/
+---
+
+### What payment methods can I use to purchase event tickets?
+
+We accept major credit and debit cards as well as Google and Apple Pay.
+
+### My event ticket payment failed.
+
+There are several reasons why a payment may fail:
+
+* Your bank may have incorrectly flagged the transaction as suspicious and prevented it from going through.
+* The card has expired.
+* The card number, expiration date, or CVV were entered incorrectly.
+* There are insufficient funds in your account.
+* If you are located outside of the US, some cards have restrictions on international payments.
+
+If you experience an issue where your payment fails, please try entering your card details again or try using a different card. If you continue to have trouble, please contact your bank or financial institution.
+
+### The webpage says that I already have an event ticket, but I didn’t buy one.
+
+It’s possible that one of your friends has already purchased a ticket on your behalf. You’ll see this ticket under the event details. If someone has already purchased a ticket for you, you won’t be able to purchase another one for yourself. However, you can still purchase tickets for others if selected from the drawing.
+
+### Can I purchase tickets for multiple days of an event?
+
+You can only purchase a ticket for one day at the venue of a live event. However, you can purchase add-ons to allow for additional gameplay on other days for certain events.
+
+For example: Trainers were able to purchase Mega Night add-ons at Pokémon GO Tour 2026: Kalos to allow re-entry into the venue at a different time or date from your original live event ticket.
+
+### Where can I find updates on ticket sale dates and times?
+
+The best way to track event information is to [follow our Twitter](https://twitter.com/pokemongoapp?lang=en) or our official events page for updates. When first-come-first-serve event ticket sales begin, the label, “Tickets Available!” will appear, granted the event has not yet sold out. The label “Enter Drawing!” will be visible for the event tickets being distributed via a drawing.
+
+### How will I know if tickets are sold out?
+
+Once tickets are sold out, it will be [announced on our Twitter](https://twitter.com/pokemongoapp) or our official events page and purchase options will no longer be accessible through the app.
+
+### I get a 404 error
+
+If you receive a 404 error when attempting to purchase a ticket, try the following troubleshooting tips:
+
+* Using a web browser (Google Chrome or Safari is recommended) , navigate to the Live Event Ticketing site.
+* Clear your browser cache.
+* If you are accessing the site from a desktop computer, try opening the purchase page from a mobile device.
+* If you are accessing the site from a mobile device, try opening the purchase page from a desktop computer.
