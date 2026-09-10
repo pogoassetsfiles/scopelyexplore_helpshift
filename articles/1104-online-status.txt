@@ -1,0 +1,23 @@
+---
+id: 1104
+title: Online Status
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1104-online-status/
+---
+
+Your  **online status**  lets your friends know when you are available for Trainer Battles or to meet up for Raid Battles. When you set yourself online, you can also see any of your friends who’ve also set themselves online.
+
+While online, you’ll see a green dot next to your Trainer Profile image on the Map View, above your Friend List when looking at your Trainer Profile, and at the top of your Friend List.
+
+[![image](../data/images/08d64ba5-a334-41b0-bc9a-b47dad3d90ef-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c04da591-ec76-4bc0-9920-32301dc2d676.png)
+
+Note that you may still be able to receive Remote Raid Invites even if your Online Status is set to “Offline.“
+
+### How do I control my online status?
+
+You can change your online status from your Friend List. Just tap the image of your Trainer to toggle between online and offline. Your online status will display to your friends who have also set themselves online.
+
+Please note that, if you are playing multiple Scopely Explore games on the same device, your online status is only reflected in the game that you are actively playing.
+
+### Kids at Scopely Explore and Online Status
+
+Trainers with child accounts will not be shown as online, even if social permissions are granted through the Kids at Scopely Explore Parent Portal or Pokémon Trainer Central website.
