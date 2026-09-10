@@ -1,0 +1,38 @@
+---
+id: 1124
+title: Transferring Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1124-transferring-pokemon/
+---
+
+As you catch more Pokémon, you may transfer some of them to Professor Willow to free up your Pokémon storage. You’ll receive Candy in exchange for transferring a Pokémon, but be careful: you can’t get Pokémon back after you’ve transferred them.
+
+**To transfer a Pokémon:**
+
+* From the Map View, tap the  **Main Menu**   [![](../data/images/daa3acfc-5dd5-41da-84f3-3cc024265d1d.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/daa3acfc-5dd5-41da-84f3-3cc024265d1d.png)  button.
+
+* Tap the  **Pokémon  [![](../data/images/c4acf4f8-0000-4504-a20e-bed5e7346b6d.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/c4acf4f8-0000-4504-a20e-bed5e7346b6d.png)**  button.
+
+* Select a Pokémon from your list.
+
+* Tap the  **Menu  [![](../data/images/39cfe005-8388-4096-903c-b7d8070809db.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/39cfe005-8388-4096-903c-b7d8070809db.png)**  button and select Transfer.
+
+**Note:** You can’t transfer your active Buddy Pokémon, favorited Pokémon, or Pokémon currently defending Gyms.
+
+**To transfer multiple Pokémon at once:**
+
+* From the Map View, tap the  **Main Menu**  [![](../data/images/daa3acfc-5dd5-41da-84f3-3cc024265d1d.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/daa3acfc-5dd5-41da-84f3-3cc024265d1d.png) button.
+
+* Tap the  **Pokémon  **[![](../data/images/c4acf4f8-0000-4504-a20e-bed5e7346b6d.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/c4acf4f8-0000-4504-a20e-bed5e7346b6d.png)****  button.
+
+* Locate a Pokémon you’d like to transfer. Tap and hold until the Pokémon is selected.
+
+* Tap any other Pokémon you’d like to transfer.
+
+* To transfer the selected Pokémon, tap the Transfer button.
+
+**Note:** To transfer multiple Legendary Pokémon, Mythical Pokémon, you will first need to enable this option in your app settings.
+
+ [![](../data/images/791f9254-8a6f-4acf-8825-90770bf54270.jpeg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/791f9254-8a6f-4acf-8825-90770bf54270.jpeg)
+
+
+You’re unable to transfer multiple Shiny Pokémon, Lucky Pokémon, or Buddy Pokémon with whom you’ve reached Good Buddy status or above at a time. Additionally, certain Legendary and some Mythical Pokémon (e.g. Mew, Celebi) are not able to be selected for transfer.
