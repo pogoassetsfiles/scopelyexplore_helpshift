@@ -1,0 +1,55 @@
+---
+id: 1211
+title: What are Max Pokémon?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1211-what-are-max-pokemon/
+---
+
+**Max Pokémon**  are a special type of Pokémon that are able to undergo rare phenomena that make them appear huge!
+
+**Dynamax Pokémon**  are able to undergo a transformation called  **Dynamaxing** . After Dynamaxing, Pokémon don’t just look bigger, they get a boost in power by learning special attacks called  **Max Moves** !
+
+A specific few Pokémon may also undergo the rare phenomenon called  **Gigantamaxing** . Unlike with Dynamax, not only do  **Gigantamax Pokémon**  become bigger, but their appearance also changes. Like Dynamaxing, Gigantamaxing boosts the power of the Pokémon—and it also allows each Gigantamax Pokémon to use a unique Max Move.
+
+Max Pokémon can be found at or near special locations, called  **Power Spots** , that will appear throughout the map. To catch a Max Pokémon, you will have to first defeat it in a Max Battle. Max Pokémon will remain in their giant form for the entire battle and have other unique powers to boot. They won’t go down easily!
+
+Partner with your own Max Pokémon and team up with other Trainers in your local area to defeat the powerful Max Battle boss. If you and your fellow Trainers are successful, you’ll be rewarded with special items and a chance at catching the Max Pokémon. Trainers can also use PokéCoins to upgrade their rewards to receive even more items!
+
+Note that, once you’ve caught a Max Pokémon, it will return to its original form in your Pokémon storage.
+
+After you catch the Max Pokémon, it will be able to Dynamax or Gigantamax in certain situations, like Max Battles, and use a powerful Max Move. For Dynamax Pokémon, the Max Move is based on its Fast Attack type but Gigantamax Pokémon may feature special Max Moves.
+
+In Max Battles, Max Pokémon may also use  **Max Spirit**  to heal themselves and their allies or  **Max Guard**  to reduce damage taken from an opposing Max Battle boss.
+
+Max Particles can also be used alongside Pokémon Candy to unlock Max Moves, and train them for stronger effects during Max Battles! Training Max Moves will reward XP.
+
+### Frequently Asked Questions:
+
+How do you catch your first Max Pokémon?
+
+* Your first Max Pokémon can be caught by completing the “To the Max!” Special Research, or by visiting your first Power Spot.
+
+Can Max Pokémon be left to defend Gyms?
+
+* Yes! However, they will appear in their standard (i.e. not Dynamaxed) form.
+
+Can you bring Max Pokémon into Trainer Battles?
+
+* Yes, note that you cannot Dynamax or Gigantamax your Pokémon or use Max Moves in Trainer Battles.
+
+Can you trade Max Pokémon? Any restrictions (i.e. Special Trade)?
+
+* Yes, just like other Pokémon, Max Pokémon can be traded with other Trainers, however you must keep at least one Max Pokémon in your Pokémon storage. When you Trade Max Pokémon, any progress on their Max Move levels will be reset.
+* Trading Gigantamax Pokémon will always be a Special Trade.
+
+Can you transfer Max Pokémon to the professor?
+
+* Yes, just like other Pokémon, Max Pokémon can be transferred to the Professor in exchange for Candy, however you must keep at least one Max Pokémon in your Pokémon storage.
+
+Can you send Max Pokémon to Pokémon HOME?
+
+* Only Dynamax Pokémon can be sent to Pokémon HOME. Note that Dynamax Pokémon will not retain their Max Moves when transferred.
+* Gigantamax Pokémon are not able to be sent to Pokémon HOME.
+
+Can you Mega Evolve Max Pokémon?
+
+* Yes, Max Pokémon are eligible for Mega Evolution, however a Mega Pokémon can't Dynamax or Gigantamax while it’s Mega Evolution is active.
