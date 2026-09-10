@@ -1,0 +1,163 @@
+---
+id: 1300
+title: Kids at Scopely Explore: Child Account & Parental Control Guide
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1300-kids-at-scopely-explore-child-account-parental-control-guide/
+---
+
+Upon launching Pokémon GO for the first time, you will be asked to enter your child’s birth date, and select the new player option. If your child is under 13 years old (or below the digital consent age in your region), they’ll need to play under an account managed by a parent or guardian.
+
+[![](../data/images/6c44e917-dfd6-4f00-859f-e538f750ac95.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/6c44e917-dfd6-4f00-859f-e538f750ac95.png)https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/55a56ad2-509d-455b-b5c0-67276dc85adb.png
+![](../data/images/55a56ad2-509d-455b-b5c0-67276dc85adb.png)
+
+Kids at Scopely Explore is a login method for Scopely Explore products designed to obtain parental consent and keep children’s personal information secure when they access our games.
+
+In this guide, we will focus on how to use this option.
+
+## **Creating a Kids at Scopely Explore Account**
+
+* Tap  **New Player**
+
+* Tap  **Kids at Scopely Explore.** You’ll be sent to the Kids at Scopely Explore log in screen.
+
+* Tap the option “Create One Here” under the question “Don’t have a Scopely Explore account?” to be redirected to the account creation screen.
+ **Please Note:** This username will only be used to log in, and will not be your child’s trainer name.
+.
+![](../data/images/b7b087e6-9d40-4b6e-83e1-3f1271c4fc9e.jpg)
+
+![](../data/images/b531f532-762b-4dff-b41b-218dca228695.png)
+
+* After setting up a username and password, provide the guardian’s or parent’s email address to validate the recently created account.
+ [![](../data/images/123f2728-2116-435f-81bf-d840edf96cd0.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/123f2728-2116-435f-81bf-d840edf96cd0.png)[![](../data/images/2e3ef5fb-9d31-481d-9f37-f40e21e66dcf.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/2e3ef5fb-9d31-481d-9f37-f40e21e66dcf.png)https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/123f2728-2116-435f-81bf-d840edf96cd0.png
+
+* As a parent or legal guardian, you’ll be required to provide certain personal information about yourself, such as your credit card details or the last four digits of your social security number  for verification purposes, as required by law.
+ [![](../data/images/d45458ef-b79d-4ff3-8095-aa004027645d.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d45458ef-b79d-4ff3-8095-aa004027645d.png)  [![](../data/images/2ec299aa-03fe-4527-b9d3-8f4681a53069.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/2ec299aa-03fe-4527-b9d3-8f4681a53069.png)
+a. In case you didn’t provide your consent for the creation of the account, you’ll be able to select the option “This is not my child” and this will automatically remove your email address from the Kids at Scopely Explore system and won’t allow your kid to play Pokémon GO.
+ [![](../data/images/bbe60e45-da06-4d61-a1be-997943e49803.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/bbe60e45-da06-4d61-a1be-997943e49803.png)
+
+* Once verified, you’d be able to create an account for your child as well as a parent account for yourself to control their in-game experience. This e-verification is carried out by third party providers.
+ [![](../data/images/63484a19-1ada-494a-a059-5d011f10c676.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/63484a19-1ada-494a-a059-5d011f10c676.png)[![](../data/images/4c2e6cfb-be6e-4fad-9136-28d22918bcb3.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/4c2e6cfb-be6e-4fad-9136-28d22918bcb3.png)[![](../data/images/a5bc19e1-a8f1-4284-9d3c-2379caa7a45b.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/a5bc19e1-a8f1-4284-9d3c-2379caa7a45b.png)
+
+* After you’ve set up the child’s account and entered your information, visit the Kids at Scopely Explore Parent Portal, and sign-in to your newly created account.
+ [![](../data/images/acde5615-c34a-496b-aeab-422bbb703a9b.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/acde5615-c34a-496b-aeab-422bbb703a9b.png)[![](../data/images/34c10786-981b-4c8f-928f-2e02cd6e1abd.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/34c10786-981b-4c8f-928f-2e02cd6e1abd.png)
+https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/acde5615-c34a-496b-aeab-422bbb703a9b.png
+
+* Approve permissions required to play, and enable optional game features according to your preferences.
+ [![](../data/images/2c2e1d86-89a6-4079-ae4d-00e44ca7f2c4.png)
+
+![](../data/images/7d0a7cef-8623-4f44-a884-132e27bb3ad0.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/7d0a7cef-8623-4f44-a884-132e27bb3ad0.png)
+
+* The Kids at Scopely Explore account setup is now complete. Your child can start playing Pokémon GO using the login credentials you created.
+
+## **Parental Controls and Child Account Permissions**
+
+Once you’ve granted your consent to a Kids at Scopely Explore account to be enabled, you’ll be able to access Kids at Scopely Explore Parent Portal to review your child activities.
+
+* Access the Kids at Scopely Explore Parent Portal website
+
+* Find the option “Sign in to Parent Portal”
+ [![](../data/images/0e474330-8c77-469e-b1c1-70451e2f3ad6.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/0e474330-8c77-469e-b1c1-70451e2f3ad6.png)
+
+* You’ll be redirected to the Sign in screen where you need to enter your personal (parent) email address and you’ll receive via email a unique login link.
+ [![](../data/images/68eac4c4-b51d-4141-887a-b2e3c29573c4.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/68eac4c4-b51d-4141-887a-b2e3c29573c4.png)
+
+**Parent portal allows you to turn on/off the following functions for your kids account at anytime:**
+
+* **Location (REQUIRED):** Your child will need this permission to use Pokémon GO.
+
+* **Sponsored Content:** Allows the child to access in-game content featuring external companies
+
+* **Friends:** Allows your child to use the [Friends Feature](https://niantic.helpshift.com/hc/en/6-pokemon-go/section/60-friends-gifting-trading/?p=web&s=friends-gifting-and-trading) (Trainer profile visibility, gift exchange, etc). Parents receive an email when new friends are added.
+
+* **Shared AR Experiences:** To allow Scopely Explore will temporarily collect geospatial data from your child’s device camera
+
+**Party Play:** Allow your child to access the [Party Play feature](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4310-what-is-party-play/) (group play sessions). Your child will only be able to participate in a party if the Host is on their Friend List. Your child will not be able to share location with other Party Members.
+
+**Note:**  Some features are not available by default for child accounts and cannot be enabled manually. These include, but are not limited to:
+
+* **Online Status** : Child accounts cannot view others’ online status, and their own status will not be visible to friends—regardless of whether the setting is turned on or off.
+
+* **Routes – Creation** : Child accounts are not able to create Routes.
+
+* **Reward Road** : This feature is not accessible to child accounts.
+
+## **Purchasing and Ticketing Instructions**
+
+* **In-game Shop**
+
+* Child accounts can purchase in-game ticketed events (e.g., timed research or other special events) via in-app purchases, unless in-app purchases are restricted at the device level by the parent or guardian.
+
+* **Gifting of In-Game Paid Ticketed Events**
+
+* Gifting only available to friends, so for child accounts friends must be turned on before they can use this feature
+
+* **Note:**  You must be at least [Great Friends](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2847-friend-list-friendship-levels-1614900279/) with the other Trainer for whom you are purchasing the virtual event ticket.
+
+* **Live Event Tickets**
+
+* Child accounts will not see the  **“Events”**  tab that lists live events like GO Fest or GO Tour. However, parents can still purchase live event tickets for their child  **if their own Pokémon GO account is the parent email of record for the child account** .
+
+**For Detailed Instructions on How to Purchase Live Event Tickets for Child Accounts, Please Refer to the Steps Below:**
+
+* The parent or guardian must be logged into their Pokémon GO account, which is linked to their child’s account.
+
+* In the parent account, tap the  **Main Menu**  button in Map View. [![](../data/images/a90c708e-970b-40e9-9f29-1c2029fe6aaa.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/a90c708e-970b-40e9-9f29-1c2029fe6aaa.png)
+
+* Tap  **“Events”**  in the upper right corner of the screen.  [![](../data/images/e76fe00a-15a9-404b-b8cb-ebdc6af592d6.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/e76fe00a-15a9-404b-b8cb-ebdc6af592d6.png)
+
+* On the following page, check and select live events where tickets are available.
+ [![](../data/images/efeef41f-c6dd-4568-a8a5-36b9a5241244.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/efeef41f-c6dd-4568-a8a5-36b9a5241244.png)
+
+* Tap " **Get Tickets"** .
+
+* Choose the dates and time slots if available. The greyed-out options are sold out. Then proceed to the next page.
+
+* Choose your mobile service provider.
+
+* You can now manage the number of tickets you would like to buy. The default account is set to yours, and you can simply enter your child’s account Trainer name in the box and tap  **Add** .
+ [![](../data/images/a166a738-fe5e-47ec-990f-04e8c671e9fa.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/a166a738-fe5e-47ec-990f-04e8c671e9fa.png)
+
+**Note:**  If any error message appears, please double-check the following:
+
+* Please ensure that the spelling is correct
+
+* Verify that the email associated with the parent/guardian’s Pokémon GO account matches the email address on file
+
+* Choose the add-ons you wish to purchase.
+
+* Double-check the Trainer name for the ticket purchase.
+
+* Confirm that the date information is correct. You can also make changes to the order on this page.
+
+* On the payment page, select your preferred payment method and complete the transaction.
+
+* After the payment, you will receive a confirmation email.
+
+* When you tap the  **“Events”** page again, the status will change to  **Attending** .
+ [![](../data/images/4bf6ab1b-289c-47fc-b006-7baf05fbeee8.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/4bf6ab1b-289c-47fc-b006-7baf05fbeee8.png)
+
+* Once a ticket is purchased and the status changes to  **Attending** , additional tickets cannot be purchased, and changes to the event schedule are not allowed. If you would like to purchase additional tickets, please [contact customer support](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/). Add-ons can be purchased until they are sold out.
+
+**Other important notes:**
+
+* Children can attend events when accompanied by a parent or guardian.
+
+* Unlike with standard accounts, a parent and child don’t need to be Friends to select the child’s username.
+
+## **Frequently Asked Questions**
+
+**Q: How do I check which email address is connected to my child’s account?**
+
+**A:**
+
+* Please log in to the Kids at Scopely Explore Portalhttps://parents.kidswebservices.com/using your parent credentials.
+
+* If you forget which email address you used, try searching your inbox for the activation email from:[[email protected]](https://scopelyexplore.helpshift.com/cdn-cgi/l/email-protection#1f71706d7a6f73665f7d706a717c7a316f7e6d7a716b6c3171767e716b767c737e7d6c317c7072)
+
+* After logging in, tap Profile to see the registered email address.
+
+**Q: What can I do if I lose access to the email address used for parent login, or if I want to update the email address?**
+
+**A:** Please [contact KWS (Kids Web Services)](https://support.kidswebservices.com/) directly via their support form:
+ [![](../data/images/d17df1b7-ef61-420f-80a1-d15878a7e4a9.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d17df1b7-ef61-420f-80a1-d15878a7e4a9.png)
+
+**For other Kids at Scopely Explore related questions, please refer to** [**Kids at Scopely Explore Account FAQ**](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4111-niantic-kids-frequently-asked-questions/) **.**
