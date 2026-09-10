@@ -1,0 +1,8 @@
+---
+id: 891
+title: Amazon Prime codes show error message for some Trainers
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/891-amazon-prime-codes-show-error-message-for-some-trainers/
+---
+
+**Issue description:** Some Trainers see an error message when trying to claim an Amazon Prime code.
+ **Issue status:** Investigating. Changing your web browser or device will resolve this issue. If you are using a VPN and seeing an error message, please try redeeming with the VPN disabled.
