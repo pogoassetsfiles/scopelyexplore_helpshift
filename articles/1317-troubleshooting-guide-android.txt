@@ -1,0 +1,121 @@
+---
+id: 1317
+title: Troubleshooting Guide (Android)
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1317-troubleshooting-guide-android/
+---
+
+## GENERAL TROUBLESHOOTING STEPS
+
+Try completing the troubleshooting steps below in the order presented. You can also check out our issue-specific troubleshooting guides and other potentially helpful resources:
+
+* [Help with Sign-in Issues](https://niantic.helpshift.com/hc/faq/106-help-with-sign-in-issues-1585960582/)
+
+* [Help with In-Game Shop Purchases](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2042-help-with-in-game-shop-purchases/?p=web&s=shop&f=help-with-in-game-shop-purchases)
+
+* [Troubleshooting Adventure Sync](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2045-troubleshooting-adventure-sync/?p=web&s=troubleshooting&f=troubleshooting-adventure-sync)
+
+* [Troubleshooting the Pokémon GO Plus](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/385-troubleshooting-the-pokemon-go-plus/?p=web&s=accessories&f=troubleshooting-the-pokemon-go-plus)
+
+* [GPS Troubleshooting Guide](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2520-gps-troubleshooting-guide/?p=web&s=troubleshooting&f=gps-troubleshooting-guide)
+
+* [Reporting a Bug](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/379-reporting-a-bug/?l=en&p=all&s=general&f=report-a-bug)
+
+* [Known Issues](https://niantic.helpshift.com/hc/en/6-pokemon-go/section/180-release-notes-known-issues/)
+
+### Ensure your Pokémon GO app is up to date
+
+Pokémon GO works best when using the newest version of the app. If you’re experiencing an issue with an older version of the app, please update your Pokémon GO app and see if this fixes the problem for you.
+
+* Open the  **Google Play Store**  app.
+
+* On the top left, tap the  **menu**  button.
+
+* Tap the  **My apps & games** menu option.
+
+* Navigate to the  **Pokémon GO**  app and tap the  **Update**  button.
+
+### Check your internet connection
+
+Ensure your device is connected to a reliable data connection (Wifi, 3G, or 4G) or try switching internet sources. If you have trouble connecting to Wifi, try to connect using 3G or 4G.
+
+If you have trouble connecting to 3G or 4G, try to connect using Wifi.
+
+If you're having GPS issues, [consider enabling the Improve Location Accuracy setting](https://support.google.com/nexus/answer/3467281).
+
+### **Refresh your Game Data**
+
+Go to the Settings menu, select Advanced Settings, and tap Refresh Game Data. Refreshing your game data can resolve a variety of gameplay issues you may be experiencing.
+
+**Note:** Refreshing your game data may untoggle Adventure Sync. If you have Adventure Sync enabled, check that it's still toggled on after refreshing.
+
+### Use automatic system time
+
+Make sure that your device's time and date is set to update automatically. You can update your system time using your device’s Settings app.
+
+* Visit the  **Settings**  app.
+
+* Under  **Date & Time** , turn on the  **Automatic date & time**  and  **Automatic time zone**  settings.
+
+Visit the  [Google Help Center](https://support.google.com/nexus/answer/2841106) for additional support.
+
+### Clear Pokémon GO app data and cache
+
+By clearing app data and cache, you may be able to resolve temporary issues affecting Pokémon GO. Please note that the following steps may vary depending on your device.
+
+* Open the  **Settings app**  on your device.
+
+* Tap  **Storage** >  **Games** .
+
+* Select the  **Pokémon GO**  app.
+
+* Tap  **Clear cache** .
+
+Visit the  [Google Help Center](https://support.google.com/nexus/answer/2840863) for more information.
+
+### Check your device’s background data restrictions
+
+Ensure that your phone has not restricted background data access to Google Play Services and Google Play Store.  [Learn how to turn on background data.](https://support.google.com/googleplay/answer/1663315)
+
+### Uninstall and reinstall Pokémon GO
+
+Delete the Pokémon GO app and reinstall the latest official version from the  [Google Play Store](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo). Your game progress will not be lost by performing these steps, as all game progress is stored online.
+
+### Reconnect Google’s access to Pokémon GO (Google accounts only)
+
+You may be able to resolve login issues by refreshing Google’s connection to Pokémon GO. Your game progress will not be lost by performing these steps.
+
+* Visit the [Google connected apps settings](https://security.google.com/settings/security/permissions) page and select Pokémon GO from the list of connected apps.
+
+* Click the  **Remove**  button to disconnect Pokémon GO from your Google account. [![image](../data/images/6f4f0a00-343a-49a3-ad40-cece28bb6af8-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a33d20ea-c82f-4580-b20e-eba398024b67.png)
+
+* To reconnect your Google account, log into Pokémon GO as you normally would. Open Pokémon GO on your phone and log in using your Google account.
+
+### Remove your Google account from your device (Google accounts only)
+
+If all other steps do not resolve your issue, try removing and adding your Google account to your device.
+
+**When you remove the account, your email, contacts, settings, and other information associated with the account is removed from your local storage until you add the account back to your device. Be sure that you complete these steps with adequate time to allow for your account data to download.**
+
+To remove the email account from your device:
+
+* Open the  **Settings**  app on your device.
+
+* Tap the  **Accounts** menu option **.**
+
+* Select your account. If you have multiple Google accounts, select the Google account you used to log into Pokémon GO.
+
+* Tap  **Remove account** .
+
+To add the account back to your device:
+
+* Open the  **Settings**  app on your device.
+
+* Tap the  **Accounts** menu option **.**
+
+* Tap  **Add Account** .
+
+* Select  **Google**  from the list of account types.
+
+* Follow the prompts to complete this process.
+
+Visit [this Google Help Center](https://support.google.com/nexus/answer/2840815) for additional support on adding and removing accounts.
