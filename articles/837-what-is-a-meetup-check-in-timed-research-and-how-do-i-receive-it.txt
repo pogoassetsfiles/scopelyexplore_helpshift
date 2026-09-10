@@ -1,0 +1,70 @@
+---
+id: 837
+title: What is a Meetup Check-in Timed Research and how do I receive it?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/837-what-is-a-meetup-check-in-timed-research-and-how-do-i-receive-it/
+---
+
+A  **Meetup Check-in Timed Research** is an exclusive Timed Research is available at events hosted by a Community Ambassador (distinguishable by a purple star badge). Events that offer these rewards will also have a "Rewards" icon on their invite.
+
+RSVP and check-in to official event Meetups or Meetups hosted by Community Ambassadors and other select partners to earn a special Meetup Check-in Timed Research in Pokémon GO!
+
+### **How to Find and Join a Meetup**
+
+There are two ways to view nearby meetups:
+
+* **Via the event calendar:** Tap the  **event calendar icon**  near the bottom right corner of your in-game map to access the event calendar. Meetups around you can be viewed by tapping on Join a meetup located at the bottom of the event calendar page.
+* **Via the Campfire App:**  Open the standalone Campfire app to browse a list of local events or search for groups run by Community Ambassadors.
+
+![image](../data/images/09c1ff41-6837-40b4-8bfb-736dbed0ec79.png)
+
+![image](../data/images/128ca9f3-8756-4560-90a9-88985a1f5507.png)
+
+**To Participate:**
+
+* **RSVP:**  Tap on the meetup and select  **"Join Meetup"**  or  **"RSVP"**  to indicate you are going.
+* **Head to the Location:**  Arrive at the meetup site. You can check in starting 15 minutes before the event begins.
+* **Check In:**  On the Campfire map or app, the blue  **"Join Meetup"**  icon will change to a green  **"Check In"**  button once you are at the site.
+
+![image](../data/images/3400dfb5-b189-4817-a854-29d241f8a136.png)
+
+After you check in and log in to the Pokémon GO app, you will receive an in-app notification at the top of your map screen indicating that you are eligible to receive Meetup Check-in Timed Research. You should then check whether the Timed Research has been added to your Timed Research tab.
+
+![image](../data/images/3b674cdc-3c26-4877-a67c-ac92d2523f65.png)
+
+**Note:**  You must claim the initial 500 XP within 1 hour of checking in to receive the full Meetup Timed Research (the following is an example from the Max Battles themed event).
+
+*The example shown is for reference only. The actual rewards you receive may differ depending on the event.
+
+![image](../data/images/3738eef6-9bab-4062-941b-bf09ef5cfe17.png)
+
+The Timed Research you can receive will vary depending on the event (such as Community Day, Max Battle events, and other applicable events), and the corresponding bonuses may differ. Please check the latest information in the “Happening Now” section of the event calendar.
+
+![image](../data/images/0679f2da-0065-4535-ab3f-4005fe275b9b.png)
+
+### **Frequently Asked Questions**
+
+**How many times can I receive this Timed Research?**
+
+### You can receive this Timed Research once per day.
+
+**I received a different Timed Research than I expected. What should I do?**
+
+If you believe you received a different Timed Research than expected or that the reward was not intended, please check with your Community Ambassador (CA).
+
+The CA also can confirm whether the correct event reward was set up for that event.
+
+**Why isn’t my Timed Research showing up?**
+
+* Please make sure that:
+
+* You pressed “Check in” for the Meetup you RSVP’d to.
+* The Meetup is an official Community Ambassador Meetup and shows a “Rewards” icon on the invite.
+
+* Note: Check-in rewards are available only for Meetups with this icon.
+* You received a notification confirming that the check-in was successful.
+* You claimed 500 XP from the check-in reward.
+* You restarted the Pokémon GO app.
+
+**Please note** : If you have already claimed this Timed Research in the past 24 hours, you will not be able to receive it.
+
+If the steps above do not resolve the issue, please submit an in-game support ticket, and our support team may be able to assist with your request.
