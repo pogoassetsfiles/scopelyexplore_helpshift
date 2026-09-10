@@ -1,0 +1,15 @@
+---
+id: 1178
+title: I’m having issues joining raids
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1178-i-m-having-issues-joining-raids/
+---
+
+If you’re having issues joining Raid Battles, here are some tips:
+
+* Any number of Trainers can join a raid, but only in groups of up to 20 Trainers. If you’re unable to join the same group as your friends, the raid group might be at its limit. You can still join a public group and will be matched with other players.
+* If you see an error while trying to join a raid in person (as opposed to [joining a raid remotely](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2487-joining-raids-remotely/?p=web&s=top-articles&f=joining-raids-remotely)), make sure you are within the range of the Gym.
+* Certain types of Raid Battles (e.g. Elite Raids) are only eligible for local raids.
+* You are only able to participate in 10 Remote Raids per day.
+* With a Remote Raid Pass, you can join any Raid Battle that's on the Nearby screen or tappable from the Map View. Up to 5 Trainers can join the same raid lobby with a Remote Raid Pass, though this number may be temporarily adjusted during specified time periods. If you try to join a Raid Battle remotely and 5 other Trainers have already joined remotely, you will be added to a new lobby. Avatars of Trainers joining remotely have a different appearance in the lobby.
+
+If you believe you were unable to join a Raid Battle due to a technical issue, please [contact us via in-app support](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
