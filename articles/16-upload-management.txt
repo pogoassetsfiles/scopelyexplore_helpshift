@@ -1,0 +1,27 @@
+---
+id: 16
+title: Upload Management
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/16-upload-management/
+---
+
+When you are submitting data to Scopely Explore, like Wayspot nominations, you have several upload options to best manage your data consumption.
+
+### **Upload Immediately**
+
+Immediately after completing a Wayspot nomination, you can choose to upload immediately. Tap  **Upload Now**  to proceed with your choice.
+
+### **Upload While Playing**
+
+If you were to close the upload screen while uploading, the upload will continue in the background while you continue to play Pokémon GO. You can check on the progress of your upload by tapping on the Poké Ball menu and looking in the top right corner of the main menu. When uploads are in process,  **Uploading**  will appear here.
+
+### **Upload Later**
+
+If you want to wait until you have a Wi-Fi connection or just aren’t ready to upload your Wayspot nomination immediately, you can tap  **Upload Later** . This will save your Wayspot nomination and allow you to complete the upload process later.
+
+To reinitiate your upload, tap the Poké Ball menu, and then tap  **Upload**  from the top right corner of the main menu. This will initiate the upload of all AR scans and Wayspot Nominations you have in your queue.
+
+### **Upload Errors**
+
+If your upload encounters an error on any one of the uploads in your queue, the  **Upload**  icon on the main menu will turn red. Tap it to retry your upload.
+
+From the  **Settings**  menu, you will also see an error flag on the scan in the upload queue. Tap  **Retry**  to retry your upload.
