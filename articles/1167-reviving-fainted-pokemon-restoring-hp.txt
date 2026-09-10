@@ -1,0 +1,18 @@
+---
+id: 1167
+title: Reviving Fainted Pokémon & Restoring HP
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1167-reviving-fainted-pokemon-restoring-hp/
+---
+
+**Potions**  heal Pokémon, restoring HP lost during battle. Potions come in various strengths and restore different amounts of HP. However, if a Pokémon loses all its HP, it will faint and can't be healed with Potions.
+
+**Revives**  are used to revive Pokémon that have fainted. Max Revives fully restore a fainted Pokémon's HP, while standard Revives only bring back a portion of total HP.
+
+
+ **To heal or revive a Pokémon:**
+
+* From the Map View, tap the  **Main Menu**  [![image](../data/images/326d4449-4af8-42ed-b7ed-a5021e3523d0-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/326d4449-4af8-42ed-b7ed-a5021e3523d0-t.png)
+
+* Tap  **Items**
+
+* Select a Potion or Revive from your Bag of items, then select the Pokémon to be healed or revived. You can also tap  **Heal All**  or  **Revive All** to apply the item to any Pokémon needing to be healed or revived.
