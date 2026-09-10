@@ -1,0 +1,39 @@
+---
+id: 1303
+title: Keeping your Account Secure
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1303-keeping-your-account-secure/
+---
+
+We work tirelessly to ensure that you and your fellow players have a fun, safe and fair gameplay experience. Part of that commitment is working to prevent impersonators and other bad actors from attempting to take advantage of unsuspecting players. You can help out by taking a few moments to review some quick tips on keeping your account safe and secure.
+
+## **Tips for keeping your account secure**
+
+### **Keep your login credentials private**
+
+Scopely Explore will never ask you for your login credentials, even when you are talking to our support team. Don’t be fooled by people or services asking for your login details, especially if it is in exchange for free in-game currency or other advantages - those too-good-to-be-true offers are always fake. Never share your username and password with unauthorized third-party apps or services. If you suspect that your account might be compromised, change your password immediately.
+
+**Note** : Some unauthorized third-party apps may ask for your Google login token or cookie. Treat this token like a password and never share it with anyone.
+
+### **Double-check which login methods are linked to your account**
+
+If your account has been compromised, make sure that bad actors haven't connected any other login methods to your account. Open the settings menu and unlink any login methods you don't recognize.
+
+### **Choose the right kind of passwords**
+
+While a password like “password123!” might be easy to remember, it will do little to keep your account secure. A common way bad actors gain access to personal information is by obtaining a password you use for one account – often one that isn’t protected as well and released through a data breach – and trying to use it for your other accounts. That’s why you should avoid using the same password across different accounts and services.
+
+The Electronic Frontier Foundation has a short explainer on how to create strong passwords. https://ssd.eff.org/module/creating-strong-passwords
+
+It is best practice to use password managers like Apple’s iCloud Keychain or Google’s Password Manager, which are both default applications/features on iOS and Android devices.  Password managers can also generate strong passwords that are hard for bad actors to guess but makes logging in for you simple.
+
+Remember, never share your passwords with others, and avoid using the same password across different accounts.
+
+### **Only play on the official app**
+
+There’s no substitute for the real thing. Never use any unauthorized third-party apps that interact with the game’s servers. The only true gameplay experience is found through the official app, which is only available on the Google Play Store or the App Store.
+
+Not only do you risk compromising your device’s security and exposing your login credentials, you also risk having your account permanently terminated by using unauthorized third-party apps.
+
+### **Never purchase or trade accounts**
+
+Scopely Explore games are all about having adventures in the real world. Don’t deny yourself or someone else that experience by buying or selling accounts. In addition to violating our [Terms of Service](https://nianticlabs.com/terms), a purchased account has no guarantees: the previous owner may have used unauthorized third-party services on the account or continue to access the account without your knowledge. Scopely Explore does not provide support to issues resulting from purchased accounts.
