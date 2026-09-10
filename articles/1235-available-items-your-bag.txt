@@ -1,0 +1,19 @@
+---
+id: 1235
+title: Available Items & your Bag
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1235-available-items-your-bag/
+---
+
+All items you’ve collected from leveling up and gathered from PokéStops will appear in your Item Bag. To access your Item Bag:
+
+* Tap the  **Main Menu** [![image](../data/images/c62bef1c-d138-4f22-ade4-681ad7992304-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/055ea371-c47d-48e6-aa57-57433c320b57.png) button.
+
+* Tap the  **Items** [![image](../data/images/80d7f041-299e-430d-8c95-1a76ced35722-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/12c09c64-02da-441b-a6dc-aaab5324b476.jpg)button.
+
+By default, your Item Bag can hold an inventory of 350 items. The total number of items currently in your Item Bag is displayed at the top of the screen, as well as your max limit.
+
+Once you have reached or exceeded your max item limit, you will not be able to gather new items from PokéStops, Gyms or as battle rewards. You can free up your inventory by using or discarding items. When your Item Bag is full, you will see an orange indicator on the Main Menu button, as well as on the main menu, below the Item Bag button.
+
+Purchasing an  **Item Bag**  upgrade from the Shop increases your inventory capacity by 50. [![](../data/images/fa955424-c1e9-4912-a1e9-96b3a5504eba.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/fa955424-c1e9-4912-a1e9-96b3a5504eba.png)
+
+Please note that certain items like Gifts or Stickers do not count towards the max number of items you can carry in your Item Bag.
