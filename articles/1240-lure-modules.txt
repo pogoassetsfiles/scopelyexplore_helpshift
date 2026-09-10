@@ -1,0 +1,53 @@
+---
+id: 1240
+title: Lure Modules
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1240-lure-modules/
+---
+
+Lures are modules you can use to enhance PokéStops. Installing a Lure will attract wild Pokémon to a PokéStop. Under normal circumstances, Lure will last 30 minutes once installed. The effect will benefit you and other Trainers nearby. Lures are available in the Shop and may also be obtainable from Research tasks and leveling up.
+
+[![image](../data/images/2da7f88c-f0e3-4d6a-b9c4-acc762553b76-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a7a4a600-1662-482a-8f36-2c325e36c973.png)
+
+To use a Lure Module, tap on a PokéStop and select the module slot below the PokéStop description. Then, choose the type of Lure Module you’d like to install.
+
+Note that this feature is available to Trainers Level 6 or higher.
+
+## Special Lures
+
+In addition to Lure Modules, there are Special Lures that have additional features. In addition to attracting more wild Pokémon to a PokéStop than usual, Special Lures attract certain Types of Pokémon who are attracted by the temporary habitat.
+
+### Glacial Lure
+
+[![image](../data/images/ed41f19d-01a4-44a5-93cd-bdfc2a275978-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a219e76d-71e5-488c-a745-d124ecfa5182.png)
+
+Attracts certain Pokémon that love the cold, such as Water- and Ice-Type Pokémon.
+
+### Mossy Lure
+
+[![image](../data/images/e5094409-757c-436d-b8de-a7272989dfcb-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a1ac0f2c-5189-490a-84cd-ed88b7416998.png)
+
+Attracts certain Pokémon that love to frolic among the leaves, such as Bug-, Grass-, and Poison-Type Pokémon.
+
+### Magnetic Lure
+
+[![image](../data/images/a7e5d513-ffb4-4d54-a5a5-1877a36d5b77-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/1dce5b5b-232b-40bf-bdb1-8a676bed4a81.png)
+
+Attracts certain Pokémon with magnetic personalities, such as Electric-, Steel-, and Rock-Type Pokémon.
+
+### Rainy Lure
+
+[![image](../data/images/33747312-e30b-4c77-a2d0-3e08edada992-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d79bda53-539e-49e6-9ac4-e054af1bf10a.png)
+
+Attracts certain Pokémon that love the rain, such as Water-, Bug-, and Electric-Type Pokémon.
+
+### **Golden Lure**
+
+![](../data/images/ee962d19-9984-4ba4-92f9-53850a67a258.png)
+
+A sparkly lure that will transform a PokéStop into a Golden PokéStop and attracts wild Pokémon to that PokéStop. In addition to attracting wild Pokémon appearing in the wild as part of the current Season, it will also occasionally attract the Coin Chest Pokémon.
+
+Keep in mind that you can only hold one Golden Lure in your bag at a time, so if you currently have a Golden Lure, you cannot collect another one
+
+Special Lures can also enable certain Pokémon to evolve in ways they otherwise wouldn’t. If you’re standing near a PokéStop with a Special Lure installed, you’ll notice a special option to evolve these Pokémon on the Pokémon’s detail page.
+
+[![image](../data/images/6ead1445-a7b8-41fa-b47d-476f1d563723-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/2f4eceb3-1cca-44e5-9a3a-59ca2533a15e.jpg)
