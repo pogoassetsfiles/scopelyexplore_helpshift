@@ -1,0 +1,39 @@
+---
+id: 1190
+title: Team GO Rocket Grunts
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1190-team-go-rocket-grunts/
+---
+
+Team GO Rocket Grunts are invading PokéStops around the world! Interact with an Invaded PokéStop to engage in a Team GO Rocket Battle and defend the PokéStop. Winning Team GO Rocket Battles gives you a chance to catch a Shadow Pokémon.
+
+**Note** : This feature is only available to Trainers who are Level 8 and above.
+
+### Finding Team GO Rocket Grunts at PokéStops
+
+These PokéStops look different than regular PokéStops in the Map View. Keep an eye out for any stops that twitch and look discolored.
+
+[![image](../data/images/1rjofjn5iucooactcg92nl71_e5d3jkluf7ajqo-njt7rvd9jdtdc6a8iqc-gpdkdhhctay_hnd7-djmij_fwhktauwty50oqtj8p8imrrica1kociabkxdt_7coxttdv1sqkulf.png)](https://lh3.googleusercontent.com/1rjofjn5IUCOOACtCG92nl71_E5D3JkLUF7ajqO-NjT7Rvd9jdtdc6a8iqc-GPDKDhhCTAY_hnd7-DjmIJ_FWHKTauWTy50oQtJ8p8imrRica1KociAbKxdt_7COXtTdV1SqkUlF)
+
+Once you're in range, the PokéStop will turn black and a Team GO Rocket Grunt will appear nearby.
+
+[![image](../data/images/18a24eaa-3138-4b20-8d7a-82127ff030ad-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c44a09a0-03b9-422e-be76-f6c4c0487100.png)
+
+### Battling Team GO Rocket Grunts
+
+Tap on the Grunt to start the battle right away. You can also tap the Invaded PokéStop, spin the Photo Disk, then start the battle.
+
+Team GO Rocket Battles work similarly to Trainer Battles. Select a party of three Pokémon and use their Fast and Charged Attacks to defeat the opponent’s Shadow Pokémon.
+
+After winning a Team GO Rocket Battle, you’ll receive Stardust and a chance to catch a Shadow Pokémon they’ve left behind. If you lose the battle, you can choose to either rematch or return to the Map View.
+
+### Catching Shadow Pokémon
+
+Similar to Raid Battles, you will receive some Premier Balls, which you can use to catch the abandoned Shadow Pokémon.
+
+Premier Balls are granted right before a Shadow Pokémon Encounter and are only usable for that Encounter. The number of Premier Balls received is based on how many of your Pokémon remain at the end of battle, your Purifier medal rank, and your Hero medal rank.
+
+**Tip** : Free up space in your Pokémon and item storage before beginning a Team GO Rocket Battle to ensure you can begin the Shadow Pokémon encounter and collect items they drop.
+
+### Team GO Rocket Leaders & Giovanni
+
+In addition to battling Grunts, experienced Trainers can also take on Team GO Rocket's Leaders and their boss Giovanni. [Read this article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2102-team-go-rocket-leaders-giovanni/?p=web&s=top-articles&f=team-go-rocket-leaders-giovanni) to learn how.
