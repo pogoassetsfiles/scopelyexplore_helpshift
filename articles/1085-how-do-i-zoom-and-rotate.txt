@@ -1,0 +1,11 @@
+---
+id: 1085
+title: How do I zoom and rotate?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1085-how-do-i-zoom-and-rotate/
+---
+
+**The Map View allows for easy zooming and rotating using one finger.**
+
+**To zoom** , double-tap and hold near your avatar, and move your finger up and down.
+
+**To rotate** , touch near your avatar and move your finger in a circle around it.
