@@ -1,0 +1,27 @@
+---
+id: 864
+title: Reporting a Bug
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/864-reporting-a-bug/
+---
+
+Please [contact us through the Pokémon GO app](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) to report a potential bug that is not already listed on [the Known Issues page](https://niantic.helpshift.com/hc/en/6-pokemon-go/section/180-release-notes-known-issues/).  **You won't get an individual response to your report** , but we’ll use this information to help us reproduce the issue and identify trends.
+
+## What happens after I file a report?
+
+* We review bug reports to find trends and uncover recurring issues within Pokémon GO. Our Quality Assurance (QA) team compiles similar reports to gather common factors and scenarios
+* Once we define the scope of the issue, the team designs tests to reproduce the issue.
+* After QA determines the conditions to reproduce the issue, engineers work on resolving the issue.
+* Before the resolution is implemented into the app, QA does a final review to ensure that the resolution fully resolves the issue and does not introduce additional issues.
+* If the resolution passes review, the change is added to an upcoming release of the app.
+
+## Should I file a bug report?
+
+Before submitting a technical problem, please ensure you are running the latest version of Pokémon GO on a supported device. If you’re using an out-of-date version, please upgrade the app and see if the issue persists.
+
+## What should I include in my bug report?
+
+* A clear and concise description of the issue.
+* Describe what happened and what you expected to happen.
+* Steps to reproduce the issue, if available.
+* Screenshots of the issue, if relevant.
+* Any error messages you received.
