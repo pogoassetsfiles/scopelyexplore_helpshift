@@ -1,0 +1,11 @@
+---
+id: 1009
+title: Exiting the Stamp Rally catch encounter appears to dismiss the Pokémon encounter.
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1009-exiting-the-stamp-rally-catch-encounter-appears-to-dismiss-the-pokemon-encounter/
+---
+
+**Issue description:** After collecting a Stamp Rally stamp, exiting the Pokémon reward encounter without catching the Pokémon will make it appear as though the Pokémon encounter is gone.
+
+**Workaround:** Tapping into any Stamp Rally location will trigger the Pokémon encounter.
+
+**Issue status:** Investigating.
