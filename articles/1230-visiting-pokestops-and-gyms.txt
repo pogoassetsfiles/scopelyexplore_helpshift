@@ -1,0 +1,47 @@
+---
+id: 1230
+title: Visiting PokéStops and Gyms
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1230-visiting-pokestops-and-gyms/
+---
+
+Visit PokéStops and Gyms around the world to gather Poké Balls, Potions, Eggs, and other items. You’ll find these near great places that encourage exploration, exercise, or social interactions with others. When you visit PokéStops and Gyms, spin the Photo Disc to generate items for your inventory.
+
+## GETTING ITEMS FROM POKÉSTOPS
+
+### **To spin the Photo Disc at PokéStops:**
+
+* Walk towards a PokéStop. When you’re close enough to a PokéStop to interact with it, the box on top of the blue square will open.
+* Tap the PokéStop.
+* Swipe left or right to spin the Photo Disc and generate items.
+* (Optional) Tap the items to add them to your inventory.
+
+Once you’ve collected items from the PokéStop, it will cool down for a short period of time. It will turn purple to indicate that it is inactive. Once the cooldown period is over, it will return to blue and you can collect items again.
+
+To help you explore new places in the real world, PokéStops you haven’t previously visited will appear surrounded by rings. Once you spin the Photo Disc, the ring will disappear indicating that you’ve explored this location.
+
+As you explore, you may occasionally come across Gold-colored PokéStops. These PokéStops behave just like standard PokéStops, however there is a chance that you may receive Mysterious Coins and additional items when you spin the Photo Disc.
+
+## GETTING ITEMS FROM GYMS
+
+You can also spin the Photo Disc at Gyms to collect inventory items. When you collect items at Gyms, there is a greater likelihood to find items that aid in battle — like Potions and Revives.
+
+### **To spin the Photo Disc at Gyms:**
+
+* Walk towards a Gym. Tap the Gym to interact with it.
+* Tap the  **Photo Disc** button.
+* Swipe left or right to spin the Photo Disc and generate items.
+* Touch the items to add them to your inventory.
+
+Just like with PokéStops, you’ll have to wait a short period of time before you can spin the Photo Disc again.
+
+You’ll earn bonus items when visiting Gyms controlled by your team. If you have a Badge for the Gym you’re visiting, you will earn additional bonus items as well.
+
+## SEE MORE INFORMATION ABOUT POKÉSTOPS OR GYMS
+
+To see more detail about the Wayspot that is represented by a PokéStop or Gym, walk close enough to interact with it and tap the Wayspot to view it.
+
+You can see a description and full-screen photo of the Wayspot by tapping the > icon next to the Wayspot title.
+
+To view more photos, tap the button in the bottom right corner of the screen. From this screen, you can view multiple images associated with that Wayspot. Tap each image to view it full size and tap the thumbs-up to vote for your favorite photo and it may become the featured photo at that Wayspot.  *Note: This is a new feature being rolled out to Trainers in phases, so not all Trainers may be able to see this menu.*
+
+For more information about Scopely Explore Wayfarer and how locations are added to Pokémon GO, please see [this article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2161-what-is-niantic-wayfarer/).
