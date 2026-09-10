@@ -1,0 +1,11 @@
+---
+id: 1286
+title: My device is not compatible with Pokémon GO
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1286-my-device-is-not-compatible-with-pokemon-go/
+---
+
+You cannot play Pokémon GO on this device because:
+
+* You're attempting to use an unofficial or out of date version of the app. Install the latest official version from the [Google Play Store](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) or the [App Store](https://itunes.apple.com/app/pokemon-go/id1094591345), and/or
+
+* Your device's operating system is not supported. Please [see here](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/92-supported-devices/?l=en&p=all&s=troubleshooting&f=supported-devices) for supported OS versions.
