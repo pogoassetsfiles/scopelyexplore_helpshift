@@ -1,0 +1,16 @@
+---
+id: 1322
+title: Discontinued Support for Android 8
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1322-discontinued-support-for-android-8/
+---
+
+Pokémon GO is ending support for devices running on Android 8. Trainers using devices with this operating system will no longer be able to access Pokémon GO in release version 0.305. We encourage Trainers on Android 8 to update their OS for uninterrupted access to Pokémon GO.
+
+ **Am I affected by this change?**
+
+Only devices with Android 8 installed are affected by this change. Apple users and Android users on Android 9 or above are not affected and do not need to take any action.
+If you are not sure which version of Android is installed on your device, you can find this information in the device settings. Go to Settings > General > About.
+
+ **What do I need to do?**
+
+If you are using a device running Android 8, you will need to update your OS to continue to access Pokémon GO. For detailed information on how to upgrade to the latest version of Android, please view this support article on the Android Help Center: https://support.google.com/android/answer/7680439
