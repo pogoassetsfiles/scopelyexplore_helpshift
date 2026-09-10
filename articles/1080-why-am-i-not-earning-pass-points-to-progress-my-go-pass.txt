@@ -1,0 +1,13 @@
+---
+id: 1080
+title: Why am I not earning Pass Points to progress my GO Pass?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1080-why-am-i-not-earning-pass-points-to-progress-my-go-pass/
+---
+
+There are two ways for you to obtain Pass Points to progress your GO Pass: through daily activities such as catching Pokémon or through the completion of Pass Tasks. However, you can only earn up to 250 points in a day through daily activities.
+
+If you have reached this limit, try completing Daily or Weekly Pass Tasks to progress your GO Pass until the next day. The points you get from these activities are not affected by the daily limit.
+
+![image](../data/images/2e85643a-0b8f-4c97-b16f-ae8c5e0ce920.png)
+
+Note that the daily limit may be removed as part of certain live events. Keep an eye on the Pokémon GO Official Website for details as to when the limit may be removed.
