@@ -1,0 +1,7 @@
+---
+id: 1105
+title: What is Campfire?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1105-what-is-campfire/
+---
+
+**Campfire**  is a new social app that helps Scopely Explore Explorers discover new people, places and experiences around them! Discover in-game activities, plan your next meetup, send a DM, and manage your friends list, all within a single app. Some features of Campfire are available within Scopely Explore’s games, but for the full experience, users should download the standalone app.
