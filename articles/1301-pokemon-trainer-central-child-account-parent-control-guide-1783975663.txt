@@ -1,0 +1,181 @@
+---
+id: 1301
+title: Pokémon Trainer Central: Child Account & Parent Control Guide
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1301-pokemon-trainer-central-child-account-parent-control-guide-1783975663/
+---
+
+Upon launching Pokémon GO for the first time, you will be asked to enter your child’s birth date, and select the new player option. If your child is under 13 years old (or below the digital consent age in your region), they’ll need to play under an account managed by a parent or guardian.
+
+![image](../data/images/c5bc3227-539d-4134-ab19-9444e15978f8.png)
+
+![image](../data/images/cbfae697-1829-4ca5-a1d2-643bfdbc519e.png)
+
+**PTC (Pokémon Trainer Central)**  is a login method provided by The Pokémon Company International. It allows children to log in and play Pokémon GO by creating an account and linking it to an account managed by a parent or guardian. This method is commonly used for families already using PTC with other Pokémon services, and helps centralize access to Pokémon-related apps.
+
+In this guide, we will focus on how to use this option.
+
+### **Creating an Adult PTC account**
+
+As a general process, a parent or guardian must first create a Pokémon Trainer Central (PTC) account. Then, through the PTC portal, they need to add their child to the account. Once this is completed, the child can access Pokémon GO using the linked account. To create an adult PTC account:
+
+* **Age Verification** : Fill out the required fields, including your country and date of birth.
+
+![image](../data/images/957c9cf3-95d9-417a-a06b-64d6c65240f5.png)
+
+* **Create Account** :Enter your email address, your desired username and password, accept the Terms & Privacy Notice, and select your optional email preferences.
+
+![image](../data/images/4554dc13-69d4-4886-95dd-b949348afb25.png)
+
+* **Verify Email** : Enter the email activation code sent to the email address you registered in the previous step.
+
+![image](../data/images/b3b53d7d-8cae-4aeb-b9da-ea60deb9d9ff.png)
+
+* **Success Screen** : You will receive a confirmation message that your account has been successfully activated.
+
+![image](../data/images/2dece1af-f29e-4bf9-a1cd-18b07b7c8459.png)
+
+* **Activate your account:** Check your email for an activation link(code) and click on it to finalize the account creation.
+
+## **How to allow a child to play Pokémon GO with PTC**
+
+**Note:** After activation, your child will only be able to start playing after you log in to the Pokémon Trainer Central and select “Add a Child” to create a linked account with the following steps below.
+
+* Log in to your Pokémon Trainer Central account at [trainer.pokemon.com](https://trainer.pokemon.com/start).
+
+* Select “ **+ Add a Child** ” from the sidebar on the left side of the screen. This will take you to the Verify Your Identity page.
+ [![](../data/images/c113ecb6-60cc-444d-9066-fd232e8bdd68.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/c113ecb6-60cc-444d-9066-fd232e8bdd68.png)
+
+* Fill in the blank/required fields under “ **Please Verify Your Identity”**  and select  **Continue** . This will take you to the “ **Create Your Child’s Accoun** t” page.
+
+* Read and accept the Pokémon Website Terms of Use.
+ [![](../data/images/497ff4ae-51d0-4479-9174-3130cfe73137.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/497ff4ae-51d0-4479-9174-3130cfe73137.png)
+
+* Select  **Create Your Child’s Account** .
+ [![](../data/images/35aecb19-ec5f-4e7c-8419-5234c5b93b26.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/35aecb19-ec5f-4e7c-8419-5234c5b93b26.png)
+
+* From the  **Apps & Games**  section, add  **Pokémon GO**  and enable login using  **PTC** .
+
+* Review and toggle the sliders to update your child’s Pokémon GO permissions (more details below)
+
+* After confirming the permissions, tap  **Continue**  to close this window.
+
+* Tap the button saying  **Back to Pokémon GO**  and pass the device back to the child, so that they can login again.
+
+* The child should now be logged into their account.
+
+## **Parental Controls and Child Account Permissions**
+
+**Pokémon Trainer Central (PTC) allows you to turn on/off the following functions for your child’s account:**
+
+* **Location**  (REQUIRED): Your child will need this permission to play Pokémon GO.
+
+* **Sponsored Content:** Allows the child to access in-game content featuring external companies
+
+* **Friends:** Allows your child to use the [Friends feature](https://niantic.helpshift.com/hc/en/6-pokemon-go/section/60-friends-gifting-trading/?p=web&s=friends-gifting-and-trading)https://niantic.helpshift.com/hc/en/6-pokemon-go/section/60-friends-gifting-trading/?p=web&s=friends-gifting-and-trading(Trainer profile visibility, gift exchange, etc). Parents receive an email when new friends are added.
+
+* **Party Play:** Allow your child to access the [Party Play feature](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4310-what-is-party-play/) (group play sessions). Your child will only be able to participate in a party if the Host is on their Friend List. Your child will not be able to share location with other Party Members
+
+**Additional Functions:**
+
+* Add a new kid account
+
+* Change your registered email address/password on the portal
+
+* Enable multifactor authentication (MFA) to secure your account or your child’s account
+
+**Note:**  Some features are not available by default for child accounts and cannot be enabled manually. These include, but are not limited to:
+
+* **Online Status** : Child accounts cannot view others’ online status, and their own status will not be visible to friends—regardless of whether the setting is turned on or off.
+
+* **Routes – Creation** : Child accounts are not able to create Routes.
+
+* **Reward Road** : This feature is not accessible to child accounts.
+
+* **Live Event Tickets**
+
+* Child accounts will not see the  **“Events”**  tab that lists live events like GO Fest or GO Tour. However, parents can still purchase live event tickets for their child  **if their own Pokémon GO account is the parent email of record for the child account** .
+
+*For Detailed Instructions on How to Purchase Live Event Tickets for Child Accounts, Please Refer to the Steps Below:*
+
+## **Purchasing and Ticketing Instructions**
+
+* **In-game Shop**
+
+* Child accounts can purchase in-game ticketed events (e.g., timed research or other special events) via in-app purchases, unless in-app purchases are restricted at the device level by the parent or guardian.
+
+* **Gifting of In-Game Paid Ticketed Events**
+
+* Gifting only available to friends, so for child accounts friends must be turned on before they can use this feature
+
+* **Note:**  You must be at least [Great Friends](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2847-friend-list-friendship-levels-1614900279/) with the other Trainer for whom you are purchasing the virtual event ticket.
+
+* **Live Event Tickets**
+
+* Child accounts will not see the  **“Events”**  tab that lists live events like GO Fest or GO Tour. However, parents can still purchase live event tickets for their child through the Scopely Explore ticketing site  **if their own Pokémon GO account is the parent email of record for the child account** .
+
+**For Detailed Instructions on How to Purchase Live Event Tickets for Child Accounts, Please Refer to the Steps Below:**
+
+* The parent or guardian must be logged into their Pokémon GO account, which is linked to their child’s account.
+
+* In the parent account, tap the  **Main Menu**  button in Map View [![](../data/images/17789a08-3473-47a1-8099-380a299d95b3.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/17789a08-3473-47a1-8099-380a299d95b3.png)
+
+* Tap  **“Events”**  in the upper right corner of the screen. [![](../data/images/9c9ce762-a546-4255-b85c-00a9dd80b220.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/9c9ce762-a546-4255-b85c-00a9dd80b220.png)
+
+* On the following page, check and select live events where tickets are available.
+ [![](../data/images/cf83d055-1950-4b4f-ac3f-84ad10e0397b.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/cf83d055-1950-4b4f-ac3f-84ad10e0397b.png)
+
+* Tap " **Get Tickets"** .
+
+* Choose the dates and time slots if available. The greyed-out options are sold out. Then proceed to the next page.
+
+* Choose your mobile service provider.
+
+* You can now manage the number of tickets you would like to buy. The default account is set to yours, and you can simply enter your child’s account Trainer name in the box and tap  **Add** .
+
+* [![](../data/images/483f738c-4d9c-4da6-a291-68dd9894b16c.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/483f738c-4d9c-4da6-a291-68dd9894b16c.png)
+
+**Note:**  If any error message appears, please double-check the following:
+
+* Please ensure that the spelling is correct
+
+* Verify that the email associated with the parent/guardian’s Pokémon GO account matches the email address on file.
+
+* Choose the add-ons you wish to purchase.
+
+* Double-check the Trainer name for the ticket purchase.
+
+* Confirm that the date information is correct. You can also make changes to the order on this page.
+
+* On the payment page, select your preferred payment method and complete the transaction.
+
+* After the payment, you will receive a confirmation email.
+
+* Once a ticket is purchased and the status changes to  **Attending** , additional tickets cannot be purchased, and changes to the event schedule are not allowed. If you would like to purchase additional tickets, please [contact customer support](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/). Add-ons can be purchased until they are sold out.
+
+When you tap the  **“Events”** page again, the status will change to  **Attending** .
+
+* **Other important notes:**
+
+* Children can attend events when accompanied by a parent or guardian.
+
+Unlike with standard accounts, a parent and child don’t need to be Friends to select the child’s username.
+
+## **Frequently Asked Questions**
+
+**Q: How do I check which email address is connected to my child’s account?**
+
+**A:** Please log in to the PTC Portal using the email address you used to register.
+
+If you forget which email address you used, try searching your inbox for the activation email from: [[email protected]](https://scopelyexplore.helpshift.com/cdn-cgi/l/email-protection)
+
+Once logged in, tap the Parent's Profile to view the registered email address.
+
+**Note：** Make sure the child account you see in the portal is the one linked to the Pokémon GO account you would buy tickets to a for
+
+**Q: How can I change the email associated with a child account?**
+
+**A:**  If you're using Pokémon Trainer Central (PTC): You can update the email address directly from the PTC portal.
+
+**Q: What can I do if I lose access to the email address used for parent login?**
+
+**A:**  If you're using Pokémon Trainer Central (PTC): You can try to recover your account through this link:https://recover.pokemon.com/
