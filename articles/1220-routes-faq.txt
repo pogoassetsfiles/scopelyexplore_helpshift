@@ -1,0 +1,71 @@
+---
+id: 1220
+title: Routes FAQ
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1220-routes-faq/
+---
+
+### Following Routes
+
+**Why is Routes not available to me?**
+
+In order to be able to follow a Route, you must first reach Level 7. Additionally, if you login with a child account (via Kids at Scopely Explore or Pokémon Trainer Central), check the  **Friends and related features**  settings in the Parent Portal.
+
+**How can I find nearby Routes?**
+
+Approved Routes will appear in the Route tab of the Nearby menu. Sometimes Routes may not appear in the Nearby menu if you aren’t close enough for them to appear. Try walking around your local area to see if new Routes become available.
+
+**Why are there no Routes near me?**
+
+We appreciate your excitement to participate in Routes! Our team is continuing to work hard to get more Route submissions approved for a quality experience.
+
+### Creating Routes
+
+**Can I edit my Route once I submit it?**
+
+No, once a Route has been submitted for moderation, it is not possible to edit or delete it.
+
+**How long does it take for my Route to appear on the map?**
+
+Once your Route has been gone through moderation and approved, it should appear in the  **Nearby**  menu under the  **Routes**  tab.
+
+**Who can interact with my Route?**
+
+It is not possible to restrict access to your Route so take care in recording your Route path and adding Route details.
+
+**What do other Trainers see about me when I create a Route?**
+
+Your Trainer Nickname will appear on the Routes detail page. You can hide this information by tapping the  **Show your Trainer Name** toggle on the  **Name your Route**  page during Route creation.
+
+**Why can’t I create a Route?**
+
+While everyone is able to follow Routes, the ability to create new Routes is only available to Pokémon GO players Level 30 and up. Please stay tuned - we will expand access soon. Note that Routes creation is not available for Trainers who log in with a child account through Pokémon Trainer Central or Kids at Scopely Explore.
+
+**Why was my Route rejected?**
+
+While there are a number of reasons your Route could have been rejected during the moderation process, common reasons that Routes are rejected include, but are not limited to:
+
+* The Route travels through a private residence, sensitive location, daycare, or grade school.
+* The Route features drinking or other adult establishments.
+* The Route features inaccessible, dangerous, or unsafe areas.
+* The Route title or description is abusive, inappropriate, or features personally identifiable information.
+* The Route features game cheats or spam.
+
+**What happens if my start or end point is removed?**
+
+If changes are made to your start or end point via Scopely Explore Wayfarer edits, your Route will automatically adjust to reflect these changes.
+
+If a start or end point is removed from the Map, your Route will also be archived and any Trainers currently following that Route will lose their progress. Your earned Route Badge will remain, but you won’t be able to replay the same Route. If you try to start it again from your Route Badge, it will result in an error and you won’t be able to proceed.
+
+### Route Gift Exchange
+
+**When and how often will Mateo appear on a Route path?**
+
+Mateo can be encountered once a day on your first Route. He will appear at the end of the Route.
+
+**What kind of rewards will I receive from a Gift Exchange with Mateo?**
+
+In addition to the Postcard you receive, a Gift Exchange can also provide Poké Balls, Potions, and other items as a reward.
+
+**How does Mateo affect Zygarde Cell appearance?**
+
+Mateo and the Route Gift Exchange do not affect Zygarde Cell appearance.
