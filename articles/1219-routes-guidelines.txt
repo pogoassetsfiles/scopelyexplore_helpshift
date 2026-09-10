@@ -1,0 +1,139 @@
+---
+id: 1219
+title: Routes Guidelines
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1219-routes-guidelines/
+---
+
+**Routes Policy**
+
+✒️For geolocation rules, Routes should not begin, end, or ask players to go through/inside any of these locations. Simply passing by these locations is allowed and should not lead to enforcement action.
+
+**Prohibited Routes: Geolocation**
+
+* Routes that include a private residence
+
+* Single family home, single family home, town home, condominium, mobile home, cabin, farm, apartment/flat, or cottage
+* Routes that include a dangerous or unsafe location, including Scopely Explore’s restricted zones (*Note: roads that run through residential neighborhoods are allowed)
+
+* highway/freeway, bridge with car traffic, crossing a waterway (pond, lake, river, etc.), military zones, construction, airport runways, railway tracks, industrial sites, power plants, or air traffic control towers
+* Routes that include a sensitive location
+
+* funeral homes, burial grounds, cemeteries, cannabis dispensaries, U.S. plantations, political campaign offices, concentration camps, labor camps, prisoner of war (pow) camps, military bases, homeless shelters, abortion clinics, domestic violence shelters, jails/prisons, fire stations, police stations, hospitals, bail bonds places, and graveyards
+* Routes that include a location meant for adult products or services
+
+* Strip club, burlesque show, cabaret, gentlemen’s club, gentlemen’s lounge, adult store, sex shop, sex toy shop, adult video store, brothel, swingerclub
+* Routes that include a school (primary and secondary schools; do not include non-fenced park areas used as shared spaces)
+
+* elementary school, middle school, high school, primary school, secondary school, preschool, daycare
+* Routes that include an inaccessible location
+
+* gated location
+* Routes that include commercial property
+
+* Clothing store, grocery store, pharmacy, consignment store, boutique, restaurant, shopping mall
+
+**Prohibited Routes: Behavior**
+
+* Routes created for the purpose of or become used for the purpose of harassment, violence, or any other violations of our [Player Guidelines](https://nianticlabs.com/guidelines) or [Terms of Service](https://nianticlabs.com/terms).
+
+*
+
+**Prohibited Routes: Violative Content**
+
+* Route names, images, or descriptions that violate our [Player Guidelines](https://nianticlabs.com/guidelines) or [Terms of Service](https://nianticlabs.com/terms).
+
+**Prohibited Routes: Other Content Areas Unfit for Routes**
+
+* Religion
+
+* Routes created for religious purposes are not allowed in Routes. Routes should be evergreen, not focusing on something temporary, so concerts or other events happening at a place of worship would also be in violation. We define religious purposes as:
+
+* Seeking to convert or proselytize
+
+* “Follow this Route to learn more about our faith”
+* “Tired of feeling sad? X deity can bring meaning to your sadness and your life”
+* “Come to our place of worship to learn more about X deity/faith”
+* Encouraging encounters with a deity
+
+* “At the end of this Route, you will encounter X deity that will change your life”
+* “If you want to meet X deity, follow this Route”
+* Soliciting donations for religious purposes
+
+* “Walk this trail to donate to X place of worship”
+* “X religion bake sale! Walk this Route to support our mission”
+* Celebrating a specific religious holiday
+
+* “Easter egg hunt!”
+* “Come join us for a Holi celebration!”
+* “Follow this Route to break the fast for Ramadan with your neighbors”
+
+* Routes including places of worship or created by members of a specific religion are not in violation. Places of worship may be part of cultural or national heritage and therefore, be appropriate for Routes. The following examples would be allowed:
+
+* Education on the historical importance of a place of worship
+
+* “Follow this Route to learn more about how the Familia Sagrada influenced architecture in Spain”
+* “Come learn about the oldest mosque in Indonesia”
+* “This synagogue houses the world’s oldest Torah, come learn more about this historical artifact”
+* A Route uses a place of worship as a beginning or end point (POI), but there is no religious purpose to the Route
+
+* [Route begins at a local cathedral]: “Follow this Route to see the most beautiful cherry blooms in the neighborhood
+* [Route ends at a local temple]: “Walk the longest trail in our town!”
+
+* Politics
+
+* Routes created for the purpose of promoting or denigrating a specific politician, candidate, or political party are not allowed.
+
+* Encouraging Players to vote for or against a specific candidate or political party
+
+* “Make sure you vote for X candidate”
+* “Have you voted for X candidate yet? They’re our only hope!”
+* “Don’t support X political party, they’re full of liars and scammers”
+* Leading to a political rally
+
+* “Tired of X politicians ruining your life? We’re hosting a rally along this Route, so make sure you follow the path and join in”
+* “Come hear X candidate announce their candidacy for office!”
+* Asking for political donations
+
+* “Ready to take X candidate all the way? Follow this Route to a donation booth to support our country’s future”
+* “Lemonade stands for X political party!”
+* “Make sure you donate to the only candidate that can save our nation!
+* General support for or against a political figure
+
+* “Happy Birthday Prime Minister X! Follow this Route to learn more about them”
+* Queen X was the worst in human history! Walk this trail to see the atrocities she caused”
+* “Learn more about Congresswoman X and follow this Route to her childhood home”
+* Routes created by political figures are not in violation on their own if they otherwise respect our policies.
+* Routes that promote social movements are also in violation.
+
+* Encouraging players to support or disparage a specific social cause or movement
+* Adding a hashtag belonging to a social cause or movement as part of a Route name or description
+* Leading players to a rally or protest in support of or against a specific social cause or issue
+* The only social movement issue we allow is environmental causes presented positively (no calls to protest or boycott).
+
+* Encouraging players to support an environmental cause or movement
+
+* “#climatechange is a global emergency, we must do more to save our planet”
+* “Please remember to #recycle! Keep our park clean and our animals safe”
+* Leading players to a volunteer activity in support of an environmental cause or movement
+
+* “Help us keep our city clean by joining our beach cleanup”
+* “Want to learn more about water conversation? We’re here to help! Follow this Route to learn more about our mission and how you can get involved”
+* Celebrating an environmentally focused holiday
+
+* “Happy Earth Day! Come join us on this trail to celebrate the natural beauty in our community”
+* “It’s World Elephant Day and along this Route, you’ll find clues about the world’s oldest elephant. Follow along to learn more!”
+* “Biking to work is a great way to reduce emissions and explore the outdoors. Come join this Route for #biketoworkday!”
+* Organic Commercial Promotion
+
+* Routes created for organic commercial or business promotion are not allowed outside of our sponsored locations as part of our official ad business. All businesses must comply with this policy, whether they are large corporations or small local businesses. Players must also comply with this policy, even if they are not official brand ambassadors for the business they are promoting.
+
+* Encouraging Players to patronize a specific business
+
+* “Follow this trail to visit my favorite local coffee shop!”
+* “Best sushi in the city is at the end of this Route, follow to check it out”
+* Wanna dress like me? Check out this store to find the best deals”
+* “Cool new shop in town, definitely recommend checking it out”
+* Offering sales or promotions to solicit customers
+
+* “First 10 Players who follow this Route to our restaurant get a free burrito from X burrito shop”
+* “Black Friday sale Follow this path to check out some sweet deals”
