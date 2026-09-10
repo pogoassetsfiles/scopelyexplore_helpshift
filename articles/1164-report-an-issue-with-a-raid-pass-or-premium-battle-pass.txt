@@ -1,0 +1,33 @@
+---
+id: 1164
+title: Report an Issue with a Raid Pass or Premium Battle Pass
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1164-report-an-issue-with-a-raid-pass-or-premium-battle-pass/
+---
+
+## Issue with a Raid Pass or Premium Battle Pass
+
+To join a Raid Battle, you’ll need a Raid Pass or Premium Battle Pass. You can collect up to one free Raid Pass per day by spinning a Photo Disc at a Gym.
+
+**Please note**  you cannot have more than one Raid Pass in your inventory at a time. If you want to participate in more than one Raid Battle per day, you can purchase one or more Premium Battle Passes from the Shop.
+
+If you’ve experienced an issue with a Premium Battle Pass, please let us know by tapping the chat icon in the upper right corner of the in-app support page.
+
+## Trouble Accessing a Raid Battle
+
+Raid Battles can take place at any Gym and at any time. If you had an issue accessing a Raid Battle, don’t be discouraged - raids happen frequently around you. Keep an eye out as you explore the world around you.
+
+If you are having issues joining raids, here are some tips:
+
+* Any number of Trainers can join a raid, but only in groups of up to 20 Trainers. If you are unable to join the same group as your friends, the raid group might be at its limit. You can still join a public group and will be matched with other players nearby.
+* If you see an error while trying to join a raid, make sure you are within the range of the gym.
+
+If you experienced an issue that’s not covered above, please [submit a bug report](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/379-reporting-a-bug/?s=general&f=report-a-bug&p=all).
+
+## For Property Owners: Report a Location where a Raid Battle Occurred
+
+We take extra verification steps to ensure that removal requests reflect the desires of the property owners or senior executives of the organization that owns the property. If you are a property owner or senior executive and would like to report an issue with a game location, please include one of the following items to ensure we can process your request without any delays:
+
+* Contact us and submit the request using an email address associated with the organization.
+* Include a scanned copy of your business card.
+* Attach a letter written on official letterhead of the organization.
+* If you are reaching out to us on behalf of the owner/senior executive, please include their name, title, phone number and email address.
