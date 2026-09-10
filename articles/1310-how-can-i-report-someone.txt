@@ -1,0 +1,23 @@
+---
+id: 1310
+title: How can I report someone?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1310-how-can-i-report-someone/
+---
+
+Our goal is to provide our players with a fair, fun and safe gaming experience. To do this, we maintain policies and guidelines that govern content, conduct, and behavior in our games, products, and at live events. Violations of the [Player Guidelines](https://nianticlabs.com/guidelines), [Scopely Explore Terms of Service](https://www.nianticlabs.com/terms), or [Live Event Code of Conduct](https://nianticlabs.com/live-event-coc) may lead to enforcement against accounts, including a 10 year or permanent ban.
+
+This includes, but is not limited to:
+
+* inappropriate or explicit usernames,
+
+* issuing direct violent threats,
+
+* spoofing or falsifying location,
+
+* using emulators, modified or unofficial software,
+
+* sharing or posting sexualized imagery
+
+While we do maintain some automated systems that will automatically detect these violations, if you notice another player who you suspect is in violation of the gameplay policies, you can report them directly.
+
+To report inappropriate behavior, please [contact us](https://niantic.helpshift.com/hc/faq/2030-how-to-contact-support/) through the app.
