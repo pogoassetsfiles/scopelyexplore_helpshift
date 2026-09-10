@@ -1,0 +1,53 @@
+---
+id: 1125
+title: Evolving your Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1125-evolving-your-pokemon/
+---
+
+Every time you catch a Pokémon of a particular species, you’ll receive Candy for that species. Evolution requires a different amount of Candy for each species. Pokémon that require more Candy to evolve tend to show greater gains in CP.  Evolved Pokémon generally have higher CP and HP, making them a valuable addition to your collection.
+
+You’ll still have the same number of Pokémon in your collection after completing an evolution. The Pokémon you selected has evolved—transforming into an evolved Pokémon—so you haven’t gained or lost in total Pokémon.
+
+### To evolve a Pokémon:
+
+* In Map View, tap the  **Main Menu**  [![image](../data/images/5ca97083-fedf-454f-8c8c-c6f5f4ca28c0-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/5ca97083-fedf-454f-8c8c-c6f5f4ca28c0-t.png)
+
+* Tap  **Pokémon**  [![image](../data/images/547dd02b-5b80-4f6b-8184-f85aee770e1a-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/547dd02b-5b80-4f6b-8184-f85aee770e1a-t.png)
+
+* From your list of Pokémon, select one Pokémon to evolve.
+
+* On the Pokémon’s summary, tap the Evolve button.
+
+Until you have enough Candy, you won't be able to evolve your Pokémon. You can view the amount of Candy needed to evolve your Pokémon in the Pokémon’s summary.
+
+[![image](../data/images/43d7b1ff-517c-4d54-ac39-3d2063a48c67-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/43d7b1ff-517c-4d54-ac39-3d2063a48c67-t.png)
+
+# ADDITIONAL EVOLUTION REQUIREMENTS
+
+### Evolution Items
+
+Select Pokémon require an evolution item as well as Candy to evolve. There are several different types of evolution items (Sun Stone, Metal Coat, King’s Rock, Up-Grade, Dragon Scale, etc.) you can use to evolve these Pokémon. You can collect evolution items through various means such as visiting PokéStops, battling Trainers, or raids.
+
+### Evolution Tasks
+
+Certain Pokémon will require a specific task or set of tasks be completed before they’re able to be evolved. If this is a required step, the evolution task details can be found on that Pokémon’s details page and may differ between Pokémon species.
+
+### Trade Evolutions
+
+When received in a trade, certain Pokémon can be evolved without Candy. If a Pokémon you’ve caught is eligible for a trade evolution, you’ll see a trade icon [![image](../data/images/a55b0dba-b914-4d9e-ad65-5c1a762f9b49-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/7d9a9bfd-7d62-43ff-879a-21f196051cd9.png) next to the Evolve option on the Pokémon’s summary page. Pokémon eligible for trade evolutions also be evolved with a relatively high number of Candies.
+
+When you’ve traded the Pokémon with a friend, your friend will see a checkmark next to the trade icon [![image](../data/images/df6f0a70-12ba-4a04-b9d6-5349167b2a64-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/755ea5d0-7e95-4284-a486-1ec2b496cf6a.png) indicating the Pokémon is now eligible for Candy-free evolution.
+
+**Note** : Pokémon received in a trade can’t be traded back to their original Trainer or any other Trainer.
+
+### Lure Modules
+
+Some Lures can also enable certain Pokémon to evolve in ways they otherwise wouldn’t. If you’re standing near a PokéStop with one of these installed, you’ll notice a special option to evolve these Pokémon on the Pokémon’s summary page.
+
+[![image](../data/images/793d8485-7230-459b-96ca-64e2003131c7-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/793d8485-7230-459b-96ca-64e2003131c7-2t.jpg)
+
+### Buddy Walking Distance
+
+Select Pokémon, like Feebas, need to be walked as your Buddy Pokémon before they are ready to evolve.
+
+**Tip** : You can learn about the different species of Pokémon and their evolutions in the Pokédex.
