@@ -1,0 +1,43 @@
+---
+id: 1103
+title: Your Scopely Explore Profile
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1103-your-scopely-explore-profile/
+---
+
+Your  **Scopely Explore Profile**  is a section of your game-specific profile that displays your information from across Scopely Explore apps on a single screen.
+
+You can access your Scopely Explore Profile by tapping the Scopely Explore logo in the top right corner of a Scopely Explore game’s profile screen. Only you and your friends are able to view your Scopely Explore Profile.
+
+[![](../data/images/5c7945eb-c380-41b2-bad9-260026e07407.PNG)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/5c7945eb-c380-41b2-bad9-260026e07407.PNG)
+
+Your Scopely Explore Profile will show recent achievements across Scopely Explore apps, your lifetime distance walked and the date at which you first began playing Scopely Explore games.
+
+You can also see other available Scopely Explore games that you are not currently playing; tap on the game icons to learn more about each app.
+
+### Controlling What Others See
+
+You can control how much information around certain aspects of your Scopely Explore Profile is available for your friends to see.
+
+* **Online Status:** You’re able to set yourself Offline at any time by tapping on the Online Status toggle in your Friend list. [Learn more about Online Status.](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2592-online-status/?p=web&s=friends-gifting-trading&f=online-status)
+
+* **Last Played Date:** To hide the date which you last used a Scopely Explore app, navigate to the Settings menu of your Scopely Explore Profile and tap “Let my Friends see info about the last time I played Scopely Explore Games.”
+
+* **Player Username:**  To hide the username for various games, navigate to the Settings menu of your Scopely Explore Profile and tap “Let my Friends see my usernames from all Scopely Explore Games.”
+
+### Connecting your Accounts
+
+By tapping on the gear icon in the top right corner of your Scopely Explore Profile, you can edit your profile, Add your mobile number to see which contacts are playing any Scopely Explore games, and see which accounts (e.g. Google Account, Facebook Account, or Apple ID) you have connected to Pokémon GO as sign-in methods and make changes to these settings.
+
+[![](../data/images/674a2135-bb47-482f-8dcb-c4dfb8ef4c78.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/674a2135-bb47-482f-8dcb-c4dfb8ef4c78.jpg)
+
+[Visit this article to learn more about login methods.](https://niantic.helpshift.com/hc/faq/86-linking-an-additional-login-provider-to-your-account/)
+
+### Viewing Friends’ Scopely Explore Profiles
+
+You can also view your friends’ Scopely Explore Profiles by tapping on the Scopely Explore Icon when viewing their Trainer Profile in your Friend List.
+
+When you’re viewing your friends’ Scopely Explore Profiles, you can give them nicknames to help better remember who they are. Note that the nicknames that you’ve given to your friends from your Pokémon GO Friend List will carry over to your Scopely Explore Profile.
+
+If you want to change your friend’s nickname, tap the gear icon in the top right corner. You can also remove a friend from this menu, but keep in mind that removing a friend in one game will remove them from other games as well.
+
+Your [online status](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2592-online-status/?p=web&s=friends-gifting-trading&f=online-status) in the game you’re currently playing is also visible to Friends who have also set themselves Online.
