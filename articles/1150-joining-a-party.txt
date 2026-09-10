@@ -1,0 +1,37 @@
+---
+id: 1150
+title: Joining a Party
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1150-joining-a-party/
+---
+
+After a host has created the Party Play lobby, you will have 15 minutes to join the Party. If you are physically near the host and want to join their Party, there are two ways to do so–by scanning the Party Play QR Code or the numerical Party Code.
+
+To join a Party:
+
+* In Map View, tap on your  **Trainer Profile** .
+* Tap the  **Party**  tab in the top right.
+* Tap the  **Join a Party**  button.
+* Use your device’s camera to scan the host’s QR code or tap the  **Party Code**  tab and enter the host’s 9-digit Party Code.
+
+* Both the QR code and the Party Code can be found on the host’s Party Play Lobby screen.
+* Tap the  **Join Party**  button to join the host’s Party Play Lobby.
+
+Note that a maximum of 4 Trainers, including the host, can be in any Party. If you try to join the Party Play Lobby and this limit has been reached, you will see an error message indicating that the Party is full.
+
+Note that Trainers logging in using kids’ accounts via Pokémon Trainer Central or Kids at Scopely Explore can only join a Party if they are friends with the host of the Party and there are at least 2 other Trainers in the Party. Learn more about kids’ accounts and Party Play.
+
+The host is able to start Party Play once at least two other Trainers have joined the Party. Once they have started, the Trainer avatars for other members of your Party will appear on your Map View, and their profiles will appear along the top of your screen.
+
+After Party Play has started, make sure to stay near the host as you explore the real world. If you get too far away from the host, you will see a warning message and could be removed from the Party.
+
+Your Party can last up to 3 hours, or until you end your Party Play session. You will receive a 10-minute warning as you approach the time limit.
+
+To leave a Party:
+
+* In Map View, tap on your  **Trainer Profile** .
+* Tap the  **Party**  tab in the top right.
+* Scroll to the bottom and tap the  **Leave Party**  button.
+
+After you leave a Party, the other Trainers will see a message indicating that you’ve left. If you leave a Party accidentally, you can rejoin the Party the same way you did initially, by scanning the QR Code or entering the Party Code.
+
+Once your Party Play session has ended, or if you leave the Party, you will see a summary screen recapping your and your Party’s achievements during the Party Play session, including a breakdown of each Trainer’s contributions to the Party.
