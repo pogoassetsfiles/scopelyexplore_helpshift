@@ -1,0 +1,36 @@
+---
+id: 1278
+title: About Pokémon Trainer Central (PTC)
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1278-about-pokemon-trainer-central-ptc/
+---
+
+The  **Pokémon Trainer Central (PTC)** is a service provided by The Pokémon Company International that connects you to other Pokémon games and apps, including Pokémon GO. Creating a PTC account will also allow you to receive the latest Pokémon news and compete in live competition.
+
+Navigate to trainer.pokemon.com to login to an existing PTC account or create a new PTC account and verify your age and country/region.
+
+Please note that your PTC screen name or account name may not necessarily be the same as your Pokémon GO Trainer Nickname.
+
+### Using PTC to log into Pokémon GO
+
+Trainers can use a PTC account as an authentication method to log into Pokémon GO by linking their PTC account in Pokémon GO.
+
+To connect a PTC account to Pokémon GO as a login method:
+
+* Create or log into your PTC account at [trainer.pokemon.com](https://trainer.pokemon.com/start).
+* Open the Pokémon GO app.
+* In Map View, tap the Main Menu
+* At the top right, tap  **Settings**
+* Under the Account section, select the  **Not Linked**  checkbox next to Pokémon Trainer Central.
+* Follow the prompts to link your account. Once your account is linked, you can use PTC to sign into your Pokémon GO account.
+
+Upon logging into Pokémon GO using your PTC login credentials, you may be prompted to authorize Pokémon GO to access your PTC account. [Learn more](https://support.pokemon.com/hc/en-us/articles/360043974292-How-do-I-opt-in-for-Pok%C3%A9mon-GO-and-or-Organized-Play-in-my-Pok%C3%A9mon-Trainer-Club-account-).
+
+### Forgot your PTC login information?
+
+Visit [Pokémon GO Account Recovery website](https://my.nianticlabs.com/account-recovery) to get a reminder of the account information tied to PTC login. If you’re still unable to login with your PTC account or need help with resetting your password, see the  *Recovering your PTC Account*  section for how to contact The Pokémon Company International for help with your PTC account.
+
+### Recovering your PTC Account
+
+Because PTC is a service that is operated by The Pokémon Company International, Scopely Explore Support is unable to assist with updating your PTC account information. If you’ve lost your PTC username and/or password, you may recover them [here](http://recover.pokemon.com/). You’ll need the email address linked to your PTC account to get started. If you don’t remember your email address, follow the details in  *Forgot your PTC login information?*  above.
+
+If you need further assistance, please contact The Pokémon Company International’s Customer Support team [here](https://support.pokemon.com/hc/en-us/requests/new?ticket_form_id=114094020574).
