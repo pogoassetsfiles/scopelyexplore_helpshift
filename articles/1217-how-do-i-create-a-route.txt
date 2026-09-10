@@ -1,0 +1,61 @@
+---
+id: 1217
+title: How Do I Create a Route?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1217-how-do-i-create-a-route/
+---
+
+There are two options to start creating a Route, you can either tap  **Create New Route**  from the Route section of the Nearby menu, or scroll to the Routes section of your Trainer Profile and tap on the  **Create New Route**  button.
+
+### Select start and end points
+
+After tapping  **Create New Route** , you will be shown a map of nearby locations. Select a nearby PokéStop or Gym to be your Route start point by tapping the location on the map and tapping  **Set as Start Point**
+
+![image](../data/images/ad_4nxdyur_i5usaqxaijspbzpt66ekttcgtvmb-qbi6dv-fy9_6vj3vwe8603ihdhimyc1q5vqf4hbtkcxjuj4chsup_h4g1wslho5b5f2g2i1umzac_gguqgirnspup8iryschuymad1a23v5zeogtqgjj1yk.png)
+
+![image](../data/images/ad_4nxefjt3aoxfkrt59nxibsiv53iwaorow4ph0llxojrprxpwhuxgbfcdkjua62qpsbgkqwsmfznetnp2fgesaybd-sweoxlzvptzcf5bjtrgar0mru_ymg75-qfp3h47liyjgjntihcepa4igcs0rjggzmxmb.png)
+
+![image](../data/images/ad_4nxeorzfekayegplb-zo-urpfc5-nx63yrg2f4ogagr7dxl6mqerpll6d3mhled-qth6r2vxxo0omfuj7hkeuiaelq84kvqdmtilmmddi1peuxrr9b4hy54tzreksdsz3cshazi9ktexocelerd9fcfa6eliz.png)
+
+Make sure to choose your start point carefully. Once you have started recording your Route path, you will not be able to change it. If you want to change your start point but have already started recording your Route path, you will have to quit and restart the Route creation process from the beginning.
+
+Once you have chosen a location to serve as your start point, you will also need to select a location that will be the Route end point. You can change your end point at any point while recording your route path or opt to select the end point later by tapping  **Select Later** .
+
+Note that you can select the same location as both start and end point to create a Loop Route.
+
+​​
+
+Review your selected start and end points for your Route. To change a start or end point selection, tap the  **Change**  button next to the point. Tap  **Confirm and Proceed**  when you are happy with your point selections. The next step is to navigate to your start point to begin mapping your Route path.
+
+### Recording the Route path
+
+After you have selected the Route start and end points, you must explore along the map to mark the path you want other Trainers to follow.
+
+Locate your start point on the Map view by looking for the blue flag marker above the PokéStop or Gym you selected. Once you are close enough to your start point, you will receive a notification to begin path recording. Tap the  **Yes**  button to begin.
+
+As you move in the real world, your Route path will be marked on the Map View by a line. You can see the path you’ve walked by pinching to zoom out on the map or by tapping the Route Edit button above the Binoculars menu. Note that the minimum length of a Route is 0.1km, you can track the total length of your Route by tapping on the Route Edit button.
+
+You can pause or quit Route creation at any time by tapping the Route Edit button and selecting  **Pause Route Recording**  or  **Quit Route Creation** . Once you pause Route creation, you will see a pause icon appear on the map to identify your pause location. You must be within 10m of your pause location in order to resume Route creation. This menu will also allow you to set or change your Route end point. To resume the creation for your Route, tap on the Route Edit button and then tap **Resume Route Recording** .
+
+If you paused Route creation, you can also resume it by tapping on the  **Resume Route Creation**  button on the  **Creator**  tab. This will allow you to resume exploring the Route path or adding Route details before submitting.
+
+### Ending and Submitting your Route
+
+Once you are satisfied with the path you have recorded for other Trainers to follow along your Route, you can end the route by arriving at the pre-selected end point for your Route. You can also change the end point at any time during your Route path recording by tapping the Route Edit button and tapping  **Choose New End Point** .
+
+Once you are close enough to your end point, a pop-up will appear allowing you to continue recording your path by tapping  **Continue Recording**  or complete your path recording by tapping  **Yes, I’m Done** . Continue with the Route creation process by tapping  **Write Now**  to add additional information about your Route or tap  **Write Later**  to pause Route creation. Resume the process at any time by tapping the  **Resume Route Creation** button on your Trainer Profile.
+
+When you are ready, add a Route title and description to your Route. This information should be descriptive enough for other Trainers to know a little bit about the path you have created. You can also add up to 5 optional Route tags to help other Trainers know a little bit more about what to expect on your Route, such as  **Art** ,  **Nature** , etc. Tap  **Next**  once you are satisfied with the details.
+
+The last step is to design a Route Badge that other Trainers will receive when they complete your Route. Choose from one of the Wayspot Photo Contributions from either your start or end point as the Icon and set a color for your Badge header.
+
+Tap  **Next**  to review your Route name, description, tags, and Badge, and tap  **Submit**  to send your Route for moderation.
+
+### Route Review Process
+
+Once you have submitted your Route, it will go through moderation before it will appear for other Trainers to follow.
+
+You can check on the status of your Route at any time from your Trainer Profile. Scroll to the  **Routes**  section and tap on the  **Creator**  tab to see a list of Routes that have been published, are pending moderation, or that have been rejected. You will only be able to see this tab once you have submitted your first Route.
+
+If your Route has been rejected, you can tap on it from the Creator list to see a notification with the reason the Route was rejected. Certain Routes may be eligible for resubmission and may feature a button to  **Edit and Resubmit** .
+
+Note that multiple submissions of Routes that are in violation of our policies and best practices may result in being banned or suspended from Pokémon GO.
