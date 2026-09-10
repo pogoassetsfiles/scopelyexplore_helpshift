@@ -1,0 +1,11 @@
+---
+id: 1258
+title: Restricting In-App Purchases (Android)
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1258-restricting-in-app-purchases-android/
+---
+
+On Android, you can restrict in-app purchases by requiring a password for each in-app purchase:
+
+* Open the  **Google Play Store**  app.
+* Tap  **Menu**  >  **Settings**  >  **Require Authentication For Purchases** .
+* Select the  **For all purchases through Google Play on this device**  option *.*
