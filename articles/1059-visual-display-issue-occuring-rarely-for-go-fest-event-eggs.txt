@@ -1,0 +1,12 @@
+---
+id: 1059
+title: Visual display issue occuring rarely for GO Fest event Eggs
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1059-visual-display-issue-occuring-rarely-for-go-fest-event-eggs/
+---
+
+**Issue Description:**
+For certain 5km and 10km eggs, the egg will incorrectly display the list of 2km Pokémon.
+This a visual bug only, the Pokémon hatching from the 10km egg will still be from the correct grouping for that egg's km.
+
+**Issue Status:**
+Investigating - to be fixed in a future update.
