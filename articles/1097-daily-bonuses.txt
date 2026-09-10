@@ -1,0 +1,107 @@
+---
+id: 1097
+title: Daily Bonuses
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1097-daily-bonuses/
+---
+
+Earn bonuses for catching Pokémon or visiting PokéStops every day. Earn an even larger bonus for completing these activities for 7 days in a row. After completing these activities for 7 days in a row, your streak resets and you can begin working towards a new streak.
+
+###
+
+### First Catch of the Day
+
+###
+
+The first Pokémon you catch in a day will have a bonus of 500 XP and 600 Stardust. If you catch a Pokémon every day for 7 days in a row, you will earn a bonus of 2500 XP and 3000 Stardust.
+
+**1 Day Streak**
+
+**2 Day Streak**
+
+**3 Day Streak**
+
+**4 Day Streak**
+
+**5 Day Streak**
+
+**6 Day Streak**
+
+**7 Day Streak**
+
++500 XP
+
++600 Stardust
+
++500 XP
+
++600 Stardust
+
++500 XP
+
++600 Stardust
+
++500 XP
+
++600 Stardust
+
++500 XP
+
++600 Stardust
+
++500 XP
+
++600 Stardust
+
++2500 XP
+
++3000 Stardust
+
+### First PokéStop of the Day
+
+###
+
+The first PokéStop you visit in a day will have a bonus of 500 XP and extra Poké Balls, Potions, and/or other items. If you visit any PokéStop every day for 7 days in a row, you will earn a bonus of 2500 XP and an even larger amount of extra items.
+
+**1 Day Streak**
+
+**2 Day Streak**
+
+**3 Day Streak**
+
+**4 Day Streak**
+
+**5 Day Streak**
+
+**6 Day Streak**
+
+**7 Day Streak**
+
++500 XP
+
++extra items
+
++500 XP
+
++extra items
+
++500 XP
+
++extra items
+
++500 XP
+
++extra items
+
++500 XP
+
++extra items
+
++500 XP
+
++extra items
+
++2500 XP
+
++ many extra items
+
+A day is defined as a day of the week, midnight to midnight in your local time. For example, if you catch a Pokémon at any time on Tuesday local time, you will be eligible for the next daily bonus on Wednesday at 12:00 AM local time.
