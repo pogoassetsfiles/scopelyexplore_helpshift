@@ -1,0 +1,56 @@
+---
+id: 1288
+title: Kids at Scopely Explore Frequently Asked Questions
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1288-kids-at-scopely-explore-frequently-asked-questions/
+---
+
+The [Kids at Scopely Explore Parent Portal](https://nianticlabs.com/parent-portal?hl=en) allows parents to manage their child’s experience across Scopely Explore games and make sure their child’s personal information remains secure. Parents are able to review and approve their children’s access and permission requests before playing Scopely Explore games.
+
+### Why did I receive a request to review my child’s account?
+
+Since your child is under the age of digital consent, you need to review and approve your child’s game and permission requests before they can play Scopely Explore games. In order to comply with the Children’s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR), Scopely Explore is required to obtain verifiable consent from the child’s parent prior to gathering any personal information from a child.
+
+When your child signed up to play Pokémon GO, we asked them to share your email address so we could contact you to provide consent. Before they can play Pokémon GO, you need to create a Kids at Scopely Explore account so you can approve your child’s game and permission requests.
+
+Your child will not be able to access Pokémon GO until you approve the request via the Kids at Scopely Explore Parent Portal. You can use the Kids at Scopely Explore Parent Portal to manage the privacy settings of your child’s account. You will have options to control what personal information Scopely Explore collects from your child and will always be informed of any new requests so you can review and approve them.
+
+If you do not approve the request within a reasonable time of your receiving the initial permission request email, then the record of your online contact information will be deleted.
+
+### Why do you need my credit card details to verify my account?
+
+We’re required by law to obtain verifiable consent from the child’s parent before we gather any personal information from the child. Because of this, we need to verify your identity so we know you are really you.
+
+One of the most common identity verification methods is charging or authorizing a small amount to your credit card. The credit card transaction proves your identity. This process is handled by our verification provider SuperAwesome, in accordance with their Privacy Policy, meaning that your credit card information will NOT be shared with Scopely Explore. Your credit card will NOT be used for any other purpose.
+
+The amount and type of transaction depends on your location:
+
+* In the US, this is a one-time charge for $0.50. This is a payment and NOT a temporary authorization hold. The full amount of this charge is donated to charity by our identity verification provider SuperAwesome. No further charges will be made to your credit card after this verification payment.
+
+* Outside the US, SuperAwesome places a temporary authorization hold for £0.30. Authorization holds are not charges and will be removed by your financial institution after approximately 7 days.
+
+### How do I approve or revoke my child’s permissions?
+
+Within the Kids at Scopely Explore Parent Portal, parents can enable and disable what personal information Scopely Explore collects from your child.
+
+* Visit the [Kids at Scopely Explore Parent Portal](https://nianticlabs.com/parent-portal?hl=en) and log into your parent account.
+ [![](../data/images/cd045d73-7945-43e9-b41f-3482e96854a6.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/cd045d73-7945-43e9-b41f-3482e96854a6.png)
+
+* On the overview page, click See Profile to view your child’s permissions.
+    [![](../data/images/b74331da-2904-47f0-9a86-58ce1c6ce14c.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/b74331da-2904-47f0-9a86-58ce1c6ce14c.png)
+
+* Under the Active Apps section, click Review to manage each permission for Pokémon GO.
+ [![](../data/images/6ba30ff8-b3ed-4152-be87-6b73b38655ea.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/6ba30ff8-b3ed-4152-be87-6b73b38655ea.png)
+
+### Can I link my Kids at Scopely Explore account to another login method?
+
+No. The account linking functionality is not available to children under the age of 13. Trainers under the age of 13 will not see the option in the Settings menu.
+
+### Can I enable Friend List, Trading Pokémon, sponsored PokéStops, and other features on my child’s Kids at Scopely Explore account?
+
+If your child logs into Pokémon GO using Kids at Scopely Explore, you can opt into[enabling social features](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1026-how-can-my-child-access-social-features-such-as-friends-gifting-and-trading/)such as Friends, Gifting, Trading, and [sponsored PokéStops](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/67-how-can-my-child-access-sponsored-in-game-locations/) for your child in the  [Kids at Scopely Explore Parent Portal](https://nianticlabs.com/parent-portal?hl=en). You can also revoke your child’s access to these features at any time.
+
+**Please Note:** If you enable social features on your child’s account, your child’s friends will see your child's Trainer profile and limited information about the location where your child initially collected Pokémon or Gifts. When your child makes new friends, you will receive a digest email listing the new friendships your child has made that day.
+
+### Need to get in touch with us regarding an issue with Kids at Scopely Explore?
+
+Please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1) and select "Sign-in issue".
