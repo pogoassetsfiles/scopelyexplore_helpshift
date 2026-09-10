@@ -1,0 +1,9 @@
+---
+id: 1159
+title: What is a Premium Battle Pass?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1159-what-is-a-premium-battle-pass/
+---
+
+**Premium Battle Passes**  are items that can be exchanged for entry into a Raid Battle or to unlock Premium Rewards in GO Battle League. Premium Battle Passes can be purchased from the Shop with PokéCoins or earned as rewards for completing certain Special Research tasks.
+
+**Note:** With the launch of the GO Battle League, all Premium Raid Passes have been renamed as Premium Battle Passes. They function just like Premium Raid Passes, but can also be used to unlock Premium Rewards.
