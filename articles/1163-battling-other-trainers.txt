@@ -1,0 +1,109 @@
+---
+id: 1163
+title: Battling Other Trainers
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1163-battling-other-trainers/
+---
+
+Pokémon GO allows you to battle other Trainers with parties of three Pokémon. Knock out all your opponent's Pokémon or deal more damage before time runs out to claim victory.
+
+There are  **three ways to challenge other Trainers** :
+
+* Challenge a nearby Trainer by scanning their Battle Code
+
+* Challenge your [Friends](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2847-friend-list-friendship-levels-1614900279/) remotely from anywhere in the world.
+
+* [Match with other Trainers in GO Battle League](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2312-go-battle-league/?p=web&l=en&s=top-articles&f=go-battle-league).
+
+**Note** : For child accounts, parents or guardians may opt into enabling multiplayer features through the [Kids at Scopely Explore Parent Portal](https://parents.nianticlabs.com/) or [Pokémon Trainer Central](https://www.pokemon.com/us/pokemon-trainer-club/login) website.
+
+**Tip** : Before battling other Trainers, consider practicing by [battling team leaders](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2311-battle-training-with-team-leaders/) or battling [Team GO Rocket Grunts](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1936-team-go-rocket-grunts/?p=web&s=top-articles&f=team-go-rocket-grunts-shadow-pokemon).
+
+## 1. Starting a Battle
+
+### Starting a Battle with Nearby Trainers
+
+To start a battle with a nearby Trainer, you will have to be in close proximity to one another. Start a battle using your  **Battle Code** , a QR code that other Trainers can scan to battle you. Scan another Trainer’s Battle Code or ask them to scan yours to start a battle.
+
+[![image](../data/images/e264ab40-fdd7-4c97-9fbc-0987a8c4e096-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/e264ab40-fdd7-4c97-9fbc-0987a8c4e096-2t.png)
+
+If you're level 10 or above, tap Main Menu > Battle and scroll down to Nearby Battle.
+
+**Note** : Battle Codes are different than the QR codes used to add Friends. These Battle QR Codes are used only to initiate a Trainer Battle and a new one generates every time you sign into Pokémon GO.
+
+### Battling Friends Remotely
+
+To challenge a Friend without having to be in close proximity to each other:
+
+* From the Map View, navigate to your  **Trainer Profile** .
+
+* Tap the  **Friends**  tab at the top of the screen to open your Friend List.
+
+* Select a Friend that you wish to challenge.
+
+* Tap the  **Battle**  icon.
+
+* Tap on  **LET’S BATTLE!** to send the Challenge.
+
+**Tip** : If you’d like to stop receiving Battle Challenges, you can disable this feature by visiting the Settings page and unchecking Battle Challenges from Friends.
+
+### Challenging Trainers Online in GO Battle League
+
+[Read this article to learn about GO Battle League.](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2312-go-battle-league/?p=web&l=en&s=top-articles&f=go-battle-league)
+
+## 2. Selecting a League and Battle Party
+
+Before starting a battle, you’ll need to select a League.  **Leagues**  ensure Pokémon always match up against a Battle Party of comparable strength by limiting each Pokémon’s maximum Combat Power (CP). You can choose from three different Leagues to compete in:
+
+* **Great League** : Maximum CP can’t exceed 1,500.
+
+* **Ultra League** : Trainers unlock this League when they own at least 3 Pokémon whose CP values are above 1,500 CP. Maximum CP can’t exceed 2,500.
+
+* **Master League** : Trainers unlock this League when they own at least 3 Pokémon whose CP values are above 2,500 CP. This League has no maximum CP limit.
+
+[![image](../data/images/77135578-554e-46d5-81f7-d302034e9d6c-t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/77135578-554e-46d5-81f7-d302034e9d6c-t.jpg)
+
+You can select three Pokémon for your Battle Party. Pokémon will automatically be recommended based on their Combat Power (CP) in relation to a League’s criteria. Be sure to vary the Pokémon in your Battle Party to exploit any potential type matchups by switching between Pokémon during battle.
+
+## 3. How to Battle
+
+To win a battle, use Fast Attacks, Charged Attacks, and Protect Shields to damage your opponent’s Pokémon and defend your Pokémon. You can also [learn about type effectiveness](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2132-type-effectiveness-in-battle/?p=web&s=top-articles&f=type-effectiveness-in-battle) and switch Pokémon to maximize your damage output and limit incoming damage.
+
+**Fast Attack**
+
+Tap anywhere on the screen to perform a Fast Attack. Fast Attacks recharge your Charged Attack meter.
+
+[![fast attack](../data/images/89e8e316-7292-448e-94c6-0513d9a948b1.gif)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/89e8e316-7292-448e-94c6-0513d9a948b1.gif)
+
+**Charged Attack**
+
+Once your Charged Attack meter is full, tap the button to use a Charged Attack. After initiating a Charged Attack, multiple type symbols will appear in a particular pattern on screen for a limited time. The type of attack you use (e.g., Electric, Psychic, etc.) determines the pattern. Tap and drag a finger along your screen to touch as many icons as you can before they disappear to strengthen the attack as much as possible.
+
+[![image](../data/images/6957df77-b121-4b73-9aa9-afa01f35ec2e.gif)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/6957df77-b121-4b73-9aa9-afa01f35ec2e.gif)
+
+If you don't use a Charged Attack once you've filled the meter, you continue using Fast Attacks can fill the meter one additional time. This allows you to use two Charged Attacks in quick succession.
+
+[![image](../data/images/1617b106-58fc-4f07-afaf-1cebd00634e1.gif)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/1617b106-58fc-4f07-afaf-1cebd00634e1.gif)
+
+**Defending**
+
+When your opponent initiates a Charged Attack, you will have the opportunity to defend using a Protect Shield. Use Protect Shields wisely, since you’re given a limited number of shields per battle.
+
+[![image](../data/images/33266d55-204f-4957-bd6c-88bb73b161b7.gif)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/33266d55-204f-4957-bd6c-88bb73b161b7.gif)
+
+**Switching Pokémon**
+
+Tap one of the Pokémon on the right side of your screen to pull back your current Pokémon and send out another Pokémon.
+
+[![](../data/images/15c02292-659d-4d60-8457-831de6d4cf61.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/15c02292-659d-4d60-8457-831de6d4cf61.jpg)
+
+Switching Pokémon a great way to avoid taking damage from your opponent’s super-effective attacks. But keep in mind that your opponent can keep attacking while you’re switching Pokémon, so do so as fast as possible to avoid losing too much HP.
+
+**Ending a Battle**
+
+A battle continues until time runs out or you all of one player’s Pokémon have fainted.
+
+## 4. After Battle
+
+When battling friends and nearby trainers, both players will earn rewards for participating in a battle, but only the winning Trainer will get to level up one of three medals: Great League Veteran, Ultra League Veteran, or Master League Veteran. Once the battle ends, you can request a rematch or send a Friend invite to your opponent. You can battle as often as you like, but you can only receive rewards for up to three battles per day.
+
+Winning GO Battle League matches yields either [Basic or Premium Rewards](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2312-go-battle-league/?p=web&l=en&s=top-articles&f=go-battle-league), and completing a GO Battle League set gives you Stardust.
