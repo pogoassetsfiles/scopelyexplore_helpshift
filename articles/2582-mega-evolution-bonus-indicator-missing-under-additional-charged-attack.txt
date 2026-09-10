@@ -1,0 +1,11 @@
+---
+id: 2582
+title: Mega Evolution Bonus indicator missing under additional Charged Attack
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2582-mega-evolution-bonus-indicator-missing-under-additional-charged-attack/
+---
+
+**Issue Description:**  The additional Charged Attack unlocked by Mega Evolving a Pokémon that can Mega Evolve to Super Max Level is missing the visual indicator on the Pokémon’s detail page that shows the power bonus to this additional Charged Attack based on the Pokémon’s Mega Levels.
+
+Please note that this is a visual issue only and the power bonus is still being applied. Learn more about how the Mega Evolution power bonus is applied to the additional Charge Attack [here](https://scopelyexplore.helpshift.com/hc/faq/1197-what-is-mega-evolution/).
+
+**Issue Status:**  Investigating.
