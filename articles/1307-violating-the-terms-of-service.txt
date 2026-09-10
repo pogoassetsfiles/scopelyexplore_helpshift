@@ -1,0 +1,16 @@
+---
+id: 1307
+title: Violating the Terms of Service
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1307-violating-the-terms-of-service/
+---
+
+Our main priority with Pokémon GO is to provide a fair, fun, and safe experience for all players. With that goal in mind, we take action against players who violate the [Pokémon GO Terms of Service](https://www.nianticlabs.com/terms/pokemongo/en) and the Trainer Guidelines.
+
+This includes, but is not limited to:
+
+* promoting or engaging in harassment against any individual or group,
+* falsifying location,
+* using emulators, modified or unofficial software,
+* and/or accessing Pokémon GO clients or backends in an unauthorized manner including through the use of third party software or add-ons.
+
+If you believe your account has been terminated in error incorrectly, you may [appeal the termination](https://niantic.helpshift.com/a/pokemon-go/?s=general&f=submit-a-ban-appeal&p=all) through the web-form.
