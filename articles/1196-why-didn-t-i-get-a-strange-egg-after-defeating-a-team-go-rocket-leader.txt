@@ -1,0 +1,7 @@
+---
+id: 1196
+title: Why didn't I get a Strange Egg after defeating a Team GO Rocket Leader?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1196-why-didn-t-i-get-a-strange-egg-after-defeating-a-team-go-rocket-leader/
+---
+
+To [receive a Strange Egg after defeating a Team GO Rocket Leader](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2743-what-are-strange-eggs-and-how-do-i-obtain-them/), you’ll need to have space in your Egg inventory, Item Bag, and Pokémon storage before your battle with Sierra, Cliff, or Arlo.
