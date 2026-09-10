@@ -1,0 +1,61 @@
+---
+id: 1320
+title: Network Connection Troubleshooting Steps
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1320-network-connection-troubleshooting-steps/
+---
+
+If you are experiencing issues with your device's connection, please attempt the following troubleshooting steps.
+
+## **Ensure mobile data is enabled**
+
+Access to mobile data is required for establishing an internet connection
+
+Android:
+
+* Go to Settings
+* Select Network & Internet or Connections
+* Turn on Mobile Data or Cellular Data
+
+iOS:
+
+* Go to Settings
+* Select Cellular
+* Turn on Cellular Data
+
+## **Enable data roaming**
+
+Enabling data roaming will allow your device to access local networks both as an international and domestic user
+
+Android:
+
+* Go to Settings
+* Select Network & Internet or Connections
+* Select Mobile Networks
+* Turn on Data Roaming
+
+iOS:
+
+* Go to Settings
+* Select Cellular
+* Select your SIM
+* Turn on Data Roaming
+
+## **Switch between 4G & 5G**
+
+5G networks continue to evolve and offer varying levels of wireless performance.  If your gameplay feels sluggish, please try switching to 4G on your device.
+
+Android:
+
+* Go to Settings
+* Select Network & Internet or Connections
+* Select Mobile Networks
+* Select Network Mode
+* Turn on LTE/3G/2G
+
+**iOS:**
+
+* Go to Settings
+* Select Cellular
+* Select your SIM
+* Select Voice & Data
+* Turn on LTE
