@@ -1,0 +1,33 @@
+---
+id: 1276
+title: How to find your Apple Relay Email
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1276-how-to-find-your-apple-relay-email/
+---
+
+If you created an account with [Sign in with Apple](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2433-about-sign-in-with-apple/?p=all&s=account-sign-in&f=about-sign-in-with-apple) and selected “Hide my Email,” your account may be associated with an email address ending in privaterelay.appleid.com. This relay email address was automatically generated for you by Apple and remains linked to your Apple ID.
+
+There may be occasions when Scopely Explore Support may need to confirm your Apple Relay Email, such as processing an account deletion request. There are a few ways that you can confirm your Apple Relay Email address.
+
+### On your iPhone or iPad:
+
+* Open the Settings app, then tap your name to view your Apple ID settings.
+
+* Tap Password & Security.
+
+* Tap Apps Using Your Apple ID.
+
+* Tap  **Pokémon GO** .
+
+* The Apple Relay Email will be displayed under  *This App Received:* .
+
+### On the web:
+
+* Sign in to appleid.apple.com.
+
+* Go to the Security section. Under Sign in with Apple, select  **Manage apps & websites** .
+
+* Select  **Manage** .
+
+* Click  **Pokémon GO**
+
+* The Sign in with Apple settings will be summarized in this window. You will see your Relay Email under "Hide My Email".
