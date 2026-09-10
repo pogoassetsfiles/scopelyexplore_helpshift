@@ -1,0 +1,94 @@
+---
+id: 1302
+title: Player Guidelines
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1302-player-guidelines/
+---
+
+## About these guidelines
+
+We want to provide a fun and safe experience for all Scopely Explore explorers across all our games, communities, social features and while you’re out exploring in the real world and the following guidelines will help ensure you and other players have a great experience.
+
+These guidelines apply to all Scopely Explore games and services, including Campfire, and must be adhered to by all players and developers. Any violation of these rules can result in the suspension of your account. On top of these guidelines, other social features or channels like our official communities, public or private groups on Campfire, the[Live Event Code of Conduct](https://nianticlabs.com/live-event-coc?hl=en) and Wayfarer might have additional rules around content and behavior. It is our responsibility to ensure these rules are clearly communicated and accessible, and yours to ensure you learn and abide by any additional rules in the communities that you’re a part of.
+
+While interacting with others, be mindful that certain interactions that seem harmless or fun to you may be perceived differently by other players or bystanders.
+
+If you are around other players who are violating these guidelines, please remove yourself from the situation and don’t engage. Report the situation to us through the in-app support options or through our web-based help centers.
+
+## 1 - Treat others as you’d like to be treated
+
+Unlike many other games, you may actually meet the people you play with in real life. It’s in everyone’s best interest to keep things respectful and fun for all. Respect other players and other people you may encounter while playing, both in-game and in the real world.
+
+Here are a few principles of respect to keep in mind:
+
+* Never defame, abuse, harass, bully, harm, stalk, or threaten another player.
+* Be mindful of sharing personal details or identities of other players without their content, even if you know them personally. This includes any information about another user’s identity, including their name, phone number, email address, location or physical address.
+* Respect the privacy of others when taking photos, videos or 3D scans. If someone asks you to delete their picture or video, please do so.
+* Do not impersonate other people or brands.
+
+## 2 - Adhere to the rules of the real world
+
+Our games are designed to be played outdoors. As with any outdoor activity like hiking, biking, or playing sports in a park, we encourage everyone to exercise caution and play safely.
+
+Here are some additional considerations as you traverse the real world:
+
+* Remain aware of your environment and avoid going into any inappropriate or dangerous areas, or any area where you are not permitted to be. Do not trespass.
+* Be kind and respectful towards other players or bystanders that you might encounter while exploring.
+* When on the go, players should remain aware of hazards, including other pedestrians, traffic, and obstacles.
+* As with any mobile app, our games should not be used while driving a vehicle.
+* During live events, ensure that you’re mindful of other players around you and abide by the rules of gameplay as defined by Scopely Explore.
+
+For our games that allow children to play: parents should guide and supervise their children’s usage, including where to play and how to use a mobile phone app safely. Please turn to our Parents [Portal](https://app.parents.nianticlabs.com/en/login) for additional guidance and resources on this topic.
+
+If you ever feel that you or someone you know are in immediate danger, please contact local authorities immediately for assistance.
+
+## 3 - Avoid inappropriate content and behavior that threatens safety
+
+We want our players to explore the world together, share interesting content that they have discovered through our products, organize real-world gameplay events and bond over their shared experiences. To ensure we stay true to this mission, we may review the content you create within our products, flagged by another player or automated systems, and take action if we believe it’s inappropriate.
+
+Inappropriate content may include:
+
+* Hate speech or content that promotes hatred based on players’ identity, for instance on the basis of their race, ethnicity, religion, gender or gender identity, disability, sex or sexual orientation or any other identity factor.
+* Content that promotes, encourages, or affiliates with terrorist organizations or violent extremist groups.
+* Antagonistic speech or actions, including behavior that bullies, abuses, or harasses others.
+* Content posted to defame, abuse, harass or threaten another player.
+* Content that displays adult nudity or sexual activity.
+* Content that sexualizes minors; any attempt to engage in sexual or sexually suggestive conversations with minors;
+* Content that promotes or assists in illegal activity or facilitates transaction of prohibited goods.
+* Content that includes graphic imagery, gore or violence.
+* Spam, ads, promotions, or content that is designed to mislead, deceive, or otherwise harm users.
+* Content that violates other’s intellectual property rights including copyrights or trademarks. This includes impersonation or false affiliation.
+* Any content that promotes violations of our Terms of Service, Live Event Code of Conduct, Campfire Content and Conduct Policies or these guidelines themselves.
+
+The safety of our players and users is of utmost importance. If we are made aware that a player has committed a severe safety offense off-platform, we may terminate their account. These offenses include, but are not limited to: :
+
+* Conviction for sexual offenses
+* Membership in a terrorist or violent extremist organization
+* Mass or serial violence
+* Membership in organized crime or hate groups
+* Any behavior that threatens the safety of others
+
+Each game has an intended age rating which you can find in the [App Store](https://help.apple.com/app-store-connect/#/dev269f11291), [Google Play Store](https://support.google.com/googleplay/answer/6209544?hl=en) or the Samsung Galaxy Store listing. Keep this age rating in mind when sharing content and use discretion when interacting with others.
+
+## 4 - Play fair
+
+Don’t cheat. Our games are meant to be played outside on mobile devices and create adventures in the real world. Don’t deny yourself or someone else a fair gameplay experience by cheating.
+
+Unfortunately, methods of cheating are limited only by cheaters’ imaginations, and include the following:
+
+* Using modified or unofficial software.
+* Using multiple or shared accounts to circumvent gameplay.
+* Using tools or techniques to alter or falsify your location (“spoofing”).
+* Intentionally exploiting a bug to gain reward.
+* Manipulating matchmaking, outcomes, rankings, or any other element of competitive gameplay systems.
+* Abusing the refund policy.
+* Buying/selling/trading accounts, in-game currency, or items on third-party platforms or any other activity that is in violation of Scopely Explore’s Terms of Service, available here: https://nianticlabs.com/terms/.
+
+These guidelines were developed with consideration to human rights principles. We aim to support freedom of expression, diversity, privacy, transparency and due process.
+
+## How we enforce the Terms of Service and these guidelines.
+
+We use a mix of automated systems and user reports to identify content or conduct that violates the Terms of Service and/or these guidelines and take action against those players.
+
+Scopely Explore uses multiple technology detection systems to flag, hide, or block potentially dangerous or harmful content. One such system, PhotoDNA hash-matching is used to identify known illegal images and videos of child sexual abuse material and report them to domestic or international law enforcement.
+
+If you violate our Player Guidelines, we may issue a warning, degrade your gameplay experience, suspend your account, or permanently terminate your account, sometimes without warning. Depending on the situation, these actions may be enforced across one, multiple or all of our products and services we offer; and you may no longer be allowed to create a new Scopely Explore account.
