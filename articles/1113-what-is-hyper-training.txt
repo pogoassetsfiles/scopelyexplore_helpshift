@@ -1,0 +1,60 @@
+---
+id: 1113
+title: What is Hyper Training?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1113-what-is-hyper-training/
+---
+
+**Hyper Training**  allows Trainers to improve the [stats](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/129-appraising-your-pokemon/) of a specific Pokémon by accomplishing specific sets of tasks. Think of Hyper Training as a super-powered workout regime for your Pokémon, allowing them to improve their HP, Attack, or Defense stats (or all three)! When you improve a Pokémon’s stats, their CP also increases.
+
+Hyper Training may offer different benefits for your Pokémon:
+
+* **Strategic Stat Optimization**
+
+* Hyper Training allows you to enhance the stats most crucial to a Pokémon’s role, making it more effective in specific scenarios such as defending a Gym, battling in GO Battle League, or battling in Raid Battles.
+* **Improving stats**
+
+* Pokémon with lower stats can still reach their full potential through Hyper Training. This feature helps strengthen valuable Pokémon regardless of their initial stats.
+* **Maximizing Existing Stats**
+
+* Hyper Training enables you to further develop Pokémon you’ve already acquired, allowing you to make the most of your current Pokédex collection.
+
+While Hyper Training is available to all Trainers, there are a few important considerations to keep in mind before you can get started:
+
+* In order for a Pokémon to be eligible to undergo Hyper Training, they must first reach the Good Buddy level or higher.
+* To make progress towards Hyper Training tasks, the Pokémon must be your buddy.
+* Shadow Pokémon and Pokémon that already have a 4-star rating are not eligible for Hyper Training.
+* After a bottle cap is used, a Pokémon can only be in Hyper Training for a limited time, for a maximum of 1 year.
+* Pokémon that have undergone Hyper Training cannot be sent to [HOME](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2787-sending-pokemon-to-pokemon-home/).
+
+### **Bottle Caps**
+
+Once you have decided on a specific Pokémon you’d like to Hyper Train, you'll need a special item called a  **Bottle Cap** . This is an  *extremely*  rare, one-time-use item that can be used on a Pokémon to enter it into Hyper Training. You can obtain these by completing various in-game research tasks and receiving them as rewards.
+
+* **Gold Bottle Caps** can be used to enter a Pokémon into Hyper Training for multiple stats. You will need to confirm how much you want each stat to increase.
+* **Silver Bottle Caps**  can be used to enter a Pokémon into Hyper Training for a single stat. You will need to confirm which stat you want to train, and how much you want that stat to increase. Multiple Silver Bottle Caps can be used on the same Pokémon, as long as that Pokémon has already finished Hyper Training.
+
+**Please Note:**  A Bottle Cap will only stay in your Item Bag for a limited time. Once it appears in the “Expiring Soon” tab of your items, try to use it as soon as you can.
+
+### Getting Started with Hyper Training
+
+Once your Pokémon is a Good Buddy or higher, you can begin their Hyper Training. There are three ways to begin:
+
+* Navigate to the Pokémon detail page for your chosen Pokémon, then scroll down to the  **Hyper Training**  button. If this Pokémon is not eligible, the button will be unavailable.
+* Tap on the Bottle Cap in your Item Bag and select the Pokémon you want to enter into Hyper Training.
+* If a Pokémon is currently adventuring with a Trainer as their active Buddy, the  **Hyper Training** button can be accessed from the Buddy Page.
+
+**Trainer tip:** Hyper Training a Pokémon's stats will also increase their CP. If you intend to use your Pokémon in GO Battle League, it's important to keep each League's CP limits in mind. If Hyper Training will cause a Pokémon’s CP to exceed certain Battle League limits, you will be warned before agreeing to that training plan.
+
+### Improving Stats while undergoing Hyper Training
+
+After using a Bottle Cap and confirming the Hyper Training plan with Professor Willow or your Team Leader, you will be presented with a set of tasks that will help to progress your Pokémon’s stats.
+
+The number of points you are looking to increase each stat by will directly correspond to the number of tasks you will need to complete. Each completed task will add 1 point to a specific stat and you can only progress one task per stat at a time.
+
+For exampleif you want to increase your Pokémon’s Defense Stats by 3 points, you will be presented with 3 tasks to complete, with each finished task yielding 1 point. The finished set of tasks will result in 3 points.
+
+**Please Note:**  Training Goals can be adjusted, but can only be set between that particular stat’s current value and max value. If a stat task has been completed and the point awarded, that cannot be reversed.
+
+When a task is completed the stat will automatically be increased. A new task will be immediately available and can be viewed from Today View. Additionally, a “New Hyper Training Task” pop-up will appear on the main screen.
+
+You will be able to see the incremental increase to your Pokémon’s stats the next time you appraise it.
