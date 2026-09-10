@@ -1,0 +1,20 @@
+---
+id: 2584
+title: "You’re too far away" error when checking in to Meetups from Pokémon GO
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2584-you-re-too-far-away-error-when-checking-in-to-meetups-from-pokemon-go/
+---
+
+**Issue Description**
+Some Trainers may receive a “You’re too far away” error when attempting to check in to a Meetup from Pokémon GO, even when they are at the Meetup location. This may prevent them from completing check-in.
+
+ **Issue Status**
+Investigating
+
+ **Workaround**
+
+* Enable precise location for the browser you use to access Campfire.
+ **iOS:** Go to Settings > Privacy & Security > Location Services > select the browser used for check-in > turn on Precise Location.
+ **Android:** Ensure location permission is enabled for the browser used for check-in. If your device shows a Use precise location option, turn it on.
+* Try checking in through [Campfire on the web](https://campfire.nianticlabs.com/discover).
+* If you are still unable to check in, try using the [Campfire app](https://campfire.nianticlabs.com/en/).
+* If the issue continues, contact us through in-game Support for further assistance.
