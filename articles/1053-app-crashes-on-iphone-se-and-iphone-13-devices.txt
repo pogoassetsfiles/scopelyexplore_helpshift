@@ -1,0 +1,9 @@
+---
+id: 1053
+title: App Crashes on iPhone SE and iPhone 13 devices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1053-app-crashes-on-iphone-se-and-iphone-13-devices/
+---
+
+**Issue Description:** We identified an issue where the app crashes on iPhone SE (2nd generation) devices after updating to iOS 26.4.
+
+ **Issue Status:** Investigating
