@@ -1,0 +1,107 @@
+---
+id: 861
+title: Trading Remotely
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/861-trading-remotely/
+---
+
+Trainers that become [Forever Friends](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2847-friend-list-friendship-levels-1614900279/) will unlock the ability to trade remotely.
+
+Forever Friends can be achieved by earning 180 friendship points with a friend.
+
+You will earn one Remote Trade upon first becoming Forever Friends. Once this initial Remote Trade is successfully completed, you will need to earn another 90 friendship points together to trade remotely again.
+
+You can track your progress towards earning another Remote Trade with your Forever Friend by tapping on the progress bar that will appear instead of your Friendship Level.
+
+![image](../data/images/1640883a-7100-4b5e-93f5-fb923ed90ca0.png)
+
+**How to Trade Remotely**
+
+1. TAG YOUR POKEMON
+
+![image](../data/images/80676766-d002-4d1d-b678-07035304bfa6.png)
+
+Once you are 5 friendship points away from becoming Forever Friends with a Trainer, you will automatically unlock a special Remote Trade tag that you can use to mark the Pokémon you want to offer in trade with your Forever Friends.
+
+The Pokémon you marked with the Remote Trade tag will be visible to your Forever Friends. Likewise, you will be able to see the Pokémon your Forever Friends have marked with this tag.
+
+2. NAVIGATE TO THE TRADING SCREEN
+
+![image](../data/images/89a7fb5b-80b3-4a2a-ad32-1accd00d9dc2.png)
+
+From the Map View, tap your Trainer Profile.
+
+Tap the Friends tab at the top of the screen to open your Friend List.
+
+Tap on the Trainer that you wish to trade Pokémon with.
+
+Tap on the Remote Trade button to enter the trading screen
+
+3. SELECT POKEMON TO TRADE
+
+![image](../data/images/7d7d9737-4153-4b36-a186-305db2fd7268.png)
+
+To start the Remote Trade, you and your Forever Friend will each need to select up to 3 Pokémon tagged with the Remote Trade tag.
+
+Once you have both selected your desired Pokémon, your selections will be sent to each other.
+
+**Please Note:**  You and your Forever Friend will not need to perform any of the steps in the trading process at the same time.
+
+4. CONFIRM THE TRADE
+
+![image](../data/images/bb00c04d-7a1b-4c95-9293-bb5b975fe220.png)
+
+Select 1 Pokémon to offer from the list of desired Pokémon that your Forever Friend requested.
+
+Your Forever Friend will also be selecting 1 Pokémon to offer from the list that you requested.
+
+5. COMPLETE THE TRADE
+
+![image](../data/images/781bdd7d-6fac-49fc-9693-8307dd91bcf8.png)
+
+Once both of you have completed your selections, you will both be able to review the details of the final trade offer. Confirm the trade after reviewing if you are satisfied with the trade or cancel it if you are unsatisfied to start the Remote Trade process over with your Forever Friend.
+
+The option to cancel the Remote Trade and start it over will be available throughout the entire Remote Trade process.
+
+### **Frequently asked questions**
+
+Is there a daily limit to the number of Remote Trades?
+
+* Trainers can only complete 1 Remote Trade per day.
+
+Do Remote Trades expire?
+
+* You and your Friend have 48 hours to respond to each step in the Remote Trade process.
+
+* Remote Trades may expire and will restart the trading process if the necessary approvals are not given within this timeframe.
+
+Can I complete an in-person trade while a Remote Trade is pending?
+
+* Yes, you can complete an in-person trade with the same friend with which a Remote Trade is pending.
+
+How do Lucky and/or Special Trades work in Remote Trading?
+
+* Just like with in-person trading, if you are Lucky Friends with your Forever Friend, your next completed trade will be a Lucky Trade, even if it is a Remote Trade.
+
+* Additionally, Remote Trades will not be counted as a Special Trade, regardless of what Pokémon were traded.
+
+Are there any Pokémon that cannot be traded remotely?
+
+* The following Pokémon are not eligible for Remote Trades:
+
+* Pokémon caught in the last 30 days
+
+* Previously traded Pokémon
+
+* Shadow Pokémon
+
+* Mythical Pokémon
+
+* Pokémon currently defending Gyms or stationed at Power Spots
+
+* Pokémon currently set as your buddy
+
+* Actively Mega-Evolved Pokémon
+
+* Fused Pokémon
+
+* Crowned Sword Zacian and Crowned Shield Zamazenta
