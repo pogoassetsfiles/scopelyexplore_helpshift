@@ -1,0 +1,9 @@
+---
+id: 1328
+title: I’m on iOS 14, and my location isn’t showing accurately
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1328-i-m-on-ios-14-and-my-location-isn-t-showing-accurately/
+---
+
+The “Precise Location” setting on iOS 14 devices allows apps to detect the user’s precise location instead of approximate location. Since Pokémon GO is a location-based game, the app will not function correctly unless this setting is toggled on.
+
+To find this toggle, go to your Pokémon GO settings, tap Location, set “Allow Location Access” to “While Using the App,” and toggle “Precise Location” to on.
