@@ -1,0 +1,26 @@
+---
+id: 1145
+title: How can my child access social features such as Friends, Gifting, and Trading?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1145-how-can-my-child-access-social-features-such-as-friends-gifting-and-trading/
+---
+
+If your child logs into Pokémon GO using Kids at Scopely Explore or Pokémon Trainer Central (PTC), you can opt into enabling social features such as  [Friends, Gifting, and Trading](https://niantic.helpshift.com/hc/en/6-pokemon-go/section/60-friends-gifting-trading/?s=friends-gifting-and-trading) and [Trainer Battles](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2308-battling-other-trainers/) for your child in either the  [Kids at Scopely Explore Parent Portal](https://parents.nianticlabs.com/) or [Pokémon Trainer Central](https://www.pokemon.com/us/pokemon-trainer-club/login) website.
+
+You can also enable and disable your child’s access to these features at any time by updating their permissions.
+
+#### Updating Permissions for Pokémon Trainer Central:
+
+* Log in to your parent Pokémon Trainer Central account [here](https://access.pokemon.com/login?login_challenge=d43nIzTCTa2rmAl0tXNSdL2Gyh396gBZJdo-uaxjOmG4enDj6nt6XzcncLF0dPrZnGTWk2zqnToDfNSFkwd9nV8Csv30zv9Jbpopig_J5YMzeZX2GdVJxgZH6h4vAGzC8_nAlk7e2d2R4xTgXMwAxcomTl5SwAqlRNhvT5ewZ9H0WgiKUU4rZR3zT1rm6WRqIfMB_hMCeXfX4nMspL0pxvAZkJOnv4D2bPDmWht_J3RYOogW640SeVuu1HFFjMPUOnZ7wDqQIOKaFmFmG5D_kiVqnVrJBdfIbdkJo9hMyfR3I1p_zPf5Uak4uRHV66WMj0kn5CSPsZh2t7A5pgrI-0GN4kIcKLyiV7mETXEyuw2nQLgSkVqZinK0E5yR4W3w5Q577DlGcx7_kLbbZgW24fMkGVcPtmhSsQ5L9jpwRTtapgmmAtaBu__YQn6ErxgZwDA5BZAm2PmPcNj0KsJzmvdMbuviVDF0EAukKtr_BSjyaoBldYopAu1vimywqSZX-ZqybIjDJ5eib9rzRHGLi9W_DKwGY3-dWgKVX3Coo9aLBbCPsYVp5WyGk-sy9UrBPShqjbyYz2bIY9oTYNN6gn_bsPw5feirO9r44ujese854wSnU1H-j18mawSFYZ3hmRnnnv7fzidQ0Rg450twumHUKNc39biUArHSkNKv53g-Xt8Yj00q-wDVU-InVCVm29IShptHpNOIuyvTLNufg5PpSalzatk6ZJvgVAyR99nHFz2UuoQ_aOwkP6HUL9EUbwf7ZpXCrd7ra6TJzqQj5gJUivyoNugTRHjwsdQVSCzS8mc3B5i--Rc53NCxuqmnsbS6HvHY7fL7bkKXrGrjHStb0SQyzTPzd8E_2pf480UQnyinY4RGC8pM-avMRQdmYSXOgKI_b0Tb_knA8U3USbyuTabGygQ0NwfPEtUl7Uh6bL3_Hbps918tcWvNCUXBTfff_Mq-X74XIwlmRfKfHlMUcguSyJl5u4IO6ZYYeYcc8o7Z4BXsE3h4_MogmVQxCvoa6cNU6t_fX2n_5w8yx7TF_MoroJs5IrQ9AiRnURHTBHstsu32lH2LMqxXl-YhCYLnPSgBMUY9KnCp5Jd1rfe2j5iLC09PGiVIAXT6JmV8AJztsAGIxeC3x8VBJFXoBj3jKXlMZYtWwf9g0JVG9q_yvUfxO4f1j2BGk-mSTG8KSH_hXRlOpEJE9zA8kQuTY_oRKYXfrRqx3C6-f3Ne2Fvse_SQ2DGbiTappRB5ivizGJbWg2WqtbN8Vz38_z35KuDAgoi-urQWuMtDUiWpnmFYP4AVtzIrbG7CAHgDBXl5uzENtSJBDeJnhLAfP15PkrJ0pDGyUEqmWNqvzOy_lqVMw5Q-bO4Oyxso86LMMLYR-69um-cmNhZHyS_fnR4vtPrWK-iKPI8P7Qn5XGZpHLDNK0QP9KOWJUy8YfEQ3qoMw5UMVU6xEP4zQZeBXEjm3sNlHV13RWATtCtS2zQGQGfFm905slbXDHpmQ-WQynbrbCfZlvSi25mtMIGAN4q_DWQBtHQuF9ln8rMP4vlaxTEEq5XdyGKPtltT95I43lXFXYPsvlEiTvb8LZyp92JwQt4WiIXrY_GPh3S4DN3SBKUh2zQE00y8d5b_JihdaFpBKHcXkN6YycvInYP2yuugzYtlOYe8p6nayXrPi9E4_XwCeg3mQMtAvqkT1rgc5Oeqtt56uY1OIEX1-ZDnxjnwWZ-JJGleMO09iHxDhZNe66ersp-1ozm9zEKg9Q3g_lgBy4saXUZwu-njSO1OY5ND_VSidQnwNRvW2rj14LV7eKRCJ3FSV2o6XjyMjx03wNdUUQnvUggwNNQr4x1TUc8pNPt3pQ%3D%3D).
+* Select the child account whose permissions you would like to update.
+* Choose Pokémon GO Settings from the left-hand toolbar.
+* Under Permissions for Your Child, you can select what features your child will have access to. Tap the checkbox below each permission to enable it for the child.
+
+**Please note** : Some permissions are only available by first selecting others. If you do not see certain permissions, it means that your child is old enough to choose settings and permissions on their own Pokémon Trainer Central account.
+
+#### Updating Permissions for Kids at Scopely Explore:
+
+* Visit the [Kids at Scopely Explore Parent Portal](https://nianticlabs.com/parent-portal?hl=en) and log into your parent account.
+* On the overview page, click See Profile to view your child’s permissions.
+* Under the Active Apps section, click Reviewto manage each permission for Pokémon GO.
+
+**Please Note:** If you enable social features on your child’s account, your child’s friends will see your child's Trainer profile and limited information about the location where your child initially collected Pokémon or Gifts. When your child makes new friends, you will receive a digest email listing the new friendships your child has made that day.
