@@ -1,0 +1,17 @@
+---
+id: 1148
+title: What is Party Play?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1148-what-is-party-play/
+---
+
+**Party Play**  is a mode of gameplay within Pokémon GO that will allow you to team up with other Trainers to accomplish various tasks, earn special bonuses, and receive rewards. A Party is composed of between two to four Trainers, including you.
+
+To participate in Party Play, you and the other members of your Party must be physically near one another both to join or host a party and to be a part of a Party. If you or one of the members of your Party is too far away, they will be removed from the Party or be unable to join.
+
+While you are part of a Party, the Trainer avatars of your Party members will appear on your Map View. They will also be able to see your Trainer avatar on their Map View as well. As you move through the real world, your location will be updated on their devices, and you will see their location change as they move.
+
+Note that Trainers logging in using kids accounts via Pokémon Trainer Central or Kids at Scopely Explore, their Trainer avatar will not appear on others’ Map View, nor will they see other Trainers on their own Map View.
+
+Learn more about how you can control your Party Play experience.
+
+Party Play is available for Trainers that are Level 21 or higher. For Trainers logging in using kids accounts via Pokémon Trainer Central or Kids at Scopely Explore, parents or guardians may opt into enabling this feature by granting appropriate permissions. Read [this article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1026-how-can-my-child-access-social-features-such-as-friends-gifting-and-trading/?p=web&s=friends-gifting-and-trading&f=how-can-my-child-access-social-features-such-as-friends-gifting-and-trading) to learn more about child accounts and how to grant permissions.
