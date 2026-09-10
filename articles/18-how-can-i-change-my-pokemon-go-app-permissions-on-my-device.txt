@@ -1,0 +1,35 @@
+---
+id: 18
+title: How can I change my Pokémon GO app permissions on my device?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/18-how-can-i-change-my-pokemon-go-app-permissions-on-my-device/
+---
+
+If you would like to check on and change your Pokémon GO app permissions, read the steps below to find out how to access these settings.
+
+**Please note** : It is recommended to enable certain app permissions such as Camera and Location to experience the full gameplay of Pokémon GO.
+
+For Android:
+
+* Go to your device’s Settings
+
+* Scroll down and tap Apps
+
+* Find Pokémon GO in the Apps list and tap it
+
+* Tap Permissions
+
+* Tap the App Permission that you wish to change
+
+![image](../data/images/583b36ab-9114-46b2-a4b1-b3e68912d9b5.png)
+
+For iOS:
+
+* Go to your device’s Settings
+
+* Scroll down and tap Apps
+
+* Find Pokémon GO in the Apps list and tap it
+
+* Tap the App Permission that you would like to change
+
+![image](../data/images/c79267a1-3792-4b98-8014-bb413ed5ee75.png)
