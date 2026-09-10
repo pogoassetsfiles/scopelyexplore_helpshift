@@ -1,0 +1,24 @@
+---
+id: 1287
+title: What is Kids at Scopely Explore?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1287-what-is-kids-at-scopely-explore/
+---
+
+**Kids at Scopely Explore**  is a login method for Scopely Explore products designed to obtain parental consent and keep children’s personal information secure when they access our games. This product is ESRB Privacy Certified and certified by the kidSAFE Seal Program.
+
+As a parent or legal guardian, you can register with Kids at Scopely Explore to manage your child’s privacy via the [parent portal](https://parents.nianticlabs.com/). The portal will give parents the tools to review and approve permissions for their children’s accounts, including:
+
+* Access to device GPS and location
+* Friends & social related features (like sending & receiving in-game gifts)
+* Sponsored content and advertisements
+* Shared AR Experiences
+
+Parents or legal guardians will have options to control what personal information Scopely Explore collects from their child, and they will be informed of any new requests to review and approve them.
+
+#### **We automatically enforce parental permissions for children**
+
+When a user first opens one of our apps appropriate for kids, they are asked to provide their birthday. If they are under the age of 13*, we disable non-child-friendly login options and instead display the Kids at Scopely Explore login method. Tap on the Kids at Scopely Explore option to create a child account. Children will need to provide their parent’s or legal guardian’s email address so that we can get their permission before they can play the game.
+
+To learn more about the Kids at Scopely Explore platform and its parental controls, please visit our [help center](https://parents.nianticlabs.com/faq/).
+
+More resources for parents about Kids at Scopely Explore and Scopely Explore Apps, please see the [Scopely Explore Parent Guide](https://nianticlabs.com/parents).
