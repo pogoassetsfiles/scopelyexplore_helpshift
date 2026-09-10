@@ -1,0 +1,59 @@
+---
+id: 1112
+title: What is Pokémon Fusion?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1112-what-is-pokemon-fusion/
+---
+
+**Fusion**  is a process that certain Pokémon can undergo to change form by combining with certain other Pokémon. After undergoing Fusion, the new form of the Pokémon will feature a change to their appearance, improved battle performance through changed states, as well as other benefits.
+
+Pokémon that are eligible to undergo Fusion will have a “Fuse” button and “Fusion Energy” on their summary page.
+
+### How do my Pokémon undergo Fusion?
+
+In order to undergo Fusion, you will need sufficient Candy for both Pokémon. You will also need to generate enough  **Fusion Energy**  for that Pokémon. Fusion Energy is generated in a number of ways including Special Research and as rewards in Fusion Raids.
+
+It’s important to note that different types of Fusion Energy are required for a Pokémon to undergo Fusion with specific Pokémon. For example, for Necrozma to undergo Fusion with Solgaleo it requires  **Solar Fusion Energy** , however  **Lunar Fusion Energy**  is required to undergo Fusion with Lunala.
+
+### How do I Fuse my Pokémon?
+
+Once you have collected enough Candy and Fusion Energy go to an eligible Pokémon’s summary page and tap “Fuse” next to the Pokémon you’d like to Fuse with. You’ll then be able to pick which individual Pokémon of that Pokémon species you’d like to Fuse with. Tap  **Yes**  to begin Fusion.
+
+[![](../data/images/76f73f4f-5a6e-4e54-ab6b-d13986f1c4fb.gif)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/76f73f4f-5a6e-4e54-ab6b-d13986f1c4fb.gif)
+
+After undergoing Fusion, your Pokémon will stay in this new, fused form indefinitely. To Separate your Pokémon, locate the fused Pokémon in your Pokémon inventory and open its summary page. In place of the “Fuse” button will be an option to Separate your Pokémon. There is no Candy or Fusion Energy cost to separate your Pokémon.
+
+Note that multiple Pokémon can undergo Fusion at the same time, unlike with Mega Evolution or Primal Reversion, as long as you have enough eligible Pokémon in your inventory.
+
+Once your Pokémon have Fused, it will have improved Combat Power. This will make your Fused Pokémon more effective when brought into Raid Battles, Gym Battles, Team GO Rocket Battles, etc. Additionally, certain Fused Pokémon will gain a special Charge Attack.
+
+### Fusion Raids
+
+**Fusion Raids**  are similar to standard Raid Battles. However, the Pokémon you are challenging is more powerful than you may have previously experienced. To improve your chances of defeating the Fusion Raid, try Mega Evolving a Pokémon in your Raid Party, inviting Friends to join you in the Fusion Raid, or both! Note that, after defeating the Fused Pokémon in the Fusion Raid, you will only be able to encounter and capture the base Pokémon.
+
+### Frequently Asked Questions
+
+Can any Pokémon undergo Fusion?
+
+* No, only certain Pokémon are eligible to undergo Fusion. Similarly, only certain Pokémon are eligible to be Fused with.
+
+Can Shiny Pokémon undergo Fusion?
+
+* Yes! Shiny Pokémon can undergo Fusion and the resulting new Fused form will also be Shiny. Keep in mind that Fused Pokémon will only be Shiny if the base Pokémon (i.e. the one with the Fuse button) is Shiny.
+
+Can fused Pokémon be Traded?
+
+* No, Pokémon that are currently Fused cannot be traded or transferred to the Professor or to Pokémon HOME.
+
+Can fused Pokémon be your Buddy?
+
+* A Pokémon that is the base for a Fusion (i.e. the one with the Fuse button) can undergo Fusion while it is your Buddy. This Pokémon will earn Candy and affection hearts, and progress towards these will not change after undergoing Fusion. Note that Pokémon that are Fused with (i.e. don’t have the Fuse button) cannot undergo Fusion while they are your Buddy.
+
+* You cannot undergo Fusion with a Pokémon that is currently your Buddy. However a Pokémon that can serve as the base
+
+Will the Fusion Energy and Candy required change over time (similar to Mega or Primal Energy)?
+
+* No, unlike with Mega Evolution or Primal Reversion, the amount of Fusion Energy and Candy required to undergo Fusion will not change.
+
+What if you power up the fused pokemon?
+
+* Powering up a Fused Pokémon will affect the CP of the Fused Pokémon, however this will only affect the base Pokémon after they are Separated.
