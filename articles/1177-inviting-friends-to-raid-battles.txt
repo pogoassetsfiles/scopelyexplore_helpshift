@@ -1,0 +1,35 @@
+---
+id: 1177
+title: Inviting Friends to Raid Battles
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1177-inviting-friends-to-raid-battles/
+---
+
+Trainers who join a Raid Battle in-person can invite up to 5 friends to the Raid Battle, regardless of their friends’ locations. However, invited Trainers can’t invite their own friends to the same lobby, and the limit for the maximum number of Trainers who can join a raid remotely still applies across all Trainers in the lobby, including any invited friends.
+
+Note that Trainers will only be able to participate in 10 Remote Raids per day. This maximum may change and increase for special events. If you attempt to invite a friend who has already reached this daily limit, you will receive an error message.
+
+**Note about child accounts:** Trainers with child accounts can only use this feature if their parents or guardians opt into enabling social features through the [Kids at Scopely Explore Parent Portal](https://parents.nianticlabs.com/) or [Pokémon Trainer Central](https://access.pokemon.com/login?login_challenge=FHbgjBQfu4gTP-8XFp510FgJ7I2gVihnCrgrFkAjPGihCM5JK4YunYE-iAomah8xYSqfJ2RaEGXFBJChVK7DQYE1X7_4kjNvOIE3fMqZxWo8u6U747eMkS9W0XUo2QfCogaSApL50dwvs0s1sSkw1rOXvPpxun6kGddoqwlaHDtnUg_RzR7NH6mf6JvlWmZlF4L1WT4LQQpK0awkZypT8SvpXZySUsknlL66N3jJIhIvl26qRKMJRWB5DQw8lPkBMY_s028vfblhccB0Dq0NYbUb-tCpQjeBams-yA0kUw5YdtIB_8RgDwjOly1r-XbSfPnX5k80nEJCzz-94PPHLwZQv3vMjkZZkZpHI1g8_yFtcpWnRkX5REs0Ts_dSJOw3EPTooc6u1t657QSRrmbyriMTGNk989ujhO0wZNSEqSwzAzWaUbZg6cPzZ8zBCtjlzm_1Dchazj8TgDgi3bK3EcfOYorjJHm62VNzUSesFc94QJBwJsQyCAWq-tEi8_jwYsFL2pWeJBPx-i_R8Qm_4E0otK5jMiOdrPgk8G3FJ1VnUt32Yg1yA9uWzVvsUVO8-hZZIRvvXpgNjPBITO5LOy50ZLo0Ml2K1Oz_QIgPAqjs2J2O9pwQ1imLzHIorUynMAxmTWhTym7C_twXR9chL2O--mPare7um28WCgwKpvbjhTZnV5LuhHPYlZQlepYUUQInGwjCaOAcm4kiwjauEE3LDaJPnoNruhkkv2uPbWIYXvPPfEk31k8bpBqROWDNLFnAV3Sf-MEnCk53LV_dyNj8mDNfv62YiJL4F28mbiRdBymFh8zB7kI2UdDwoCYG7DV6n4VqyYrFzOPD5qjB1H3YdT30KR-By45YIgyrbQyeYJaRyK8Qqg440Ci82Hn8dMjPbzXl54x3IxAgJp8CsFEHJdyqNe3yuV0za44BFy7QHyxS7vz6lKbDiTlM1e0oLxDzquDl1NbNtK9ip9VVyUD-ZMtrLzyiebZ7VCgdjxTEV4vvCU0cFEjBLrquJ18PoNRvomu5ZUR8mehn9qxBL8GijfDklwV2jIqVV0hsQjLd06vBoJl5qyJwqlpry0OdqyMFQ6T1Q2dn0xRgiKkwQ1EjNH8U4ountx-jWfRs054y_h12H1B4xvkHSFfNVImhz_gjd-Ll7w9izIFx7UVMQPTPSz6Lc2E--Nd5WbXbSbnfO92hsoYNhBTll3MjkFuSz1tL8L5rERP4NiZZkRMvK6zl7A9KKUSWsNlXSp0wm60QGD1oSoL-aJxX6n6ubsenNua0oapomc3ATvKxjXoUUYdCwAVQ-bnpzo-iB-8wF3YrLkHUQXpkpJkDYIHp7zHyoWqAaNfnKEHPvCfFleliuMvKMt1ocGql0MmW8xUuev2Q0-8WVIingaj9igxefip6ZWLbEAe52-xCqsuUZU8eVXDLC704Xom1O8dBZHD1ntL2rK4nUA95dMPAhGeMEtrrExLPTT5p8LXEjyQXH0TQ6DasdMk6NeVZPowSpmvd3ebLzIA7Zh4QNLBfOeTFcau9VlK5pJJZMX5wQ1OY40g_5NSJEhDQAuZNj650NS4QfsEtwSMa3HkKHFyPLQaoLt_5D7tJvRiwk3Rk6uNNnYx_Xo-yzkoUUG8cVV6JbbYmYniBdGUvlLmzSiMqW5xWkDYQUjXSowCevnGrD_jS2FrR0HhMvkF2qTh-dkfWmI6ntMEoO4zz7driHHFmk6ll9yDZ1qQKW7GSVt7D86r-HXjewVLWwAtywnLjYWxxC7Ike2UEoElQxbFRWxbli1sAxRmKrHFKlWDMgnLZUuvyjSt-Q5mgXxSfVLoO_cwi8wXY809IpNU5YUn0OZMjEJGxg%3D%3D) website.
+
+### **To invite a friend to a Raid Battle:**
+
+* Join a public or private Raid Lobby.
+
+* Tap the  **Invite Friends**   **button**
+![image](../data/images/ad_4nxeqlfloo2uv_wnzjgw06rongcx1ptadi4b-hwsma0caybwlr4bekxbx2qmdzouybm47kupsxpvh8elizirdnoyoynyyd51jvzo7empwnzibqqiemk3eic5tksqstvs0pildlawu-v3rcruss9fopbnfs0y.png)
+on the right side of the screen.
+
+* Select the friends you would like to invite to the raid (up to 5), then tap “Invite Friends.” Keep in mind that there is a limit to how many Trainers can join a Raid Battle remotely, and this limit applies to invited friends as well. While you can only invite up to 5 friends at a time, after a short cooldown period you can invite more friends to the same lobby if you’d like.
+
+* Once you’ve sent your invitations, recipients will receive a notification that they’ve been invited to a Raid Battle. Invited friends can join the Raid Battle even if you have to leave the lobby yourself. However, if you are the only Trainer in the Raid Lobby and you leave the lobby before anyone else joins (invited friend or otherwise), invited friends will no longer be able to join the lobby with your invitation.
+
+### **To accept an invitation to a Raid Battle:**
+
+* When invited to a Raid Battle, you’ll either receive an in-game notification (if you have the app open) or a push notification (if the app is running in the background or closed). However, you’ll only receive push notifications if the “Raid Invitations” setting is toggled on in your Settings menu.
+
+* You can tap the in-game notification to directly access the Raid Battle to which you’re invited. Tapping a push notification will open the Pokémon GO app, after which you can tap the active raid invitation from the “Nearby” menu.
+[![image](../data/images/c2fb41a8-e720-4789-909c-a3bbb74f9d7c-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/aa6714a5-1db1-4e04-8efa-6d4ce610559e.png)
+
+* Once you’ve accessed the Raid screen, you can join the lobby by tapping the “Battle” button. You’ll need to use a Remote Raid Pass if you are not within an interactable distance of the Gym or a Battle Pass if you are within an interactable distance.
+ **Note:**  If the Raid Lobby is already full or the lobby is already hosting the maximum number of Trainers raiding remotely, you won’t be able to join.
+
+* The invitation will disappear after the Raid Battle has started if you never joined the Raid Lobby. However, if you successfully start the Raid Battle through an invitation but encounter an error and are unable to complete the battle, the invitation will remain in the “Nearby” menu, allowing you to rejoin as long as the Raid Battle is ongoing and up to a few minutes after the Raid Battle is over so you can still encounter and catch the Raid Boss.
