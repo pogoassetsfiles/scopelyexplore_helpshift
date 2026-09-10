@@ -1,0 +1,27 @@
+---
+id: 1233
+title: What’s changing with AR in Pokémon GO?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1233-what-s-changing-with-ar-in-pokemon-go/
+---
+
+In Pokémon GO, you can use AR mode to interact with Pokémon in various ways in the real world. To reflect updates to the AR technology, the different ways in which you can use AR in Pokémon GO are also changing.
+
+Here is what is changing for wild Pokémon encounters, Buddy Snapshot, and GO Snapshot.
+
+### Wild Pokémon Encounters
+
+For the majority of wild Pokémon encounters, you can continue to use AR in the same manner in which you have become used to. [Learn more](https://niantic.helpshift.com/hc/faq/28-catching-pokemon-in-ar-mode/) about catching wild Pokémon with AR mode.
+
+One notable exception is encounters with certain Pokémon that previously required AR, such as Mew and Celebi, will no longer carry this requirement.
+
+### Buddy Snapshot
+
+Taking photos of your [Buddy Pokémon](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2155-buddy-adventure/) will now require you to have AR enabled on your device and within Pokémon GO.
+
+If you have AR disabled, or your device doesn’t support AR, you can disable AR completely and interact with and take photos of your Buddy Pokémon against a static background.
+
+### GO Snapshot
+
+Taking photos of Pokémon you’ve previously caught using GO Snapshot will require AR. This applies to photos of any Pokémon in your Pokémon storage except for your Buddy Pokémon.
+
+If your device doesn’t support AR, you can disable AR to take photos of wild Pokémon.
