@@ -1,0 +1,9 @@
+---
+id: 2571
+title: Backgrounding the app during a Raid encounter may visually reset the Premier Ball count, though the actual Premier Ball count remains correct
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2571-backgrounding-the-app-during-a-raid-encounter-may-visually-reset-the-premier-ball-count-though-the-actual-premier-ball-count-remains-correct/
+---
+
+**Issue Description:**  When Trainers background the Pokémon GO app during an attempt to catch a Raid Boss, the amount of Premier Balls available will seem to reset to the amount first received after the Raid. This is a visual issue and the amount of Premier Balls available will actually remain at the amount a Trainer had before backgrounding Pokémon GO.
+
+**Issue Status:**  Investigating.
