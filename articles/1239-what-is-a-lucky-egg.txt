@@ -1,0 +1,13 @@
+---
+id: 1239
+title: What is a Lucky Egg?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1239-what-is-a-lucky-egg/
+---
+
+**Lucky Eggs**  double the amount of XP you earn for a limited period of time. Lucky Eggs typically last for 30 minutes but may last longer during special events. Keep an eye on [the Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/) to see what in-game events are in progress.
+
+[![image](../data/images/329a5603-6ee9-483a-95c0-2088e181245d-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/5a896279-807e-4d17-8033-68a669a99176.jpg)
+
+You can also activate up to 200 Lucky Eggs at a time to stack their effects instead of using one every 30 minutes.
+
+**Pro tip:** Consider using Lucky Eggs when you’re about to improve your Friendship level with a friend, especially when reaching Ultra Friends or Best Friends, to maximize the XP you can earn. You can also save completed Special Research tasks and wait to clear them until you’ve used a Lucky Egg.
