@@ -1,0 +1,117 @@
+---
+id: 1062
+title: How do I register for Live Events?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1062-how-do-i-register-for-live-events/
+---
+
+Attending Live Events like Pokémon GO Fest and Pokémon GO Safari Zone allow Trainers to enjoy special content and social experiences with fellow players around the world! To maintain the best gameplay experience possible, attendance for some live events are limited and require Trainers to register for a ticket through our in-app ticketing system.
+
+Typically, detailed information about upcoming live events (including dates, entry times, and registration/ticketing information) can be found on our official Pokémon GO blog. You can also [follow Pokémon GO on X (formerly Twitter)](https://twitter.com/pokemongoapp) for updates and event-related announcements.
+
+**Please note:**  Tickets to real world Pokémon GO events are distributed on a first-come-first-served basis.
+
+### **To purchase tickets:**
+
+* Open the Pokémon GO app
+
+* In Map View, tap the  **Main Menu**
+![image](../data/images/062e82e8-add1-496a-bfbb-a720ce0fab24.png)
+ button
+
+* Tap  **Events**
+![image](../data/images/92fe29a0-686b-46b0-b84f-56c9441ec0ff.png)
+
+* On the following page, all upcoming live events will be listed, starting with the soonest event at the top
+
+**Please Note** : Currently, tickets are only usable by the Trainer accounts input during registration. Tickets are not refundable or transferable to other accounts.
+
+### **First-Come-First-Served Ticketing**
+
+If a First-Come-First-Serve event has not sold out, the label “ **Tickets Available** ” will be visible, allowing you to select the date and time you wish to attend.
+
+### **How do I purchase tickets as gifts for other Trainers? (for orders with 2+ tickets):**
+
+Input the usernames of the friends that you would like to buy tickets for (one name per input box) and click “Add.” Make sure that the spelling is correct.  **You must be at least Great Friends** (7 days of interaction) with the other Trainer.
+
+You must also assign the entire quantity of tickets that you selected to eligible friends before you can proceed to payment. Because only one ticket type is allowed per order, your friends will all receive the same ticket type for the date and time you selected.
+
+### **How can I purchase tickets for a Trainer that uses a Child Account (Kids at Scopely Explore or Pokémon Trainer Central)?**
+
+Trainers with child accounts can attend events when accompanied by a parent or guardian. Follow the steps below to purchase a ticket for a Child Account:
+
+* The parent or guardian must be logged into the Pokémon GO account that’s linked to their child’s account.
+
+* In the parent account, tap the  **Main Menu**  button in Map View.
+![image](../data/images/39a2dcd9-643c-45d9-850b-44cce177153e.png)
+
+* Tap  **“Events”**  in the upper right corner of the screen.
+![image](../data/images/5e3902f8-f841-48f6-bd21-a3a34558c946.png)
+
+* On the following page, check and select live events where tickets are available.
+
+![image](../data/images/03250ae4-7f7c-4f94-9934-31220c542697.png)
+
+* Tap " **Get Tickets"** .
+
+* Choose the dates and time slots if available. The greyed-out options are sold out. Then proceed to the next page.
+
+* (If applicable) Choose your mobile service provider.
+
+* You can now manage the number of tickets you would like to buy. The default account is set to yours, and you can simply enter your child’s account Trainer name in the box and tap  **Add** .
+
+![image](../data/images/389ec11c-751c-4106-bade-779c3796dd3a.png)
+
+ **Note:**  If any error message appears, please double-check the following:
+
+* Please ensure that the spelling is correct
+
+* Verify that the email associated with the parent/guardian’s Pokémon GO account matches the email address on file
+
+* Choose the add-ons you wish to purchase.
+
+* Double-check the Trainer name for the ticket purchase.
+
+* Confirm that the date information is correct. You can also make changes to the order on this page.
+
+* On the payment page, select your preferred payment method and complete the transaction.
+
+* After the payment, you will receive a confirmation email.
+
+* When you tap the  **“Events”** page again, the status will change to  **Attending** .
+
+![image](../data/images/b97bd26f-5e8d-4bde-a91b-cd9da0353c94.png)
+https://d2duuy9yo5pldo.cloudfront.net/niantic/2a644d11-2b9e-4d92-87ba-a20efd6f3cc0.png
+
+* Once a ticket is purchased and the status changes to  **Attending** , additional tickets cannot be purchased, and changes to the event schedule are not allowed. If you would like to purchase additional tickets, please [contact customer support](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/). Add-ons can be purchased until they are sold out.
+
+* **Other important notes:**
+
+* Children can attend in-person events when accompanied by a parent or guardian.
+
+* Unlike with standard accounts, a parent and child don’t need to be Friends to select the child’s username.
+
+### What are Add-Ons?
+
+Certain events may feature optional  **Add-Ons** , which are merchandise or additional features that will complement or enhance your event experience. You can select which Add-Ons you’re interested in purchasing once you’ve selected your ticket type. Some Add-Ons require additional input (e.g. T-shirt size).
+
+**Please Note** : You don’t have to apply Add-Ons to every user in your order, if you’re buying tickets for multiple users.
+
+### **How do I redeem a code for tickets to live events?**
+
+* From the Map View, tap the Main Menu [![image](../data/images/d6ae4778-756e-49d6-8bb7-18c8332fa8fe.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/64d70ab8-c1ec-452f-b6df-9cd9f6c592d3.png)   at the bottom center of your screen.
+
+* Tap the Events button [![image](../data/images/96bfa94e-5d9a-4a47-8b14-70c47bfbabbf.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a483a5f2-9b58-485d-b724-d39ffaa5bb4e.png)   located in the top-right corner of the menu.
+
+* Find the specific real-world event you wish to attend (e.g., Pokémon GO Wild Area: Nagasaki) and tap on the event banner.
+
+* Scroll to the bottom of the event description page. Tap the link that says Redeem a promotion code
+
+* Enter and Apply Code
+
+* Tap the text box labeled "Please enter your code" .
+
+* Type or paste your unique redemption code.
+
+* If the code is for a child's account, ensure you check the appropriate box if prompted.
+
+* Tap Apply to finalize.
