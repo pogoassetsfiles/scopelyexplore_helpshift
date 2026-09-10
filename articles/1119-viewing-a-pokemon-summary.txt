@@ -1,0 +1,49 @@
+---
+id: 1119
+title: Viewing a Pokémon Summary
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1119-viewing-a-pokemon-summary/
+---
+
+The  **Pokémon summary**  provides detailed information about the characteristics that make your Pokémon unique. You can evolve, Power Up, and make other changes to your Pokémon here.
+
+**To access your Pokémon’s summary:**
+
+* In Map View, tap the  **Main Menu**  [![image](../data/images/dcad6b6d-8924-49d1-a91a-590439369bbb-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/daac895e-25f6-4bc2-9c06-672a4d912c1d.png)
+
+* Tap  **Pokémon**  [![image](../data/images/37758bb0-c9ba-4c96-bfd3-696c577f8e90-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/aeb2ca50-e587-4f17-a259-84e16fd86150.png)
+
+* Select a Pokémon to view from your list of Pokémon
+
+### Summary Features
+
+[![image](../data/images/d5fb4c39-94cb-47f2-8da7-983a3019703a-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/009ed923-a848-4974-ba98-2c559ca8e664.png)
+
+**1. CP (Combat Points)**  - A measure of how well that Pokémon will perform in battle
+
+**2. Favorite**  - Tap this star to add a Pokémon to your list of favorites. Favorited Pokémon can’t be transferred until they’re removed from the list.
+
+**3. GO Snapshot**  - Tap to take an AR photo with your Pokémon
+
+**4. Nickname**  - Set as the Pokémon’s species name by default. You can edit their nickname by tapping the pen button.
+
+**5. HP** (on the left) and **Gender** (on the right)
+
+**6. Weight, type, and height**
+
+**7. Stardust**  - Used to Power Up Pokémon
+
+**8. Candy**  - Used to Power Up and evolve Pokémon
+
+[![image](../data/images/e79e6f08-5bac-4076-9faa-938378ebbd1a-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/87bfd12f-b46b-4eea-83ae-b13e6bfcc1b6.png)
+
+**9. Power Up**  - Increases a Pokémon’s CP and HP in exchange for Stardust and Candy
+
+**10. Evolve**  - Evolve a Pokémon by spending Candy. Some Pokémon have [additional evolution requirements](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/100-evolving-your-pokemon/).
+
+**11.**   **Attacks**  - Shows the Fast and Charged Attacks your Pokémon currently knows and how much damage they do in Gyms, Raids, and Trainer Battles
+
+**12. New attack**  - Teach your Pokémon a second Charged Attack by spending Stardust and Candy
+
+**13.**   **Location and time caught**  - If the Pokémon was hatched from an Egg, it will display the location and time the Egg was obtained
+
+**14. Additional options**  - Tap to access additional options, such as appraising and transferring.
