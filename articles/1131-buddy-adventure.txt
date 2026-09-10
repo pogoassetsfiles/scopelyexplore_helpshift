@@ -1,0 +1,116 @@
+---
+id: 1131
+title: Buddy Adventure
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1131-buddy-adventure/
+---
+
+You can choose  **Buddy Pokémon**  to join you on your adventures. By selecting a Pokémon as your buddy, you can build a relationship with them and gain special perks as your relationship deepens.
+
+[![image](../data/images/c90e1a68-af1a-4e1c-b99f-479e82b812f2-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/0ac25f90-7875-42a1-b330-724188ee3dbb.png)
+
+Interact with your Buddy to earn Affection hearts and improve your Buddy’s  **Mood** , a measure of how happy your Buddy is feeling. By earning  **Affection hearts** , you will increase your Buddy Level, which measures the depth of your relationship with your Buddy Pokémon. By improving your Buddy’s Mood and reaching higher Buddy Levels, you’ll unlock special perks as recognition of the meaningful bond you’ve created with your Buddy.
+
+For the best user experience, make sure AR is turned on in your settings menu. To use AR mode, your device needs to meet the following requirements:
+
+* **iOS** : AR mode is only available for iPhone 6s and newer models running on iOS 11+.
+
+* **Android** : AR mode is only available to devices running Android 7.0+ and can support ARCore. Supported devices must install ARCore from the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.ar.core). A list of supported devices can be found [here](https://developers.google.com/ar/discover/supported-devices).
+
+# Selecting and Changing your Buddy
+
+To select a Pokémon as your buddy for the first time, tap your Trainer’s portrait in the bottom left corner of the Map View, then tap the  **Buddy button**  [![image](../data/images/26e0562b-142b-47cd-ac0a-b1264dab258a-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ac5916a1-4891-4206-9be9-46142ada858b.png) to select your buddy.
+
+Once you’ve selected a Pokémon as your buddy, you can access their Buddy Profile screen by tapping your buddy’s portrait next to your Trainer’s portrait in the Map View. You can also reach the Buddy Profile screen by tapping your Trainer’s portrait, then tapping your buddy. You can view Pokémon you’ve previously set as your buddy by tapping the Buddy History button.
+
+To swap out your buddy, go to their Buddy Profile screen and tap the  **Swap Buddies**  button. You can also go to the Buddy History page and tap the Swap Buddies button on the page with the Pokémon you would like to set as your buddy.
+
+**Note** : Trainers can only swap out their Buddy Pokémon 20 times per day.
+
+# Daily Activities and Affection Hearts
+
+Engaging in Activities allows you to temporarily improve your Buddy Pokémon’s mood and rewards you with Affection hearts. On the Buddy Profile screen, you’ll find a list of each way to interact with your buddy under the “Today’s Activities” section. Gray heart icons represent activities with your buddy that can reward Affection hearts for that day.
+
+[![image](../data/images/27076e80-72ef-438d-a1fe-ad2d87281b26-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/042bea1b-01c1-42da-89a6-75acf05b503d.png)
+
+Each time you engage in a listed activity with your buddy, the hearts will turn from gray to pink, indicating you’ve earned a heart in that category. When all the hearts next to an activity turn pink, you can no longer earn hearts for that activity until the daily heart counter resets at midnight, local time.
+
+### Types of Buddy Activities:
+
+* **Walk together**  - Walk around with a Pokémon set as your buddy on the Map. Your buddy will only appear on the Map when its hunger meter is full, and will remain on the Map until the hunger meter is fully depleted.
+
+* **Give your buddy a treat**  - Feed your buddy a Berry or [Poffin](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2147-what-is-a-poffin/?p=web&s=buddy-pokemon&f=what-is-a-poffin) in AR or Quick Treat mode. Feeding your buddy fills up their hunger meter. The  **hunger meter**  [![image](../data/images/9349df66-1b9b-4b73-b375-4d560ca3b5b1-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/56240f0e-936a-405c-a166-b712bc58438e.png) appears at the top of the screen in AR and Quick Treat modes and indicates how much your buddy needs to eat before it appears on the Map with you. When your buddy’s hunger meter fills up, you will receive an Affection heart. If you feed your buddy a Poffin, you will automatically earn the maximum daily number of Affection hearts in this category.Your buddy’s hunger meter depletes over time, so feed them periodically to keep it from depleting!
+
+* **Play together**  - Tap your buddy in AR mode and pet them with your finger for a few seconds until you see them spin and jump with delight.
+
+* **Battle together**  - Engage in a Gym, Raid, Team GO Rocket, or Trainer Battle with your buddy while they're with you on the Map.
+
+* **Take a snapshot**  - Take a photo of your buddy in AR mode while playing with your buddy alone or with friends.
+
+* **Visit a new place**  - While your buddy is on the Map with you, visit a PokéStop or Gym you’ve never visited before and spin its Photo Disc to earn an Affection heart. PokéStops you haven’t previously visited are surrounded by white rings, which disappear after you spin their Photo Discs.
+
+* **Follow a Route together**  - While your Buddy is on the Map with you, follow a Route together.
+
+* **Bonus**  - You’ll occasionally see an additional activity called Bonus on the Buddy Profile page. This activity will only be visible upon receiving an Affection heart in this category. You’ll receive a Bonus heart when your buddy gives you a present or Souvenir, or if you visit a PokéStop or Gym that your buddy wants to visit.  **Presents**  contain useable items like Berries or Potions, and  **Souvenirs**  are collectible items stored on your Buddy Profile screen that serve as reminders of all the places you’ve traveled with your buddy.
+
+# Mood
+
+Interacting with your buddy improves their Mood. Your buddy's  **Mood**  is determined by how frequently and recently you've interacted with them. Moods decrease over time, so you’ll need to keep interacting with your buddy to keep their Mood up. Shown below are all possible Moods from least to most positive:
+
+[![image](../data/images/b3a9c0aa-8975-4ef1-810a-9cf064674607-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/11b2151b-5780-4f49-8cce-9ef3cb51e46b.png)
+
+**Excited** , the most positive Mood, increases the number of possible Affection hearts you can earn that day. While your buddy is Excited, you’ll see double heart icons next to each activity. The walking distance required to collect a Candy will also be reduced while your buddy is Excited.
+
+[![image](../data/images/638efa9b-2327-4ed9-9b48-261c62c8c193-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/32e4f880-3f01-4768-9036-f74b37c7d260.png)
+
+**Note** : Reaching Excited Mood won’t increase the number of hearts in the Bonus category.
+
+If your buddy is no longer Excited, you’ll need to interact with your buddy and achieve Excited Mood again to keep earning the extra hearts for that day. However, you won’t lose any extra Affection hearts that you’ve already earned that day.
+
+# Buddy Gifts
+
+Your buddy may occasionally bring you Gifts from nearby PokéStops. Unlike other buddy perks and activities, you can receive Gifts from buddies at any Buddy Level. When you see a Gift icon above your buddy's profile picture, tap their picture and the Gifts will be added to your inventory.
+
+
+You won’t receive Gifts from your buddy if you already have 20 or more Gifts in your Bag, and receiving Gifts from your buddy won’t reward Affection hearts.
+
+# Buddy Levels & Perks
+
+Earning Affection hearts allows you to progress toward improving your Buddy Level. Unlike your buddy’s Mood, Buddy Levels don’t decrease over time, much like Friendship levels. Each Buddy Level unlocks special perks:
+
+### Good Buddy [![image](../data/images/b4928adf-f745-414a-89e5-1935d1e7a495-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/94003655-ac22-426b-9af5-eb34aabf19dc.png)
+
+* **Adventure with Buddy**  - Your buddy will appear on the Map when you’ve fed them enough to fill up their hunger meter. While on the Map, your buddy will earn Candy at a reduced walking distance.
+
+* **Readable Mood**  - The Mood indicator appears on the Buddy Profile screen, and you can now achieve Excited Mood. If your buddy is on the Map, you can also tap your buddy to see its Mood.
+
+### Great Buddy [![image](../data/images/4adb4e06-d0d9-46d8-a7c2-1f3ce84504c8-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/61c2aa15-dfe6-49d0-a76c-0823bb902824.png)
+
+* **Catch Assist**  - When a Pokémon you’re trying to catch hits a Poké Ball back at you during an Encounter, there’s a chance your buddy will help you out by bouncing the Poké Ball back at the Pokémon.
+
+* **Presents**  - While exploring with your buddy, your buddy may pick up consumable items like Berries and Potions and deliver them to you as presents. You’ll receive a notification when your buddy finds a present, and you can open the present while playing with them in AR mode. Opening the present will grant an Affection heart in the “Bonus” category.
+
+[![image](../data/images/e18c79da-ffbd-4b79-ad81-8d74802f2f36-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/75431ae4-5019-4e36-9c3a-4369399a9d5c.png)
+
+### Ultra Buddy [![image](../data/images/723ec98e-8b14-463c-9ab6-7f0b3e784526-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/82a84f24-e4ee-4333-9073-1a781dcf7856.png)
+
+* **Souvenirs**  - Your buddy can now gift you Souvenirs. The kinds of Souvenirs your buddy will find vary depending on your environment, and each Souvenir indicates the location where your buddy found it. Receiving a Souvenir will grant an Affection heart in the “Bonus” category.
+
+* **Find Locations**  - Your buddy may draw your attention to a nearby PokéStop they find interesting. If you visit the PokéStop and spin its Photo Disc while there is an indicator above the PokéStop, you will earn bonus items and an Affection heart in the “Bonus” category.
+
+[![image](../data/images/5613f703-125d-4ac3-9d7a-dc51402115de-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/5b35ae69-163f-4b4d-bdac-8f1d0735d94b.png)
+
+### Best Buddy [![image](../data/images/14d19cf7-e2ac-42ac-8bf9-7eab5df94f7e-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/78fe3910-fe49-4e50-b8a2-b874e46910e7.png)
+
+* **CP Boost**  - While set as your buddy, your Pokémon gains a CP Boost, making it more powerful in Raids, Gym Battles, Team GO Rocket, and Trainer Battles. The CP Boost won’t be applied if the Pokémon isn’t currently set as your buddy.
+
+* **Best Buddy Ribbon**  - Your buddy now wears a special ribbon indicating you’ve reached Best Buddy status.
+
+[![image](../data/images/4ede48e5-19e5-44b1-bbdb-cf6f9eb27d1f-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/9ed1866c-b09c-498b-bcd9-7c0b7402ca9b.png)
+
+### Taking GO Snapshots with Buddy Pokémon
+
+Once you’ve chosen a Buddy Pokémon, you can take photos while interacting with them.
+
+Pull up your Buddy page by tapping your Buddy’s image in the bottom left corner of the Map View, or tap your Buddy from your Trainer Profile. Tap the  **Play!**  button to get started.
+
+[Learn more](https://niantic.helpshift.com/hc/faq/1105-taking-ar-photos-with-go-snapshot/) about GO Snapshot.
