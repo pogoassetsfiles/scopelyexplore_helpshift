@@ -1,0 +1,44 @@
+---
+id: 1090
+title: How do I customize my Avatar?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1090-how-do-i-customize-my-avatar/
+---
+
+Your Trainer **avatar**  is a character model that represents you in Pokémon GO and is visible to others when you battle, trade, or add them as friends.
+
+You can change your avatar’s physical features as well as their clothing and accessories. There are a variety of clothing and accessory styles available, and you can choose between different hairstyles, skin tones, shirts, pants, footwear, and more.
+
+Many styles are available for free, but some styles can be obtained only by exchanging PokéCoins and others can be unlocked through in-game achievements.
+
+### Changing your Avatar’s Physical Features
+
+* In Map View, tap your Trainer’s portrait in the bottom left.
+* Tap  **Style**
+![image](../data/images/m0xo9lwk9zk6guuvr0dnttwfaqyjoxl-koco68bopqxlzux1stjcatwsbmw_s61t8mbxwaepzbkfkh_wfquddapl0ggu1wjkrfm_9uf2rehhl9tz-x1zy6_ev7botum6myvmmfoas1cn39cmuitrbde.png)
+* Tap  **Appearance**
+![image](../data/images/i-pgx4dw5wtn1opkpogy_viozf9tfa8z0dycmot8ifa4f5gykffsg8a3d6nhhzzoezncjutt1ihcm-qc39-phn92nnssakwsq5x8prmzi_xi-8wzg71agwdc2gns3q0bdr4g8sbtaxdpj_fao_fnhx0.png)
+* Within each category, you can select from a number of different physical features to customize your avatar’s appearance.
+
+* Body features can be further customized beyond the preset options by tapping on the  **Custom**  button at the bottom of the menu.
+
+![image](../data/images/mvc9vklfnf7lgsl6mzjm5smfbbvyehjyhlm92ins7ggkdlk_ffacacpkvicpddzdspvkgrzzgdjq6qfqunkvbrhwhxqhprxxqj0vmedtz_kqsp5iathezlvmqrxuqufiaeaft5aaaz4duaskdw6zwcg.png)
+* To exit a custom menu, tap the X button in the upper left corner.
+* Once you are satisfied with your selection, you can apply your selections to your avatar.
+* Tap the X button to return to the previous menu.
+
+### Changing your Avatar’s Clothing
+
+* In Map View, tap your Trainer’s portrait in the bottom left.
+* Tap  **Style**
+![image](../data/images/m0xo9lwk9zk6guuvr0dnttwfaqyjoxl-koco68bopqxlzux1stjcatwsbmw_s61t8mbxwaepzbkfkh_wfquddapl0ggu1wjkrfm_9uf2rehhl9tz-x1zy6_ev7botum6myvmmfoas1cn39cmuitrbde.png)
+* Select an apparel category from the available options.
+* Within the category, select from different style and color options. As you select various options, your avatar will update to show you the options you’ve chosen.
+
+* You can toggle the preview between a closeup and full-body view by tapping the magnifying glass in the upper left corner.
+* Once you are satisfied with your selection, you can apply the style to your avatar.
+
+* For free items: tap Choose to wear the item.
+* For Premium Items: tap Exchange to use PokéCoins to purchase the item.
+* Tap the X button to return to the previous menu. If you have built an outfit out of premium items that are not currently in your inventory, tap  **Exchange**  to exchange PokéCoins for the items you don’t currently own.
+
+Trainer Tip: You can save your favorite outfit combinations in the  **Wardrobe**  category. Tap the + button to add your current style to your Wardrobe and easily swap between your best looks. Note that saved outfits will be deleted if you reinstall the app or get a new device.
