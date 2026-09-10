@@ -1,0 +1,25 @@
+---
+id: 1319
+title: Network Connection Best Practices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1319-network-connection-best-practices/
+---
+
+**Try moving to a less congested area**
+
+Wireless networks can sometimes struggle under high demand, moving to a less congested area can help to improve your mobile experience.
+
+**Avoid playing in enclosed areas**
+
+If you are struggling with internet connection, try moving to an area with more open space.  Walls or similar barriers can impact signal strength.
+
+**Ensure your wireless service plan has adequate mobile data to support gameplay**
+
+If your wireless service plan does not include unlimited data or has international roaming data rate limits, please contact your wireless service provider to determine that you have adequate data to enjoy gameplay.
+
+**For international trainers - please purchase a local SIM card**
+
+Performance of local SIM cards (physical or eSIM) are generally optimal when compared to an international roaming experience.
+
+**Advanced network troubleshooting**
+
+To rule out issues related to your device or wireless account, please contact your wireless service provider.
