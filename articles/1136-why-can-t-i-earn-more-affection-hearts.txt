@@ -1,0 +1,9 @@
+---
+id: 1136
+title: Why can't I earn more Affection hearts?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1136-why-can-t-i-earn-more-affection-hearts/
+---
+
+The total number of Affection hearts you can earn with a buddy is capped daily, and each Activity category has its own cap as well.
+
+If all the heart icons next under the Today’s Activities section of the Buddy Profile screen are pink, you’ve earned all the hearts you can earn for the day until the timer resets at midnight, local time. If you’ve earned all the hearts you can in one activity, engage in another activity with grey hearts next to it or wait until the timer resets to earn hearts in that category.
