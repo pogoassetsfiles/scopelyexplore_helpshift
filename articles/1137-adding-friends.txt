@@ -1,0 +1,81 @@
+---
+id: 1137
+title: Adding Friends
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1137-adding-friends/
+---
+
+You can add  **friends**  in Pokémon GO to stay connected with Trainers that you meet along your Pokémon GO journey. Each Trainer has a unique 12-digit Trainer Code and a corresponding QR code. You can use this code to add others as your friends.
+
+Trainers can view and accept or deny Friend Requests through their Friend List. If they accept your request, you will become friends with one another and you’ll be able to see their Trainer Profile through your Friend List. If they don’t respond, your Friend Request will expire after 7 days.
+
+You can have up to 550 friends in your Scopely Explore Friend List, including friends from other Scopely Explore Apps. Once you reach this limit, you'll need to remove friends before you can add new ones.
+
+## To Add a Friend:
+
+* In Map View, navigate to your  **Trainer Profile** .
+
+* Tap the  **Friends**   **tab**  at the top of the screen to open your Friend List.
+
+* Tap the  **Add Friend**  button.
+
+* * To add using their 12-digit Trainer Code:
+
+Enter the Trainer Code of the person you’d like to send a Friend Request to.
+
+* To add using their QR Code:
+
+Tap  **QR Code**  tab on the top corner to open your camera and scan your friend’s QR Code
+
+If you already have friends in other Scopely Explore apps who also play Pokémon GO, they will appear in your Friend List in Pokémon GO.
+
+If you would like to change your Trainer Code, tap on the refresh icon to permanently reset your Trainer Code.
+
+### Adding friends from your Contacts:
+
+You can grant permission for Pokémon GO to access your device’s Contacts. Once you have synced your Contacts with Pokémon GO, you can either invite them to create a new account or add them as a friend if their Pokémon GO account matches an email address in your Contacts.
+
+**To sync your Contacts:**
+
+* In Map View, navigate to your  **Trainer Profile** .
+
+* Tap the  **Friends tab**  at the top of the screen to open your  **Friend List** .
+
+* Tap  **Contacts**  to learn more. Tapping  **Add Friends from Contacts**  will prompt you to confirm your name and sync your Contacts with Pokémon GO. Note that you can change your name at any time from Scopely Explore Profile account settings.
+
+ [![](../data/images/29980b1d-7612-4c1d-aab3-d47ae96a419b.PNG)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/29980b1d-7612-4c1d-aab3-d47ae96a419b.PNG)
+
+Only 2,000 contacts are able to sync with Pokémon GO. If your Contacts list is larger than this, you may not see your entire list.
+
+* Once your Contacts have synced with Pokémon GO, you can browse your contacts within Pokémon GO and either add them to your Friend List or invite them to play Pokémon GO.
+
+* * To invite a friend to play Pokémon GO:
+
+Tap  **Invite to Play**  and select how you would like to send an invitation (SMS or email). Note that your personal [referral code](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2875-referring-friends-and-referral-bonuses/?p=web&l=en&s=friends-gifting-trading&f=referring-friends-and-referral-bonuses) will be shared along with your invitation.
+
+* To add a contact who already plays Pokémon GO as a friend:
+
+Tap  **Send Friend Request**  to send a Friend Request to another Trainer. Your name will be attached to your request along with your Trainer name, so friends can recognize your Trainer profile.
+
+Please note that you may need to verify your phone number if you are adding friends from your device's Contacts. To verify your phone number, simply confirm the number you are using and enter the verification code that is sent to your device via SMS.
+
+Once you have synced your Contacts with Pokémon GO, any new additions to your contacts will be periodically re-synced when you start the app. You can revoke access to your Contacts at any time through your device contacts permissions settings. Synced Contacts are stored securely on our servers; additionally, contact names are not uploaded, and raw contact information is not stored. Contacts are not stored permanently in Pokémon GO and will expire if you revoke access.
+
+If you do not want to receive friend invites from Trainers who may have you in their Contacts, you can opt out through your Scopely Explore Profile Settings. If you opt out, other Trainers can still send you invitations to play Pokémon GO through the above invitation methods.
+
+Trainers with child accounts will not be able to add friends from Contacts.
+
+## REMOVING FRIENDS
+
+You can remove a friend from your Friend List at any time. Once removed, any bonuses between the two of you will no longer apply. The person that you’ve unfriended will not be notified.
+
+### To remove someone from your Friend List:
+
+* In Map View, navigate to your  **Trainer Profile** .
+
+* Tap the  **Friends**   **tab**  at the top of the screen to open your Friend List.
+
+* Tap on the friend that you wish to remove.
+
+* At the bottom of their profile, tap the  **Remove Friend**  button.
+
+After removing a friend, your Friendship level can be recovered for a limited period of time. If you re-add a friend during that time period, your Friendship level will be restored. Keep in mind that removing a friend in one game will remove them from other games as well.
