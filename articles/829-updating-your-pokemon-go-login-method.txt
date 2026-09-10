@@ -1,0 +1,22 @@
+---
+id: 829
+title: Updating your Pokémon GO login method
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/829-updating-your-pokemon-go-login-method/
+---
+
+To change the linked email address, you need to unlink the current account and then add the new account.
+
+Please follow the steps below to unlink an email address from your account:
+
+* Tap the main menu  [![](../data/images/88463aff-a272-4438-a95f-0c73b5fce1ac.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/88463aff-a272-4438-a95f-0c73b5fce1ac.png) , select [Settings] [![](../data/images/9872b388-3fc0-4290-88fa-94b233c4eec5.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/9872b388-3fc0-4290-88fa-94b233c4eec5.png) > [Account].
+* Tap the checkbox next to the login method to unlink it.
+
+**Please Note** : You cannot unlink if you are currently logged into Pokémon GO with that login method.
+
+3. To re-link it, tap [NOT LINKED] and follow the on-screen instructions to relink the account.
+
+To link a Facebook, Google or Apple account to Pokémon GO, you can follow these steps:
+
+* Tap the main menu [![](../data/images/88463aff-a272-4438-a95f-0c73b5fce1ac.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/88463aff-a272-4438-a95f-0c73b5fce1ac.png), tap [Settings] [![](../data/images/9872b388-3fc0-4290-88fa-94b233c4eec5.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/9872b388-3fc0-4290-88fa-94b233c4eec5.png)> [Account].
+* Tap the checkbox next to which account you want to link: Facebook, Google, or Apple.
+* Follow the on-screen instructions to complete the setup. For detailed instructions, please refer to [this help article.](https://scopelyexplore.helpshift.com/hc/faq/1277-linking-an-additional-login-provider-to-your-account/)
