@@ -1,0 +1,55 @@
+---
+id: 1191
+title: Team GO Rocket Leaders & Giovanni
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1191-team-go-rocket-leaders-giovanni/
+---
+
+**Team GO Rocket Leaders** —Arlo, Cliff, and Sierra—are powerful Trainers you can encounter by crafting a Rocket Radar to locate their Hideouts. Defeating Team GO Rocket Leaders gives you a chance to encounter rare Shadow Pokémon and complete Special Research to fight Team GO Rocket’s boss  **Giovanni** .
+
+**Note:** This feature is only available to Trainers who are Level 8 and above.
+
+### Finding Team GO Rocket Leaders
+
+Each time you Battle and defeat a Team GO Rocket Grunt, they’ll drop a  **Mysterious Component** . Collect 6 Mysterious Components to craft a  **Rocket Radar** :
+
+[![image](../data/images/24784d4e-d74e-4917-97f6-1337448b4f4b-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d5d14fb6-e7f7-4000-9917-153282174854.png)
+
+Note that that if you have a Rocket Radar in your Item Bag or your Item Bag is full, you won't be able to collect Mysterious Components after defeating Team GO Rocket Grunts.
+
+You can track your progress towards completing a Rocket Radar by checking how many Mysterious Components are in your Bag. After earning your first Rocket Radar, Rocket Radars will be available for purchase from the in-game Shop using PokéCoins.
+
+The Rocket Radar reveals the locations of nearby  **Leader Hideouts** . Leader Hideouts look just like regular PokéStops until you’re in range, at which point you’ll see a Team GO Rocket Leader standing next to the associated PokéStop.
+
+[![image](../data/images/a859de9f-cb70-4274-8a8a-627fb6f06158-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/bc5a908f-80ee-4565-b7f1-37d865ed225a.png)
+
+You can equip a Rocket Radar immediately after crafting one or equip and unequip it from your Bag. Once equipped, you can tap the Rocket Radar button below the compass on the Map View to see Leader Hideouts locations.
+
+**Note:** Leaders will not appear at PokéStops unless you have a Rocket Radar equipped.
+
+[![image](../data/images/51302eaf-be96-468f-b552-251a493b7c5d-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/1debbead-4f78-481d-afdc-ae9ee3b74a4d.png)
+
+When your best Pokémon are healed up and ready to fight, tap the Leader to Battle them, just as you’d challenge a Grunt. But be careful: Leaders are more powerful than Grunts and may be difficult to defeat. If you lose, you can re-engage in Battle until the Leader Hideout disappears from the map.
+
+Defeat a Team GO Rocket Leader to receive a  **Strange Egg** , and walk 12 km to hatch it. Note that you’ll need space in your Egg inventory, Pokémon Storage, and Item Bag before your battle with Sierra, Cliff, or Arlo in order to receive a Strange Egg.
+
+Upon defeating a Leader, your Rocket Radar will be consumed, so you’ll need to collect 6 more Mysterious Components or purchase a new Rocket Radar from the Shop to encounter more Leaders. Defeating a Leader also allows you to encounter one of their rare Shadow Pokémon, which also has a chance to be a Shiny Pokémon.
+
+**Note:**  Your Rocket Radar is only consumed when you defeat a Leader, so you can keep challenging Leaders until you win a Battle.
+
+### Finding Giovanni
+
+To encounter Team GO Rocket’s boss Giovanni, you’ll first need to complete [Special Research](https://niantic.helpshift.com/hc/faq/45-types-of-research/) tasks, which involve defeating Grunts, defeating Leaders, and completing other Team GO Rocket-related objectives.
+
+**Note:** Giovanni Special Research is only assigned to Trainers who’ve already completed  *A Troubling Situation* Special Research.
+
+[![image](../data/images/47646b8d-3e15-4a95-a421-397fca0d13cc-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/b5748959-3c23-46c3-a360-0bc5b6fa13f3.png)
+
+You’ll earn a  **Super Rocket Radar**  as a reward for completing one of the research steps. Just like a regular Rocket Radar, a Super Rocket Radar can be equipped and unequipped from your Bag.
+
+[![image](../data/images/a6ffe5df-8e85-4c06-8a9b-f993769a0ff7-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/19f56c69-a774-4972-b68d-e91af98029b8.png)
+
+The Super Rocket Radar doesn’t immediately lead you to Giovanni; it displays locations of both decoy Grunts disguised as Giovanni and Giovanni’s actual Hideout. You’ll need to approach each PokéStop and investigate yourself to find where Giovanni’s hiding.
+
+[![image](../data/images/d2a52a81-07c5-48b1-bb00-4a4f353b7762.gif)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d2a52a81-07c5-48b1-bb00-4a4f353b7762.gif)
+
+When you’ve found Giovanni, Battle and defeat him to encounter a rare and powerful Shadow Pokémon.
