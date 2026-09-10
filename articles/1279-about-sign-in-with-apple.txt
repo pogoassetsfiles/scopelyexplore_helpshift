@@ -1,0 +1,41 @@
+---
+id: 1279
+title: About Sign-in with Apple
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1279-about-sign-in-with-apple/
+---
+
+The  **Sign in with Apple**  login method allows players on iOS devices to log into Pokémon GO using their Apple ID. You may use the Sign in with Apple login method in addition to Google and Facebook by linking the login method to your existing account.
+
+### New Players
+
+If you already have an Apple ID, you can use it to create a Pokémon GO account. Tap the Sign in with Apple button while you’re creating your account to connect your new account to your Apple ID. Once you finish this process you can sign in quickly and securely with Face ID, Touch ID, or your device passcode.
+
+### Existing Players
+
+If you already have a Pokémon GO account, you can link your Apple ID to your account through the game’s Settings menu. Once the Apple ID is associated with your account, you can use it the next time you log in. [Learn more about account linking](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/86-linking-an-additional-login-provider-to-your-account/?s=account-sign-in&f=linking-an-additional-login-provider-to-your-account&p=web).
+
+Do not select the Sign in with Apple option before linking the login method with your account. Doing so may result in errors or inadvertently creating new accounts.
+
+**Note:** Linking or unlinking an account to your account in one game will also apply to other Scopely Explore games.
+
+### Hide My Email for Sign in with Apple
+
+If you’re using Sign in with Apple, you may notice that the email address linked on your Settings page may not match the email address attached to your Apple ID. This could be because you’ve enabled Hide My Email—Apple's private email relay service—to create and share a unique, random email address that forwards to your personal email.
+
+This feature allows you to receive messages from the app without sharing your personal email address. Learn more about [Hide My Email](https://support.apple.com/en-us/HT210425) at the Apple Support Center.
+
+### Restrictions to Sign in with Apple
+
+At this time, there are certain restrictions to Sign in with Apple:
+
+* Sign in with Apple is only available on devices with iOS 13.0 or higher
+
+* Sign in with Apple is not available for Kids at Scopely Explore.
+
+* Users who create an account using Sign in with Apple won't be able to log in on an Android device. If you’ve connected another account (Facebook or Google), you can use this to log in on an Android device.
+
+* Offer code redemption on the web is currently unavailable for Sign in with Apple. You can link another login provider to your account and login via that account to redeem your offer code on the web.
+
+### Learn More
+
+For more information about Apple ID, see the [How to use Sign in with Apple](https://support.apple.com/en-us/HT210318) article from the Apple Support Center. More information about [managing the apps that use Sign in with Apple](https://support.apple.com/en-us/HT210426) is also available.
