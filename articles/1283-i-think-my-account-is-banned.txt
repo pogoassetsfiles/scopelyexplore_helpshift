@@ -1,0 +1,28 @@
+---
+id: 1283
+title: I think my account is banned
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1283-i-think-my-account-is-banned/
+---
+
+Often users believe their accounts have been terminated when, in fact, they have simply experienced a temporary login issue or loading error.
+
+## To determine if your account is banned, please select the option which best fits your issue:
+
+**I see the "Your account has been suspended/terminated" message**
+
+Yes, your account is banned if you see the “Your account has been suspended/terminated for violating the Terms of Service” message when logging in to Pokémon GO.
+
+Our main priority with Pokémon GO is to provide a fair, fun, and safe experience for all players. With that goal in mind, we take action against players who violate the [Pokémon GO Terms of Service](https://www.nianticlabs.com/terms/) and the Trainer Guidelines. This includes, but is not limited to:
+
+* promoting or engaging in harassment against any individual or group,
+* falsifying location,
+* using emulators, modified or unofficial software,
+* and/or accessing Pokémon GO clients or backends in an unauthorized manner including through the use of third party software or add-ons.
+
+If you believe your account has been terminated in error incorrectly,
+
+[you may appeal the termination](https://niantic.helpshift.com/hc/faq/135-submitting-a-ban-appeal/).
+
+**I see another error message**
+
+If you are experiencing login issues or map loading errors but you do not see the see the “Your account has been suspended” message, it may just be a temporary server issue. Please try to log in again or [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1&s=get-in-touch&f=how-to-contact-support) and select "Sign-In Issue" from the dropdown menu.
