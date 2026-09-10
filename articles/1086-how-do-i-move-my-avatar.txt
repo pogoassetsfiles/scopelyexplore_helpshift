@@ -1,0 +1,9 @@
+---
+id: 1086
+title: How do I move my avatar?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1086-how-do-i-move-my-avatar/
+---
+
+To move your avatar on the map, you need to move in the real world. Your avatar represents your location, and as you move, you’ll see your location move on your screen. Moving could be anything including walking, running, or using a wheelchair. Once you start moving in the real world, you’ll be able to find Pokémon, PokéStops, and Gyms.
+
+Please note that you should never drive or travel at high speeds while playing, and there are safeguards in place to pause functionality if we detect that you might be driving and playing.
