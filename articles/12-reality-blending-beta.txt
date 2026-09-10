@@ -1,0 +1,17 @@
+---
+id: 12
+title: Reality Blending (Beta)
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/12-reality-blending-beta/
+---
+
+Scopely Explore is building towards the future of global AR experiences, leveraging the Scopely Explore Real World Platform and powerful AR mapping technologies to create more ways for players to interact with the world around them.
+
+**Reality Blending**  is a new AR feature that uses advanced mapping technology to understand physical objects in real-time. While interacting with your Buddy or taking a GO Snapshot in AR mode with Reality Blending enabled, you’ll notice improvements in how Pokémon appear on screen in relation to your surroundings.
+
+This advanced AR feature is only available to users with the following devices:
+
+* Google Pixel 3 and above (excluding Pixel 3a)
+* iPhone 8 and above
+* Samsung Galaxy S9 and above
+
+We are continuing to optimize the experience to make this feature available to more mobile device types in the future.
