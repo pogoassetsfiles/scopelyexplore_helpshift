@@ -1,0 +1,7 @@
+---
+id: 1327
+title: My graphics are blurry
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1327-my-graphics-are-blurry/
+---
+
+As of version 0.181, Trainers playing on an iPhone 5s or iPhone 6 will see downgraded resolution of in-game assets to support a smoother gameplay experience on these older devices.
