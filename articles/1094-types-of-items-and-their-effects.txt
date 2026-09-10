@@ -1,0 +1,223 @@
+---
+id: 1094
+title: Types of Items and their Effects
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1094-types-of-items-and-their-effects/
+---
+
+There are a variety of items available in Pokémon GO, each with different uses and effects that can be collected and managed in [your Item Bag](https://niantic.helpshift.com/hc/faq/3049-available-items-your-bag/).
+
+You can collect items by exploring your world, spinning the Photo Disc at [PokéStops and Gyms](https://niantic.helpshift.com/hc/faq/117-visiting-pokestops-and-gyms/), completing Special Research tasks, and more!
+
+### Items to assist with catching wild Pokémon
+
+**Poké Balls**
+
+A Poké Ball is an item that is used to [catch wild Pokémon](https://niantic.helpshift.com/hc/faq/102-finding-catching-wild-pokemon/), and varies in effectiveness. High performance Poké Balls like Great Balls, Ultra Balls, and Master Balls increase your ability to catch wild Pokémon. The Master Ball is a very rare and special type of Poké Ball with a 100% catch rate.
+
+Special Poké Balls like Premier Balls and Beast Balls can only be used in certain circumstances like Raid or Ultra Beast encounters.
+
+GO Safari Balls are highly effective, event-specific Poké Balls that make capturing Pokémon much easier. Note that unused GO Safari Balls will expire after a certain time and will disappear from your Item Bag.
+
+Learn more about [finding and catching wild Pokémon](https://niantic.helpshift.com/hc/faq/102-finding-catching-wild-pokemon/).
+
+**Berries**
+
+Berries can be used when encountering a wild Pokémon to make them easier to catch.
+
+There are three types of Berries to choose from:
+
+* Razz Berries help prevent the Pokémon from breaking free from the Poké Ball.
+
+* Golden Razz Berries are more effective than Razz Berries at preventing the Pokémon from breaking free from a Poké Ball.
+* Nanab Berries make the Pokémon easier to catch by slowing down its movement.
+* Pinap Berries double the amount of Candy you’ll receive if your next catch attempt succeeds.
+
+* Silver Pinap Berries combine the effect of Razz Berries, making it less likely for a Pokémon to break free from a Poké Ball, and Pinap Berries, giving you more Candy when you catch a Pokémon.
+
+### Items to use as you explore
+
+**Incense**
+
+Incense are items that lure wild Pokémon to your location for 1 hour. Incense is more effective at attracting wild Pokémon if you are moving. Incense duration may change depending on various circumstances, like the Season or special events.
+
+There are also special Incense types that may be more effective at attracting specific Pokémon.
+
+Learn more about [different types of Incense](https://niantic.helpshift.com/hc/faq/2480-what-are-incense/).
+
+**Lure Modules**
+
+A Lure Module can be added to a PokéStop to attract Wild Pokémon to that location for 30 minutes. A Lure Module’s duration may change depending on various circumstances, like the Season or special events.
+
+Unlike Incense, which only affects the Trainer who uses it, Lure Modules will also benefit other Trainers nearby. Certain Pokémon also need to be near a PokéStop with a specific Lure Module to be able to evolve.
+
+Different types of Lure Modules have different effects and may attract different types of Pokémon. Learn more about the [different types of Lure Modules](https://niantic.helpshift.com/hc/faq/1789-lure-modules/).
+
+**Star Pieces**
+
+A Star Piece is a small shard of a beautiful gem. Using this item will cause you to earn 50% more Stardust for 30 minutes. It may last longer during special events. You can activate multiple Star Pieces to stack their duration.
+
+**Lucky Eggs**
+
+Use a Lucky Egg to double the amount of XP you earn for a limited period of time. Lucky Eggs typically last for 30 minutes but may last longer during special events. You can activate multiple Lucky Eggs to stack their duration.
+
+**Raid Passes**
+
+Use Raid Passes to join a Raid Battle and challenge a powerful Pokémon with others. There are three types of Raid Passes available:
+
+* **Free Raid Pass:** Once per day, you can get one free Raid Pass by spinning the Photo Disc at any Gym. This Raid Pass will only allow you to join a Raid in-person. Note that you can only hold one Free Raid Pass in your Item Bag at a time, so if you already have one, you will not receive another.
+* **Premium Battle Pass:**  Although these Passes can be used to earn premium rewards in the GO Battle League, these Raid Passes can also be used to join a Raid Battle in-person. Purchase Premium Battle Passes from the Shop.
+* **Remote Raid Pass:** Use these Raid Passes to join a Raid Battle from wherever you are. Tap the Nearby menu to see Raid Battles that you can join without an invitation or coordinate with your Friends to receive an invitation to a Remote Raid Battle. Purchase Remote Raid Passes from the Shop.
+
+Learn more about [participating in Raid Battles](https://niantic.helpshift.com/hc/faq/2187-what-are-raid-battles/) and [joining Raid Battles remotely](https://niantic.helpshift.com/hc/faq/2487-joining-raids-remotely/).
+
+**Incubators**
+
+A device that is used to incubate an Egg. As you explore, you will make progress until the Egg is ready to hatch. There are three types of Incubators:
+
+* **Egg Incubator ∞:**  Every trainer will receive one Incubator that can be used an unlimited number of times to hatch Eggs.
+* **Egg Incubator:**  These Incubators will break after 3 uses. Collect them as rewards from activities like Special Research or Research Tasks or purchase them in the Shop.
+* **Super Incubator:**  A more powerful Egg Incubator that will help hatch Eggs more quickly. These Incubators will break after 3 uses.
+
+### Items with a special effect on your Pokémon
+
+**Evolution Items**
+
+Select Pokémon require an Evolution item as well as Candy to evolve. There are several different types of Evolution items (Gimmighoul Coins, Sun Stone, Metal Coat, King’s Rock, Upgrade, Dragon Scale, Sinnoh Stone and Unova Stone) you can use to evolve these Pokémon. You can collect Evolution items through various means such as visiting PokéStops, battling Trainers, or raids.
+
+**Rare Candy and Rare Candy XL**
+
+Mysterious candy that will turn into a specific Pokémon’s Candy or Candy XL when you give it to that Pokémon.
+
+**Mega Energy**
+
+A special type of resource that can be collected in a number of ways. Mega Energy is specific to individual Pokémon species and can be used to cause certain Pokémon to undergo Mega Evolution, which will power up its CP and attacks for a limited amount of time.
+
+Learn more about [Mega Evolution](https://niantic.helpshift.com/hc/faq/3328-what-is-mega-evolution/).
+
+**TMs**
+
+TMs or Technical Machines, can be used to teach a Pokémon a new attack. There are several types of TMs:
+
+* **Fast TM:**  This Technical Machine will teach a Pokémon a new Fast Attack randomly selected from that Pokémon’s available Fast Attacks.
+* **Charged TM:**  This Technical Machine will teach a Pokémon a new Charged Attack randomly selected from that Pokémon’s available Charged Attacks.
+* **Elite Fast TM:**  A special type of Technical Machine that lets you choose which Fast Attack to teach a Pokémon.
+* **Elite Charged TM:**  A special type of Technical Machine that lets you choose which Charged Attack to teach a Pokémon.
+
+**Potions and Revives**
+
+These are healing items to use on Pokémon after you have completed a Raid Battle, Gym Battle or Team GO Rocket Battle.
+
+* **Potions:**  A type of medicine that will restore the HP of one Pokémon by a set amount. There are different types of Potions, each of which restores a different amount of HP. If a Pokémon has fainted, however, you cannot use a Potion to restore its HP.
+* **Revives and Max Revives:**  A medicine that can revive one fainted Pokémon. Using a Revive will also restore half of a fainted Pokémon’s HP. Using a Max Revive will fully restore a fainted Pokémon’s HP.
+
+Learn more about [healing items](https://niantic.helpshift.com/hc/faq/2410-reviving-fainted-pokemon-restoring-hp/).
+
+**Poffins**
+
+A special treat that you can give to your Buddy Pokémon. Giving your Buddy a Poffin fills their hunger meter automatically, boosts their Mood to Excited and will cause your Buddy to join your adventure on the Map.
+
+Learn more about [Buddy Pokémon](https://niantic.helpshift.com/hc/faq/2155-buddy-adventure/).
+
+**Max Mushrooms**
+
+Using a Max Mushroom will boost the amount of damage your Pokémon will cause during Max Battles for a limited period of time. Their effect will last for 30 minutes but may last longer during special events. You can activate multiple Max Mushrooms to stack their duration.
+
+Learn more about [Max Battles](https://niantic.helpshift.com/hc/faq/4798-max-battles-and-catching-max-pokemon-1729887131/).
+
+### Items associated with Team GO Rocket
+
+**Mysterious Components**
+
+A device that is used by Team GO Rocket Grunts to hack a PokéStop. Defeat the Team GO Rocket Grunt in battle to collect the Mysterious Component and return the PokéStop to normal. If you collect 6 Mysterious Components, you can combine them and create a Rocket Radar. Note that if you have a Rocket Radar in your Item Bag or your Item Bag is full, you won't be able to collect Mysterious Components after defeating Team GO Rocket Grunts.
+
+Learn more about [challenging Team GO Rocket Grunts](https://niantic.helpshift.com/hc/faq/1936-team-go-rocket-grunts/).
+
+**Rocket Radar**
+
+A special item that can be used to track down Team GO Rocket Leaders at their Hideouts. You can purchase this in the Shop or assemble one out of Mysterious Components by defeating Team GO Rocket Grunts. Upon defeating a Leader, your Rocket Radar will be consumed, so you’ll need to collect 6 more Mysterious Components or purchase a new Rocket Radar from the Shop to encounter more Leaders.
+
+Learn more about [the Team GO Rocket Leaders](https://niantic.helpshift.com/hc/faq/2102-team-go-rocket-leaders-giovanni/).
+
+**Super Rocket Radar**
+
+A rare item that will reveal the location of Team GO Rocket’s boss, Giovanni. Just like a regular Rocket Radar, a Super Rocket Radar can be equipped and unequipped from your Bag, however you can only acquire a Super Rocket Radar by completing Special Research Tasks.
+
+Learn more about [the Team GO Rocket boss, Giovanni](https://niantic.helpshift.com/hc/faq/2102-team-go-rocket-leaders-giovanni/).
+
+**Shadow Shards**
+
+A mysterious piece of a gem that may be dropped by members of Team GO Rocket after you defeat them in Battle. If you collect five Shadow Shards, Professor Willow can combine them to create a Purified Gem.
+
+**Purified Gems**
+
+A special item that can be used in a Shadow Raid to help defeat the Shadow Raid Boss. Collect 5 Shadow Shards and use the Shard Refiner to create a Purified Gem. After you create a Purified Gem, it can be used in a Shadow Raid to help defeat the Shadow Raid Boss once it has become Enraged.
+
+Learn more about [Shadow Raids](https://niantic.helpshift.com/hc/faq/4054-what-are-shadow-raids/) and [Purified Gems](https://niantic.helpshift.com/hc/faq/4055-what-are-purified-gems-and-how-do-i-collect-them/).
+
+### Other items
+
+**The Mystery Box**
+
+A mysterious old box that will cause a certain Pokémon to appear for a limited amount of time.
+
+Learn more about the [Mystery Box](https://niantic.helpshift.com/hc/faq/2789-what-is-the-mystery-box/).
+
+**Coin Bag**
+
+The Coin Bag is a special type of Incense that can be activated once per day by sending Postcards from Pokémon GO to  *Pokémon Scarlet*  and  *Pokémon Violet* .
+
+Learn how to [connect Pokémon GO to  *Pokémon Scarlet*  and  *Pokémon Violet*](https://niantic.helpshift.com/hc/faq/2790-connecting-pokemon-go-to-the-nintendo-switch-1604604136/#send-postcards-as-mystery-gifts-in-pok%C3%A9mon-scarlet-and-pok%C3%A9mon-violet).
+
+**Zygarde Cube**
+
+The Zygarde Cube is an item in which Zygarde Cells are gathered when you encounter them while following a Route.
+
+Learn more about [Routes](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4175-what-are-routes/).
+
+**Max Particles**
+
+Max Particles are mysterious energy particles that are concentrated at Power Spots. Trainers use Max Particles to join Max Battles and train a Pokémon’s Max Moves. Learn more about [Max Particles](https://niantic.helpshift.com/hc/faq/4797-collecting-max-particles-and-dynamaxing-or-gigantamaxing-pokemon-1729887059/).
+
+**Camera**
+
+This device can be used to capture photos of Pokémon. You can take photos of wild Pokémon you encounter on the Map or of Pokémon you have already captured. Sometimes, you may even have a surprise encounter with a Pokémon when you take a photo.
+
+Learn more about [taking AR Photos with GO Snapshot](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1105-taking-ar-photos-with-go-snapshot/).
+
+**Gifts and Stickers**
+
+Gifts are boxes that you can collect from spinning the Photo Disc at PokéStops and Gyms. They contain a variety of useful items and can be sent to your Friends. Each Gift contains a postcard from the location at which you collected it. You can add Stickers to Gifts when you send them to Friends for extra customization
+
+Learn how to [send Gifts to Friends](https://niantic.helpshift.com/hc/faq/85-sending-receiving-gifts/).
+
+**Lucky Trinket**
+
+The Lucky Trinket is a one-time-use item that can be used to turn one friend from your Friend List into a [Lucky Friend](https://niantic.helpshift.com/faq/1485-lucky-friends/). When used, the Lucky Trinket will set the status of you and your chosen friend to Lucky, even if you aren’t Best Friends!
+
+**Bottle Cap**
+
+A Bottle Cap is an  *extremely*  rare, time limited, one-time-use item that can be used on a Pokémon to enter it into Hyper Training. [Learn more about Hyper Training.](https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/)
+
+**Postcard Book**
+
+The Postcard Book is a collection of Postcards that you can save from Gifts you’ve collected from PokéStops and Gyms or that you have received from Friends.
+
+Learn how to [add Postcards to your Postcard Book](https://niantic.helpshift.com/hc//faq/3196-what-is-the-postcard-book/).
+
+**Team Medallion**
+
+A unique coin that will allow you to change your team. It is available for purchase in the Shop but can only be purchased once every 365 days.
+
+Learn more about [changing your team](https://niantic.helpshift.com/hc//faq/107-how-do-i-change-my-team/).
+
+**Item Bag Upgrade**
+
+This item is available for purchase in the Shop and will increase the max number of items you can carry by 50.
+
+Learn more about [managing your Item Bag](https://niantic.helpshift.com/hc/faq/3049-available-items-your-bag/).
+
+**Pokémon Storage Upgrade**
+
+This item is available for purchase in the Shop and will increase the max number of Pokémon you can carry by 50.
+
+Learn more about [managing your Pokémon inventory](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2389-transferring-pokemon/).
