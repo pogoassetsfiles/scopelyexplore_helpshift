@@ -1,0 +1,15 @@
+---
+id: 1158
+title: What are Combat Power (CP) and Hit Points (HP)?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1158-what-are-combat-power-cp-and-hit-points-hp/
+---
+
+Each Pokémon has  **Combat Power (CP)**  and  **Hit Points (HP)** .
+
+All Pokémon start out with full HP at capture, but HP can be depleted during battle.
+
+Each individual Pokémon is assigned CP at capture, which indicates how well that particular Pokémon will perform in battle. Not all Pokémon have the same CP - for example, if you have caught two Pikachu, they will not necessarily have the same CP.
+
+As you gain XP and become a higher level Trainer, the CP of the Pokémon you capture will generally be higher. However, some types of Pokémon will naturally always have lower CP.
+
+You can Power Up your Pokémon to increase their CP and HP.
