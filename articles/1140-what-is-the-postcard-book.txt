@@ -1,0 +1,131 @@
+---
+id: 1140
+title: What is the Postcard Book?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1140-what-is-the-postcard-book/
+---
+
+Your  **Postcard Book**  is a collection of Postcards that you have saved. You can collect Postcards from locations that you have visited or save them from Gifts you have received from Friends.
+
+View your Postcard Book by either tapping on the Postcard Book image in your Item Bag or tapping on the Postcard Book button on your Trainer Profile.
+
+Scroll to view any Postcards that you’ve saved organized by the date they were added to your Postcard Book. Tap the button in the bottom right corner to choose to sort your saved Postcards by date received or by your Friend’s Trainer Name or nickname.
+
+Tapping on an individual Postcard will show more details about when it was received, the photo attached to the Postcard, and the Friend who sent it to you. If you remove a Friend, you will still keep the Postcard, however, their name will be removed from the details.
+
+By default, you can save up to 350 Postcards. If you run out of space to save Postcards, you can remove them from your Postcard Book, or purchase additional Postcard Pages in the shop.
+
+Note that collecting Postcards from certain areas is required to make progress toward encountering a Pokémon on the Map.
+
+### Visiting Locations and Saving Postcards
+
+If you are visiting an exciting or interesting location and you want to commemorate the visit, you can save a Postcard from that location if you have received a Gift from the PokéStop or Gym.
+
+To add Postcards to your Postcard Book:
+
+* Tap the Main Menu **[![](../data/images/5a77de8e-8fdf-4b93-93d0-4cad72eaf0c7.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/5a77de8e-8fdf-4b93-93d0-4cad72eaf0c7.png)**  button.
+
+* Tap the Items
+![image](../data/images/ad_4nxe8jfcq5rpvjp7yzhbgfnyuara2ohqyhcgubustfin_pi7fpmd0ac7u9lvahqzwsumc9r_qp0vkufkuzhraw8qxplkcyhsqri94ov8dtf72ozm1fdz6fyxhshdfoutks4axt5qqux2xtmvvkxialqchul5w.png)
+ button.
+
+* Scroll down until you see the Gifts image in your Item Bag.
+
+* Tap on  **Gift**  to see all of the Gifts in your Bag.
+
+* Tap on the Gift for which you want to view the Postcard.
+
+* Tap the  **Save**  button to add a Postcard to your Postcard Book. The pin will change color to indicate the Postcard has been saved.
+
+* To remove a Postcard, tap the button again.
+
+Be sure to save your Postcard before sending your Gift, you will not be able to add the Postcard to your Postcard Book after you have sent the Gift to your Friend.
+
+Note that you must have a Gift from the location in your Item Bag in order to save the Postcard. You can save Postcards from the same location received at different days or times.
+
+### Saving Postcards from Gifts
+
+If you receive a Gift from a Friend who has visited an exciting or interesting location and you would like to save the Postcard attached to the Gift, you can add it to your Postcard Book.
+
+To add a Postcard from a Gift to your Postcard Book:
+
+* In Map View, navigate to your Trainer Profile.
+
+* Tap the Friends tab at the top of the screen to open your Friend List.
+
+* Tap on the Trainer whose Gift you wish to open.
+
+* Tap on the Gift to view the attached Postcard.
+
+* Tap the pin button to save the Postcard to your Postcard book. If you tap the pin button by accident, you can tap again to remove the Postcard from your Postcard book.
+
+Please note that, once you have opened a Gift from a Friend, you are unable to save the Postcard.
+
+### Postcards and the Vivillon Collector Medal
+
+Collecting Postcards from various regions will contribute to your Vivillon Collector medal, a medal that tracks your progress in catching the Pokémon, Vivillon. Vivillon’s wings have different patterns depending on the region from which the Postcard originated.
+
+In order to encounter the Pokémon Scatterbug, which evolves into Vivillon, you will need to pin postcards from Gifts you receive from your friends. You can also make progress towards the Scatterbug encounter by pinning Postcards from your Gifts. Making progress by pinning Gifts you collect can only be done twice a day.
+
+By pinning a Postcard, you will make progress on the Vivillon Collector medal representing the region that Vivillon is from. When you’ve completed the medal progress, you will then have the chance to encounter a wild Scatterbug, which evolves into a Vivillon featuring the pattern specific to that region. Note that if you run away from the Scatterbug encounter, you can go back to the region’s medal page and restart it.
+
+You can track your progress against the various regions’ medals from your Trainer Profile Page or by viewing Vivillon in the Pokédex. The medal detail page also shows a map displaying all of Vivillon’s habitats across the world.
+
+Note that there are some areas that are not Vivillon habitats. Even if you receive a Gift from this area, you will not make progress on a Vivillon Collector medal.
+
+### Removing Postcards from your Postcard Book
+
+If you decide that you no longer want to keep a Postcard, or if your Postcard Book inventory is full, you can remove Postcards at any time. When you remove a Postcard, you will receive a message confirming that the Postcard has been removed. Once you remove a Postcard, please note that this action cannot be undone.
+
+If you are opening a Gift from a Friend or reviewing all the Gifts in your Item Bag and accidentally tap the pin to save a Postcard, simply tap it again to remove it.
+
+To remove Postcards while viewing your Postcard Book:
+
+* Tap on a Postcard to view its details
+
+* Tap the menu in the bottom right
+![image](../data/images/ad_4nxfc7wvv51txqapyob5yyn9ev_xkkx0rprzgw7isjthprcrpzaz_w9ieungsaqw9mneuggl4tmbqz0jk-8k8rxyfw-eefiu6ulh6s1hkm8xwmpuga37yndn7xnemrpk-mzq_icezqdo53lcjfgfm9bmbzeub.png)
+
+* Tap  **Delete**  and tap **Yes**  to confirm
+
+You can also delete multiple Postcards at once. Tap and hold to manage your Postcards and then tap to select which Postcards to delete before tapping  **Remove** .
+
+Once you have reached or exceeded your Postcard limit, you will not be able to save new Postcards. If you try to save a new Postcard while your Postcard Book is full, you’ll receive a warning message and the option to manage your Postcard Book.
+
+### Sending Postcards to Nintendo Switch
+
+Once you have saved a Postcard to your Postcard Book, you have the option of connecting Pokémon GO to your Nintendo Switch to send a copy of your Postcard.
+
+Learn how to connect your Pokémon GO account to your Nintendo Switch [here](https://niantic.helpshift.com/hc/faq/2790-connecting-pokemon-go-to-the-nintendo-switch-1604604136/). Once you have connected Pokémon GO to your Nintendo Switch, you are able to send a copy of your Postcards.
+
+To send a copy of your Postcard:
+
+* Tap on a Postcard to view its details
+
+* Tap the menu in the bottom right
+![image](../data/images/ad_4nxfc7wvv51txqapyob5yyn9ev_xkkx0rprzgw7isjthprcrpzaz_w9ieungsaqw9mneuggl4tmbqz0jk-8k8rxyfw-eefiu6ulh6s1hkm8xwmpuga37yndn7xnemrpk-mzq_icezqdo53lcjfgfm9bmbzeub.png)
+
+* Tap  **Send to Nintendo Switch**
+
+* Tap  **Yes**  on the privacy policy screen to indicate that you have read and agree with the policy
+
+* Tap  **OK**  on the confirmation screen to proceed with sending your Postcard.
+
+Note that sending your Postcard to your Nintendo Switch will appear as though you are sending a Mystery Gift. Sending Postcards has special benefits both in Pokémon Scarlet and Violet as well as Pokémon GO.
+
+To learn more about the connection between Pokémon Scarlet and Violet and Pokémon GO, please see [this](https://niantic.helpshift.com/hc/faq/2790-connecting-pokemon-go-to-the-nintendo-switch-1604604136/) article.
+
+### Controlling what others see
+
+When you first use the Postcard Book, you will be able to select whether or not to display your Trainer Name in your Friend’s Postcard Book. You can change this at any time from the Settings menu.
+
+To change your sharing settings:
+
+* Tap the  **Main Menu [![](../data/images/5a77de8e-8fdf-4b93-93d0-4cad72eaf0c7.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/5a77de8e-8fdf-4b93-93d0-4cad72eaf0c7.png)**  button.
+
+* Tap the  **Settings [![](../data/images/11f04876-4d39-40be-9e84-f7e1cd3c41bb.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/11f04876-4d39-40be-9e84-f7e1cd3c41bb.png)**  button.
+
+* Tap  **General** .
+
+* Scroll down to  **Share your nickname in Friends' Postcard Books** .
+
+* Tap the button to opt in to sharing your Trainer Name. Tap again to opt out of sharing. If you opt out, your Trainer Name will be removed from any Postcards that your Friends have previously saved as well as future saved Postcards.
