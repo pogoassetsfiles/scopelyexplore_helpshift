@@ -1,0 +1,51 @@
+---
+id: 1199
+title: How can I join Mega Raid Battles?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1199-how-can-i-join-mega-raid-battles/
+---
+
+Mega Raids are easy to identify in the Map View or Nearby screen. Just look for a Mega icon
+![image](../data/images/e1af0e1c-8b5f-4e23-a3a6-047e4272366c.png)
+:
+
+![image](../data/images/4639aa31-ffef-4a33-800e-2e150792e630.png)
+
+Join a Mega Raid Battle as you [normally would](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2187-what-are-raid-battles/) any other Raid and tap to defeat the Mega Raid Boss.
+
+After you defeat the Mega Raid Boss, you will receive Mega Energy as a reward as well as an opportunity to catch the Raid Boss. The amount of Mega Energy you’ll receive from a Mega Raid Battle depends on how quickly you defeat the Raid Boss. Upon defeating a Mega Raid Boss, you’ll see a Speed stat on the summary screen, which determines how much Mega Energy you earn.
+
+![image](../data/images/4d4a018e-7786-45a6-9fac-e03f2c694f33.png)
+
+Note that, once you’ve defeated the Mega Pokémon, it will de-Mega Evolve for the [Raid Boss Encounter](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2692-i-defeated-a-mega-raid-boss-but-they-turned-back-into-their-regular-form-for-the-encounter/).
+
+There are three tiers of Mega Raids:
+
+* Mega Raids
+
+* Mega Legendary Raids
+
+* Super Mega Raids
+
+While Mega Raids feature powered-up Mega Pokémon, Mega Legendary Raids and Super Mega Raids will feature even more powerful Mega Pokémon.
+
+###
+
+### What are Mega Legendary Raids?
+
+Mega Legendary Pokémon are very powerful, so Mega Legendary Raids are more difficult than a standard Raid Battle or even a Mega Raid Battle. To improve your chances of defeating the Mega Legendary Raid Boss, try Mega Evolving a Pokémon in your Raid Party, [inviting Friends](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2601-inviting-friends-to-raid-battles/) to join you in the Mega Legendary Raid, or both
+
+## What are Super Mega Raids?
+
+Super Mega Raids are the most challenging Mega Raids. While most of the Raid Battle will be similar to Mega Raids or Mega Legendary Raids, at a certain point during the Raid Battle, the Mega Pokémon will become enraged.
+
+An enraged Mega Pokémon will receive a number of shields that immensely reduce the amount of damage it takes from Attacks while these shields are active. Shields can be broken by using a Charged Attack from a Mega Pokémon during the Raid. Your Mega Pokémon will automatically be sent into battle and have its Charged Attack available to use once the Mega Raid Pokémon becomes enraged.
+
+Trainer Tip: Each Trainer in the Super Mega Raid Battle can typically only break 1 shield, no matter how many times their Mega Pokémon uses a Charged Attack. It is highly recommended to challenge a Super Mega Raid with the suggested number of Trainers that all have a Mega Pokémon in their party.
+
+![image](../data/images/491a5f13-8b5e-4a78-96ab-8c7dc0fe02ac.png)
+
+**Please note:**  Trainers that do not have a Mega Pokémon in their party will not be able to tap the Ready button in the raid lobby until their Battle Party includes a Mega Evolved Pokémon. They can still join a Super Mega Raid without a Mega Pokémon by waiting out the raid lobby timer, but it is highly recommended that they include a Mega Pokémon in their party.
+
+![image](../data/images/a083854a-863e-4863-9c7f-2e397747458a.png)
+
+Pokémon that have undergone Primal Reversion will not count as a Mega Pokémon and will be unable to break shields.
