@@ -1,0 +1,36 @@
+---
+id: 1312
+title: Controlling Your Experience in Pokémon GO
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1312-controlling-your-experience-in-pokemon-go/
+---
+
+In Pokémon GO, players can explore their neighborhoods and cities to find wild Pokémon, discover and catch hundreds of Pokémon, and more. We want all our players to have a fun and safe experience, and we provide the following tools to help you control your Pokémon Go experience. See our [Safety FAQs](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/114-safety-faqs/?s=friends-gifting-and-trading) for more information.
+
+## **Managing Your Friends**
+
+You can add  **friends**  in Pokémon GO to stay connected with Trainers that you meet along your Pokémon GO journey. As you play together, you’ll increase your Friendship level and unlock extra bonuses. You’ll also be able to send Gifts and trade Pokémon with your friends. Learn more about [adding Friends](https://niantic.helpshift.com/hc/faq/2938-adding-friends/) and [Friendship Levels](https://niantic.helpshift.com/hc/faq/2847-friend-list-friendship-levels-1614900279/)
+
+### **What Will Friends See About Me?**
+
+Once you become friends with another Trainer, you’ll both be able to see each other’s Trainer Profile through the Friend List. This information includes your Avatar, Buddy Pokémon, Team, number of Pokémon caught, most recently caught Pokémon, Trainer level and XP, Distance Walked, and the number of Battles won.
+
+You can disable showing friends which Pokémon you've caught in the Settings menu. Friends may also find out about your location when you send them a Gift or when you trade Pokémon with them.
+
+Friends who have set themselves Online can see your Online status if you have also set yourself online. You can toggle your Online Status by tapping the switch at the top of your Friend List.
+
+Friends can also access [your Scopely Explore Profile](https://niantic.helpshift.com/hc/faq/2595-your-niantic-profile/), which shows recent achievements in Pokémon GO and other Scopely Explore apps. This page also displays lifetime stats, including distance walked and the date that you began playing Scopely Explore games. Learn more about [controlling what others can see](https://niantic.helpshift.com/hc/faq/2595-your-niantic-profile/#controlling-what-others-see) in your Scopely Explore Profile.
+
+### Removing Friends
+
+If you decide that you no longer want a friend to see this information about you through their Friend List, you may simply remove them.
+
+You can remove a friend from your Friend List at any time. Once removed, any bonuses between the two of you will no longer apply. The person that you’ve unfriended will not be notified.
+
+**To remove someone from your Friend List:**
+
+* In Map View, navigate to your  **Trainer Profile** .
+* Tap the  **Friends**   **tab**  at the top of the screen to open your Friend List.
+* Tap on the friend that you wish to remove.
+* At the bottom of their profile, tap the  **Remove Friend**  button.
+
+After removing a friend, your Friendship level can be recovered for a limited period of time. If you re-add a friend during that time period, your Friendship level will be restored. Keep in mind that removing a friend in one game will remove them from other games as well.
