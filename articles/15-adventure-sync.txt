@@ -1,0 +1,83 @@
+---
+id: 15
+title: Adventure Sync
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/15-adventure-sync/
+---
+
+*Track your distance traveled, earn Buddy Candy, and hatch Eggs while your phone is in your pocket*
+
+Adventure Sync is an optional mode that will allow you to record your kilometers traveled even when the Pokémon GO app isn’t open. You’ll be able to stay active and earn Buddy Candy or hatch Eggs without significantly impacting your device’s battery life. When your Buddy Pokémon has found Candy or when an Egg is about to hatch, you can opt to receive a push notification. As an added bonus, you’ll get weekly fitness reports to track your progress as well as earn rewards for reaching weekly milestones.
+
+**Note:**  Adventure Sync is only available for Trainer Levels 5 and above.
+
+## **How to activate Adventure Sync**
+
+To use this feature, you’ll have to always enable location permissions and connect to either Apple Health or Google Fit.
+
+* Tap the   **Main Menu [![](../data/images/51858404-71f6-45ae-8df4-4e801d4c3ff1.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/51858404-71f6-45ae-8df4-4e801d4c3ff1.png)** button.
+
+* Tap the   **Settings**  [![](../data/images/8a4a4b9a-a3bd-4577-af72-31bdf882c440.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/8a4a4b9a-a3bd-4577-af72-31bdf882c440.png) button.
+
+* Tap  **General** .
+
+* Tap on   **Adventure Sync** . You’ll also be prompted to grant permission for Pokémon GO to access your Apple Health or Google Fit data.
+
+To disable Adventure Sync, just revisit the settings page and uncheck   **Adventure Sync** .
+
+## **Weekly Report and Rewards**
+
+[![image](../data/images/f0efc3f9-ce08-47f7-9905-d59b50ea43c9-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/afd86e0e-43fa-4f44-a551-16a3e5a03193.png)
+
+With Adventure Sync activated, you’ll also gain extra insights into your fitness progress. Every week, you will receive a report to see your activity statistics and make progress towards earning bonus items when you reach your weekly goals. You can also view your current stats by navigating to your Trainer Profile.
+
+## Adding Adventure Sync widgets to your device home screen
+
+Once you have enabled Adventure Sync within Pokémon GO, you can add an optional widget to your device’s home screen to track your progress towards hatching any Eggs that are incubating or earning Buddy Candy.
+
+[![image](../data/images/08a9f510-708b-4bc9-8fd5-17c83601ebb6-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/bdf7d8f0-f578-46cf-9db1-5709515f7152.jpg) [![image](../data/images/df4d8a0a-3608-40c1-b538-56df2090e61d-2t.jpeg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/8fa65682-771c-4879-96f6-3bcb8f5961e6.jpeg)
+
+Please note that your recorded distance might take up to an hour to sync with the widget.
+
+Depending on your device type, you can add the Adventure Sync widget to your home screen by taking the following steps:
+
+**Apple Devices**
+
+* From your Home Screen, tap and hold a widget or an empty area until the apps jiggle.
+
+* Tap the Add button [![image](../data/images/4389f450-188a-48e0-9507-bdec34c0610f-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/41cb4a58-8d75-46a8-b299-1481daae909b.png) in the upper-left corner.
+
+* Select the Pokémon GO widget, then tap Add Widget.
+
+* Tap Done.
+
+![image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCw6KEwM8muHEtqMZJZQtDnyjurKmXd_9zuWi2ztqWh4jutn6oV4ftpJTguPfBLMbeiY-Q131AtFhIaSK719JH6XOnb3AmKfknly0l2BbEFV-kO5rjkqa1HzQI-xg-wzLvqYWNWVOi1OqQOfYQdG_uzM8?key=yBAHRQ24muuntRXKuvgPGg)
+
+You can also add the Pokémon GO widget to your Today View by swiping left from your home screen and following the above steps.
+
+[Learn more](https://support.apple.com/en-us/HT207122) about Widgets on your Apple Device.
+
+**Android Devices**
+
+* On a Home screen, touch and hold an empty space.
+
+* Tap Widgets
+![image](../data/images/ad_4nxfi9ybxq4t-pvtjet23kemua_phc98qyz9hlluz4yqspobsgyx1ljlnas3lwlzmwt1zomasdt8g2y3vbmc3ijjxptnjoi6kyb212b6ucemrhbwirdnppaemdmr-tst0fremhjdtmshjjhzkjqkcx9cgks4.png)
+.
+
+* Select and hold the Pokémon GO widget. You’ll get images of your Home screens.
+
+* Slide the widget to where you want it. Lift your finger to place the widget.
+
+![image](../data/images/ad_4nxewtrlqv41ehdiswhscwnbvxglc1voyr5hwxwooukhsxzfngtyprrvag40tfzpskvkb1k8bqbgb2pfsst11pz0wuakkswewmr0uizhlvapexv92dl16u9xumsekjwmn5zcj-b4tqwominjebigw5crvv3m.png)
+
+[Learn more](https://support.google.com/android/answer/9450271?hl=en#zippy=%2Cadd-or-resize-a-widget) about home screen widgets for your Android Device.
+
+## If you play multiple Scopely Explore titles with Adventure Sync enabled:
+
+As long as your accounts share a login method, your distance traveled will match across the games. Even if you play on multiple devices, your distance will not get double-counted or overwritten.
+
+If there’s a discrepancy between the Adventure Sync distance reported from different games, you’ll get credit for the highest distance. For instance, if you have both Pokémon GO and Pikmin Bloom installed and Pokémon GO tracks a higher distance than Pikmin Bloom, Pikmin Bloom will credit you with your distance from Pokémon GO.
+
+## Having Adventure Sync Issues?
+
+Check out our [Troubleshooting Adventure Sync](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2045-troubleshooting-adventure-sync/?p=web&l=en&s=troubleshooting&f=troubleshooting-adventure-sync) article.
