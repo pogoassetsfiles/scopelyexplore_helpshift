@@ -1,0 +1,44 @@
+---
+id: 1336
+title: Pokémon GO Plus + and Pokémon Sleep
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1336-pokemon-go-plus-and-pokemon-sleep/
+---
+
+In addition to using the Pokémon GO Plus + device to interact with PokéStops and Gyms or catch Pokémon, you can also use it to track your sleep.
+
+Using the Pokémon GO Plus + to track your sleep time can grant you rewards. To be eligible for sleep tracking, you will need to enable the Sleep Data setting. You will see the option to enable this setting in a tutorial when you first connect Pokémon GO to your Pokémon GO Plus + device.
+
+To change this setting at any time:
+
+* In the Map View, tap the Main Menu [![](../data/images/cadf51a5-5e1d-4dab-b9e8-d85ea5653ff0.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/cadf51a5-5e1d-4dab-b9e8-d85ea5653ff0.png)  button.
+
+* At the top right, tap the Settings [![](../data/images/9384173f-5841-49e7-89f3-f0c2c60877c6.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/9384173f-5841-49e7-89f3-f0c2c60877c6.png)  button.
+
+* Tap  **Connected Devices and Services** .
+
+* Tap  **Accessory Devices** .
+
+* Scroll until you see  **Sleep Data**
+
+* Tap the toggle next to  **Share Sleep Data with Pokémon GO**
+
+Once you are sharing sleep data, you can set the time of day you would like to receive the sleep rewards you earned. This will also be the time at which your sleep duration will reset each day. This can be changed at any time in the Pokémon GO Plus + device settings. Note that rewards are not automatically claimed, so you must connect your Pokémon GO Plus + and log into Pokémon GO to claim your rewards each day.
+
+The previous day’s sleep duration will be logged in your [Trainer Profile](https://niantic.helpshift.com/hc/faq/82-viewing-your-trainer-profile-progress/) under  **Sleep Activity** and your rewards will be added to your Journal.
+
+**How to Track your Sleep**
+
+To be able to claim your sleep rewards, you must use the Pokémon GO Plus + device to track your sleep. Follow these steps to track your sleep:
+
+* Before you go to sleep, start a sleep session by holding down the Main Button on the Pokémon GO Plus + until the indicator light flashes blue and you hear a lullaby play.
+Note that the Pokémon GO Plus + must be paired with Pokémon GO but not actively connected for play with Pokémon GO to initiate a sleep session.
+
+* When you wake up, end your sleep session by holding the Main Button on the Pokémon GO Plus + until the indicator light flashes multicolored lights. If the indicator light flashes red, this indicates that your sleep log was not recorded successfully or that your sleep session was shorter than 90 minutes.
+
+* Log into Pokémon GO and reconnect your Pokémon GO Plus + to transfer your sleep data and collect rewards.
+
+Please note that you will not be able to collect rewards in Pokémon GO unless you are sharing sleep data with Pokémon GO. Toggle this option on the Pokémon GO Plus + settings page.
+
+The Pokémon GO Plus + can also be used with a separate Pokémon app: Pokémon Sleep. To learn more about connecting Pokémon GO Plus + to Pokémon Sleep and using the device to track your sleep within the Pokémon Sleep app, see [this article](https://www.pokemongoplusplus.com/en/sleep/).
+
+Note that sleep data that is shared with Pokémon GO is used only for the purpose of calculating rewards and displaying sleep activity in-app. This data is removed from Scopely Explore servers after 1 week. Sleep data is otherwise stored locally on the Pokémon GO Plus + device, not your phone.
