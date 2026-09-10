@@ -1,0 +1,17 @@
+---
+id: 830
+title: How to reset your Pokémon Trainer Central login information
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/830-how-to-reset-your-pokemon-trainer-central-login-information/
+---
+
+If you forget your Pokémon Trainer Central login information, you can use the following steps to recover your account:
+
+1. Go to https://trainer.pokemon.com/
+
+2. Click on "Log in"
+
+3. Click on “Trouble Logging in?”
+
+4. Select "I forgot my username"
+
+If you have forgotten your login password, please reach out to the Pokémon Trainer Central: (https://recover.pokemon.com/[)](https://club.pokemon.com/us/pokemon-trainer-club/forgot-password))  for further assistance.
