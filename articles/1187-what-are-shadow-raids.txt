@@ -1,0 +1,21 @@
+---
+id: 1187
+title: What are Shadow Raids?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1187-what-are-shadow-raids/
+---
+
+A  **Shadow Raid**  is a mysterious type of Raid Battle that occurs at a Gym that has been taken over by Team GO Rocket.
+
+Unlike a standard [Raid](https://niantic.helpshift.com/hc/faq/2187-what-are-raid-battles/), a member of Team GO Rocket has captured the Gym and placed a Shadow Pokémon as the Raid Boss. Enter the Gym and defeat the Shadow Raid Boss in battle to get the chance to capture it. Like a standard Raid, Shadow Raids have multiple difficulty levels depending on the strength of the Shadow Raid Boss.
+
+Once a Gym has been taken over by Team GO Rocket, the Raid Egg above the Gym will appear with a purple flame behind it. Once the Raid Egg has hatched, the Gym will change color to appear black on the Map. Shadow Raids are also visible on your Nearby menu; the Raid Boss or Raid Egg will feature a purple flame behind it.
+
+![image](../data/images/0a57ee43-0ff1-42e9-b6c4-74f855363099.png)
+
+As you approach the Gym, Team GO Rocket Grunts, Leaders or Giovanni will appear nearby if you are in range. Tap the Gym to enter the Raid Battle using a Raid Pass.
+
+At a certain point during the Raid Battle, the Shadow Pokémon may become enraged, which will make it more difficult to defeat.
+
+If you have a Purified Gem in your bag, a button will appear on the bottom left of your screen after the Shadow Pokemon has become enraged. Tap the button to use a Purified Gem, which will help to subdue the Shadow Raid Boss and return it to its non-Enraged state. [Learn more about Purified Gems.](https://niantic.helpshift.com/hc/faq/4055-what-are-purified-gems-and-how-do-i-collect-them/)
+
+If you and your fellow Trainers are successful in defeating the Shadow Raid Boss, you’ll earn special items and a chance at catching the Pokémon. Just like in a standard Raid Battle, you will receive Premier Balls as one reward for your performance in the Raid Battle. Use the Premier Balls to try and catch the Shadow Pokémon.
