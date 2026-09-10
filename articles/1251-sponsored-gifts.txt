@@ -1,0 +1,32 @@
+---
+id: 1251
+title: Sponsored Gifts
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1251-sponsored-gifts/
+---
+
+While exploring the world of Pokémon GO, you may receive  **Sponsored Gifts**  along with sponsored messages relevant to your location. Sponsored Gifts are different from Gifts you can send to your friends. Sponsored Gifts can't be sent to friends, instead give items directly to the Trainer who receives them.
+
+
+Sponsored Gifts will appear randomly on the Map View attached to balloons. Tap on the Sponsored Gift balloon and select  **Open Gift**  to see a sponsored message. While viewing this message, the items from the Sponsored Gift will be added to your inventory. Tap  **Learn More**  for more information about the sponsor. After a few seconds, or after the video has ended, tap the  **X**  to exit the offer.
+
+[![image](../data/images/46a856d8-6747-4d27-86b0-72919bbf3530-2t.PNG)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c5781311-5f67-4672-a16f-13418159b1de.PNG)  [![image](../data/images/3dd95dc6-b99b-4a8a-a341-1b91f9be388a-2t.PNG)](https://d2duuy9yo5pldo.cloudfront.net/niantic/79212b19-8164-417e-9f6b-938c610f20f3.PNG)
+
+Sponsored Gift balloons will offer a variety of in-app items such as Berries, Stardust, etc.
+
+
+Certain types of Sponsored Gift balloons will require specific device requirements in order to view the message:
+
+* Camera permissions
+
+* iOS 15 or above
+
+* Android 7 or above
+
+* Device memory of 2600mb
+
+You can choose to opt out of this feature by deselecting the “Show sponsored messages from third-party advertising services” option in the Settings menu. This setting does not affect your ability to obtain Gifts from Gyms or PokéStops to send to your friends.
+
+**Note** : This feature is only available to Trainers who are Level 9 and above.
+
+
+ **Note about child accounts:** Trainers with Child accounts will not receive Sponsored Gift balloons, even if permissions for accessing sponsored content are granted through the Kids at Scopely Explore Parent Portal or Pokémon Trainer Central website.
