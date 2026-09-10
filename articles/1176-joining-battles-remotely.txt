@@ -1,0 +1,60 @@
+---
+id: 1176
+title: Joining Battles Remotely
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1176-joining-battles-remotely/
+---
+
+### How to Join a Raid Remotely
+
+With a  **Remote Raid Pass** , Trainers can join many Raid Battles that appear on the Nearby screen or are tappable from the Map View.
+ [![](../data/images/cd413795-709b-4197-aed6-5ddd2d61179f.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/cd413795-709b-4197-aed6-5ddd2d61179f.png)
+
+Remote Raid Passes can be purchased from the Shop, and occasionally there may be special events that include Remote Raid Passes as a reward. If you have 3 or more Remote Raid Passes in your bag, you will not be able to acquire more.
+
+### **How to Join a Raid Remotely**
+
+There are 3 ways to join a Raid remotely:
+
+* Tap the Nearby button at the bottom right of the Map View and select the “Raid” tab. For any Raid Battles
+listed, tap “View” below the raid you would like to join to access the raid.https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/951157d6-538c-43fd-ad39-57c1e1acb519.png  can also tap any Gym with an ongoing Raid Battle on your Map View.
+
+![](../data/images/951157d6-538c-43fd-ad39-57c1e1acb519.png)
+ [![](../data/images/d798a7f0-19a4-44cf-ad2a-1fef6d1b857d.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d798a7f0-19a4-44cf-ad2a-1fef6d1b857d.jpg)
+* Receive a [Raid Invitation](https://niantic.helpshift.com/hc/faq/2601-inviting-friends-to-raid-battles/) from a Friend.
+
+Once you’ve accessed the raid you’d like to join remotely, you’ll see a pink button that lets you join the Raid Battle using a Remote Raid Pass. Exchange your pass for entry into the raid.
+
+![image](../data/images/ad_4nxdquwrd_mk5ysxtokxypu6d272uvaka4rqvonhtgztbienpicvffmmlk2gmvghob6ka1cp9touafkffb7e3ryixbvaagkm5r4eso1ssdxrzbizs4ohaxzf0qg_gkvufnxe5lprrkmzvzyxe1se4mw1tsu7b.png)
+
+Up to 5 Trainers can join the same raid lobby with a Remote Raid Pass, though this number may be temporarily adjusted during specified time periods. If you try to join a Raid Battle remotely and 5 other Trainers have already joined remotely, you will be added to a new lobby. Avatars of Trainers joining remotely have a different appearance in the lobby.
+
+Note that Trainers will only be able to participate in 10 Remote Raids per day. This maximum may change and increase for special events.
+
+### **Battling in a Raid Remotely**
+
+Like in raids joined in person, Trainers raiding remotely can select the Pokémon they wish to use and invite others within range to join their group by sharing the group code (3 pictures of Pokémon) at the top right of the raid lobby.
+
+[Raid Battle mechanics are also the same](https://niantic.helpshift.com/hc/faq/2187-what-are-raid-battles/#battling-in-a-raid) regardless of whether you are battling remotely or in-person. However, remote Trainers’ Pokémon have lower attack power than Pokémon of Trainers who join in person. This attack power reduction may be temporarily adjusted during specified time periods.
+
+Raid Battles that you complete with a Remote Raid Pass will still count towards any raid-related research and medals, and Best Friend and team bonuses for attack power and extra Premier Balls are still applied.
+
+### **How to Join Max Battles Remotely**
+
+You will be able to join Max Battles remotely by using both a Remote Raid pass AND the locally required amount of Max Particles to join the battle. The amount of Max Particles required will vary based on the battle.
+
+You can also join Max Battles from your friends list as long as the lobby is not full.
+
+**Please Note:** You can collect up to 800 Max Particles per day, and the limit of Max Particles Trainers can hold at one time is 1,500. This maximum may increase for special events.
+
+**Your Remote Raid Pass WILL be consumed if:**
+
+* You start a Max Battle, regardless of whether you win or lose.
+* You lose the battle and choose not to re-enter the same boss battle (e.g., by leaving the Power Spot or raid lobby, or if the boss rotates). In that case, your Remote Raid Pass remains consumed.
+
+**Your Remote Raid Pass WILL NOT be consumed if:**
+
+* You enter a lobby but leave before the battle begins, even if the boss later rotates.
+* You lose the battle but remain at the same Power Spot — you can retry the same boss without using an additional pass.
+* **Note:**  There is a known visual issue where it may appear that a Remote Raid Pass was used after exiting or re-entering a lobby. However, as long as the battle does not begin, no pass is actually consumed. A fix is coming in a future update for this known visual issue.
+
+**Please Note:** Remote Max Battle rewards do not yield bonus rewards. In-person battles will yield bonus rewards, which will show on your screen.
