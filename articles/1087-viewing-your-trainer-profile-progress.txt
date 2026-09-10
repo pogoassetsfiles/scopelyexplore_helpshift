@@ -1,0 +1,49 @@
+---
+id: 1087
+title: Viewing your Trainer Profile & Progress
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1087-viewing-your-trainer-profile-progress/
+---
+
+Your  **Trainer Profile**  displays key information about your Trainer and shows your progress towards reaching a new level, achieving weekly walking milestones, earning medals, and more.
+
+To access your Trainer Profile, tap your Trainer’s portrait in the bottom left corner of the Map View:
+
+[![image](../data/images/bevnstogi0n9uhczvjflkruicepior3luzj-cxn0l_rlw9xx5eexoatvammrxsoetceqhyvf0cdoqvryegtjukvzjkaaaajwcqb18t-3r98eogkharsnb4vl7gbs4wu4cevpytyl.png)](https://lh6.googleusercontent.com/bEVnstOgI0N9uhczvJflKrUicepiOR3luZj-Cxn0l_RLw9XX5EExOaTvaMmrxSOEtcEQHyVf0CdoqvrYEGtjuKVZJkaAaaJwcqB18t-3R98EoGKHaRsNB4vl7GBs4WU4CeVPyTyL)
+
+### Profile Features
+
+[![image](../data/images/41fc90fc-a2cc-431e-b607-8517f8943a50-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ebcbbd1c-7693-4336-b52c-ed42135bd733.png)
+
+**1. Trainer Profile or Friend List**  - Tap to toggle between the two views
+
+**2.** [**Scopely Explore Profile**](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2595-your-niantic-profile/?s=friends-gifting-trading&f=your-niantic-profile)
+
+**3. Trainer nickname**  and your buddy’s nickname
+
+**4. Trainer avatar**
+
+**5. Active buddy**
+
+**6. Current level**  and progress towards next level
+
+**7. Level-Up Research**  - Tap to see what tasks, if any, are required to level up.
+
+**8. Buddy history**  - Tap to see all the Pokémon you’ve ever set as your buddy.
+
+**9. Journal**  - Displays recent activity, such as Pokémon you’ve caught and battles you’ve won.
+
+**10. Style**  - Tap to change your avatar’s clothing and physical features.
+
+**11. Total Activity**  for the lifetime of your account.
+
+[![image](../data/images/a0b11b6b-68ad-4b5b-baea-4129aa610ab8-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/9ec74d82-a737-4ac9-bbef-e82c0f5718dc.png)
+
+**12. Weekly walking goals**  - Walk 5, 25, or 50 km to earn rewards at the end of the week. Walking higher distances yields greater rewards.
+
+**13. Egg incubation progress**  - Shows incubated egg status and additional weekly statistics
+
+[![image](../data/images/1a71df96-6352-4b91-9740-1a280aec7786-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/6136b39c-b3d3-4da9-985f-523f0a9502e7.png)
+
+**14. Gyms Recently Visited**  - Tap a Gym to view statistics related to [upgrading that Gym’s Badge](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2409-collecting-gym-badges/). Tap "List" to see all the Gyms you’ve visited and sort by various factors.
+
+**15. Medals**  - View all the medals you can earn, as well as your progress towards [earning or upgrading each medal](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/101-leveling-up-earning-medals/).
