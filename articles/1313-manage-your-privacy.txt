@@ -1,0 +1,73 @@
+---
+id: 1313
+title: Manage Your Privacy
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1313-manage-your-privacy/
+---
+
+In Pokémon GO, players can explore their neighborhoods and cities to find wild Pokémon, discover and catch hundreds of Pokémon, and more. Explore our privacy features that put you in control.
+
+### **Your Settings**
+
+To access your settings:
+
+* Tap the   **Main Menu** button.
+* Tap the   **Settings**
+![image](../data/images/qssbk30kjwrokieuyfubvndcuexrj4lwjfcict-wscqembcxhk2ecapnklbnzq974ocfgkn1mxgma7yxl-59jkge6daceuorr8wa5xzkvh6x0wesn4u2vepbm4xb15ixbutemkxq3tyrscjhp794ov8.png)
+ button.
+* Tap  **General** .
+
+Learn more about gameplay features where you can manage your privacy:
+
+* [Adventure Sync](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3265-adventure-sync/)
+* [Sponsored Messages from third party advertising services](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3626-sponsored-gifts/)
+* [Catch and Share](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3756-catch-share/)
+
+### **Your Scopely Explore Profile**
+
+Your  **Scopely Explore Profile**  is a section of your game-specific profile that displays your information from across Scopely Explore apps on a single screen.
+
+You can access your Scopely Explore Profile by tapping the Scopely Explore logo in the top right corner of a Scopely Explore game’s profile screen. Only you and your friends are able to view your Scopely Explore Profile.
+
+Your Scopely Explore Profile will show recent achievements across Scopely Explore apps, your lifetime distance walked and the date at which you first began playing Scopely Explore games.
+
+You can also see other available Scopely Explore games that you are not currently playing; tap on the game icons to learn more about each app.
+
+**Controlling What Others See**
+
+You can control how much information around certain aspects of your Scopely Explore Profile is available for your friends to see.
+
+* **Online Status:** You’re able to set yourself Offline at any time by tapping on the Online Status toggle in your Friend list. [Learn more about Online Status.](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2592-online-status/?p=web&s=friends-gifting-trading&f=online-status)
+* **Last Played Date:** To hide the date which you last used a Scopely Explore app, navigate to the Settings menu of your Scopely Explore Profile and tap “Let my Friends see info about the last time I played Scopely Explore Games.”
+* **Player Username:**  To hide the username for various games, navigate to the Settings menu of your Scopely Explore Profile and tap “Let my Friends see my usernames from all Scopely Explore Games.”
+
+**Connecting your Accounts**
+
+By tapping on the gear icon in the top right corner of your Scopely Explore Profile, you can see which accounts (e.g. Google Account, Facebook Account, or Apple ID) you have connected to Pokémon GO and make changes to these settings.
+
+[Visit this article to learn more about login methods.](https://niantic.helpshift.com/hc/faq/86-linking-an-additional-login-provider-to-your-account/)
+
+**Viewing Friends’ Scopely Explore Profiles**
+
+You can also view your friends’ Scopely Explore Profiles by tapping on the Scopely Explore Icon when viewing their Trainer Profile in your Friend List.
+
+When you’re viewing your friends’ Scopely Explore Profiles, you can give them nicknames to help better remember who they are. Note that the nicknames that you’ve given to your friends from your Pokémon GO Friend List will carry over to your Scopely Explore Profile.
+
+If you want to change your friend’s nickname, tap the gear icon in the top right corner. You can also remove a friend from this menu, but keep in mind that removing a friend in one game will remove them from other games as well.
+
+Your [online status](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2592-online-status/?p=web&s=friends-gifting-trading&f=online-status) in the game you’re currently playing is also visible to Friends who have also set themselves Online.
+
+### **Online Status**
+
+Your  **online status**  lets your friends know when you are available for Trainer Battles or to meet up for Raid Battles. When you set yourself online, you can also see any of your friends who’ve also set themselves online.
+
+While online, you’ll see a green dot next to your Trainer Profile image on the Map View, above your Friend List when looking at your Trainer Profile, and at the top of your Friend List.
+
+**How do I control my online status?**
+
+You can change your online status from your Friend List. Just tap the image of your Trainer to toggle between online and offline. Your online status will display to your friends who have also set themselves online.
+
+Please note that, if you are playing multiple Scopely Explore games on the same device, your online status is only reflected in the game that you are actively playing.
+
+**Kids at Scopely Explore and Online Status**
+
+Trainers with child accounts will not be shown as online, even if social permissions are granted through the Kids at Scopely Explore Parent Portal or Pokémon Trainer Central website.
