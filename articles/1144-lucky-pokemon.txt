@@ -1,0 +1,11 @@
+---
+id: 1144
+title: Lucky Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1144-lucky-pokemon/
+---
+
+One of the many benefits to trading Pokémon with friends is that you have a chance at receiving a Lucky Pokémon.  **Lucky Pokémon**  are more likely to be strong opponents in battle, require less Stardust to power up, and appear with a shimmery effect in the Pokédex and on the Pokémon's Summary page.
+
+Although Pokémon turn into Lucky Pokémon at random when traded, the longer you have a Pokémon, the greater the chances that they will become Lucky Pokémon.
+
+[![image](../data/images/9c07c684-44b3-4e94-8216-036313483efe-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/9cafd8bd-b54e-4ca9-997b-152b8d1e34a6.png)
