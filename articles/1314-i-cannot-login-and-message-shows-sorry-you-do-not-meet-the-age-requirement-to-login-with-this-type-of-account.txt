@@ -1,0 +1,9 @@
+---
+id: 1314
+title: I cannot login and message shows “Sorry, you do not meet the age requirement to login with this type of account."
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1314-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/
+---
+
+Please be aware that Pokémon GO trainers must meet certain age requirements to access Pokémon GO with certain types of third party accounts (e.g. Facebook, Google, Apple). If you believe you are eligible to login in and play with this type of account, please contact us. If we cannot confirm that you meet the age requirements for this type of account, your account will be deleted pursuant to our Terms of Service: https://nianticlabs.com/terms
+
+Trainers who are under the age of digital consent for their country must access Pokémon GO with a Kids at Scopely Explore or Pokémon Trainer Central child account. The age will vary depending on your country and regions. For details, please see the information below: https://nianticlabs.com/gameresources
