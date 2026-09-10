@@ -1,0 +1,71 @@
+---
+id: 1117
+title: How do I find specific Pokémon?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1117-how-do-i-find-specific-pokemon/
+---
+
+You may want to find and catch specific Pokémon to fill up your Pokédex, collect Candy to power up or evolve one of your favorite Pokémon, complete Research Tasks or Collection Challenges. Listed below are several ways to find a particular Pokémon, or types of Pokémon, and some important factors to consider during your search.
+
+### Can I set an alert for specific Pokémon nearby?
+
+For any Pokémon you have previously seen, you can set an alert in the Pokédex to let you know if a specific Pokémon is in the wild wherever you are. To set a Pokémon alert:
+
+* Tap the Main Menu
+
+* Tap Pokédex
+
+* Search or scroll to find a specific Pokémon
+
+* Tap the bell to toggle the alert
+
+![image](../data/images/ad_4nxdb7vhacnsrr7g6zbuhsyysfnp1bgqjs0qd54ucmyuvqzqtvmfuaj8bxjo19vbsnz47bmmq-aaywthoa6kmkpfmql_8xmmy3phnb7n6bf21gxjxdfnh6x4h9qj-krty5ukuqe4uma.png)
+
+Note that you can only set an alert for one Pokémon at a time. To receive Pokémon alerts, you must also have [Adventure Sync](https://niantic.helpshift.com/hc/faq/3265-adventure-sync/) enabled and be opted in to receive push notifications from Pokémon GO. These settings can be controlled in the  **Notifications**  section of the  **Settings**  menu.
+
+### How do I use the Nearby Menu?
+
+One of the most reliable ways to find particular Pokémon is by using the  **Nearby Menu** , which shows you what Pokémon you can find in the vicinity, either in the wild or at Gyms.
+
+#### Nearby Pokémon in the Wild
+
+Tap the bar at the bottom right corner of the Map View to see which Pokémon are near your current location. Each Pokémon on the Nearby screen can be found near a PokéStop in your vicinity. Pokémon already in your Pokédex will appear in color, while those not in your Pokédex will appear as silhouettes.
+
+![image](../data/images/c1ebf610-13c3-4985-87ec-00b396828bd9.png)
+
+![image](../data/images/f59cc8b6-9bb8-40bc-a002-393337641ac2.png)
+
+Tap a Pokémon to enlarge the photo associated with the PokéStop’s Photo Disc, and tap the Footprint button below the photo to see the PokéStop’s location on your Map View. PokéStop will remain highlighted on the Map View with a footprint icon until the Pokémon flees.
+
+#### Nearby Raid Bosses
+
+Tap the  **Battle**  tab at the top of the Nearby menu to see which Pokémon have taken over Gyms near you. Just as with the other menu, Pokémon you haven’t caught yet will display as silhouettes. [Learn more about Raid Battles](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2187-what-are-raid-battles/).
+
+### What Environmental Conditions are there?
+
+Various environmental conditions also influence what types of Pokémon you’ll encounter in the wild.
+
+#### Biomes
+
+Biomes are real-world ecosystems (e.g. forests, beaches, mountains) that not only impact appearance, but also which Pokémon will appear in that environment.
+
+It’s best to look for Pokémon of a specific type in the biome that best matches its natural habitat, although they have been known to appear outside of these biomes during certain Pokémon GO Seasons or special events. For example:
+
+* The forest biome is home to Grass- and Bug-type Pokémon, such as Bulbasaur, Caterpie, Weedle, Oddish, and more.
+
+* The beach biome is home to Water-type Pokemon, such as Squirtle, Psyduck, Seel, Magikarp, and more.
+
+* The mountain biome is home to Ground-type Pokémon such as Sandshrew, Diglett, and more.
+
+#### Weather
+
+Weather conditions also affect what types of Pokémon appear more frequently. Rain, for instance, increases appearances of Water-, Electric-, and Bug-type Pokémon. Tap the button in the top right corner of the Map View to see the weather in your area and types you’re more likely to find around you.
+
+![image](../data/images/ad_4nxfqp2qozvz-t7jou5khnqro5drc79me6xndttyk4qtfwud112t3fyzertpmigm-puhke-v6mdwxc_22_fiqzmlxw1cyznhxhkrsm-_rsnvpi3f9bnq3pfblx7j_vbhv3aogshj3gbnuzdogyavm9npn2zq.png)
+
+#### Exclusive Regional Pokémon
+
+Some Pokémon can only be found in a particular part of the world, such as Tropius, which can only be found in Africa and some neighboring regions. Consider trading with other Trainers from different parts of the world to collect Pokémon exclusive to their regions.
+
+#### In-Game & Live Events
+
+In-game events like Community Days and live events like GO Fest are a great way to catch particular Pokémon. Events sometimes feature rare Pokémon or Pokémon not typically found in a given region and are a great opportunity to meet other Trainers. Visit our blog to see a list of upcoming events and how you can take part.
