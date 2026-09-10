@@ -1,0 +1,43 @@
+---
+id: 1285
+title: How to Update the Pokémon GO App
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1285-how-to-update-the-pokemon-go-app/
+---
+
+### iOS
+
+* Open the  **App Store**  app.
+
+[![image](../data/images/7a0095df-525c-4a9d-80d3-4f10ad0b6a28-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/04f757dd-11cc-4208-9a05-c226691a20cf.png)
+
+* Tap  **Today** .
+
+[![image](../data/images/368333b6-212f-4c10-8b71-b95cf1f292fb-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/e451f291-0730-4053-a439-b78baca29adc.jpg)
+
+* Tap the  **Profile**  button at the top of the screen.
+
+[![image](../data/images/62eb5942-f124-493b-9bc3-ab7d22d5afb2-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/9a9c5955-5ae2-438b-83a8-09fa33d0aae7.jpg)
+
+* Navigate to the  **Pokémon GO**  app and tap the  **Update**  button.
+
+### Android
+
+* Open the  **Google Play Store**  app.
+
+[![image](../data/images/c71b5851-9ba3-411e-9b23-a2145efae31d-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/71b6650e-5ae9-4d81-8693-aefed5165591.png)
+
+* On the top right, tap your  **profile photo** .
+
+[![](../data/images/e7ee4e65-ed0a-44ac-88ef-a37808a8f946.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/e7ee4e65-ed0a-44ac-88ef-a37808a8f946.png)
+
+* Tap the  **Manage apps & device** menu option.
+
+https://d2duuy9yo5pldo.cloudfront.net/niantic/08c38a91-1e58-475a-8517-fab5142e400e.png[![](../data/images/7e8b58e7-5747-4e39-a334-f5a6aaae25aa.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/7e8b58e7-5747-4e39-a334-f5a6aaae25aa.png)https://d2duuy9yo5pldo.cloudfront.net/niantic/08c38a91-1e58-475a-8517-fab5142e400e.png
+
+* Check if you have any pending updates from the  **Overview**  tab.
+
+https://d2duuy9yo5pldo.cloudfront.net/niantic/cf59b26a-31c8-4ab3-9af8-c8e047495a40.png[![](../data/images/d95b3f91-b8d2-412d-ab44-8b30e598a4e3.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d95b3f91-b8d2-412d-ab44-8b30e598a4e3.png) [![](../data/images/32a7e96e-214f-4088-9e08-dfbf61dfa2b2.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/32a7e96e-214f-4088-9e08-dfbf61dfa2b2.png)https://d2duuy9yo5pldo.cloudfront.net/niantic/cf59b26a-31c8-4ab3-9af8-c8e047495a40.png
+
+* To double check, search  **Pokémon GO**  from the Play Store main screen and see if there are any updates available.
+
+[![](../data/images/1d0194a3-41d5-46db-8338-8dbb874af65f.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/1d0194a3-41d5-46db-8338-8dbb874af65f.png)https://d2duuy9yo5pldo.cloudfront.net/niantic/0ca2d250-b809-42f9-80c5-03ca551ee1b2.png
