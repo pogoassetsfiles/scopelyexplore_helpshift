@@ -1,0 +1,69 @@
+---
+id: 1122
+title: Catching Pokémon in AR mode
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1122-catching-pokemon-in-ar-mode/
+---
+
+*Bring Pokémon GO to the real world like never before*
+
+AR mode uses Pokémon GO’s augmented reality features to allow Pokémon to appear in and around the real-world environment right in front of you. You can walk right up to a Pokémon for a chance at an Excellent Throw bonus or the perfect photo opportunity.
+
+In AR mode, Pokémon are aware of your movement, so proceed with caution. Move toward a Pokémon too fast and you’ll scare it away...but approach slowly, and you’ll have a better chance at catching it.
+
+* **iOS** : AR mode is only available for iPhone 6s and newer models running on iOS 11+.
+
+* **Android** : AR mode is only available to devices running Android 7.0+ and can support ARCore. Supported devices must install ARCore from the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.ar.core). A list of supported devices can be found [here](https://developers.google.com/ar/discover/supported-devices).
+
+[![image](../data/images/fafcf91a-b110-4ff7-9e02-f4d9743f5435-t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/6e9924d3-59f0-447f-a3d7-c61401324429.jpg)
+
+AR+ mode displays Pokémon fixed to a point in your real-world environment. Pokémon appear on the ground in front of you. You can walk toward or around the Pokémon.
+
+Pokémon have awareness of how close you are and how fast you are moving toward them.
+
+# **Catching Pokémon using AR mode**
+
+### **1. Check your area**
+
+You’ll need to move around to catch a Pokémon in AR mode. Before you begin, make sure you are in a location where you can safely move around.
+
+### **2. Enable AR Mode**
+
+To get started, you need to enable AR mode. The first time you encounter a Pokémon on a device that supports AR mode, you’ll be prompted to enable AR mode. If you have dismissed the prompt, you can always choose to enable AR mode in the  **Settings menu** .
+
+To return to AR mode, visit the settings menu and uncheck the AR setting option.
+
+### **3. Locate your environment**
+
+Before Pokémon can appear in AR mode, your device needs to detect your surroundings. Use your camera to slowly look around your surroundings, being sure to include a flat surface (like the ground or a tabletop). Tall grass will appear once your device has detected your environment.
+
+![image](../data/images/w7czqbhb3kiz3y5br0_faukwenu56nge0zqhpatoial4_po9rr5vejcupxfbilbnmdmg8308jvnbpuicujafbvqzqb18-bxpcob-nogstyqyuohmf0xb_tfeu-nsaym6bvdjofadf3k-en9unaj2wj0.png)
+
+### **4. Find the Pokémon**
+
+Pokémon hide within the tall grass. Tap the tall grass to find the Pokémon hiding within.
+
+![image](../data/images/pe8863p-6gjzs3zf8bhsqg6n0upiiwron0kkxrjpcqdnn7ig0qxopbxijb-unn5oxwjgmdgt-ddy3uzfv1bu3hlrdaeeoipwu3ezhfne-hubqvfaxh_1z_az6fuvuqrbez_jrt1j8naudw5afllzdke.png)
+
+### **5. Approach carefully**
+
+Pokémon are easily startled in AR mode, so you want to approach slowly and avoid sudden movements. Your goal is to get close to the Pokémon while keeping their awareness meter low.
+
+![image](../data/images/vcodblphua5juq4mhrzez2z42mvl4pfj2pw1wuhs7lz2rrjgp4pbnkdyyejlhobhvfs7bultje8xgrfho6i7amvwhlov5omj44yzgd9dywwqst52busrwabza3_0pjotmxxr04bn3_8ymtjd8_qdkdq.png)
+
+When the Pokémon’s awareness meter fills up, the Pokémon will flee or retreat into the tall grass. If you are able to successfully catch the Pokémon without raising its awareness, you’ll be rewarded with an Expert Handler Bonus of extra Stardust and XP.
+
+To help lower the Pokémon’s awareness, try giving it a Nanab Berry.
+
+### **6. Throw a Poké Ball**
+
+Like any encounter with a wild Pokémon, throw a Poké Ball at the Pokémon. If you are successful, the Poké Ball will catch the Pokémon.
+
+![image](../data/images/7_0t3ojqf1d9e7yq_ojm8ajj7nmlvvz0f15e1ucgdsw8zindycis5_fqxlkcrd5nbag0qgaue6_syysn79chuz8odrdjc2day2eshlnpawvjlsify5-tl9in7hjc9857d0duh-4uc0gkf8du_7hh6zg.png)
+
+## **Tips for AR mode**
+
+* When it’s too dark, the camera may not see all the details. Move to a well-lit area if Pokémon GO has trouble detecting your real-world environment.
+
+* Point your device at an area with an open flat surface. Avoid areas with obstructions or uneven surfaces.
+
+* When detecting your environment, slowly move your camera across your surroundings. Avoid fast or shaky movements.
