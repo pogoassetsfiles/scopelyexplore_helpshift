@@ -1,0 +1,9 @@
+---
+id: 1194
+title: Can Shadow Pokémon learn Community Day moves when evolved?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1194-can-shadow-pokemon-learn-community-day-moves-when-evolved/
+---
+
+Yes, but only if you’ve already used a Charged TM to unlearn Frustration during special events like Rocket Takeovers. Keep an eye on our offical blog to learn about upcoming events.
+
+You can also [purify Shadow Pokémon before evolving](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2396-shadow-pokemon-purified-pokemon/) for them to learn the exclusive move.
