@@ -1,0 +1,13 @@
+---
+id: 1142
+title: Lucky Friends
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1142-lucky-friends/
+---
+
+On October 15th, 2025, changes to level cap and progression will introduce new milestones, research tasks, rewards, and chances of increasing Friendship levels. For more information, please visit the Official Pokémon GO Website
+
+Once you become Best Friends, all subsequent friendship interactions have a small chance to make you and your Best Friend become Lucky Friends. You’ll be notified by an in-app notification and will be able to see that they’re your Lucky Friend in your Friend List and Friend Profile page.
+
+[![image](../data/images/31039eed-9133-4738-9ade-c7188c8f7f2c-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/31039eed-9133-4738-9ade-c7188c8f7f2c-2t.jpg)
+
+When you are Lucky Friends with someone, the next time you trade with each other, both Pokémon will become Lucky Pokémon. After the trade, your Lucky Friend status will be cleared. You can try to become Lucky Friends again by increasing your Friendship.
