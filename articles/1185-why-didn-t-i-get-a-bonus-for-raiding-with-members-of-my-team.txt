@@ -1,0 +1,7 @@
+---
+id: 1185
+title: Why didn’t I get a bonus for raiding with members of my team?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1185-why-didn-t-i-get-a-bonus-for-raiding-with-members-of-my-team/
+---
+
+As of the release of Mega Evolution in Pokémon GO, the Premier Ball bonus for completing a Raid Battle with team members has been replaced by a speed bonus. Defeat Raid Bosses as fast as you can to receive extra Premier Balls for the encounter in a regular Raid Battle or extra Mega Energy in a Mega Raid Battle.
