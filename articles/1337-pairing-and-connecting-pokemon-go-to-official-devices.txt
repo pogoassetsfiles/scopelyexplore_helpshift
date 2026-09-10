@@ -1,0 +1,70 @@
+---
+id: 1337
+title: Pairing and Connecting Pokémon GO to Official Devices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
+---
+
+Official connected devices like the Poké Ball Plus, Pokémon GO Plus, and Pokémon GO Plus + use Bluetooth connectivity to interact with the Pokémon GO app.
+
+### Pairing your device for the first time
+
+Follow these steps if you have never paired your device to Pokémon GO before. Note that you do not need to connect your device through your phone’s Bluetooth settings, only through the Pokémon GO app.
+
+* In the Map View, tap the Main Menu  [![](../data/images/cfa84d62-0037-4dfc-aeed-d30efaed5fd4.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/cfa84d62-0037-4dfc-aeed-d30efaed5fd4.png)  button.
+
+* At the top right, tap the Settings  [![](../data/images/875b81fe-079d-45b4-bd28-d06696958789.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/875b81fe-079d-45b4-bd28-d06696958789.png)  button.
+
+* Tap  **Connected Devices and Services** .
+
+* Tap  **Accessory Devices** .
+
+* Press the Main Button on your device to wake it up and put it in connection mode.
+  [![](../data/images/4958e719-f180-457c-8bef-5ced19c512af.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/4958e719-f180-457c-8bef-5ced19c512af.jpg)
+
+* Your device will appear under  **Available Devices** , tap it to pair it with Pokémon GO. The device will vibrate once the connection is successful.
+
+Once you have paired your device with Pokémon GO, it will automatically connect so you can start using it right away. To disconnect your device from Pokémon GO and end your play session, tap the icon on the [Map View](https://niantic.helpshift.com/hc/faq/84-map-view/). Your device will remain paired to Pokémon GO if you disconnect it via the Map View icon.
+
+**Factory Reset**
+
+Occasionally, you may need to perform a factory reset on your device to address issues while attempting to pair your device with Pokémon GO. For steps to perform a factory reset, please see [this article](https://niantic.helpshift.com/hc/faq/385-troubleshooting-the-pokemon-go-plus/).
+
+Situations where you would need to factory reset your Poké Ball Plus or Pokémon GO Plus include:
+
+* If your Poké Ball Plus or Pokémon GO Plus device has been paired to another phone prior to attempting to pair it to your Pokémon GO app.
+
+* If you have uninstalled and reinstalled Pokémon GO and are attempting to pair your device with Pokémon GO.
+
+* If you are using either the Poké Ball Plus or Pokémon GO Plus and are switching to another official Bluetooth device.
+
+The Pokémon GO Plus + does not need to be factory reset in these situations.
+
+### Reconnecting your device for a new play session
+
+If you have previously paired your device with the Pokémon GO app and your device is not being actively used in play, you can tap the accessory icon on the Map View and then press the Main Button on your Poké Ball Plus, Pokémon GO Plus, or Pokémon GO Plus + to quickly reconnect to start a new play session. The icon will appear grayed out if your device is paired but not connected.
+
+You can also connect your device for a new play session from the  **Accessory Devices**  page in the Settings menu.
+
+Once the connection is successful, you can begin using it with Pokémon GO.
+
+**Quick-Reconnect Mode**
+
+**Quick-Reconnect Mode**  is a setting for the Pokémon GO Plus + that allows you to just tap the accessory icon on the Map View to connect for a play session and skip pressing the Main Button on the device. Toggle this setting in the  **Preferences**  section of the device settings.
+
+### Unpairing your device
+
+Occasionally you may need to unpair your device from the Pokémon GO app. To unpair your device:
+
+* In the Map View, tap the Main Menu  [![](../data/images/5ab88491-50dc-4ce2-86e5-420c126ab8aa.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/5ab88491-50dc-4ce2-86e5-420c126ab8aa.png) button.
+
+* At the top right, tap the Settings [![](../data/images/65ac1e33-1bfc-4794-b199-bebfdd2a1ac4.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/65ac1e33-1bfc-4794-b199-bebfdd2a1ac4.png) button.
+
+* Tap  **Connected Devices and Services** .
+
+* Tap  **Accessory Devices** .
+
+* Tap the eject icon next to your device's name under the  **Available Devices**  menu.
+
+Once you’ve unpaired your device from Pokémon GO, the connection icon will be removed from the Map View. To pair the device again, follow the instructions above. Please note once a Pokémon GO Plus + is ejected, sleep data stored on the device will be erased once you pair it again.
+
+See [this article](https://niantic.helpshift.com/hc/faq/2790-connecting-pokemon-go-to-the-nintendo-switch-1604604136/) to learn more about connecting your Nintendo Switch to Pokémon GO using Bluetooth.
