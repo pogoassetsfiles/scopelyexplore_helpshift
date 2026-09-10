@@ -1,0 +1,19 @@
+---
+id: 1340
+title: How do I link my Pokémon HOME account to Pokémon GO?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1340-how-do-i-link-my-pokemon-home-account-to-pokemon-go/
+---
+
+* Open the Pokémon GO app.
+
+* On the map, tap the Poké Ball icon  [![](../data/images/f5318ae8-650c-48fa-aacc-351a71a4968e.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/f5318ae8-650c-48fa-aacc-351a71a4968e.png) .
+
+* At the top right of the screen, tap the  **Settings**   [![](../data/images/7e2ac13d-cb78-4971-9444-b6f7f308d5f4.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/7e2ac13d-cb78-4971-9444-b6f7f308d5f4.png)button.
+
+* Tap  **Connected Devices and Services**
+
+* On the Connected Devices and Services page, tap  **Pokémon HOME.**
+
+* Sign in using the Nintendo Account associated with your Pokémon HOME account.
+
+Once your accounts have been linked, your Pokémon HOME account information will be displayed in the Pokémon HOME section of the Settingsmenu and will be saved until you choose to remove it. You can now send Pokémon to your Pokémon HOME account.
