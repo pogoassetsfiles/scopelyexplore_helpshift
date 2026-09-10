@@ -1,0 +1,9 @@
+---
+id: 1034
+title: Max Battle rewards display 0 for some items
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1034-max-battle-rewards-display-0-for-some-items/
+---
+
+**Issue description:** A visual bug on the Max Battle rewards page is displaying all possible rewards, even when the received amount is 0.
+
+**Issue status:** Working on a fix
