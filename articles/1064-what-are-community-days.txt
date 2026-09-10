@@ -1,0 +1,22 @@
+---
+id: 1064
+title: What are Community Days?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1064-what-are-community-days/
+---
+
+**Community Day**  is a special event, featuring a specific Pokémon that appears more frequently than other Pokémon during a specific time frame per timezone. The featured Pokémon are often rare or uncommon, making Community Days a great opportunity to encounter and capture as many as you can!
+
+The Featured Pokémon will also learn an exclusive Attack when evolved during or up to 5 hours after the end of the event. This Attack can only be learned through evolution during the event, but will be added to the Elite TM afterward.
+
+Aside from increased appearances, every Community Day brings special bonuses for the duration of the event. Some examples of previous Community Day bonuses are:
+
+* Increased Stardust rewards
+* Increased Catch XP rewards
+* Increased Lure Module effectiveness times
+* Decreased Egg hatch distance
+
+For the best Community Day experience, please ensure that you have a strong internet connection and your device is set to detect your timezone automatically. If you're using an Android device, [enable the Improve Location Accuracy setting](https://support.google.com/nexus/answer/3467281). You may experience issues if your clock or GPS are inaccurate or fluctuate.
+
+Community Day events are announced in advance through the offiical site and official blog, alongside information on the featured Pokémon, exclusive move, and bonuses! The timing may differ from month to month, so we highly encourage interested Trainers to check out the site regularly for information about the next upcoming Community Day.
+
+If you’re looking for other Trainers in your area to trade, battle, or join Raid Battles with on Community Day, check out the Community day map! Locations are provided for informational purposes only. Scopely Explore is not hosting or operating official or unofficial events at these locations.
