@@ -1,0 +1,26 @@
+---
+id: 1225
+title: Reporting PokéStop or Gym Issues
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1225-reporting-pokestop-or-gym-issues/
+---
+
+## Report game problems with a Pokéstop or Gym
+
+If you experienced gameplay issues while interacting with a PokéStop or Gym, you can [contact us to report a bug](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
+
+## Request modification or removal of a PokéStop or Gym
+
+We will remove PokéStops or Gyms from Pokémon GO for a very specific and limited set of reasons:
+
+* There’s no longer safe pedestrian access to the location.
+* The PokéStop or Gym obstructs or interferes with Emergency Services’ ability to perform normal operations. This includes, but isn’t limited to, fire stations, police stations, hospitals, military bases, industrial sites, power plants and air traffic control towers.
+* The PokéStop or Gym is not a permanent installation. This includes seasonal displays that are only put up during certain times of the year.
+* They are natural features, including pictures of landscapes as well as submissions where the subject is a lake, river, stream, mountain, volcano, waterfall. Note that photos that include man-made points of interest - plaques, signs, etc. - near natural features are acceptable.
+* The PokéStop or Gym has been permanently removed or is a duplicate of an existing PokéStop or Gym.
+* The PokéStop or Gym's real-world location appears to be within 40 meters of private residential property.
+
+If you are a business or property owner, contact us via this page if you believe a PokéStop or Gym shouldn’t be in Pokémon GO or should be modified.
+
+**Please**  ***only***  **submit removal or modification inquiries through the page linked above.** [For all other inquiries, contact us via this form](https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/contact-us/) **.**
+
+Players who’ve reached level 35 can report invalid PokéStops or suggest improvements to an in-game location’s title, description, real-world location, or photo [directly from the Pokémon GO app](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2144-submitting-a-pokestop-or-gym-contribution/).
