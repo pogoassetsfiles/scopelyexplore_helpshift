@@ -1,0 +1,11 @@
+---
+id: 1102
+title: What is the Mystery Box?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1102-what-is-the-mystery-box/
+---
+
+The  **Mystery Box**  is a special item in Pokémon GO that temporarily causes the Mythical Pokémon Meltan to appear in the wild. You can obtain the Mystery Box by sending a Pokémon from Pokémon GO to  *Pokémon: Let’s Go, Pikachu!* ,  *Pokémon: Let’s Go, Eevee!* , or Pokémon HOME.
+
+Once you’ve activated the Mystery Box, you’ll have to wait three days and send another Pokémon to  *Pokémon: Let’s Go, Pikachu!* ,  *Pokémon: Let’s Go, Eevee!* , or Pokémon HOME before you can activate it again, regardless of how you obtained it.
+
+![](../data/images/c231d53d-e159-4ce4-967c-6aae093d3cf5.png)
