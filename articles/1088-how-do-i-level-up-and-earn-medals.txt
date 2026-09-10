@@ -1,0 +1,26 @@
+---
+id: 1088
+title: How do I level up and earn medals?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1088-how-do-i-level-up-and-earn-medals/
+---
+
+Trainers level up by earning Experience Points (XP) through completing gameplay actions like catching Pokémon, visiting PokéStops, battling, and others.
+
+The amount of XP required to level up increases with each Trainer level. As you continue to level up, you’ll gather rare items at PokéStops and encounter Pokémon with higher CP.
+
+From levels 70 to 80, you must also complete specific Level-Up Research tasks before you can advance, even if you have already earned the required XP. If you have gained any extra XP, it will carry over to the next level, allowing you to exceed the current level’s XP requirement and make progress toward the next level while completing Level-Up research.
+
+## What are medals?
+
+**Medals**  are achievements earned by reaching milestones for distance walked, PokéStops visited, Pokémon caught, and other gameplay achievements.
+
+Each medal has four achievement milestones: bronze, silver, gold, and platinum. Some achievement milestones unlock rewards - such as an increased chance of successfully catching certain Pokémon type.
+
+In the example image, the Trainer has earned the Bird Keeper medal along with a catch bonus reward for Flying-type Pokémon.
+
+[![image](../data/images/pzftltmnn15y-je1s4ov6knbiroopyripwzuhfdkpvut7e3yxz7ckof7h8exkw1uiuqrkwocjydpchlmz6yx-nant6sbmz_vduktb_olmmirz-oanz3modrianrzyzq1dhnzvn9g.png)](https://lh6.googleusercontent.com/PZFtltMnN15y-jE1s4oV6KNbIROOpyriPwzuhFdkPvut7E3yxZ7cKOF7h8exKw1UIUQRkwoCjydpcHLMz6yX-NAnt6SbmZ_vduKtB_oLmmIRZ-OANZ3ModRIaNRZYzQ1DHnzVn9g)
+
+**To view your medals:**
+
+* In the Map View, tap the  **Trainer Profile** button.
+* Select a medal to view your progress towards the achievement.
