@@ -1,0 +1,11 @@
+---
+id: 1181
+title: I have an issue with a Raid Pass
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1181-i-have-an-issue-with-a-raid-pass/
+---
+
+To join a Raid Battle, you’ll need a Raid Pass, Premium Battle Pass, or Remote Raid Pass. You can collect up to one free Raid Pass per day by spinning a Photo Disc at a Gym; Remote Raid Passes and Premium Battle Passes must be purchased from the shop or acquired by completing research tasks.
+
+**Please note**  you cannot have more than 1 Raid Pass or 3 Remote Raid Passes in your inventory at a time. If you want to participate in more than one Raid Battle per day, you can purchase Premium Battle Passes or Remote Raid Passes from the Shop.
+
+If you’ve experienced an issue with a Raid Pass, Premium Battle Pass, or a Remote Raid Pass, please [contact us via in-app support](https://scopelyexplore.helpshift.com/hc/faq/821-how-to-contact-support/).
