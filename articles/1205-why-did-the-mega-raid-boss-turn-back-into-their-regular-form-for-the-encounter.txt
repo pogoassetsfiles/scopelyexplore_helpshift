@@ -1,0 +1,7 @@
+---
+id: 1205
+title: Why did the Mega Raid Boss turn back into their regular form for the encounter?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1205-why-did-the-mega-raid-boss-turn-back-into-their-regular-form-for-the-encounter/
+---
+
+When you defeat a Mega Raid Boss, a Mega Legendary Raid Boss, or a Super Mega Raid Boss, they turn back into their regular form before you encounter and catch them, so their regular form will appear in your storage. To turn them into their Mega Form, collect enough Mega Energy to Mega Evolve them.
