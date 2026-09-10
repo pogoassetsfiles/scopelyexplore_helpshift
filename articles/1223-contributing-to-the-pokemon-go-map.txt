@@ -1,0 +1,37 @@
+---
+id: 1223
+title: Contributing to the Pokémon GO Map
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1223-contributing-to-the-pokemon-go-map/
+---
+
+Trainers who have reached Level 35 are eligible to participate in Scopely Explore Wayfarer, a community mapping program that allows players of Scopely Explore games to contribute to the Scopely Explore real-world map, which is the foundation for all Scopely Explore games!
+
+Once you have reached Level 35, you are eligible to submit  **Wayspot** nominations. A Wayspot is a unique place that exists in the real world, like objects, locations, or landmarks, that would make good additions to the Scopely Explore real-world map.
+
+Once submitted, your Wayspot nomination will be [evaluated by Scopely Explore’s player community](https://scopelyexplore.helpshift.com/hc/faq/1969-what-is-wayfarer/). Highly rated nominations may be accepted and added to the Scopely Explore real-world map. Keep in mind that not all accepted nominations will become a PokéStop or even a Gym, however, they may appear in other Scopely Explore games.
+
+For more in-depth information on what makes a high-quality nomination, view the complete [Wayspot criteria](https://scopelyexplore.helpshift.com/hc/section/158-wayspot-criteria/).
+
+**Note:**  This feature is not available for users with child accounts.
+
+## **Submitting a Nomination**
+
+![image](../data/images/0f577aa8-ce55-4d4d-8929-4c2815abece3.png)
+
+* Go to an object or location that you think would make a good Wayspot.
+* Tap the  **Main Menu**
+![image](../data/images/861658d3-a907-4bc3-8743-27e554735f6c.png)
+ button.
+* Tap the  **Settings**
+![image](../data/images/f4c127d4-4cf2-4333-93b0-16e592c5d4f2.png)
+button.
+* Tap  **Uploads**
+* Tap the  **New PokéStop**  button to start the nomination.
+
+From here, you will be directed to the Scopely Explore Wayfarer website to complete your nomination. Once you are at the website, you will need to log in to your Scopely Explore Wayfarer account or, if you do not already have an account, you will need to create one to proceed with your nomination.
+
+For a step-by-step guide to submissions, please visit the [Scopely Explore Wayfarer Help Center.](https://scopelyexplore.helpshift.com/hc/faq/2576-submitting-a-wayspot-nomination-through-wayfarer/)
+
+## **Note about user-submitted content and ownership**
+
+When you submit a Wayspot nomination to Scopely Explore, we don’t claim ownership of that content. You still retain your rights to the content as the creator. But you do grant Scopely Explore a license to use the content in any way we see fit. This means, for example, that we have your permission to use the images and descriptions to create new in-game locations in Pokémon GO, but we also have your permission to use them to create locations across different games. This is just a brief summary of how we use user-submitted content. For the full details, please review the [Pokémon GO Terms of Service.](https://explore.scopely.com/terms)
