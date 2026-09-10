@@ -1,0 +1,38 @@
+---
+id: 1316
+title: Supported Devices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1316-supported-devices/
+---
+
+**Note about OS betas:** Our apps may not function on devices running beta versions of iOS or Android.
+
+### **iOS**
+
+* iPhone 6s or above
+
+* Certain Bluetooth accessories, such as the Pokémon GO Plus +, require iPhone 7 or above
+* iOS 15 or above
+* Strong internet connection (Wi-Fi or 5G)
+* GPS and Location Services
+* Jailbroken devices are not supported
+* 2GB or more of RAM
+ **Note:** Older or lower end devices may not fully render the Map View along the horizon. Instead, they may display a fog background.
+
+### **Android**
+
+* Android 9 or above
+* Preferred resolution of 720 x 1280 pixels (not optimized for tablet)
+* Strong internet connection (Wi-Fi or 5G)
+* GPS and Location Services
+* Rooted devices are not supported
+* 2GB or more of RAM
+ **Note:** Older or lower end devices may not fully render the Map View along the horizon. Instead, they may display a fog background.
+
+### **Tablets and wifi-only devices**
+
+* Many tablets, including those without built-in data network connectivity, do not contain built-in GPS sensors.
+* In areas or at events with busy or congested mobile data networks such as Pokémon GO Fest or Safari Zones, tablets may not maintain a strong enough GPS signal to play Pokémon GO.
+
+**We cannot guarantee device support:** With many device models and configurations available in different regions, we cannot guarantee that every device that meets the criteria will be able to play the game.
+
+If you are still experiencing issues, check out our troubleshooting guides for [Android](https://niantic.helpshift.com/hc/faq/401-troubleshooting-guide-android/) and [iOS](https://niantic.helpshift.com/hc/faq/70-troubleshooting-guide-ios/).  If your device continues experiencing frequent issues such as crashing or lagging while playing Pokémon GO, [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1) for further support.
