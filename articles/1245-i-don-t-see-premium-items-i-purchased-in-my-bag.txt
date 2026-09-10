@@ -1,0 +1,7 @@
+---
+id: 1245
+title: I don’t see Premium Items I purchased in my Bag
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1245-i-don-t-see-premium-items-i-purchased-in-my-bag/
+---
+
+There may be a slight delay before Premium Items appear in your Bag. If they don’t appear after a short while, try signing out (tap Main Menu > Settings and select "Sign out.") and back in, or try restarting the app. If you still have any questions, please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
