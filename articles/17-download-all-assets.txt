@@ -1,0 +1,21 @@
+---
+id: 17
+title: Download All Assets
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/17-download-all-assets/
+---
+
+**Download All Assets**  is an option that you can enable to download all available game assets to your device at once rather than gradually over time. This option is disabled by default, to enable it:
+
+* In Map View, tap the  **Main Menu [![](../data/images/d6ea1cec-d317-4167-8b78-c1d26dd129c4.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d6ea1cec-d317-4167-8b78-c1d26dd129c4.png)**
+
+* At the top right, tap  **Settings [![](../data/images/43c228ef-fd93-440a-ba34-7baedb6d1dbc.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/43c228ef-fd93-440a-ba34-7baedb6d1dbc.png)**
+
+* Tap  **Advanced Settings**
+
+* Scroll until you see  **Download All Assets**
+
+* Tap to start the download of the assets to your device. You can tap this option again at any time to re-download the assets to your device.
+
+Downloading game data, while connected to your Wi-Fi network, will help reduce the amount of mobile data you will consume when you are exploring your local area.
+
+Note that available game assets may change as the in-game content changes, so be sure to revisit this option regularly. Downloading all assets may also improve your gameplay experience at a live event like Pokémon GO Fest or during an in-game event like Community Day.
