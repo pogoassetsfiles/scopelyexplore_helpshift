@@ -1,0 +1,27 @@
+---
+id: 1172
+title: Earning the Defender Bonus
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1172-earning-the-defender-bonus/
+---
+
+The  **Defender bonus**  refers to free PokéCoins that are earned by leaving your Pokémon at a Gym to defend against challengers from other Teams. The longer your Pokémon is defending the Gym, the more PokéCoins you can earn. Feed your Pokémon treats to restore their CP and extend how long they’re defending the Gym.
+
+You can see which Pokémon are currently defending a Gym and their remaining CP in the [Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/).
+
+[![](../data/images/8983e36b-fc21-445b-ab56-37598268097a.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/8983e36b-fc21-445b-ab56-37598268097a.png)
+
+Members of other teams can challenge your Pokémon to Gym Battles if they are physically close to the Gym location. If they defeat your Pokémon in the Gym Battle, your Pokémon will lose some CP. Once its CP has reached 0, it will return to you and bring the PokéCoins it has earned.
+
+You'll receive PokéCoins only after your Pokémon returns from the Gym, and you’ll receive an in-game notification with the amount of PokéCoins earned. You can also check tap Main Menu  [![](../data/images/5fc710c3-87fa-4827-8dfe-66ac051f3e1c.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/5fc710c3-87fa-4827-8dfe-66ac051f3e1c.png) > News [![](../data/images/71472c0a-565a-4ce5-af30-528cb4bc1c7b.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/71472c0a-565a-4ce5-af30-528cb4bc1c7b.png) > Notifications to see the number PokéCoins your Pokémon earned.
+
+Keep in mind that there is a daily limit of 50 PokéCoins regardless of how long your Pokémon has been defending a Gym or how many Pokémon return from defending Gyms in the same day.
+
+**Tip** : To receive a push notification each time one of your Pokémon returns from a Gym, go to Settings > Notifications and tap the circle next to  **Pokémon's Return** .
+
+### **Not receiving the Defender bonus?**
+
+Once you've reached the daily limit of 50 PokéCoins, you won't be able to earn any more PokéCoins until the next day.
+
+This daily limit applies if more than one Pokémon returns from Gyms in a single day or if a Pokémon returns after multiple days in a Gym. You can see your progress towards the daily PokéCoin limit in the [Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/).
+
+Please note that the maximum bonus limit is subject to change and may vary from time to time.
