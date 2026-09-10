@@ -1,0 +1,33 @@
+---
+id: 14
+title: How do I change my Pokémon GO app's language?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/14-how-do-i-change-my-pokemon-go-app-s-language/
+---
+
+By default, the language displayed in Pokémon GO is determined by your device's language settings.
+
+There are two ways to change the language displayed in Pokémon GO:
+
+### 1. Update your device settings
+
+The steps to change your device language will vary depending on the type of device you’re using. If your operating system isn’t listed below, please visit your device’s help center for more information.
+
+* [Android](https://support.google.com/android/answer/12395118)
+
+* [iOS](https://support.apple.com/HT204031)
+
+### 2. Update your Pokémon GO settings
+
+To change the language settings for Pokémon GO without changing the settings for your entire device, follow these steps:
+
+* In Map View, tap the  **Main Menu**  [![](../data/images/ffd639ce-bc76-41ab-bc0d-a068cadc1de0.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/ffd639ce-bc76-41ab-bc0d-a068cadc1de0.png)
+
+* At the top right, tap  **Settings**  [![](../data/images/0e2455a9-ff2a-4c6f-b861-afeb1f688a2e.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/0e2455a9-ff2a-4c6f-b861-afeb1f688a2e.png)
+
+* Tap  **General**
+
+* In the  **Language**  section, you will see your current language settings. Tap the dropdown to choose from any of the languages that Pokémon GO currently supports.
+
+* Tap  **OK**  to accept this change.
+
+* Review the details of the language change and tap  **Save Changes**  to restart Pokémon GO with the new language settings.
