@@ -1,0 +1,35 @@
+---
+id: 1263
+title: Purchasing Tickets as Gifts for Other Trainers
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1263-purchasing-tickets-as-gifts-for-other-trainers/
+---
+
+In addition to [purchasing tickets](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1731-registering-for-live-events/?p=web) to enjoy special content and social experiences at virtual events like Pokémon GO Fest and Community Day, you can also purchase tickets to these virtual events for other Trainers. Note that real-world events like Pokémon GO Safari Zone have a [different process](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1731-registering-for-live-events/) for purchasing tickets for others.
+
+Please always confirm with your Friend that they will be able to play during the event time, as support is unable to honor refund requests for tickets sent as gifts for Trainers who are unable to play.
+
+### To purchase tickets for other Trainers:
+
+* In the Map View, tap the Main Menu [![](../data/images/d09d1dda-fae8-401e-893a-f41341951b7a.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d09d1dda-fae8-401e-893a-f41341951b7a.png)
+
+* Tap  **Shop  [![](../data/images/3a224ba1-fddf-4517-85b2-00b7c8e16306.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/3a224ba1-fddf-4517-85b2-00b7c8e16306.png)**
+
+* In the Shop, tap the event image or ticket you want to purchase.
+
+* Tap the  **Gift**  button.
+
+* Tap to select which Friend for whom you are purchasing tickets. If your Friend has already purchased a ticket to this event, you will receive an error message when you select that Friend and can select another Friend.
+
+* Tap  **Confirm**  to complete your purchase.
+
+* After your purchase is successfully processed, you will see a confirmation screen. Tap  **OK**  to dismiss this message. If you do not meet any of the required conditions, you will receive an error when trying to confirm your purchase.
+
+You can send up to 20 Community Day tickets as gifts per day. To send additional tickets as gifts, simply wait until the next day and follow the above steps again. Other events, such as Pokémon GO Fest, may have different limitations to the number of tickets that can be sent as gifts.
+
+Once you have purchased a ticket for your Friend, they will receive a notification from the Pokémon GO app letting them know that you have purchased them a ticket to the event.
+
+You must be at least  **[Great Friends](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2847-friend-list-friendship-levels-1614900279/)**  with the other Trainer for whom you are purchasing the virtual event ticket.
+
+Please note that purchases for other Trainers are subject to the Scopely Explore refund policy, applicable local law, and the exceptions set forth in the [Terms of Service](https://nianticlabs.com/terms/).
+
+If you do not want to receive tickets as gifts from Friends, you can disable this permission by tapping “Allow friends to send you paid gifts” on your Settings page.
