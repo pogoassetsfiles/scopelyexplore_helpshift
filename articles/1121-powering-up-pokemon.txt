@@ -1,0 +1,47 @@
+---
+id: 1121
+title: Powering Up Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1121-powering-up-pokemon/
+---
+
+**Powering up**  Pokémon you’ve caught increases their CP and HP. You can power up a Pokémon with Stardust and Candy, which you can acquire by catching Pokémon or hatching Eggs. You can also earn Candy by transferring Pokémon. How much you can power up a Pokémon is limited by your current level.
+
+**Candy**  is specific to each Pokémon Evolution family. For example, you obtain Bulbasaur Candy by catching, hatching, or transferring any Pokémon in the Bulbasaur family (Bulbasaur, Ivysaur, and Venusaur), and you’ll need Bulbasaur Candy to power up a Bulbasaur, Ivysaur, or Venusaur.
+
+**Candy XL**  is also specific to each Pokémon Evolutionary line, and is required to power up Pokémon to even higher CP than is possible with regular Candy. You can only begin collecting Candy XL at level 31 or above. There is a chance that Candy XL will drop during  regular gameplay such as:
+
+* Catching Pokémon
+
+* Transferring Pokémon
+
+* Hatching Pokémon
+
+* Evolving Pokémon
+
+* Trading Pokémon
+
+* Feeding Pokémon at a Gym
+
+* Walking with your Buddy Pokémon
+
+Regular Candy can also be converted into Candy XL. Note that catching evolved forms of a Pokémon or Legendary and Mythical Pokémon may drop more Candy XL than regular gameplay.
+
+**Stardust**  can be used to power up any Pokémon in your collection. For example, you can power up a Rattata using Stardust acquired by catching a Meowth. You obtain Stardust whenever you catch or hatch Pokémon of any species or by completing certain research or battling.
+
+**To Power Up a Pokémon:**
+
+* In Map View, tap the  **Main Menu**   [![](../data/images/350f5a3e-7176-454e-aab0-db0fc16dcd5c.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/350f5a3e-7176-454e-aab0-db0fc16dcd5c.png)
+
+* Tap  **Pokémon**   **[![](../data/images/9ea88ec8-f2ff-4626-8ef1-88f4254ef2e9.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/9ea88ec8-f2ff-4626-8ef1-88f4254ef2e9.png)**
+
+* Select a Pokémon to power up from your list of Pokémon
+
+* Tap  **Power Up**
+
+**Note:** You won't be able to power up your Pokémon until you have enough Stardust and Candy, as well as Candy XL if you’re trying to power up your Pokémon to very high levels. You can see how much Candy and Stardust is needed next to the Power Up button. Candy and Stardust costs for each Power-Up may increase as your Pokémon gets stronger.
+
+![image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGCaSGzxbOIWiTQoOGS0eeIspvmfQcH49iCQpSuDmeBd25jo8LfJcaIHwY7RBhaYQ2SXX-J1-wTgaytl0Qd8BpCV0LPD2__J1lOSpTXhSotp6mrtKo_fBOf_M3CujccM_rdxGPG3LLzJOhrtaIHiIs4Jk?key=zj1yK0j_yk5ibyQhReu7Ow)
+
+After tapping Power Up, you can power up your Pokémon multiple times by tapping the plus button.
+
+[Evolving a Pokémon](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/100-evolving-your-pokemon/) can also increase a Pokémon’s CP and HP.
