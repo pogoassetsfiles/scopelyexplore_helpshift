@@ -1,0 +1,37 @@
+---
+id: 1280
+title: My progress was reset to level 1
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1280-my-progress-was-reset-to-level-1/
+---
+
+Some Trainers might experience an issue where it appears that gameplay progress has been reset.  **Please be assured that your gameplay progress has NOT been lost.**  It remains safe and intact.
+
+You may have inadvertently created another Pokémon GO account. This happens when you create a Pokémon GO account with one login method and later attempt to sign in with a different login method or email address.
+
+### To resolve this issue:
+
+You’ll need to log out of the account you’re currently signed into and sign in with the email address and login method you originally used to create your Pokémon GO account.
+
+* In Map View, tap the  **Main Menu** [![image](../data/images/975dc203-98cb-4f75-a3f9-5b40616360fa-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/987258b0-a127-4427-a13a-6ba468b48a98.png)
+
+* At the top right, tap  **Settings**
+
+* On the Settings screen, scroll down and take note of the linked email address and login methods under the Account section.
+
+
+You are currently logged into your account using this combination of email address and login method.
+
+
+ [![image](../data/images/a0b07871-fe3f-4e45-837c-d30a0f877ef5-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/72e44856-cbe1-4e25-b233-c9f4b726a615.jpg)
+
+* Tap  **Sign Out**
+
+* Sign in using the same email address AND login method used when you originally created your Pokémon GO account.
+
+### Still need help?
+
+For additional sign-in troubleshooting tips, [check out this article](https://niantic.helpshift.com/a/pokemon-go/?p=web&s=account-and-sign-in&f=help-with-sign-in-issues-1576271604).
+
+If you're still having trouble signing in, [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1) and select "Sign-In Issue" from the dropdown menu if you are still unable to log in to your account after reviewing the information above.
+
+**Please note** : For security reasons, we’re unable to provide you with the email address you use to sign into your account.
