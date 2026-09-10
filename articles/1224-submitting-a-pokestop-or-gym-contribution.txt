@@ -1,0 +1,30 @@
+---
+id: 1224
+title: Submitting a PokéStop or Gym Contribution
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1224-submitting-a-pokestop-or-gym-contribution/
+---
+
+Players who’ve reached level 35 can suggest improvements to an in-game location’s title, description, real-world location, or photo directly from the Pokémon GO app.*
+
+### **To Suggest a Title, Description, or Location Improvement:**
+
+* **Tap a PokéStop or Gym**  from the Map View.
+* **Tap the arrow** in the top right corner of the Photo Disc screen.
+* **Tap the three dots**  in the top right of the PokéStop/Gym details screen.
+* Select from the available options.
+* Complete the next screen by entering the correct title or description, or when editing location, tap and drag the map until the marker is in the correct location.
+
+### **To Suggest a Photo:**
+
+* Tap ADD PHOTO.
+* Select TAKE PHOTO to take a photo using your device’s camera or EXISTING PHOTO to select a photo from your device’s storage.
+* Once you’ve selected your photo, tap SUBMIT to submit your candidate photo for review.
+
+**Note** : While the image may appear cropped on the confirmation screen, submitted photos do retain their original aspect ratio, either Portrait or Landscape.
+
+### **To Report an Invalid Location**
+
+* Select REPORT INVALID POKÉSTOP / GYM
+* Select the reason you’re reporting the PokéStop or Gym from the list of potential reasons.
+
+**Note** : If you or someone you know believe an in-game location should be removed from Pokémon GO, you can also use this webform to submit a removal request.
