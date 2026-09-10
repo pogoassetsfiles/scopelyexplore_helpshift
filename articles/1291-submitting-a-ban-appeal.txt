@@ -1,0 +1,38 @@
+---
+id: 1291
+title: Submitting a Ban Appeal
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1291-submitting-a-ban-appeal/
+---
+
+Our goal is to provide our players with a fair, fun, and safe gaming experience. To do this, we maintain policies and guidelines that govern content, conduct, and behavior in our games, products, and at live events. Violations of the [Player Guidelines](https://nianticlabs.com/guidelines), [Scopely Explore Terms of Service](https://www.nianticlabs.com/terms), or [Live Event Code of Conduct](https://nianticlabs.com/live-event-coc) may lead to enforcement against your account, including a 10-year or permanent ban.
+
+This includes, but is not limited to:
+
+* issuing direct violent threats,
+* spoofing or falsifying location,
+* using emulators, modified or unofficial software,
+* sharing or posting sexualized imagery
+
+## Submitting a Ban Appeal
+
+**Note** : The methods for appealing a suspension have been updated. Please read the following information carefully before submitting an appeal.
+
+### Appeal a suspension for violating the Scopely Explore Terms of Service
+
+If you've been suspended for breaking the Scopely Explore Terms of Service (ToS), please get in touch with our support team by [using this form](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1) and selecting “ **Ban Appeal** ” from the issue type dropdown.
+
+You may also contact our support team by clicking on the " **Submit a Ban Appeal"**  button below and filling out the corresponding form.
+
+## **Frequently Asked Questions**
+
+### **Why won’t you tell me exactly what I did wrong?**
+
+It’s our policy not to publicly discuss the specifics of any individual incident. To preserve the integrity of our system, we do not discuss the internal mechanisms which detect illegitimate gameplay.
+
+### **How many reports are required to ban a player?**
+
+There is a misconception that we ban players based on the volume of reports received alone; this is not the case. A player being reported by several unique players may lead to a more detailed investigation. However, we only take action after identifying and confirming proof of inappropriate activity. Please note, the same person submitting multiple reports of a player does not expedite their investigation.
+
+### **Who reported me?**
+
+To protect the privacy of others, it's our policy to not reveal the sources of our reports. Note that in some cases, automated detection mechanisms flag accounts for suspension without anyone having to report the account to Scopely Explore.
