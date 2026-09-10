@@ -1,0 +1,23 @@
+---
+id: 1212
+title: What are Power Spots and How Can I Find Them?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1212-what-are-power-spots-and-how-can-i-find-them/
+---
+
+**Power Spots**  are volatile locations that emit Max Particles, and contain Dynamax or Gigantamax Pokémon. Due to the mysterious nature of Max Particles, Power Spots may not stay in the same location for long and will appear and disappear at different locations on the Map over time.
+
+### Finding Power Spots
+
+You can see Power Spots on the Map View as you explore your local area. Tap on them to see more collect Max Particles and enter a Max Battle.
+
+Power Spots in your local area will also appear on the  **Nearby Menu** . If individual Power Spots contain Dynamax Pokémon, the Nearby Menu will also show the Pokémon species, Max Battle difficulty, time remaining before the Power Spot disappears, location details, distance from your current location, and if other Trainers are waiting to begin a Max Battle.
+
+### Stationing Max Pokémon at Power Spots
+
+After defeating the Power Spot Boss in a Max Battle, you can station one of the Max Pokémon from that battle at the Power Spot to earn rewards and assist future Trainers in challenging the Power Spot Boss. The more Max Pokémon that are stationed at the Power Spot, the stronger the bonus for others taking on the Max Battle boss. More Max Pokémon stationed at the same Power Spot may also increase the chances of a wild encounter with Pokémon near the Power Spot.
+
+Note that Trainers can only station a limited number of Pokémon at Power Spots, and each Power Spot can contain a limited number of Pokémon from different Trainers.
+
+### Reporting Issues with Power Spots
+
+If you encounter an issue with a Power Spot, please see [this article](https://niantic.helpshift.com/hc/faq/120-reporting-pokestop-or-gym-issues/) for more details on how to report it to Scopely Explore.
