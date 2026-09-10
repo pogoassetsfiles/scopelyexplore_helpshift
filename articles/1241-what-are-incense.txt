@@ -1,0 +1,35 @@
+---
+id: 1241
+title: What are Incense?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1241-what-are-incense/
+---
+
+**Incense**  are items that lure Pokémon to your location. One activated Incense typically lasts for 60 minutes but may last longer during special events. You can also activate multiple Incense at a time to stack the duration of their effects for up to 24 hours instead of using one every 60 minutes.
+
+[![image](../data/images/fa5e2bc2-616e-476f-a14a-2b077a63596d-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/147952c3-e3a0-4fbc-939f-3d3d031bb67f.png)
+
+Incense in your inventory may change color during special events. If you notice your Incense are a different color than usual, it means you can use them to attract special Pokémon that wouldn’t appear normally. [Keep an eye on the Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/) to see what in-game events are in progress.
+
+[![image](../data/images/4c484f55-28d0-4f8a-be89-df0bd8ce62bb-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/aa0ef977-cb46-49d7-86d1-e5a9692f6aa0.png)
+
+### Daily Adventure Incense
+
+**Daily Adventure Incense**  is a special type of Incense that will attract unexpected wild Pokémon to you for 15 minutes as long as you are moving in the real world.
+
+
+Daily Adventure Incense is automatically added to your Item Bag once daily at 12 a.m. local time. Note that you can only carry one Daily Adventure Incense in your Item Bag at a time and it must be completely used before midnight local time to receive the next day’s grant. Be sure to use your Daily Adventure Incense before 11:44 p.m. local time to ensure you receive the next day’s Incense. Note that Daily Adventure Incense is unavailable between 11:45 p.m. and 12:00 a.m. local time.
+
+
+Once you activate your Incense, it will last 15 minutes, but will only attract Pokémon to you if you are moving in the real world. If you have 30 or fewer total Poké Balls, Great Balls and Ultra Balls in your Item Bag when you activate your Daily Adventure Incense, you will be automatically granted 30 Poké Balls. You will not receive this grant if you do not have any available Item Bag space.
+
+[![image](../data/images/fe0cfd32-13ff-4d96-bd36-c0ffb32fb705-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/01820553-caea-4125-b5f2-9087dcde1447.png)
+
+### The Coin Bag
+
+The  **Coin Bag**  is a rare, special type of Incense that will attract the Coin Chest Pokémon to you for 30 minutes. Keep in mind that, like standard Incense, this effect works best when you are moving in the real world.
+
+While active, there is an increased chance that spinning the Photo Disc on Golden PokéStops will result in obtaining a Mystery Coin.
+
+Keep in mind that you cannot extend the Coin Bag duration by enabling standard Incense, nor can more than one type of Incense be active at the same time.
+
+![](../data/images/45739ebd-af04-4d9c-af73-1f8c13d62717.png)
