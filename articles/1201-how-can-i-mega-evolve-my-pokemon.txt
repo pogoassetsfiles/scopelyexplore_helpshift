@@ -1,0 +1,25 @@
+---
+id: 1201
+title: How can I Mega Evolve my Pokémon?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1201-how-can-i-mega-evolve-my-pokemon/
+---
+
+When you’ve collected enough Mega Energy, go to an eligible Pokémon’s summary page and tap “Mega Evolve.” You can also Mega Evolve a Pokémon from the Raid Battle Lobby or when selecting your GO Battle League Battle Party.
+
+Mega Evolving a Pokémon for the first time costs a significant amount of Mega Energy,  however if you Mega Evolve a specific Pokémon multiple times, it will require less Mega Energy over time. Different Pokémon species may require different amounts of Mega Energy to Mega Evolve.
+
+Note that Super Max Level can only be unlocked by using Mega Energy, even if the Mega Level before it did not. Additionally, not all Mega Pokémon will be able to unlock Super Max Level but may become able to later on.
+
+After being Mega-Evolved, a Mega-Evolved Pokémon will stay in its Mega-Evolved form for 8 hours, after which they will return to its regular form.
+
+**Pokémon with Unique Mega Evolutions**
+
+Certain Pokémon like Charizard have multiple Mega forms. When Mega Evolving a Charizard, you can choose to evolve it into Mega Charizard X (a Fire and Dragon-type) or Mega Charizard Y (a Fire and Flying-type).
+
+![image](../data/images/b7dc0f0b-9019-44f1-add9-4d25a2f9cbfe.png)
+
+Once you’ve Mega-Evolved a Charizard, the Mega Energy required for future Mega Evolutions will be reduced, but only for the form you chose. If you want to reduce the energy cost for the other form, you’ll need to Mega Evolve it for the full cost first.
+
+Some Pokémon may have additional requirements to be able to Mega Evolve. To Mega Evolve Rayquaza there are two additional conditions that must be met: obtain the Meteorite item and use it to teach your Rayquaza the Charge Attack,Dragon Ascent.
+
+The Meteorite is an [item](https://niantic.helpshift.com/hc/faq/100-evolving-your-pokemon/#evolution-items) that can either be obtained by completing Special Research. Once you have collected the Meteorite, tap on it from the  **Item** menu on the Pokémon details screen to teach Rayquaza the Charge Attack, Dragon Ascent. Note that you can not use Charge TMs or Elite Charge TMs to teach Rayquaza this Charge attack.
