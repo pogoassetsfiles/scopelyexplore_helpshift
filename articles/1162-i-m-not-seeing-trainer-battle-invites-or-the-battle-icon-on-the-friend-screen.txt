@@ -1,0 +1,13 @@
+---
+id: 1162
+title: I'm not seeing Trainer Battle invites or the Battle icon on the Friend screen.
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1162-i-m-not-seeing-trainer-battle-invites-or-the-battle-icon-on-the-friend-screen/
+---
+
+If you are not receiving Trainer Battle invites or you cannot see a battle icon on your friend’s profile, check the following settings:
+
+* Visit the Settings page, tap  **General** , and tap to enable "Allow Battle Challenges with Friends". If this is unchecked, your friends will see a "Player is currently not receiving challenges" message when they try to challenge you.
+* Visit your device's date and time settings and set your device clock to sync automatically with local time.
+* For child accounts, parents or guardians may need to opt into enabling multiplayer features through the [Kids at Scopely Explore Parent Portal](https://parents.nianticlabs.com/) or [Pokémon Trainer Central](https://www.pokemon.com/us/pokemon-trainer-club/login) website.
+
+If you are still having difficulty with Trainer Battles, please [contact support](https://niantic.helpshift.com/hc/faq/2030-how-to-contact-support/).
