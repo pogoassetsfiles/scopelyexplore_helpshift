@@ -1,0 +1,69 @@
+---
+id: 1139
+title: Sending & Receiving Gifts
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1139-sending-receiving-gifts/
+---
+
+One of the benefits of connecting with friends in Pokémon GO is gaining the ability to send and receive Gifts. When you visit and spin PokéStops, you may occasionally find a Gift. Buddy Pokémon may also bring you Gifts from nearby Pokéstops.
+
+
+Gifts contain an assortment of useful items, but you cannot open a Gift yourself. Instead, you can only send a Gift to a friend to open.
+
+Each Gift includes a postcard about the PokéStop where it was collected. When you send a Gift to a friend, you’ll also share the PokéStop where you found this item. Note that your friend will be able to see the location you’ve visited when you send a Gift.
+
+You can hold a maximum of 20 Gifts in your Bag at any given time. However, Gifts do not take up any of your inventory space.
+
+**Note** : For child accounts, parents or guardians may opt into enabling multiplayer features through the [Kids at Scopely Explore Parent Portal](https://parents.nianticlabs.com/) or [Pokémon Trainer Central](https://www.pokemon.com/us/pokemon-trainer-club/login) website.
+
+## SENDING GIFTS
+
+[![image](../data/images/5959996f-20e8-433f-a6a7-601e99b0650f-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/90c32acc-04a5-4e5c-b54f-e9164d1ff4fd.png)
+
+**To send a Gift:**
+
+* In Map View, navigate to your  **Trainer Profile** .
+
+* Tap the  **Friends**   **tab**  at the top of the screen to open your  **Friend List** .
+
+* Tap on the Trainer that you wish to send the Gift. If you’d like to save the Postcard attached to the Gift, tap the pin icon to add it to your Postcard Book.
+
+* Tap on the  **Send Gift** button.
+
+* Select which Gift you would like to send.
+
+* Tap on the Send button.
+
+Be sure to save the Postcard attached to the Gift before sending, as you cannot add it to your [Postcard Book](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3196-what-is-the-postcard-book/?p=all&l=en&s=top-articles&f=what-is-the-postcard-book) after you have sent it to your Friend.
+
+To personalize a Gift, you can [attach a sticker](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2553-what-are-gift-stickers/?p=web&s=friends-gifting-trading&f=what-are-gift-stickers) before sending it to a friend. After selecting the Gift you’d like to send, tap “Add Sticker” and select the sticker you’d like to attach. Your friend will see the sticker when they open the Gift.
+
+You can send each of your friends up to one Gift per day. If your friend has not yet opened a Gift that you’ve previously sent them, you won’t be able to send them another one until they open the first one.
+
+Your Friend will receive a notification that you sent them a Gift. Once they open your Gift, they’ll receive a variety of items, such as Poké Balls, Potions, Berries, and even Pokémon Eggs. Sending Gifts will increase your Friendship level and earn you extra bonuses. Your Friends will be able to save the Postcards attached to your Gifts to their own Postcard Book.  You can control whether your name is displayed in your Friend's Postcard Book when you first use the Postcard Book or in the settings menu.
+
+## OPENING GIFTS
+
+If your Friend sends you a Gift, you will receive a notification. You aren’t required to open a Gift right away, but your Friend will not be able to send you additional Gifts until you open the one that they previously sent you, so it is beneficial to open Gifts from your Friends daily.
+
+
+ **To open a Gift:**
+
+* In Map View, navigate to your Trainer Profile.
+
+* Tap the Friends tab at the top of the screen to open your Friend List.
+
+* Friends who have sent you a Gift will have a Gift icon next to their Trainer photo as well as a note as to when you received the Gift.
+
+* Tap on the Trainer whose Gift you wish to open.
+
+* Tap on the Gift to view the Postcard from where the Gift was received. You can tap the pin button to save the Postcard to your Postcard Book.
+
+* Tap Open to open the Gift and receive the items inside.
+
+The items, Stardust, and Pokémon Eggs you receive from the gift will automatically be deposited into your Item Bag or Pokémon Inventory.
+
+If you receive a Gift from a Friend who has visited an exciting or interesting location and you would like to save the Postcard attached to the Gift, you can add it to your Postcard Book.
+
+### Sponsored Gifts
+
+Occasionally, you may receive [Sponsored Gifts](https://niantic.helpshift.com/hc/faq/3626-sponsored-gifts/) during your visits to Gyms and PokéStops. Sponsored Gifts can’t be sent to friends and instead give items directly to the Trainer who receives them.
