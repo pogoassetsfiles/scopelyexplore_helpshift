@@ -1,0 +1,11 @@
+---
+id: 1173
+title: Why didn’t I receive the 50-coin Defender Bonus?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1173-why-didn-t-i-receive-the-50-coin-defender-bonus/
+---
+
+Once you've reached the daily Defender bonus limit of 50 PokéCoins, you won't be able to earn any more PokéCoins by defending Gyms until the next day. If you have more than one Pokémon return from defending Gyms in a single day, the maximum bonus for the day is still limited to 50 PokéCoins. If a Pokémon returns after multiple days in a Gym, the maximum bonus for the day is still limited to 50 PokéCoins.
+
+You can see which Pokémon are currently defending Gyms and how many PokéCoins you have earned in a day by looking at the [Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/).
+
+Please note that the maximum bonus limit is subject to change and may vary from time to time.
