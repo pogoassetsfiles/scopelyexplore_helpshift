@@ -1,0 +1,15 @@
+---
+id: 1135
+title: What is Quick Treat mode?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1135-what-is-quick-treat-mode/
+---
+
+Quick Treat mode allows you to feed your buddy without entering AR mode if your buddy is not already on the Map with you. To engage in other activities such as petting your buddy or opening a present, you’ll need to place your buddy in AR mode.
+
+To enter Quick Treat mode:
+
+* Go to the  **Buddy Profile**  screen.
+* Tap  **Play with Buddy** .
+* Tap the  **Quick Treat**  button instead of placing your Pokémon in AR mode.
+
+Feed your buddy by selecting a snack you want to feed them, then tossing it to your buddy. If you miss your toss, the Berry or Poffin you threw won’t be removed from your inventory, so you can try again as many times as you like.
