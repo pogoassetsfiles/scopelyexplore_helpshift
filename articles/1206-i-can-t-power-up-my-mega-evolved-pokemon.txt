@@ -1,0 +1,7 @@
+---
+id: 1206
+title: I can’t power-up my Mega-Evolved Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1206-i-can-t-power-up-my-mega-evolved-pokemon/
+---
+
+Mega-Evolved Pokémon can’t be powered up while Mega-Evolved. Their boosted stats are calculated based on their stats in their normal form, so make sure you’ve powered up Pokémon you want to Mega Evolve as much as possible before Mega Evolving them.
