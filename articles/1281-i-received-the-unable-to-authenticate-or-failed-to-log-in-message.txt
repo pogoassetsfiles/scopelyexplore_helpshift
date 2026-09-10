@@ -1,0 +1,49 @@
+---
+id: 1281
+title: I received the “Unable to authenticate” or “Failed to log in” message
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1281-i-received-the-unable-to-authenticate-or-failed-to-log-in-message/
+---
+
+You may receive “failed to log in” or “unable to authenticate” error messages if our servers are experiencing a temporary issue or your network connectivity is poor.
+
+[![image](../data/images/cb3ea5a9-1aa3-4054-8a89-cf54b3a11a30-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/4115e03a-8b61-4839-9926-3756c2db2966.png)
+
+[![image](../data/images/9f67a166-8e31-4fc1-b29f-f0537367149f-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/43932505-c9a7-4b5b-be9c-18c51431dca2.png)
+
+Check to ensure your mobile device has a strong network connection, or wait a short while, then try logging in again.
+
+If the issue persists, try closing and reopening the Pokémon GO app:
+
+* **Android:** Tap  **Settings**  >  **Apps**  >  **Pokémon GO** >  **Force Stop**
+
+* **iOS:** Double-click the Home button or swipe up from the bar at the bottom of the screen to see your most recently used apps, find the Pokémon GO app, and then swipe up to close the app.
+
+### Additional troubleshooting (Android devices & Google accounts only)
+
+If the other troubleshooting steps don't resolve your issue, try removing and adding your Google account to your device.
+
+**When you remove the account, your email, contacts, settings, and other information associated with the account is removed from your local storage until you add the account back to your device. Be sure that you complete these steps with adequate time to allow for your account data to download.**
+
+To remove the email account from your device:
+
+* Open the  **Settings**  app on your device.
+
+* Tap the  **Accounts** menu option **.**
+
+* Select your account. If you have multiple Google accounts, select the Google account you used to log into Pokémon GO.
+
+* Tap  **Remove account** .
+
+To add the account back to your device:
+
+* Open the  **Settings**  app on your device.
+
+* Tap the  **Accounts** menu option **.**
+
+* Tap  **Add Account** .
+
+* Select  **Google**  from the list of account types.
+
+* Follow the prompts to complete this process.
+
+Visit [this Google Help Center](https://support.google.com/nexus/answer/2840815) for additional support on adding and removing accounts.
