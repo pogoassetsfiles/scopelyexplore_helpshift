@@ -1,0 +1,11 @@
+---
+id: 1098
+title: Why does my Field Research task have a “bonus” tag?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/
+---
+
+At midnight every night during specified time periods, you’ll receive a bonus task without having to spin a PokéStop. These tasks are different from Field Research tasks acquired from PokéStops and involve activities that you can complete from wherever you are.
+
+[![image](../data/images/55ab6684-250f-4224-a7b8-e5be3dd72738-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c6abc0ef-5390-4ae8-b988-7c497ebea936.png)
+
+If you don’t have an open Field Research slot, then a fourth slot will open up to accommodate the bonus task for you. If you already have four slots filled up, you’ll need to complete one Field Research task (either a bonus task or one acquired from a PokéStop) to free up space for another bonus task.
