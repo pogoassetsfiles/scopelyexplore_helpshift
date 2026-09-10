@@ -1,0 +1,9 @@
+---
+id: 1195
+title: What are Strange Eggs, and how do I obtain them?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1195-what-are-strange-eggs-and-how-do-i-obtain-them/
+---
+
+**Strange Eggs** are Eggs collected by Team GO Rocket. These Eggs generally hatch Poison-type Pokémon, Dark-type Pokémon, or Pokémon that acquire one of those types via Evolution. Defeat a [Team GO Rocket Leader](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2102-team-go-rocket-leaders-giovanni/) to receive a Strange Egg, and walk 12km to hatch it.
+
+**Note:**  You’ll need some space in your Egg inventory, Pokémon storage, and Item Bag before your battle with Sierra, Cliff, or Arlo in order to receive a Strange Egg. You won’t be able to obtain Strange Eggs if you’re at or over your maximum Pokémon storage, Egg inventory, or Item Bag capacity.
