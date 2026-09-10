@@ -1,0 +1,51 @@
+---
+id: 1335
+title: Official Bluetooth Devices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1335-official-bluetooth-devices/
+---
+
+The  **Pokémon GO Plus** ,  **Poké Ball Plus,**  and  **Pokémon GO Plus +**  are optional accessories that you can use to enhance your Pokémon GO experience.
+
+Using a Bluetooth connection, these devices allow you to play Pokémon GO without looking at your app, even if your phone is asleep or if Pokémon GO is running in the background.
+
+### Visiting PokéStops and Gyms
+
+As you explore your local area, these devices will alert you when you are near a PokéStop or Gym and allow you to spin the Photo Disc and collect items.
+
+When you are in the range of a PokéStop or Gym, the device will vibrate and the indicator light will flash blue. To spin the Photo Disc press the Main Button.
+
+[![](../data/images/aebf40c9-2589-49cd-8c45-3d6ae5913862.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/aebf40c9-2589-49cd-8c45-3d6ae5913862.jpg)
+
+If you are successful, the items will automatically be added to your Item Bag and the device will vibrate multiple times. The indicator light will also flash multiple colors. You can check your Journal to see which items you received from which location.
+
+If your bag is full, the device will vibrate three times in succession and the indicator light will flash white. If you have moved too far from the PokéStop before you pushed the Main Button, the device will vibrate and the indicator light will flash red.
+
+**Auto-Spin**
+
+**Auto-Spin**  is a setting for the Poké Ball Plus and Pokémon GO Plus + devices that will allow you to automatically spin the Photo Disc at nearby PokéStops or Gyms.
+
+If you are using the Poké Ball Plus, you can enable Auto-Spin by transferring a Pokémon into your Poké Ball Plus from  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!* . When Auto-Spin is enabled, you will not be able to spin PokéStops by button press.
+
+The Pokémon GO Plus + device also has an  **Auto-spin**  setting, which will automatically spin the Photo Disc at nearby PokéStops or Gyms. You can toggle this setting in the Pokémon GO Plus + device settings.
+
+### Catching Pokémon
+
+As you’re exploring, these devices will also alert you when a Pokémon is within range. You can use the Main Button to try to catch the Pokémon.
+
+[![](../data/images/a9487e9e-4b67-4dd5-9f25-693e761c5a5c.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/a9487e9e-4b67-4dd5-9f25-693e761c5a5c.jpg)
+
+When a Pokémon is in range, the device will vibrate and the indicator light will flash green if the Pokémon is one you have caught in the past or yellow if it is a Pokémon you haven’t caught yet.
+
+To attempt to catch the Pokémon, press the Main Button. The device will vibrate as the Poké Ball rocks. If the Pokémon breaks out of the Poké Ball and runs away, the device will vibrate and the indicator light will pulse red. If you are successful, the device will vibrate and the indicator light will flash multiple colors.
+
+Using a connected device to catch Pokémon will use regular Poké Balls from your inventory regardless of the  **Remember**   **Last-Used Poké Ball** setting, and you will not be able to attempt to catch a Pokémon if you are out of Poké Balls, even if you have other types of Poké Balls available. Note that the Pokémon GO Plus + will allow you to change which type of Poké Ball will be used with button-throw in the device settings. Specialty type of Poké Balls (such as Premier Balls, GO Safari Balls, etc.) may not be used with Bluetooth devices to catch Pokémon.
+
+You can check your Journal to see which Pokémon you encountered. Note that you cannot use Berries to assist in catching Pokémon and you only get one attempt to catch the Pokémon while using these devices.
+
+**Auto-Throw**
+
+The Pokémon GO Plus + device also has an  **Auto-throw**  setting, which will use regular Poké Balls to automatically attempt to catch nearby Pokémon you have previously caught. Pokémon you haven’t caught before cannot be caught using this setting, however, the indicator light will still flash with a yellow light so you can use the Main Button to attempt to catch this Pokémon.
+
+You can update this toggle in the Pokémon GO Plus + device settings.
+
+Visit The Pokémon Company's website for more information about the [Poké Ball Plus](https://www.nintendo.co.jp/monsterballplus/country_selecter/index.html), the [Pokémon GO Plus](https://support.pokemon.com/hc/en-us/articles/360000954814), and the [Pokémon GO Plus +](https://www.pokemongoplusplus.com/en/).
