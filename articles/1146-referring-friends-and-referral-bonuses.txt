@@ -1,0 +1,64 @@
+---
+id: 1146
+title: Referring Friends and Referral Bonuses
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1146-referring-friends-and-referral-bonuses/
+---
+
+In addition to [adding your friends directly](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2938-adding-friends/?p=web&s=friends-gifting-trading&f=adding-friends-to-your-friend-list&l=en) to your Friend List, you can also refer friends using a special code that is unique to you.
+
+When you refer a friend to Pokémon GO—whether it’s their first time playing or they’re returning after a break—they’ll receive rewards like Pokémon encounters, Rare Candy, Incubators, and more as they hit milestones on their adventure, and so will you.
+
+If your Friend List is full, and your friend uses your referral code, you will not be able to receive a friend invite, become friends, or claim referral milestone rewards. Your friend will also not be able to claim Referral rewards.
+
+Please note that Trainers with child accounts are not eligible to send or redeem referral codes, even if social permissions are granted through the Kids at Scopely Explore Parent Portal or Pokémon Trainer Central website.
+
+### To refer a friend:
+
+You can share your referral code with a friend by following these steps:
+
+* From Map View, navigate to your  **Trainer Profile** .
+* Tap the  **friends tab**  at the top of the screen to open your Friend List.
+* Tap the  **Invite**  button.
+
+* Tap  **Share referral code**  to select from your phone’s share menu to send an invitation with your referral code.
+
+* Tap  **Copy referral code**  to copy your personal referral code to your phone’s clipboard and share it manually.
+
+[![image](../data/images/a9a1c713-6c04-4e2a-bace-6c5de9b24685-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a8fc4e71-773f-4ee2-8a50-26bfeae65ee6.png)
+
+Please note that only new Trainers or Trainers who have not been active within 90 days are eligible to be referred. In order to be eligible for referral bonuses, your friend must redeem your referral code within 72 hours of creating or logging into their account.
+
+### Referral bonuses
+
+You will receive a message in-app confirming that your friend has successfully joined or rejoined Pokémon GO via your referral and you may receive a Friend Request if you are not friends yet. Once your friend has redeemed your referral code, and you have been connected as friends, both you and your friend will be able to claim rewards as they hit milestones on each others’ friends profiles.
+
+As your referred friend hits certain milestones, both you and they will be able to claim rewards. You can track their progress against these milestones and claim rewards from their Trainer Profile via your Friend List.
+
+[![image](../data/images/38748aa3-1839-4118-b751-3e5ceffb85bb-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/22023018-66ba-41ff-b802-f5e20dc62c28.png)
+
+Keep in mind that, if your Friend List is full, you and your referral will not be able to claim milestone rewards. You’ll first need to remove a friend from your Friend List and add your referral as a friend.
+
+Once your friend has achieved their milestone, you can redeem your rewards from their Trainer Profile by tapping on the completed milestone. Note that these milestone rewards are not automatically added to your Item Bag.
+
+### To redeem a referral code:
+
+If you have received a referral code from a friend, follow these steps to redeem the code:
+
+**New Trainer**
+
+* Download Pokémon GO from Google Play, the App Store or the Galaxy Store.
+* Enter your date of birth.
+* Create your account or log into your account.*
+* Tap on  **Have a referral code?**
+* Follow the prompts to complete your account creation and redeem your code.
+
+**Returning Trainer**
+
+* If it is not currently on your device, download Pokémon GO from Google Play, the App Store or the Galaxy Store.
+* Log into your account*.
+* Tap on  **Have a referral code?**
+* Follow the prompts to redeem your code.
+
+[![image](../data/images/e5bcd235-39dd-4cce-bec9-e97f13195c11-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/affd6d38-3f1d-46e0-9532-9c981b53e8a0.png)
+
+If you do not tap  **Have a referral code?**  during your initial login, you can always redeem a referral code up to 72 hours after creating or logging into your account by tapping on  **Invite**  on your Friend List.
