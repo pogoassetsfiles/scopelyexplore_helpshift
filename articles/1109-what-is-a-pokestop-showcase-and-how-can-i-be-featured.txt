@@ -1,0 +1,43 @@
+---
+id: 1109
+title: What is a PokéStop Showcase and how can I be featured?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1109-what-is-a-pokestop-showcase-and-how-can-i-be-featured/
+---
+
+A  **PokéStop Showcase**  is a local event where Trainers can compete against one another to be featured at PokéStops near them. Currently, you can showcase your largest Pokémon, but other Showcases may be added in the future.
+
+### Viewing the Showcase details
+
+As you explore, you may notice a symbol on the Map above a PokéStop. This is an indicator that a Trainer has chosen to showcase a Pokémon at this location.
+
+[![](../data/images/517fecf7-af2e-4efb-b043-8a42f29210b0.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/517fecf7-af2e-4efb-b043-8a42f29210b0.jpg)
+
+If you tap on the PokéStop, you will see a  **Showcase**  button, which will let you see the details on the current leader. You can scroll to see other competitors who have entered.
+
+![image](../data/images/8mx4exmt-tl_ii8ex61xlbbwysercqtnl5cucxmx44stgtqpseko_rmjvu4y5qhf_cocjqibyngmkxnyu_czje4j_vpc7zxtgequnlkqfaoz-t72exdfovoq0hb69_j0qvtru46lkftavklxuo6wijg.png)
+
+![image](../data/images/wyszuqow3n1vf8s83xkv2ngll8rqzb731ntcku1ydcbtcv8jqqrxpay2nyqb-mak14g2q1j-khy200xwwu-wdm3tspyeavrr4m6xvzy51fsrus_cn_nzhuaxm_brw-pje9w85glajp2dmtba8ydvzak.png)
+
+### Entering a PokéStop Showcase
+
+There are two ways that you can enter your Pokémon into a PokéStop Showcase. The first is locally, at a PokéStop.
+
+When you visit a PokéStop with an active Showcase, just below the current leader’s details you will see a suggested Pokémon that meets the criteria for the Showcase. Tap the  **Enter**  button to submit your Pokémon into the Showcase. You can also tap  **Switch Pokémon**  to select a different Pokémon from your inventory to enter into the Showcase.
+
+You can also submit a Pokémon to a PokéStop Showcase after catching it in the wild. If you catch a wild Pokémon that is either a possible competitor for a nearby PokéStop Showcase or a better candidate than your current selection in a PokéStop Showcase you have already entered, you will see a button on the Pokémon details page that says  **Enter Nearby PokéStop Showcase** .
+
+Tapping this button will submit your Pokémon into the qualifying PokéStop Showcase.
+
+Once you have entered your Pokémon into a PokéStop Showcase, you can see their current ranking on the Today View. Tapping the Pokémon on this screen will show you the leaderboard and allow you to swap your current entrant for another Pokémon in your inventory.
+
+Note that you can participate in a maximum of 3 PokéStop Showcases at a time.
+
+### Claiming PokéStop Showcase Rewards
+
+When a PokéStop Showcase has ended, you will receive a notification on your Research menu. Tap it to be taken to the results page, where you can see the winner and the top Pokémon in the Showcase.
+
+![image](../data/images/j8zn-pq-qghb9cm454_8woo6d706uah888o0wqx9oqm7rqww1pavzfwmgrezk1mfyhfdutgkhb8vkp2uaefc6dtnfbuekvvs3qsbd00ftz0urke44ma13_2t7v-qykj1tp3oocwyl4fbmouykh1xpiw.png)
+
+You can also visit the PokéStop where you entered the Showcase to claim your rewards.
+
+Tap the  **Claim Rewards**  button to receive your rewards for participating in the Showcase and tap  **Share**  to post the results via your app of choice.
