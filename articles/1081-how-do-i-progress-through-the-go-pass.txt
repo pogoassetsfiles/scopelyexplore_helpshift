@@ -1,0 +1,21 @@
+---
+id: 1081
+title: How do I progress through the GO Pass?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1081-how-do-i-progress-through-the-go-pass/
+---
+
+Complete various gameplay activities to earn points. A certain number of points are required to progress through each rank in the GO Pass. The more points you earn, the more ranks and rewards you’ll unlock!
+
+**Please Note:** In certain circumstances, you may only be able to earn a certain number of GO Pass points within a day.
+
+There are two ways that points can be earned. The first is through regular gameplay activities like catching Pokémon, hatching Eggs, participating in raids, etc. These actions may vary depending on the specifics of the GO Pass. As you complete these activities, your progress is automatically tracked and any points earned will count toward both Basic and Deluxe Passes.
+
+The second is a set of specific tasks that are similar to Research Tasks, in that they ask you to complete a specific set of actions. For example, you may need to catch a certain number of Pokémon, or power up a specific Pokémon Type. These tasks may appear at a varied cadence (e.g. daily or hourly) depending on the GO Pass.
+
+[![](../data/images/2688932e-fb70-4140-8e73-14701f457161.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/2688932e-fb70-4140-8e73-14701f457161.png)
+
+### How long do I have to complete the GO Pass?
+
+Each GO Pass is tied to a specific duration. Once it ends, the GO Pass will no longer be available, and any unclaimed rewards will expire. However, there will be a grace period following the conclusion, during which you may still claim your rewards. This period may vary depending on the specific circumstances.
+
+**Please Note:**  that the support team will be unable to restore access to the GO Pass or grant unclaimed rewards after the duration has ended.
