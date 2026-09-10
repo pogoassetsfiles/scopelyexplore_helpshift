@@ -1,0 +1,9 @@
+---
+id: 1204
+title: My Mega-Evolved Pokémon returned to its regular form before the timer ran out.
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1204-my-mega-evolved-pokemon-returned-to-its-regular-form-before-the-timer-ran-out/
+---
+
+Trainers can only have one Mega-Evolved Pokémon active at a time. If you Mega Evolve a Pokémon while another Pokémon is Mega-Evolved, the first Pokémon you Mega-Evolved will turn back into its regular form.
+
+Mega-Evolved Pokémon will stay in their Mega-Evolved form for 8 hours, after which they will return to their regular form. You can see the remaining time on your Mega-Evolved Pokémon’s summary page.
