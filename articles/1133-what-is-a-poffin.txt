@@ -1,0 +1,9 @@
+---
+id: 1133
+title: What is a Poffin?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1133-what-is-a-poffin/
+---
+
+In addition to feeding your Buddy Pokémon Berries, you can also give them  **Poffins** , a special snack that fills your buddy’s hunger meter automatically and boosts their Mood to Excited. If you give your buddy a Poffin, you will automatically earn the maximum daily number of Affection hearts in the “Give your buddy a treat” category. Your buddy will also stay full, stay on the Map, and stay Excited for longer. Poffins can be purchased from the Shop using PokéCoins.
+
+[![image](../data/images/929b8c38-1d8b-4ed4-9c86-0fc4453d697d-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/30ee079f-427c-4b45-b500-25a4956f8e01.png)
