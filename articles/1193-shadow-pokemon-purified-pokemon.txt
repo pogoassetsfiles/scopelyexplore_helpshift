@@ -1,0 +1,27 @@
+---
+id: 1193
+title: Shadow Pokémon & Purified Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1193-shadow-pokemon-purified-pokemon/
+---
+
+**Shadow Pokémon** are [abandoned by members of Team GO Rocket](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1936-team-go-rocket-grunts/?p=web&s=top-articles&f=team-go-rocket-grunts) after you’ve defeated them in battle, giving you a chance to encounter and catch them.
+
+[![image](../data/images/02c8c0a5-b55c-4b19-9768-5b68329ea975-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/02c8c0a5-b55c-4b19-9768-5b68329ea975-2t.png)
+
+For Shadow Pokémon, Powering Up and unlocking a second Charged Attack requires more Candy and Stardust than for regular Pokémon.
+
+Shadow Pokémon also deal more damage with their Fast and Charged Attacks, but they take more damage when attacked. The extra damage dealt by Shadow Pokémon is shown as a “Shadow Bonus” next to their attacks on their summary page, [just like Weather Boosts](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/53-weather-boosts/).
+
+[![image](../data/images/1c45cbcc-590d-4766-bb5d-189049ee0d29-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/bcc38898-b412-4ad0-b67b-aa731b791e5f.jpg)
+
+**Frustration**  is a Charged Attack that all Shadow Pokémon know when they’re caught. Frustration cannot be unlearned with a TM until you’ve purified the Shadow Pokémon, except during special events. Keep an eye on our official blog to learn about upcoming in-game and live Pokémon GO events.
+
+### **Purified Pokémon**
+
+You can  **Purify**  Shadow Pokémon with a combination of Stardust and Candy. Purifying a Shadow Pokémon will [improve their appraisal](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/129-appraising-your-pokemon/) and reduce the amount of Stardust and Candy required for them to Power Up, Evolve, or learn a new attack.
+
+[![image](../data/images/0eacfc10-26fe-4706-b388-cf5d67689ceb-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/0eacfc10-26fe-4706-b388-cf5d67689ceb-2t.jpg)
+
+When Purified, a Shadow Pokémon will forget Frustration and learn  **Return** , a Charged Attack that’s exclusive to Purified Pokémon. Unlike Frustration, Return can be unlearned at any time with use of a Charged TM.
+
+**Note** : Pokémon will always learn Return when Purified, even if you used a TM to unlearn Frustration while they were Shadow Pokémon.
