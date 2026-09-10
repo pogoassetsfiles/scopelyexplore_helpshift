@@ -1,0 +1,67 @@
+---
+id: 1143
+title: Trading Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1143-trading-pokemon/
+---
+
+### 1. MEET UP WITH YOUR FRIEND IN PERSON
+
+Players must physically be in the same location in order to trade. When you and your friend are nearby, navigate to your Friend List.
+
+![image](../data/images/rx9kywqd_elja9xp3oi19qeohqtvpfcuta9pk67utnjfr0x7wf__p_vawajvyqw6wjdtodfopvyje-clva8xl_2q8a7hszqs6jjnt7nlnzvcdj0gjzgltbfoy9xoz6z1ah6jqwkmjagz6-qzcgegs7g.png)
+
+### 2. NAVIGATE TO THE TRADING SCREEN
+
+* In Map View, tap your  **Trainer Profile** .
+
+* Tap the  **Friends**  tab at the top of the screen to open your Friend List.
+
+* Tap on the Trainer that you wish to trade Pokémon with.
+
+* Tap on the  **Trade**  button to enter the trading screen.
+
+![image](../data/images/uvumvzevbgv5sttn5gr8juhx2vhin5xrreaf-dmzgrwqghb7bnp5p5zfdfypzz0qbarmmibitx66fxu4hl8coufurmdebalxd2qwcyungzb2yds62cxxzm7hm7fx6hc7wuarsabqp98bqpcsc6jeavy.png)
+
+### 3. SELECT POKÉMON TO TRADE
+
+Once your friend joins the trading session, you’ll be able to select a Pokémon to trade. Before you select the Pokémon, you’ll be able to view the Pokémon’s details.
+
+Note that the CP, HP, and other stats will change when you trade. The Pokémon’s new CP and HP will appear as a range. Additionally, trading certain Pokémon may affect how much Candy is required to [evolve](https://niantic.helpshift.com/hc/faq/100-evolving-your-pokemon/) that specific Pokémon.
+
+Tap the  **Next**  button to proceed.
+
+![image](../data/images/xpjm1bcsol3wzvzbp8k3javz_lbfltgxjeaoi3tsutdxayuhmlnnjcx5hmirn5tb144rg8jo-hxs1ozjwdyb2rzbnaiojeb2n88bnsoj9xferrvsc21mt5zzxr3kwcnkqtekg2_oqtmxzqa01dyuqa.png)
+
+### 4. CONFIRM THE TRADE
+
+After both you and your friend have selected a Pokémon to trade, a confirmation option will appear. The amount of Stardust that is required for the trade will appear next to the button. You also see the amount of Candy you’ve received through the trade. The amount of Candy you earn depends on the distance between where the two Pokémon were caught. The further the distance, the more Candy.
+
+Tap on the  **Confirm**  button to complete the trade.
+
+![image](../data/images/_199dohwfwfcdkejpdxlpsnwzj-lbjowen8ze1e0cnxq7os6mwgg1z3as0bw-qjgwtgduhawhe7rxd8fwk6k8wlaszvjovrfl0f_qbwil0ajsaxkgcxzrjy2twqwrbc_ezw41s8_jg5mxks2wjzvpna.png)
+
+### SPECIAL TRADES AND LIMITATIONS
+
+Some Pokémon are considered  **S**  **pecial Trades** . These Pokémon require more Stardust to trade and you can only complete a limited number of Special Trades per day.
+
+The following are Special Trades:
+
+* Pokémon not already in your Pokédex
+
+* Legendary Pokémon
+
+* Shiny Pokémon
+
+* Ultra Beasts
+
+* Pokémon with forms not already in your Pokédex (like regional forms, Unown, costumed Pokémon, and Castform)
+
+* Pokémon with unique or special features (like Location Cards)
+
+Other restrictions on trading:
+
+* Trading is only available for Trainers that are Level 10 or above.
+
+* Certain Pokémon cannot be traded. Mythical Pokémon (like Mew) and Pokémon that have previously been traded once before cannot be traded.
+
+* Trainers that log in using Kids at Scopely Explore or Pokémon Trainer Central may need to enable social features in the Kids at Scopely Explore Parent Portal or Pokémon Trainer Central website. Learn more [here](https://niantic.helpshift.com/hc/faq/1026-how-can-my-child-access-social-features-such-as-friends-gifting-and-trading/).
