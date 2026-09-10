@@ -1,0 +1,35 @@
+---
+id: 1149
+title: Hosting a Party
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1149-hosting-a-party/
+---
+
+A Party is composed of a  **host**  and between 1 - 3 other Trainers. Both the host and the Party participants must be physically near one another.
+
+To host a Party:
+
+* In Map View, tap on your  **Trainer Profile** .
+* Tap the  **Party**  tab in the top right.
+* Tap the  **Create**  button on the Party Play screen to create a Party Play lobby.
+
+Note that Trainers logging in using kids accounts via Pokémon Trainer Central or Kids at Scopely Explore are not able to host a Party.
+
+Once you have created a lobby, other Trainers will have up to 15 minutes to either scan the QR Code or enter the Party Code to join the Party. As other Trainers join, you will see their Trainer profile pictures appear on your screen.
+
+Once you have at least 1 other Trainer in your Party, tap the  **Start**  button to begin Party Play.
+
+After you tap Start, the Trainer avatars for other members of your Party will appear on your Map View, and their profiles will appear along the top of your screen.
+
+Make sure that you and the other members of your Party stay near one another in the real world. If another Trainer gets too far away from the host, they will see a warning message and could be removed from the Party.
+
+Your Party can last up to 3 hours, or until you end your Party Play session. You will receive a 10-minute warning as you approach the 3-hour limit.
+
+To end a Party:
+
+* In Map View, tap on your  **Trainer Profile** .
+* Tap the  **Party**  tab in the top right.
+* Scroll to the bottom and tap the  **Leave Party**  button.
+
+If you are leaving the Party but others are still playing, you will need to select another host. If the Party will have less than 2 Trainers after you leave, the Party will be disbanded.
+
+You will see a summary screen recapping both your individual contributions as well as your Party’s achievements during the Party Play session, including a breakdown of each Trainer’s contributions to the Party.
