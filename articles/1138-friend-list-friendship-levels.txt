@@ -1,0 +1,122 @@
+---
+id: 1138
+title: Friend List & Friendship Levels
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1138-friend-list-friendship-levels/
+---
+
+You can add  **friends**  in Pokémon GO to stay connected with Trainers that you meet along your Pokémon GO journey. As you play together, you’ll gain friendship points to increase your Friendship level and unlock extra bonuses. You’ll also be able to send Gifts and trade Pokémon with your friends.
+
+Once you become friends with another Trainer, you’ll both be able to see each other’s Trainer Profile through the Friend List. This information includes your Avatar, Buddy Pokémon, Team, number of Pokémon caught, most recently caught Pokémon, Trainer level and XP, Distance Walked, and the number of Battles won. If you decide that you no longer want a friend to see this information about you through their Friend List, you may simply remove them. Keep in mind that removing a friend in one game will remove them from other games as well.
+
+ **Note** : For child accounts, parents or guardians may opt into enabling this feature through the [Kids at Scopely Explore Parent Portal](https://explore.scopely.com/parent-portal) or [Pokémon Trainer Central](https://trainer.pokemon.com/start) website. Please note that disabling a game’s “Friends and Related Features” permission in the Parent Portal will permanently remove all friends from your child’s Friend List for that game.
+
+## WHAT WILL FRIENDS SEE ABOUT ME?
+
+Friends will see your Trainer profile, achievements, and Pokémon that you have caught. You can disable showing friends which Pokémon you've caught in the Settings menu. Friends may also find out about your location when you send them a Gift or when you trade Pokémon with them.
+
+Friends who have set themselves Online can see your Online status if you have also set yourself online. You can toggle your Online Status by tapping the switch at the top of your Friend List.
+
+Friends can also access [your Scopely Explore Profile](https://scopelyexplore.helpshift.com/hc/faq/1103-your-scopely-explore-profile/), which shows recent achievements in Pokémon GO and other Scopely Explore apps. This page also displays lifetime stats, including distance walked and the date that you began playing Scopely Explore games.
+
+For more information about controlling your experience in Pokémon GO, please see [this article](https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/).
+
+## FRIENDSHIP LEVELS
+
+You can grow your Friendship level with a friend by earning friendship points. Up to one friendship point can be earned per day by completing activities like opening gifts or participating in Raid Battles with your friend.
+
+**Please Note:** Participating in certain features, such as Weekly Challenges, may allow you to earn multiple friendship points in one day.
+
+There are six Friendship level milestones: Friends, Good Friends, Great Friends, Ultra Friends, Best Friends, and Forever Friends. As you battle, trade, send Gifts, and complete other interactions with a friend, you'll reach Friendship level milestones and unlock extra bonuses, such as a Battle Boost, extra Premier Balls in raids, and remote trading opportunities.
+
+### Friend
+
+[![](../data/images/3fb2229d-a4dc-4082-a9ad-35733909abcc.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/3fb2229d-a4dc-4082-a9ad-35733909abcc.png)
+
+**Requirements**
+Accept a friend request or have your friend request be accepted.
+
+ **Bonuses**
+
+* You can trade certain Pokémon that are already registered in your Pokédex.
+
+### Good Friend
+
+![](../data/images/d823f0ac-63c9-487f-b9a5-17dd829d3400.png)
+
+**Requirements**
+Earn 1 friendship point together.
+
+ **Bonuses**
+
+* Special Trades unlocked.
+
+### Great Friend
+
+[![](../data/images/c34f937b-84cb-4598-8380-b1fb0d2e5f6f.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/c34f937b-84cb-4598-8380-b1fb0d2e5f6f.png)
+
+**Requirements**
+Earn 7 friendship points together.
+
+ **Bonuses**
+
+* There is a small reduction in the trading Stardust requirement.
+* Receive 1 extra Premier Ball when participating in a raid with your friend.
+* Receive a small attack boost when battling together.
+
+### Ultra Friend
+
+**[![](../data/images/fa6e6d41-ec09-4580-a720-a066e73ab9e0.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/fa6e6d41-ec09-4580-a720-a066e73ab9e0.png)**
+
+**Requirements**
+Earn 30 friendship points together.
+
+ **Bonuses**
+
+* Medium reduction in the trading Stardust requirements.
+* Receive 2 extra Premier Balls when participating in a raid with your friend.
+* Receive a medium attack boost when battling together.
+* Ability to share an EX Raid Invite with each other.
+
+### Best Friend
+
+[![](../data/images/ee3b286d-bbc1-47fc-8f67-e1cb849224e5.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/ee3b286d-bbc1-47fc-8f67-e1cb849224e5.png)
+
+**Requirements**
+Earn 90 friendship points together.
+
+ **Bonuses**
+
+* Large reduction in the trading Stardust requirements.
+* Receive 4 extra Premier Balls when participating in a raid with your friend.
+* Receive a large attack boost when battling together.
+* Ability to share an EX Raid Invite with each other.
+
+### Forever Friends
+
+**[![](../data/images/2d405074-bb40-4e69-b366-07d35373ba21.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/2d405074-bb40-4e69-b366-07d35373ba21.png)**
+
+**Requirements**
+Earn 180 friendship points together.
+
+**Bonuses**
+
+* Sustained bonuses from Best Friends:
+
+* Large reduction in the trading Stardust requirements.
+* Receive 4 extra Premier Balls when participating in a raid with your friend.
+* Ability to make a Remote Trade with your Forever Friend.
+
+* Note that 90 additional friendship points are required for subsequent Remote Trading. Learn more about Remote Trading.
+* Note that Trainers can only have one Remote Trade available with each Forever Friend.
+* Receive an additional attack boost when battling together.
+* Ability to charge your Forever Friend progress bar (see below for more details).
+
+## CHARGING YOUR FOREVER FRIEND PROGRESS BAR
+
+[![](../data/images/687fd3d0-8c04-4d7d-872a-3c4f0d96721d.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/687fd3d0-8c04-4d7d-872a-3c4f0d96721d.png)  [![](../data/images/618e8fcc-5476-497b-b047-0a6bf2f8f933.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/618e8fcc-5476-497b-b047-0a6bf2f8f933.png)
+
+The hearts displaying your Friendship level will be replaced by a progress bar upon becoming Forever Friends. This bar tracks your progress towards earning additional Remote Trades.
+
+Complete activities with your friend, such as participating in Weekly Challenges, battling, trading, and sending and opening Gifts, to earn friendship points and advance this progress bar.
+
+Once you have accumulated 90 friendship points with your Forever Friend, your progress bar will be full again, allowing you to perform another Remote Trade. After completing a Remote Trade with your Forever Friend, your progress bar will reset. Even if you do not perform a Remote Trade once your progress bar is filled, your progress bar will reset and continue to accumulate friendship points towards another Remote Trade. Your earned Remote Trades will still be available, which will be indicated on the Friends list by a Remote Trade icon and will be in an active state on your Forever Friend’s profile.
