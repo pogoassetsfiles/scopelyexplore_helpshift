@@ -1,0 +1,19 @@
+---
+id: 1130
+title: What is the Daily Adventure Egg?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1130-what-is-the-daily-adventure-egg/
+---
+
+The Daily Adventure Egg is a special type of Pokémon Egg that is available to Trainers once they have reached Level 15. When a Trainer logs in to Pokémon GO for the first time on a new day, the Daily Adventure Egg will be automatically placed in its own Incubator.
+
+[![](../data/images/eeaf6133-8ce9-4499-aa86-2f3658881d07.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/eeaf6133-8ce9-4499-aa86-2f3658881d07.png)
+
+Unlike other Pokémon Eggs, which are limited to an upper limit of 12 Eggs that a Trainer can carry at a time, the Daily Adventure Egg will not count toward a Trainer’s current Egg storage capacity.
+
+The Daily Adventure Egg will be placed into an Incubator, even if you don’t have any Incubators in your Item Bag. Additionally, the Daily Adventure Egg doesn’t use any of the Incubators in your Item Bag.
+
+Trainers will get a free Daily Adventure Egg after 12 a.m. local time that will hatch a Pokémon and earn 10,000 XP after exploring 1KM!
+
+Trainers can only hold and incubate one Daily Adventure Egg at a time, so if you already have a Daily Adventure Egg at the beginning of a new day, you will not receive another one until 12 a.m. local time on the following day.
+
+Please note: the Daily Adventure Egg is not eligible for any hatch or other bonuses associated with in-game or live events. For example, reduced hatch distance or XP bonuses do not apply to the Daily Adventure Egg.
