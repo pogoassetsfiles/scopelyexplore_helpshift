@@ -1,0 +1,45 @@
+---
+id: 1304
+title: Safety FAQs
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1304-safety-faqs/
+---
+
+At Scopely Explore, our goal is to create experiences that encourage healthy outdoor exploration and social gameplay. We’ve answered some of the most common questions about our games that new players might have below.
+
+### How is Scopely Explore thinking about safety?
+
+Scopely Explore apps are designed to be used outdoors. As such, any Scopely Explore app carries with it some of the risks of any outdoor activity, including hiking, biking, or playing sports in a park. Users should always remain aware of their environment and avoid going into any inappropriate areas, or any area where they are not permitted to be. Pedestrians should remain aware of hazards, including other pedestrians, traffic, and obstacles.
+
+As with any mobile app, Scopely Explore apps should not be operated while driving a vehicle. This is reinforced by warnings and behaviors within the app and it’s vital that people be responsible and not play while driving.
+
+Parents should guide and supervise their children’s use of the product, including where to play and how to use a mobile phone app safely. To help remind players of the risks and to encourage everyone to play safely, we also show a message in-app to remind users to be aware of their surroundings.
+
+### What about children? Is parental consent necessary for children? Can a parent control a child’s account?
+
+Some Scopely Explore apps have minimum age [requirements](https://nianticlabs.com/gameresources?hl=en). For games that do permit children to participate, parents or legal guardians must provide consent for their children to play by creating a Scopely Explore Kids account for their child and providing the required information.
+
+Parents should supervise their children’s use of the apps. We encourage parents to explore the range of settings available to them on the Google Play Store, the Apple App Store, and the Samsung Galaxy Store to control aspects of app usage. For example, on the Apple App Store, parents can control settings, such as in-app purchases, camera settings, and data plan limits.
+
+**Apple** : https://support.apple.com/HT201304
+
+**Android** : [https://support.google.com/googleplay/answer/1075738](https://support.google.com/googleplay/answer/1075738?hl=en)
+
+**Galaxy** : https://www.samsung.com/us/support/answer/ANS00086102/
+
+Learn more about parental controls and the Scopely Explore app experience at the Scopely Explore Parent Guide.
+
+### What about privacy? Does Scopely Explore collect my information and sell it to third parties? Does Scopely Explore sell or provide the children’s information to third parties?
+
+Scopely Explore collects information in order to operate the game and to optimize and improve our products and services. Scopely Explore does not sell any adult’s or child’s user information to third parties. Scopely Explore game sponsors receive only aggregate information about the number of visits and player actions at their locations. For example, a restaurant chain sponsor would only get information about aggregate visits and actions at their locations.
+
+### Can locations in Scopely Explore games be located in unsafe areas?
+
+**Wayspots**  are points of interest in Scopely Explore games that represent real-world historical sites, public artwork, and user-designated locations. They exist in many places, including trails, parks, and urban areas. The safety of any given area depends on the user, the time of day, and many other factors. We encourage users to use their own judgment about which parts of the city or countryside they feel safe going to at various times of day or night.
+
+Concerned that a Wayspot is located at an inappropriate location? [Contact us](https://niantic.helpshift.com/hc/faq/2063-reporting-a-wayspot/) if you believe that a particular Wayspot shouldn’t be in the game or should be modified. Qualified players can also [submit Wayspot nominations and edits directly](https://niantic.helpshift.com/hc/faq/2095-what-is-niantic-wayfarer/?p=web).
+
+### What if a Wayspot is located on private property?
+
+Wayspots should be located at publicly-accessible locations, such as historical sites, public works of art, interesting architecture, and unique local businesses.
+
+Concerned that a Wayspot is located in an inappropriate location? Contact us if you believe it shouldn’t be in a Scopely Explore app or should be modified. Qualified players can also [submit Wayspot nominations and edits directly](https://niantic.helpshift.com/hc/faq/2095-what-is-niantic-wayfarer/?p=web).
