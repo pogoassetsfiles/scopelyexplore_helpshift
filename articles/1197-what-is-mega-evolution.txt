@@ -1,0 +1,27 @@
+---
+id: 1197
+title: What is Mega Evolution?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1197-what-is-mega-evolution/
+---
+
+Unlike [evolving your Pokémon](https://scopelyexplore.helpshift.com/hc/faq/1125-evolving-your-pokemon/), which is permanent,  **Mega Evolution**  temporarily transforms your Pokémon, changing their appearance, improving their performance in battle through a significant boost in stats, and offering other unique benefits. You can tell if a Pokémon is eligible for Mega Evolution if you see a “Mega Evolve” button and “Mega Energy” on their summary page.
+
+![image](../data/images/3731f939-7cbe-490e-b0ed-757268d48c94.png)
+
+Mega Evolving a Pokémon may also [change their type](https://scopelyexplore.helpshift.com/hc/faq/1157-type-effectiveness-in-battle/). For example, Mega Charizard X is a Fire and Dragon-type Pokémon, while Charizard is a Fire and Flying-type.
+
+Certain Pokémon that can Mega Evolve to Super Max Level can even unlock an additional Charged Attack to use during Raid Battles and Trainer Battles, giving them up to three possible Charged Attacks to utilize during the battle.
+
+This additional Charged Attack also receives a Mega Evolution bonus that increases its power in alignment with the Mega Evolved Pokémon’s Mega Level. Specifically, the standard bonus value multiplier applied to the additional Charged Attack’s power will be 1 at Base Level, 1.1 at High Level, 1.2 at Max Level, and 1.3 at Super Max Level.
+
+**Note:** Trainers can only have one Mega-Evolved Pokémon active at a time. Also, a Pokémon’s Fast and Charged Attacks don’t change when they’re Mega-Evolved.
+
+The more often you Mega Evolve a specific Pokémon, the higher its  **Mega Level**  will be. Mega Levels are a special type of bonus that is only active while a Pokémon is Mega-Evolved. These bonuses can affect your gameplay in a variety of ways, including increasing XP catch bonuses for Pokémon of the same type as the Mega-Evolved Pokémon.
+
+### **Viewing the Mega Pokedex**
+
+Tap the button in the bottom right of the Pokédex and select Mega to view all the Mega-Evolved Pokémon you’ve seen and caught.
+
+![image](../data/images/bf648f8d-1c70-4da9-a258-21044f8789d3.png)
+
+**Note:**  Mega-Evolved Pokémon are only marked as caught once you’ve Mega-Evolved them, not when you catch a Pokémon after a Mega Raid Battle. When you defeat a Mega Raid Boss, they turn back into their regular form before you encounter and catch them, so their Mega form only be marked as seen.
