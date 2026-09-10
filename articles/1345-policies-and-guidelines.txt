@@ -1,0 +1,13 @@
+---
+id: 1345
+title: Policies and Guidelines
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1345-policies-and-guidelines/
+---
+
+Our goal is to provide our players with a fair, fun and safe gaming experience. To do this, we maintain policies and guidelines that govern content, conduct, and behavior in our games, products, and at live events:
+
+* [Scopely Explore Player Guidelines](https://nianticlabs.com/guidelines?hl=en)
+* [Scopely Explore Terms of Service](https://nianticlabs.com/terms?hl=en)
+* [Scopely Explore Live Event Code of Conduct](https://nianticlabs.com/live-event-coc?hl=en)
+
+Please note that violations of these policies and guidelines may lead to enforcement action taken against your account, including suspension or account bans.
