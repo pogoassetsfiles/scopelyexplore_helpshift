@@ -1,0 +1,19 @@
+---
+id: 1179
+title: I’m unable to defeat a Raid Boss
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1179-i-m-unable-to-defeat-a-raid-boss/
+---
+
+Some Raid Bosses are difficult to defeat, so you may not be able to beat them on your own.
+
+Raids have 4 tiers of difficulty: tier 1, tier 3, tier 5, and Mega Raids. The higher the difficulty, the stronger the Raid Boss and the more players you’ll need in order to succeed. You can tell how difficult a Raid Boss will be to defeat by symbols that appear under their portrait on the Nearby screen.
+
+[![image](https://lh3.googleusercontent.com/I3DRawKj9UHWA1FmPFJswKbryRuNRJSdW8Xl2A8tsC0PwPLCwmAdQGtzXb0Y5HGl6q0OfixsHSHWq7ZqkI5xEgIe1035qzCzXpMjAXZK1l59Zuo1kIfcjUvs0nKHSHbXr2uJBF8M)](https://lh3.googleusercontent.com/I3DRawKj9UHWA1FmPFJswKbryRuNRJSdW8Xl2A8tsC0PwPLCwmAdQGtzXb0Y5HGl6q0OfixsHSHWq7ZqkI5xEgIe1035qzCzXpMjAXZK1l59Zuo1kIfcjUvs0nKHSHbXr2uJBF8M)
+
+To take on more difficult Raid Bosses, consider joining other Trainers in your area to battle together in person or [inviting friends to join a raid remotely](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2601-inviting-friends-to-raid-battles/?p=web&s=top-articles&f=inviting-friends-to-raid-battles).
+
+To maximize your damage output, [choose Pokémon with attacks that are super effective](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2132-type-effectiveness-in-battle/) against the Raid Boss’ type(s). Swiping left or right to dodge the Raid Boss’ Charged Attacks will decrease the damage your Pokémon takes, allowing them to stay in the battle longer. Using a [Mega-Evolved Pokémon also provides special bonuses](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3332-how-to-mega-evolve-your-pokemon/) that help you and other Trainers.
+
+If you aren’t able to defeat a Raid Boss on your first attempt, you can rejoin the raid and battle again. You won’t need to use another Raid Pass to rejoin; your pass will grant you access to the battle until the raid’s timer runs out. You can join as many times as you’d like before the raid’s timer runs out.
+
+If you believe you were unable to defeat a Raid Boss due to a technical issue, please [contact us via in-app support](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
