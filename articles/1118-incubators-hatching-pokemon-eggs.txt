@@ -1,0 +1,37 @@
+---
+id: 1118
+title: Incubators & Hatching Pokémon Eggs
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1118-incubators-hatching-pokemon-eggs/
+---
+
+When gathering items at PokéStops, you may find a Pokémon Egg. Place the Egg in an Incubator, and the Egg will hatch into a Pokémon as you walk.
+
+**To hatch an Egg:**
+
+* In the Map View, tap the  **Main Menu**   [![](../data/images/ec31b03c-ae22-4f7b-879e-0277d48d39ab.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/ec31b03c-ae22-4f7b-879e-0277d48d39ab.png)
+
+* Tap  **Pokémon  [![](../data/images/7fa4ac90-ac6b-4570-bfb6-783d6bdf9970.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/7fa4ac90-ac6b-4570-bfb6-783d6bdf9970.png)**
+
+* At the top of the screen, tap  **Eggs**
+
+* Select one of your Eggs
+
+* Tap  **Incubate**
+
+* Select an Incubator
+
+* Walk to hatch the Egg
+
+Each Egg displays the number of kilometers you must walk for the Egg to hatch and has a slightly different appearance in your Egg storage to match the distance requirement. Once you have walked the required distance for the Egg to hatch, you will see an Egg hatching animation. If multiple Eggs hatch at once, you will see a screen indicating multiple Eggs are hatching, but will see the hatching animation multiple times. You can tap to speed up the animation.
+
+Please note that, if you are just loading Pokémon GO, or if you have active Remote Raid invitations, there may be a slight delay when you see the Egg hatch animation.
+
+In general, the more kilometers required, the rarer the Pokémon that will hatch. To see which Pokémon might hatch from each Egg, simply tap on an Egg and a list of Pokémon eligible to hatch from that specific Egg will appear. This list is organized by rarity with one Egg icon being most common and five Egg icons being most rare.
+
+[![image](../data/images/1d96191d-d48a-41e9-b91e-f40b128fe7c5-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/3a809041-8b62-4c94-b10e-02ac2e1ffbfb.png)
+
+Note that if a rarity level doesn’t appear on the list, it means there are no Pokémon of that rarity currently eligible to hatch for that particular Egg.
+
+An Incubator can only hold one Egg at a time, and you’ll find one infinite-use Incubator in your inventory. To incubate and hatch multiple Eggs at the same time, you can purchase additional Incubators in the Shop.
+
+**Tip:**  [Turn on Adventure Sync](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3265-adventure-sync/) to track your kilometers walked even while the Pokémon GO app is closed. If Adventure Sync is turned off, you’ll need to keep the Pokémon GO app open while you walk to have your distance walked count toward hatching your Eggs.
