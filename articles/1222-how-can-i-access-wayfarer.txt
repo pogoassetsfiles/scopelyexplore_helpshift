@@ -1,0 +1,27 @@
+---
+id: 1222
+title: How can I access Wayfarer?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1222-how-can-i-access-wayfarer/
+---
+
+Features related to Scopely Explore Wayfarer are accessible for certain experienced players in Pokémon GO. Whether you can submit a suggested Wayspot edit, submit a Wayspot nomination, or review nominations and edits is determined by the level of your account in Pokémon GO. Current access requirements are listed below.
+
+**Please note**  that these access requirements are subject to change, so keep an eye on our official channels for updates.
+
+### Submitting Wayspot Nominations
+
+Players can nominate new Wayspots for review and manage their nominations on the [Wayfarer website](https://wayfarer.nianticlabs.com/):
+
+* Level 35 in Pokémon GO - Learn how to submit a Pokéstop [here](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/41-submitting-a-pokestop-nomination/).
+
+### Submitting Wayspot Edits
+
+Players can submit suggested edits to existing Wayspots for review within Wayfarer:
+
+* Level 35 in Pokémon GO - Learn how to submit a Pokéstop edit [here](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2144-submitting-a-pokestop-or-gym-contribution/?p=web&s=pokestops&f=submitting-a-pokestop-nomination).
+
+### Reviewing Submitted Wayspot Nominations and Edits
+
+Players can visit the [Wayfarer website](https://wayfarer.nianticlabs.com/) to review Wayspot nominations and edits. In addition to level requirements, players must also complete the Wayfarer onboarding to show that they understand Scopely Explore’s Wayspot acceptance criteria.
+
+* Level 35 in Pokémon GO
