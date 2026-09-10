@@ -1,0 +1,13 @@
+---
+id: 1188
+title: What are Purified Gems and how do I collect them?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1188-what-are-purified-gems-and-how-do-i-collect-them/
+---
+
+**Purified Gems**  are special Items that can be used in a Shadow Raid to help defeat the Shadow Raid Boss.
+
+In order to create a Purified Gem, you must collect Shadow Shards by defeating Team GO Rocket Grunts, Leaders, and Giovanni in Pokémon Battles. They will drop Shadow Gem Pieces as part of your rewards for defeating them. Collect 4 Shadow Shards and use the Shard Refiner to create a Purified Gem. You can hold up to 10 Purified Gems at a time.
+
+Once you have formed a Purified Gem, you can use it in a Shadow Raid Battle, when the Raid Boss is enraged. Purified Gems can subdue the Shadow Raid Boss, neutralizing their enraged state and making them easier to defeat.
+
+This effect will stack if other Trainers in the Shadow Raid Battle also use Purified Gems. Each Trainer can use up to 5 Purified Gems in a Shadow Raid Battle.
