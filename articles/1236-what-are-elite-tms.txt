@@ -1,0 +1,11 @@
+---
+id: 1236
+title: What are Elite TMs?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1236-what-are-elite-tms/
+---
+
+**Elite Fast TMs** and **Elite Charged TMs** allow you to choose a Fast or Charged Attack you’d like to teach to a Pokémon. Elite TMs also allow Pokémon to learn attacks previously available only during events such as Community Days or Raid Days. These items differ from regular TMs, which teach a Fast or Charged Attack to your Pokémon at random and can’t teach moves exclusive to events.
+
+To use an Elite Fast TM or Elite Charged TM, select the item from your inventory, then tap the Pokémon whose move you’d like to change. If your Pokémon already knows two Charged Attacks, select which existing Charged Attack your Pokémon should forget in order to learn the new move. Then select the move you would like your Pokémon to learn and tap “Teach Attack.”
+
+[![image](../data/images/2dca0068-a8e2-4de8-82e9-1c27e6f2dfa3-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/eba927f2-d036-417d-8bb9-248069acc081.png)
