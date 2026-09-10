@@ -1,0 +1,38 @@
+---
+id: 1252
+title: How can my child access sponsored in-game locations?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1252-how-can-my-child-access-sponsored-in-game-locations/
+---
+
+Sponsored game content is in-game content that features external companies as a form of promotion. This could include sponsored in-game items, gameplay, or sponsored in-game locations (branded PokéStops and Gyms created through partnership agreements with Scopely Explore).
+
+By default, these sponsored locations do not appear in the game for Trainers with child accounts.
+
+You can disable and enable your child’s access to sponsored content at any time.
+
+ **Please Note:** Branded PokéStops and Gyms are created through partnership agreements with Scopely Explore. Scopely Explore does not share your child’s personal information with sponsors. If you opt-in to sponsored content for your child's account, their personal information will not be shared.
+
+### Opting Into Sponsored Locations
+
+If your child logs into Pokémon GO using [Kids at Scopely Explore](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5080-niantic-kids-child-account-parental-control-guide/) or [Pokémon Trainer Central](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5082-pokemon-trainer-club-child-account-parent-control-guide/) (PTC), you can opt into enabling sponsored content for your child in the Kids at Scopely Explore Parent Portal or Pokémon Trainer Central website permissions, which will allow your child to be able to interact with sponsored locations.
+
+**Note:**  Child accounts will not receive [Sponsored Gifts](https://niantic.helpshift.com/hc/faq/3626-sponsored-gifts/), even if permissions for accessing sponsored content are granted through the Kids at Scopely Explore Parent Portal or Pokémon Trainer Central website.
+
+###
+
+#### Updating Permissions for Pokémon Trainer Central:
+
+* Log in to your parent Pokémon Trainer Central account [here](https://access.pokemon.com/login?login_challenge=wQj6u-kvdTmGlTCtIWMprWlp13KMG5BlXAsjqY5eAP4W0gUifhoG4J40_mOLYLTf2RihK9cn5_XSiqlWUNipOOxHcA9q8kw5_TDPOI7Sh2OEi79h8kSmgzAO74BHbC7_perCWkYVWGdjty843lXGM5mubmfturnwR8prJ8n8aIHqQCdqHy4TVboLS381zRzyrZVRJJ_4ePc4EXM-Y7yby-bGtZFd5ZN9R9zlYPbVXjyhW70gECjJSmRAJ24-jiXWfG36vFaHHpuf3vKfEXdLpVwxaAP8kK751QbM8ZzHBsF4a-rdjXKuZvipBFj4qZ2cNnQVMF9gk5XR6reX1Gz4wNrWRQSYEH4s2OQg8TTIUEBw0qd8noS3YiZi833BLa_sjCZQUm6TuGGplbYbWCRuiLDpvEPLG-stFs7ncCoHVN9avQLciiiADQTMCwGSEN7oIepkM8NScvrZFaPH7nEdQi06uQ8jRCYwxBhu7TC4lLWNuHlGlUKmM-5Us0BCLbtWPpZ6DGFMUbEWIuaFzudrQf6S44_utA29-HrfbfKCRot8_25rBQEhCGSjPWL0QApkCfvmq0Qsm55TIvbKk4pZyMO7lpHtQpjGv1tguPW42sEiSp-s__knKcC2cl3GsS1zS7WJSj94JjFuke5nT7yYiuBzQqza0GeO_lqUTWx1anoGR1-n0kHnnmCxek0seaJqYAZcshzhXT6-LNgReFtcixiows0j_tUB5GyzU3rsyJjx1HX8gVqrNBXJMqM29b9H_FsbgPT1LpVZ9CAXR20ANDO47QaPEi_LAA5YqVDNdRAUqRQVlsr8p35WZYSQO0xa9cKvW2uWNHzQ6ul3l3z5Tanl9Z2yCp7e_v29yh1IRsUegZox_JrtJl68EAM23MZrw4DSxfMx7E-QK1Rj-ZCbu2CxHEXCB4aq-4B59iny5SzAmY3n2tZ-VziAgdOMkogi1gZTrk4KXUCGktLH72UF7lhy3_PL-gSOoP2l6OYaZjQPcJlfOXjO4pSdefKNyZPYUXu_ZFNLfV20UNH5moWoOMCRGW0WhtoII54NVO_-dSjU7P83iFDyLW4V3brZphBGEb4FYHqbGp93AmkvmqaVXJRNUTS1Js9AYrrHNz9dPNhghl3R4u4_MwKwtwiLdL5ZJveWNKn1I4d5rp7oF7HI5darR-bxpaA0n57I395xsXRp44xWrK6gSyCqLRrPtc9ZrySpGenZCcFEJSKpoKVUB9cDsBxLHBZKE4POltso3HTFVtMJeBzht6mglwhe7xVIbjOP4nstdBqKIVkKP5-mLi2PY3hsmdnjJfzH4OqfKBUvmgpGQXMoHJFFCIYeF6ICxshbGpLbBYzJEwx0mL11-XOn4cno_4VQh3oiix7uttSZed1dXnPbS4YqhItNQ_Zo3voDbg1cNnN_8vShSDXEzYGf-IGNQSWW05NqvEv7bMcYTIBP-cjiIUqpUhR1N6VbJdpixeWK2BNrwTyKBwxUZcK5lNBmwTZsuFrBpyhOsUJSPt0oVhJFq08Og-kUllROfWCgKXnMEI1wAaRNY3FzjPsrapU5ebOAes5jwRWClnUNPyoweAypCWOxXiQlMXG-Clhl9Y2n-jZTiesm2XXofoK-51vM6C7Mz20d4ezsqgljSusbZrqJMe1d_T8Equ4mpcX1U_zDkY6RkFQQYz9mtX4QilS4E75PHbpsVvcVIoxDmJMmB-3G0zI6RtQdg-5NmDp7j4f2YZMmUu68UGtuYwCk_TtG3Pwsjl0bgM8V8G224I3-LNaW29kjzDTRvKqcW0Z9Hee80F5tUEl47cMhrpZoRdsdQO-hv11_sofWbE-5UewaMjMXwXrtGha5pcV65lNA).
+* Select the child account whose permissions you would like to update.
+* Choose Pokémon GO Settings from the left-hand toolbar.
+* Under Permissions for Your Child, you can select what features your child will have access to. Tap the checkbox below each permission to enable it for the child.
+
+**Please note** : Some permissions are only available by first selecting others. If you do not see certain permissions, it means that your child is old enough to choose settings and permissions on their own Pokémon Trainer Central account.
+
+#### Updating Permissions for Kids at Scopely Explore:
+
+* Visit the [Kids at Scopely Explore Parent Portal](https://nianticlabs.com/parent-portal?hl=en) and log into your parent account
+* On the overview page, click See Profile to view your child’s permissions.
+* Under the Active Apps section, click Review to manage each permission for Pokémon GO.
+
+**Please Note:** If you enable social features on your child’s account, your child’s friends will see your child's Trainer profile and limited information about the location where your child initially collected Pokémon or Gifts. When your child makes new friends, you will receive a digest email listing the new friendships your child has made that day.
