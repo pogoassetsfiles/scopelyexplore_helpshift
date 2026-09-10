@@ -1,0 +1,47 @@
+---
+id: 1089
+title: Viewing the Pokédex
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1089-viewing-the-pokedex/
+---
+
+The  **Pokédex**  keeps track of the Pokémon you’ve seen and caught. Use the Pokédex to learn more about the different species of Pokémon and their Evolutions.
+
+Pokémon you’ve caught appear in color. Pokémon you’ve seen but haven’t caught appear as silhouettes; this includes Pokémon seen during encounters as well as at Gyms. Pokémon you’ve neither seen nor caught appear as their Pokédex number.
+
+**To access the Pokédex:**
+
+* In Map View, tap the  **Main Menu**   [![](../data/images/2c133ce6-6296-4b6b-a282-57c47f2a19fb.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/2c133ce6-6296-4b6b-a282-57c47f2a19fb.png)
+
+* Tap  **Pokédex**
+![image](../data/images/ad_4nxfku4rht7j7d9xxkorfffh0xz53f8n1om_yv7ye6t1-atezskf6rjpnxefz6sku-xb89f5vbn7rtmmibow9vquyf2rlxyyxjeuuubhjcsppuf0ymfc4fnpupmvnvgswgndljcov.png)
+
+### Pokédex Categories
+
+In addition to seeing the Pokémon you’ve seen or caught organized by region, you can use the categories along the bottom of the screen to see different types of Pokémon (e.g. Shiny Pokémon, Lucky Pokémon, Gigantamax Pokémon, etc.).
+
+![image](../data/images/ad_4nxdtlczl42gy4qouyy-wjc3ti0uvppog3c_xj7cwwvh-zmjfcadoxhxrbc4qgkkqnzojgwxaczcwbeymvth5-ifar_-urtvddtw7egim3vd2odoo_yqsivpduepsgtl8n0fqkt1-lq.png)
+
+![image](../data/images/ad_4nxfpuyzfa-scooea_i5wu3l2t3n2hkz1_ykvkpillz6r2bkbzqxvncwfhwsuvw_ljteenfib-sjykyvuqnxdenvcpb1owfufrmn1usrojg0gg5kvr9vxkbpzv0i0n2nfvvzvrotl7a.png)
+
+![image](../data/images/ad_4nxccc_pgsdlx3fxr70epuj3a1oujjwimounzwfsvx_qdjkdw9iqb5zomxfzx-ppwi-bv7j20vnrj9-3qzn5owq_gunt55g7waipu4qy1c8xsf8zfzj-8sdyaeqclp5yo2y46ivwt-q.png)
+
+In these special categories, you may notice that Pokémon you have already caught may appear as an outline. This is because the standard type of Pokémon may have been caught, but not the specific Pokémon that would appear in that category. For example, if you have caught Bulbasaur, but have not caught a shiny Bulbasaur, it will appear as a shadow in the Shiny Pokédex.
+
+Similarly, catching an unregistered Pokémon for a specific Pokédex category may trigger an animation indicating that this Pokémon is newly added to that Pokédex category.
+
+### Searching the Pokédex
+
+As your Pokémon collection grows, you can use keyword searches to quickly and easily search the Pokédex to see details about specific Pokémon.
+
+
+To search the Pokédex, simply tap the magnifying glass icon.  [![](../data/images/6ffd719c-5bf5-4d76-86b8-a10e34869d9c.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/6ffd719c-5bf5-4d76-86b8-a10e34869d9c.png)
+
+
+Similar to searching your Pokémon Inventory, the Pokédex Search has a set of preset filters that you can use to quickly narrow your search results. Tap on the filter to add it to your search or tap the X button on the filter to remove it.
+
+You can also manually enter a keyword to search for a specific Pokémon. Keyword searches can be used on their own, or in combination with the preset filters. Note that you can use any of the search queries to filter your Pokémon Inventory to also search your Pokédex. See more details [here](https://niantic.helpshift.com/hc/faq/1486-searching-filtering-your-pokemon-inventory/).
+
+You can also use both the preset filters and keyword searches if you are viewing a specific Pokédex (e.g. the Mega Pokédex or the Shadow Pokédex).
+
+
+To clear your search, simply tap the X icon to the right of the search bar.
