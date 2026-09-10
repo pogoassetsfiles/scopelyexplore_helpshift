@@ -1,0 +1,33 @@
+---
+id: 1151
+title: How to use Party Play
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1151-how-to-use-party-play/
+---
+
+Once you and your Party have started your Party Play session, there are a number of things that you can do together.
+
+### **Challenge Raid Battles**
+
+While you’re in a Party Play session, you and the other Trainers in your Party can challenge a Raid Boss together. Enter a Raid Battle the same way that you otherwise would.
+
+Other Trainers who are not part of your Party may also join the same Raid Battle, however, the more members of your Party that are part of a Raid Battle, the more contributions you will receive to your  **Party Power.**
+
+The Party Power is a Raid bonus that fills up as members of your Party attack the Raid Boss. Once the Party Power bonus is full, your next Charge Attack will receive a special boost. You can see the Party Power button and your progress towards achieving the bonus in the bottom left corner of your Raid Battle.
+
+Note that the Party Power bonus is applied to a Trainer and not to their active Pokémon, so if a Pokémon in your party faints, it will be applied to the next Pokémon.
+
+### **Sharing Items with your Party**
+
+You can share certain Items’ effects with other members of your Party while you are in a Party session.
+
+To share items with your Party:
+
+* In Map View, tap on your  **Trainer Profile** .
+* Tap the  **Party**  tab in the top right.
+* Tap on the  **Share**  button in the  **Share Items with your Party!** Section.
+* Tap to select which Item you want to share. You will see a preview of the Item’s effect across the Party. Note that you can select multiple items or multiples of the same Item to share.
+* Tap  **Share**  when you are ready.
+
+When you share items with the other members of your Party, each member will receive a portion of the Item’s effect. If other members of your Party share items with you, you’ll receive a notification on your Map View.
+
+If you or a member of your Party already has an active Item, the effects of the shared Item will stack. Note that if the shared Item will hit an upper limit, you or the Trainer will still receive Items up to the limit.
