@@ -1,0 +1,84 @@
+---
+id: 1183
+title: What are the different types of Raid Battles?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1183-what-are-the-different-types-of-raid-battles/
+---
+
+**Raid Battles**  occur when a Boss Pokémon takes over a Gym. While a Raid Boss is present at the Gym, you’ll have the opportunity to work with your fellow Trainers to challenge them. Learn more about [Raid Battles](https://niantic.helpshift.com/hc/faq/2187-what-are-raid-battles/).
+
+In addition to the standard Raid Battle tiers of difficulty, there are also special types of Raids that will determine the type of Pokémon you could encounter, how you can participate in the Raid Battle and the manner in which you can participate in the Raid Battle.
+
+### Ultra Beast Raids
+
+Before a Gym is taken over by an  **Ultra Beast** , one of a group of extradimensional Pokémon that originate from Ultra Space and were originally discovered in the Alola Region, you will see an Ultra Wormhole appear at the Gym along with a countdown clock.
+
+Once the Ultra Beast arrives, you can challenge it just as you would a standard Raid Battle. Note that Ultra Beasts are extremely powerful Pokémon, so you may want to team up with other Trainers to defeat them.
+
+After the Raid Battle, you may also receive a number of Beast Balls, special Poké Balls similar to Premier Balls, that can only be used to catch Ultra Beasts. The number of Beast Balls you receive depends on how much damage you deal, whether the Gym is controlled by your team, and how quickly you defeat the Ultra Beast.
+
+While you can use Berries to help capture Ultra Beasts, if you run out of Beast Balls, the Ultra Beast will flee.
+
+### Mega Raids
+
+A  **Mega Raid**  will occur when a Mega Pokémon appears in a Raid Battle. Defeating a Mega Raid Boss gives you Mega Energy, a resource required to Mega Evolve Pokémon, and a chance to capture the non-Mega-Evolved form of the Pokémon.
+
+There are three tiers of Mega Raids:
+
+* Mega Raids: These are difficult Raid Battles featuring Mega-Evolved Raid Bosses.
+* Mega Legendary Raids: Mega Legendary Raids are more difficult than a standard Raid Battle or even a Mega Raid Battle.
+* Super Mega Raids: Super Mega Raids are the most challenging Mega Raids. While most of the Raid Battle will be similar to Mega Raids or Mega Legendary Raids, at a certain point during the Raid Battle, the Mega Pokémon will become enraged and deploy Shields that will require Mega Pokémon to break.
+
+Learn more about the different types of [Mega Raid Battles](https://niantic.helpshift.com/hc/faq/3330-joining-mega-raid-battles/).
+
+### Primal Raids
+
+**Primal Raids**  are a special type of Raid Battle featuring a Raid Boss that has undergone Primal Reversion. By defeating this Raid Boss, you will earn Primal Energy, which is required for Kyogre and Groudon to become Primal Kyogre and Primal Groudon. You will also have the chance to capture the standard form of the Raid Boss.
+
+Learn more about Primal Reversion [here](https://niantic.helpshift.com/hc/faq/3774-primal-reversion/).
+
+### Shadow Raids
+
+**Shadow Raids** are limited time Raid Battles at Gyms that have been temporarily taken over by Team GO Rocket. These Raid Battles will feature Shadow Pokémon and Shadow Legendary Pokémon that may undergo unexpected transformations during battle.
+
+Trainers can also make use of the mysterious Shadow Tamer device during Shadow Raid Battles to assist in the Battle against the Shadow Pokémon.
+
+Similar to when Team GO Rocket takes over PokéStops, Trainers can only challenge Team GO Rocket to battle in Shadow Raids by traveling to a Gym in-person, and cannot invite other Trainers to participate with Remote Raid Passes.
+
+Learn more about Team GO Rocket [here](https://niantic.helpshift.com/hc/section/378-team-go-rocket/).
+
+### Elite Raids
+
+**Elite Raids**  are an extra-challenging type of Raid Battle featuring extremely powerful and rare Pokémon. Only in-person challengers will be allowed to participate in Elite Raids, Trainers cannot use Remote Raid Passes to challenge Elite Raid Bosses.
+
+An Elite Raid Egg will appear 24 hours before the Pokémon takes over the gym. This will allow you to coordinate with other Trainers and gather a Raid group to challenge the Pokémon, as these Raids are extra-difficult.
+
+Once the Raid Egg hatches, you’ll have 30 minutes to challenge the Raid Boss. If you defeat the Pokémon, you will get the opportunity to catch it with Premier Balls, similar to a standard Raid.
+
+### EX Raids
+
+**EX Raids**  are similar to standard Raid Battles except that they require a special pass to attend. These EX Raid Passes have to be earned, but you’ll have an opportunity to catch some of the most sought after Pokémon. Additionally, if you earn an EX Raid Pass, you can invite one of your Ultra Friends or Best Friends to join you in the EX Raid Battle.
+
+EX Raid Battles are exclusive raids where you’ll have an opportunity to catch some of the most sought after Pokémon. Unlike other raids, you need to be invited to attend an EX Raid at a specific Gym at a specific time. If you are selected to participate in an EX Raid, you will receive an invitation in advance so that you can coordinate and strategize for the chance at defeating the powerful EX Raid Boss.
+
+**Earning an EX Raid Pass**
+
+To earn an EX Raid Pass, you must have successfully completed a raid recently by defeating a Raid Boss at the Gym where the EX Raid Battle will take place. If you receive an EX Raid Pass, you’ll find it in your Bag with the EX Raid details. EX Raid Passes can only be used at the indicated Gym and time on the invitation.
+
+To increase your chances of receiving an EX Raid Pass:
+
+* Join more Raid Battles. The more Raid Battles you successfully complete, the greater your chances to receive an EX Raid Pass.
+* To increase your odds even more, try completing raids at a variety of different Gyms.
+* Earn higher level Gym Badges at EX Raid Gyms. Trainers with a high-level Gym Badge are more likely to be invited to EX Raid Battles.
+* EX Raid Battles will take place most commonly at Gyms found in parks and sponsored locations. There is an EX Raid Gym icon on the upper right corner of Gyms that are eligible for EX Raids.
+
+**Inviting a Friend**
+
+When you receive an EX Raid Pass, you have the option to invite a friend to join you.
+
+Note: This feature is not available for users with child accounts.
+
+* When you receive an EX Raid Pass, there will be an option to invite a friend. Tap on Invite.
+* Select one friend to invite to your EX Raid. You can only invite friends that you have reached the Ultra Friends or Best Friends Friendship level with.
+* Once the invitation is sent, the EX Raid invitation will appear in your friend’s Bag and both you and your friend will be able to attend the EX Raid.
+
+Trainers can only hold one gifted EX Raid invitation at a time. If you receive an invitation from a friend, you won't be able to receive another one from anyone else until you decline that first invitation or the EX Raid Pass expires.
