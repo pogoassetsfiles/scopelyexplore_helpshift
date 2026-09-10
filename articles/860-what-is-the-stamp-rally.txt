@@ -1,0 +1,109 @@
+---
+id: 860
+title: What is the Stamp Rally?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/860-what-is-the-stamp-rally/
+---
+
+A  **Stamp Rally**  is an activity where Trainers visit specific PokéStops or Gyms to collect stamps by spinning the Photo Disc. As Trainers explore different locations to fill their Stamp Rally card, they can view their progress on the Scrapbook page and unlock rewards and Pokémon encounters along the way.
+
+Currently, this feature is location-based and has a limited rollout in select regions.
+
+![image](../data/images/f76ba367-1646-47ec-b43f-51a4100df4b2.png)
+
+#### How to Participate in a Stamp Rally
+
+Each Stamp Rally has a unique theme, requiring Trainers to visit designated PokéStops to collect stamps. By checking your Map, you can view which locations are participating in a Rally.
+
+* When you are near a participating PokéStop, a stamp icon will appear on the map.
+
+* Once you approach the PokéStop, you will automatically receive a stamp sheet.
+
+* Spin the Photo Disc where a stamp icon is displayed, and a circular stamp sheet will appear.
+
+* Tap or press and hold the center of the circle; the density of the ink will vary based on how long you press.
+
+ **Please Note:**  Stamps cannot be re-stamped or adjusted once placed.
+
+* A stamp animation will play, indicating you have received the stamp.
+
+You can track your progress by viewing all collected stamps in the Scrapbook page.
+
+#### ![image](../data/images/5659eaf7-88ed-400a-bec0-e003ce9c138c.png)
+
+For some real-world events (e.g. Pokémon GO City Safari), specific Stamp Rally locations are also shown on the Campfire map.
+
+![image](../data/images/0f5eba25-dcda-44f9-beca-0ecaad73daaf.png)
+
+![image](../data/images/7efbf19a-4ca7-4266-a14e-a2f68f6b8ef6.png)
+
+![image](../data/images/0801c4d4-0522-44b3-8f90-96cdd8d8b26b.png)
+
+#### Stamp Rally Rewards
+
+As you collect stamps, you'll receive rewards such as items or encounters that may be themed to the Stamp Rally. You can track your collection progress on the Scrapbook page.
+
+**Poké Lid Stamp Rally**
+
+The  **Poké Lid Stamp Rally**  is a version of the Stamp Rally in which you can collect stamps of different Poké Lids in areas of Japan.
+
+To participate, you need to be at least Level 5. If you have achieved that level, you just need to open your Pokémon GO app. Once you have the sheet, spin PokéStops located at Poké Lids to collect these stamps.
+
+For every two stamps you collect from the same prefecture, you will have a chance to encounter a special reward Pokémon with a Location Background representing that prefecture.
+
+The Poké Lid Stamp rally is currently only available in Japan, and their corresponding stamp spaces will automatically be added to your Poké Lid Stamp Sheet.
+
+Additionally, you can receive Gifts that contain the Poké Lid stamp from the Poké Lid PokéStop that you can send to your friends, including players outside of Japan.Stamps that you receive from your friends will have a blue border on your stamp sheet while stamps that you have collected yourself in person will have a yellow border. If you visit the Poké Lid PokéStop in person after receiving the Poké Lid stamp through a Gift, the stamp’s blue border will be changed to a yellow border.
+
+**Please Note** : Stamps that you receive from your friends will not grant a chance to encounter the reward Pokémon with a Location Background. However, you can still encounter the reward Pokémon if you visit the Poké Lid stamp locations in person Stamps collected from Gifts will be overwritten if you visit the same location in person. If you wish to opt out of receiving a stamp through a Gift, you can turn this option off by going to your Settings, tapping on General, and toggling off the Receive Poké Lid stamps from Gifts option.
+
+### Frequently Asked Questions:
+
+What happens if you visit a location you've already visited?
+
+* Once you have visited a location and collected its stamp, you cannot collect the stamp or rewards again. However, you can continue using it as a regular PokéStop.
+
+Can I participate in a Stamp Rally with friends?
+
+* The Stamp Rally is currently designed for  **individual stamp collection. However, it's definitely fun to head out with friends and collect stamps together,**  even if each person collects their own!
+
+Do stamps expire, or can I complete a rally over time?
+
+* Stamps won’t disappear from your scrapbook. However, some rewards and collection periods may have time limits.
+
+Are all Stamp Rallies the Same?
+
+* There are various types of Stamp Rallies; some are limited-time events, while others have no specific time restrictions. The difficulty of completing a Stamp Rally will depend on its specific type.
+
+Can I track which PokéStops I still need to visit on the map?
+
+* At the moment, you can only see nearby PokéStops with a stamp icon, showing where stamps are available to collect. Certain Stamp Rallies will also have a Google Maps link attached to them so Trainers can view Stamp locations.
+
+Why can’t I see the PokéLid stamp sheet in my Scrapbook?
+
+* If you are currently outside Japan and have never visited Japan in person, the PokéLid stamp sheet will not appear in your Scrapbook. The stamp sheet will become available if you visit Japan or receive a Gift that includes a PokéLid icon from a friend who has visited Japan.
+
+Why didn’t I encounter the reward Pokémon even after collecting the required number of Poké Lids stamps in the designated area?
+
+* The reward Pokémon should appear on the map and automatically start an encounter once you collect the required stamps in person. If this did not happen, there may be two situations:
+
+* If your game crashed before clicking proceeding to the encounter screen, you can visit any Poké Lid PokéStops within the same prefecture of where the missing reward is associated with  to collect the encounter.
+
+* If your game crashed after proceeding to the encounter screen, you will need to re-visit the exact Poké Lid PokéStop and you should see the reward Pokemon spawned at the stop.
+
+Why didn’t I encounter the reward Pokémon even though I received two stamps from Gifts?
+
+* Gifted stamps do not count toward the progress for reward encounters. Even if you received two stamps from Gifts, you must still collect the Poké Lid stamps by visiting the Poké Lid PokéStops in person. You can see which stamps you received from Gifts by checking to see if they have a blue border around them. If you visited it in person, the detail page will show “Visited” along with the date. You can collect the same stamp in person even if you previously collected it from Gifts.
+
+![image](../data/images/7c29bdfa-862c-48b3-95b4-c55f5568f7e9.png)
+
+![image](../data/images/18d5b567-42b0-4b38-bc00-7d6e8b5f3832.png)
+
+![image](../data/images/41f638c5-9a91-4133-a30f-4f3578e49f9e.png)
+
+Why can I not see the Stamp Rally icon in the upper-right corner of the map?
+
+* The Stamp Rally icon only appears when you have access to the feature in a designated area. For the Poké Lid Stamp Rally, the icon will show for the first day that you gain access to the feature in that area. Once the day is over, the icon will disappear but will reappear on a day that you collect a new Poké Lid stamp in person.
+
+* Even if the icon is not visible, you can check your Stamp Rally progress and locations through your Scrapbook in your Trainer profile.
+
+Stay tuned for more information.
