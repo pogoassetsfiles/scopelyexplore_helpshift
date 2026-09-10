@@ -1,0 +1,37 @@
+---
+id: 1111
+title: What are Adventure Effects?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1111-what-are-adventure-effects/
+---
+
+**Adventure Effects**  are temporary bonuses that are activated by Pokémon attacks that may be used outside of battle. These attacks are not currently able to be taught to a Pokémon using any TM. Once activated, they will impact your Pokémon GO gameplay in special, and unique ways.
+
+To activate an Adventure Effect, first you must have caught a Pokémon that knows one of these powerful attacks:
+
+**Note:** This is not an exhaustive list, and more Pokémon that are able to use Adventure Effects may be added in the future.
+
+* Origin Forme Dialga
+* Origin Forme Palkia
+* Black Kyurem
+* White Kyurem
+* Dusk Mane Necrozma
+* Dawn Wings Necrozma
+* Crowned Shield Zamazenta
+* Crowned Sword Zacian
+
+**To activate an Adventure Effect:**
+
+* Open the Main Menu and tap on your Pokémon storage.
+ **Note:** If your Pokémon is your current buddy, you can navigate to the buddy page to view if Adventure Effects are available for them.
+* Tap on the Pokémon to view their details.
+* Scroll down to the  **Adventure Effects** section, below the Pokémon’s Fast and Charged Attacks.
+* Tap  **Use**  next to the Adventure Effect.
+* Activating an Adventure Effect will require Stardust and that Pokémon’s Candy. The longer the Adventure Effect is active, the more Stardust and Candy will be needed. Decide how much Stardust and Candy to use using the + or - button.
+* Tap **Use**  to confirm the duration.
+* Tap  **Yes**  to activate the Adventure Effect.
+
+**Note:** Only one Adventure Effect can be active at a time. However, Adventure Effects can stack with other, causing limited-time Pokémon bonuses (e.g. Mega Evolution, Primal Reversion).
+
+Once the Adventure Effect has been activated, you will see a brief animation and then a timer will appear on the Map View, along the right side of the screen. The interaction radius circle may also feature a special effect, indicating that the Adventure Effect is active.
+
+You can extend the Adventure Effect timer by using more Stardust and Candy. The timer can be extended for a maximum of two hours each time you tap Use, and you can tap Use again to add additional time—up to 24 hours total!
