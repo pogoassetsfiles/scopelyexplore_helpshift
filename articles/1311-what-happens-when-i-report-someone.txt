@@ -1,0 +1,13 @@
+---
+id: 1311
+title: What happens when I report someone?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1311-what-happens-when-i-report-someone/
+---
+
+At Scopely Explore, we’re committed to encouraging a fun and safe environment for all our players while they are out exploring the world. With this commitment in mind, we take fairness and player safety seriously. When we receive reports that someone has acted in a way that’s not in line with our [Terms of Service](https://nianticlabs.com/terms), [Player Guidelines](https://nianticlabs.com/guidelines) or [Live Event Code of Conduct](https://nianticlabs.com/live-event-coc), we work towards reviewing these reports as soon as possible in order to take appropriate action.
+
+To report a player, [contact us via in-app support](https://niantic.helpshift.com/a/pokemon-go/?p=web&s=get-in-touch&f=how-to-contact-support).
+
+Our disciplinary actions are aimed at discouraging abuse, cheating and other violations of Scopely Explore’s policies. We try to issue warnings before taking other measures, to give players the opportunity to reform. If a player who has violated Scopely Explore’s policies does not change their ways and continues to abuse the rules, we will terminate their account. While there are some abusers with no intention of reforming, most players just need a warning or two to mend their ways and contribute positively to the game community. For some egregious abusers, we may terminate their accounts immediately without providing an opportunity to reform.
+
+At all times, your identity is kept anonymous and none of your information is shared with other players. Unfortunately, we cannot comment on any specific actions we might have taken against other players, due to privacy reasons.
