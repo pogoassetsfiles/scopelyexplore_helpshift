@@ -1,0 +1,142 @@
+---
+id: 1341
+title: Connecting Pokémon GO to the Nintendo Switch
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1341-connecting-pokemon-go-to-the-nintendo-switch/
+---
+
+Trainers that have a Nintendo Switch can connect Pokémon GO to transfer Pokémon and get special bonuses.
+
+**Pairing and connecting Pokémon GO to Nintendo Switch**
+
+Setting Pokémon GO in pairing mode:
+
+* Open the Pokémon GO app on your phone and open  *Pokémon: Let’s Go*  on your Nintendo Switch.
+
+* In the Map View, tap the Main Menu  [![](../data/images/1c02124f-40e1-4ab4-b871-0c141506eab8.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/1c02124f-40e1-4ab4-b871-0c141506eab8.png) button.
+
+* At the top right, tap the Settings [![](../data/images/ac8bec79-0054-4336-a6c8-6ba772367751.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/ac8bec79-0054-4336-a6c8-6ba772367751.png)button.
+
+* Tap Connected Devices and Services.
+
+* Tap Nintendo Switch.
+
+* Tap Connect to Nintendo Switch. Pokémon GO will now be in pairing mode.
+
+**Connecting to**  ***Pokémon: Let’s Go, Pikachu!***  **or**  ***Pokémon: Let’s Go, Eevee!***
+
+* Launch  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!*  from the HOME Menu on Nintendo Switch.
+
+* At any time during gameplay, press the X Button to access the in-game menu, then the Y Button to open the Options menu.
+
+* Select “Open Pokémon GO Settings”.
+
+* Select “Yes” when prompted. The game will begin searching for a Pokémon GO account to pair with.
+
+**Connecting to**  ***Pokémon Scarlet***  **or**  ***Pokémon Violet***
+
+* Launch  *Pokémon Scarlet*  or  *Pokémon Violet*  from the HOME Menu on Nintendo Switch.
+
+* At any time during gameplay, press the X Button to access the in-game menu, then select the Poké Portal menu.
+
+* Select “Mystery Gift” from the Poké Portal options.
+
+* Select “Connect to Pokémon GO”
+
+* Select “Pair with a Pokémon GO account”
+
+* *Pokémon Scarlet*  or  *Pokémon Violet*  will search for a Pokémon GO account. Once it has displayed your Trainer Name, select “Yes” when prompted.
+
+Once the connection is complete, the white Nintendo Switch icon will appear under the Available Devices section. You can now send Pokémon and Postcards to your Nintendo Switch.
+
+### **Send Postcards as Mystery Gifts in**  ***Pokémon Scarlet***  **and**  ***Pokémon Violet***
+
+Trainers with  *Pokémon Scarlet*  and  *Pokémon Violet*  can send copies of Postcards that they have collected from PokéStops and Gyms while exploring with Pokémon GO. Trainers can earn a [Coin Bag](https://niantic.helpshift.com/hc/faq/2480-what-are-incense/) by sending Postcards to  *Pokémon Scarlet*  and  *Pokémon Violet* .
+
+Similar to making progress against the Butterfly Collector Medal in Pokémon GO, Trainers can collect different patterns of Vivillon in  *Pokémon Scarlet*  and  *Pokémon Violet* . The Vivillon pattern will correspond to the region from which the Postcard you send to Nintendo Switch originated.
+
+**To send a copy of your Postcard:**
+
+* Follow the instructions above to connect your Pokémon GO account to your Nintendo Switch.
+
+* In Pokémon GO, tap on a Postcard to view its details
+
+* Tap the menu in the bottom right [![](../data/images/8bea3075-b291-4d85-97e3-63d095a29cab.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/8bea3075-b291-4d85-97e3-63d095a29cab.png)
+
+* Tap  **Send to Nintendo Switch**
+
+* Tap  **Yes**  on the privacy policy screen to indicate that you have read and agree with the policy
+
+* Tap  **OK**  on the confirmation screen to proceed with sending your Postcard.
+
+Note that sending your Postcard to your Nintendo Switch will appear as though you are sending a Gift and can be claimed in  *Pokémon Scarlet*  and  *Pokémon Violet*  as if it was a Mystery Gift.
+
+If you send Postcards to Nintendo Switch for five days, you can also collect a [Golden Lure](https://niantic.helpshift.com/hc/faq/1789-lure-modules/). Keep in mind that you can only hold one Golden Lure in your bag at a time, so if you currently have a Golden Lure, you cannot collect another one but can opt to collect Mystery Coins instead.
+
+### **Send Pokémon to GO Parks in**  ***Pokémon: Let’s Go***
+
+Trainers with  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!*  can send Pokémon from Pokémon GO to their Nintendo Switch. Just like transferring Pokémon to Professor Willow, Trainers earn Candy for each Pokémon they send to their Nintendo Switch. These Pokémon will appear in the GO Park complex in Pokémon: Let’s Go.
+
+As a bonus for sending Pokémon to the Switch, you’ll earn additional XP and you’ll unlock the special Mystery Box item the very first time you send a Pokémon. The Mystery Box allows you to catch the Mythical Pokémon Meltan.
+
+#### **Sending Pokémon to the GO Park complex**
+
+After you’ve paired Pokémon GO to your Nintendo Switch, you can send Pokémon to the GO Park complex in  *Pokémon: Let’s Go* . Pokémon that you've brought from Pokémon GO into  *Pokémon: Let's Go*  cannot be transferred back to Pokémon GO.
+
+* Open  *Pokémon: Let's Go*
+
+* In Fuschia City, speak to the attendant at the GO Park Complex and select Bring Pokémon
+
+* Open Pokémon GO
+
+* In Map View, tap the Main Menu  [![](../data/images/4acc574b-1f83-471c-bc3c-30200f19e9b5.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/4acc574b-1f83-471c-bc3c-30200f19e9b5.png) button.
+
+* Tap the Pokémon  [![](../data/images/35a693fc-4613-4e7b-8e77-45b01f6dbadd.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/35a693fc-4613-4e7b-8e77-45b01f6dbadd.png)button.
+
+* At the top right, tap the Nintendo Switch icon.
+
+* Tap all the Pokémon you'll like to send to the Nintendo Switch. You can only send Pokémon originally discovered in the Kanto Region (as well as their Shiny and Alolan forms) with the exception of the Mythical Pokémon Mew.
+
+* Tap the Send to Nintendo Switch button when you're ready to send Pokémon.
+ [![](../data/images/fb9f5957-9741-4cea-a582-24e29af396b2.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/fb9f5957-9741-4cea-a582-24e29af396b2.png)
+
+Once sent, your Pokémon will appear in the GO Park complex. You’ll earn Candy for each Pokémon you send as well as bonus XP. The first time you send a Pokémon to the Switch, you'll also receive a Mystery Box in your inventory.
+
+There's no limit to the number of Pokémon GO accounts that can be tied to a single save file in  *Pokémon: Let's Go* . That means you're not limited to connecting with just your own Pokémon GO account. You can receive Pokémon from friends and family’s Pokémon GO accounts.
+
+**Caution:**
+
+While transferring a Pokémon from the smart device app Pokémon GO to  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!*  on Nintendo Switch, the app may not be able to resume the transfer if the connection is interrupted. However, users will be able to continue to play the game once they exit the transfer screen.
+
+**Important:**
+
+* If the Pokémon GO app gets disconnected while transferring Pokémon to your Nintendo Switch console, there is a chance that the "resume transfer" function will no longer work.
+
+* It is also possible that the Pokémon GO app in which this issue occurred will no longer connect to any supported games on Nintendo Switch.
+
+* To prevent this issue from occurring, ensure that you have a stable connection between the smart device and the Nintendo Switch game when transferring Pokémon.
+
+**What to Do:**
+
+Uninstall the Pokémon GO app from your smart device and then reinstall it. Note: The Pokémon may become lost and cannot be recovered, as uninstalling and reinstalling the app would cause the transfer process to be stuck in limbo.
+
+**Best Practices:**
+
+While transferring Pokémon between Pokémon GO and a supported game on Nintendo Switch, we recommend the following to avoid interrupting the connection between the two:
+
+* Do not press the HOME Button or the POWER Button on the console.
+
+* Do not pause the app, press the home button, or turn off Bluetooth settings on the smart device.
+
+* Keep a short distance between the Nintendo Switch console and the smart device.
+
+#### **Opening the Mystery Box**
+
+The  **Mystery Box**  is a special item in Pokémon GO that temporarily causes the Mythical Pokémon Meltan to appear in the wild. After you’ve activated the Mystery Box, you’ll have to wait three days and send another Pokémon to  *Pokémon: Let’s Go, Pikachu!* ,  *Pokémon: Let’s Go, Eevee!* , or Pokémon HOME to use it again.
+
+[![](../data/images/1d2c32e8-c2fc-4a18-b548-3922218b690f.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/1d2c32e8-c2fc-4a18-b548-3922218b690f.png)
+
+If you don’t have  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!*  and you don’t use Pokémon HOME, you can still obtain the Mystery Box and catch Meltan by sending Pokémon from your Pokémon GO account to a friend's  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!*  game. Additionally, someone who has caught Meltan can also [trade the Pokémon](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/96-trading-pokemon/?p=all&s=friends-gifting-and-trading&f=trading-pokemon) with you.
+
+For more information about the Mystery Box and catching Meltan, visit the Pokémon: Let’s Go, Pikachu! and Pokémon: Let’s Go, Eevee! website.
+
+**Note on data shared with The Pokémon Company:**  When you link Pokémon GO to  *Pokémon Scarlet* ,  *Pokémon Violet* ,  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!*  on Nintendo Switch, certain limited information, including your Trainer name and Pokémon information, will be shared with The Pokémon Company during the process of sending Pokémon or Postcards to  *Pokémon Scarlet* ,  *Pokémon Violet* ,  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!* . Data shared with The Pokémon Company is subject to The Pokémon Company’s own privacy policy.
