@@ -1,0 +1,13 @@
+---
+id: 1079
+title: How to view the event map from the in-game menu
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1079-how-to-view-the-event-map-from-the-in-game-menu/
+---
+
+For real-world events (such as Pokémon GO Fest),  **as long as you have an event ticket** , you can view the event map by tapping the Campfire button in-game and selecting the special event map from the dropdown menu at the bottom of the Campfire app.
+
+Once the special event map is selected, you’ll be able to see relevant points of interest, including the store, as well as PokéStops and Gyms that are only visible to event ticket holders, along with other event locations.
+
+If the special event map does not appear, please try checking the map directly within the Campfire app.
+
+![image](../data/images/f82ac8c7-bb8d-427d-aefc-dc1a695af7c2.png)
