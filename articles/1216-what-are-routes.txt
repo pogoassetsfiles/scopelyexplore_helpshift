@@ -1,0 +1,71 @@
+---
+id: 1216
+title: What are Routes?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1216-what-are-routes/
+---
+
+A  **Route**  is a pre-defined path that you can follow while exploring. These paths may be made by Scopely Explore, official partners, or other Trainers, like you!
+
+As you follow a Route, you may discover Pokémon and receive special bonuses while following the Route, and completing Routes will grant you rewards. Completing a Route will earn you the badge associated with that Route, featuring a custom photo from the start or end point.
+
+### Finding a Route
+
+There are two ways to discover Routes that are near you: through the Nearby menu and in Campfire.
+
+**In Pokémon GO through the Nearby menu:**
+
+You can see a list of nearby Routes by tapping on the Nearby menu and tapping on the  **Route**  tab. This will show you nearby locations that serve as Route start points. Tap the  **See Nearby Routes**  to expand the map and see a list of available Routes.
+
+As you are browsing the Routes list, you can tap on the flag button in the bottom right corner to sort the list by other options. By default, the list will show Routes that are nearest to you.
+
+Tap on a Route to preview it and review the details. You will be able to see how many other Trainers have followed that Route, how many times you have followed the Route, the length of the Route, and the approximate amount of time it might take to complete the Route.
+
+Scroll down this page to see Trainer-provided details, including a description of the Route, any Route tags that have been added to the Route, and the original Route Creator. Some Routes are able to be followed one way only, while others can be followed in reverse or are a loop. These options are determined by the Route Creator during the creation process.
+
+You can choose to reverse the direction of a Route before you begin to follow it by tapping on the  **Reverse Direction**  button under the  **Follow**  button on the Route preview. You will see the Route direction updated on the map, signified by moving arrows on the Route path.
+
+**In Campfire via the Routes map:**
+
+You can open the Campfire app to view nearby Routes. Below the  **Happening Soon**  section, you will see a section titled  **Nearby Routes** , along with a selection of Routes that are near you.
+
+Each Route on this page will show its title, distance, estimated time, how far the Route’s start point is from you, and whether it is reversible. Tap on the  **Route Info**  button to see the Trainer-provided description of the Route. You can also share the Route or view it in your preferred map app.
+
+Tapping on  **View All**  to the left of the Nearby Routes section will display a map view of all Routes in your local area. Tap on the image of the Route’s starting point to see the Route details.
+
+Note that while you can view these Routes in the Campfire App, you will still need to physically be at the Route starting point in order to begin the Route. You will also need to select this Route through the Pokémon GO app directly.
+
+### Following a Route
+
+Once you have found a Route and you are ready to begin, tap the  **Follow**  button. The Route start point will feature a blue flag above the PokéStop on the Map View. Once you are close enough to the start point, the Route will start tracking your location and recording your Route progress. Note that if you are already close enough to the start point, the Route will begin recording your progress right away.
+
+Follow the path marked on the Map View to follow the Route. While you are following the Route, the path will change color to show your progress towards completing the Route. Tap the Route icon above the Binoculars button at any time to see the Active Route Menu, which contains your Route’s details and any available actions.
+
+Pause the Route at any time by tapping the  **Pause Route** button on this page. When your Route is paused, you will see the Route Menu button transition to a paused state, and a Pause marker will appear at your location on the Map View. If you pause a Route, you will need to return to your paused location and tap this button again to resume the Route.
+
+To quit the Route, you can scroll to the bottom of the Active Route Menu and tap the  **Quit Route**  button. You will exit the Route once you tap  **Quit Route**  again on the confirmation screen.
+
+### Route Gift Exchange
+
+While you are following a Route, you may notice a figure appear on the Map View near some PokéStops or Gyms. This figure is Mateo, another explorer like you, who is currently following Routes of his own.
+
+Tap on Mateo to initiate a Gift Exchange, where you can select a Gift and Postcard from a nearby PokéStop or Gym to exchange with Mateo. Mateo will present you with a choice of Gifts from nearby. Tap on whichever Gift to send, and you will receive a random Gift and Postcard from another player from somewhere else around the world!
+
+Don’t forget to [add these new Postcards to your Postcard book](https://niantic.helpshift.com/hc/faq/3196-what-is-the-postcard-book/) to help expand your Postcard collection and catch different forms of Vivillon.
+
+### Completing a Route
+
+Once you have followed the Route path and have reached the end point, or the start point if the Route is a loop, you will earn the Route Badge! Similar to a Gym Badge, each Route has its own individual Badge that features an image from the start or end point. Complete the same Route multiple times to level up your Route Badge. You can see all of your Route Badges on your Trainer Profile under the  **Routes**  section.
+
+After you have reached the end point, tap on the Route Menu button and tap the  **Complete Route**  button to finish your Route. Routes will not complete automatically to give you the opportunity to collect any Zygarde Cells you may not have noticed. Tap  **Yes**  on the confirmation screen to complete the Route. The Route title and badge will be recorded in your Journal.
+
+The last step in completing the Route is to give the Route a star rating. Your rating will be used to assess the quality of the Route, but will not be shared publicly. If you have previously given that specific Route a rating, you will not see this screen.
+
+Note that it’s possible to reach the end point of the Route but not complete the Route. This may occur if you didn’t follow the exact path set by the creator. To complete the Route in this case, resume the Route and continue to follow until you have traveled the full Route distance.
+
+### Reporting a Route
+
+If you find a Route that is in violation of the [Scopely Explore Terms of Service](https://nianticlabs.com/terms) or [Player Guidelines](https://nianticlabs.com/guidelines), you can submit a report to the Scopely Explore team directly from within Pokémon GO.
+
+From the Active Route Menu screen, scroll to the bottom and tap on  **Report Route** . Follow the prompts to provide sufficient information to perform an investigation into the Route. Once you have submitted your Report, note that you may not hear back from Scopely Explore regarding the status of your Report or any action that is taken in response.
+
+You can also report a Route from the rating screen by giving a Route a 1-star rating and tapping the  **Report Route**  button.
