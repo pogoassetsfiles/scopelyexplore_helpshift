@@ -1,0 +1,87 @@
+---
+id: 1114
+title: What's Your Favorite?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1114-what-s-your-favorite/
+---
+
+**What’s Your Favorite?**  is a feature that allows you to include a Pokémon in a photo you take. You can further customize these photos with stickers and other fun decorations. Once you’re satisfied with your photo, you will have the opportunity to download it.
+
+**Please Note:**  What’s Your Favorite? is a separate feature from GO Snapshot.
+
+![image](../data/images/28ce59d0-b21a-4795-88fc-ce41df44e9b7.png)
+
+How to access What’s Your Favorite?
+
+**For Trainers that are not signed in to Pokémon GO:**
+
+1. Download Pokémon GO from the App Store or Play Store.
+
+2. Open Pokémon GO once it is finished downloading.
+
+3. Tap the  **Take a Photo**  button at the bottom of the Sign-In screen.
+
+![image](../data/images/d4828893-1eda-46a6-b774-46d94a296824.png)
+
+**For Trainers that are signed in to Pokémon GO:**
+
+1. In Map View, tap the  **Main Menu**   button.
+
+2. Tap the  **Camera** icon at the bottom.
+
+![image](../data/images/c63ca70a-d42f-4dc3-b404-194ad1a3cf0f.png)
+
+3. Tap the  **What’s Your Favorite?**  banner.
+
+How to use What’s Your Favorite?
+
+1. Select the Pokémon you want to include in your photo. You will be able to access most Pokémon available in Pokémon GO even if you haven’t caught them.
+
+* **Please Note:** Certain forms of Pokémon like Shiny Pokémon will not be available.
+
+![image](../data/images/e34fdb39-b7ac-4647-8041-3f68b3360125.png)
+
+![image](../data/images/38930e26-edd1-4b68-aa11-d64562a396ae.png)
+
+2. Take a picture. You will only be able to use your phone’s back camera for this feature. However, you can still use the timer function to include yourself in the photo.
+
+![image](../data/images/0e167ad1-05e7-441b-94f9-8ed6ddc43a99.png)
+
+3. Select your desired photo from a collection of several pictures that include your selected Pokémon in different poses and positions.
+
+![image](../data/images/f1e36311-13ca-4c8c-b03a-25561048a064.png)
+
+![image](../data/images/5fda87cc-3af9-43e8-8e47-671b606793ef.png)
+
+![image](../data/images/179482ed-e8a5-47bb-98d0-2a4d42408d16.png)
+
+4. Personalize your selected photo with fun decorations, including customization options for label stickers you include in your photo.
+
+![image](../data/images/9074aea9-b908-42f7-aca1-5c2f9392326a.png)
+
+5. Save your photo to your device by tapping the  **Download**  button.
+
+![image](../data/images/f64487c1-e688-4524-94d9-2111e0d508b2.png)
+
+Supported Devices:
+
+* All iOS Devices
+
+* EXCEPT FOR:
+
+* All iPad4 variants
+
+* All iPad 5 variants
+
+* All iPad6 variants
+
+* iPhone 6, iPhone 6 Plus
+
+* iPhone 6s, iPhone 6s Plus, iPhone SE (GSM)
+
+* iPhone 7, iPhone 7 Plus
+
+* All Android Devices running Android 15 (or newer)
+
+* **EXCEPT FOR**  Pixel 10 family
+
+Please note that, while the above devices may be able to access What’s Your Favorite and other AR features, some devices may perform better than others.
