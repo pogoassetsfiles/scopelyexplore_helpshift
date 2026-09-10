@@ -1,0 +1,43 @@
+---
+id: 1255
+title: Help with In-Game Shop Purchases
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1255-help-with-in-game-shop-purchases/
+---
+
+Pokémon GO’s in-game Shop allows you to purchase Premium Items using PokéCoins. Trainers can [earn up to 50 PokéCoins per day](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/383-earning-the-defender-bonus/) or [purchase PokéCoins using real money](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/94-using-pokecoins-to-make-purchases-in-the-shop-1582065532/?s=shop&f=using-pokecoins-to-make-purchases-in-the-shop&p=web) through your respective app store. If you’re experiencing issues related to a purchase of PokéCoins or Premium Items, review the FAQs below for help with your specific situation.
+
+### **Purchasing PokéCoins with Real Money**
+
+* **I can’t see PokéCoins for sale in the Shop.**
+
+There are some cases where PokéCoins may not appear available for purchase. [Read this article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/64-i-can-t-see-pokecoins-for-sale-in-the-shop/?p=web&s=shop&f=i-cannot-see-pokecoins-for-sale-in-the-shop) to learn more.
+
+* **I bought PokéCoins, but they’re not showing up in my inventory.**
+
+If you purchased PokéCoins from the Shop and don’t see them in your inventory, please try restarting the app or signing out (tap Main Menu > Settings and select "Sign out.") and signing back in. If you still have any questions, please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
+
+* **I want a refund for PokéCoins I purchased.**
+* **I got charged twice for PokéCoins I purchased.**
+* **I accidentally purchased PokéCoins.**
+
+If you wish to receive a refund for PokéCoins you purchased (accidentally or otherwise), please contact [Apple Support](https://support.apple.com/HT204084) (iOS users), [Galaxy App Store](https://www.samsung.com/us/support/customer-services/) (Samsung users), or [Google Play Help](https://support.google.com/googleplay/answer/2479637) (Android users) to review their respective refund policies, request a refund, or to inquire about a recent transaction.
+
+Some app stores can only provide refunds within a limited time window, so try to submit your refund request as soon as possible.
+
+Please note that app store refund policies may vary based on the location of user and the age of user, including legal minority, at the time of purchase, as may be required by applicable law.
+
+* [Apple](https://www.apple.com/legal/internet-services/itunes/)
+* [Google](https://support.google.com/googleplay/answer/2479637)
+* [Samsung](https://developer.samsung.com/terms)
+
+### **Purchasing Premium Items with PokéCoins**
+
+* **I couldn’t use an item I purchased due to a technical issue.**
+* **I accidentally purchased Premium Items.**
+* **I was double charged for a Premium Item purchase.**
+
+If you have not been able to successfully use a Premium Item you purchased or have made an accidental purchase, please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) within 48 hours of the incident.
+
+* **I don’t see Premium Items I purchased in my Bag.**
+
+There may be a slight delay before Premium Items appear in your Bag. If they don’t appear after a short while, try signing out (tap Main Menu > Settings and select "Sign out.") and back in, or try restarting the app. If you still have any questions, please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
