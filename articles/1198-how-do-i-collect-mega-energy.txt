@@ -1,0 +1,15 @@
+---
+id: 1198
+title: How do I collect Mega Energy?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1198-how-do-i-collect-mega-energy/
+---
+
+Mega Evolving a Pokémon for the first time requires  **Mega Energy** , a resource that you can collect in multiple ways. Once you have Mega-Evolved a Pokémon, you can evolve it without Mega Energy following a resting period that may last up to several days.
+
+You can earn Mega Energy by defeating a Mega-Evolved Pokémon in a Mega Raid Battle or by [completing specific research tasks](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/45-types-of-research/?p=web&s=trainer-progress&f=field-research-special-research). You can also occasionally earn Mega Energy by walking with your Buddy Pokémon if you have previously Mega-Evolved a Pokémon in your Buddy Pokémon’s Evolutionary line.
+
+It’s important to note that Mega Energy can only be used for one specific Pokémon species. For example, the Mega Energy listed on Charizard’s summary page can only be used to Mega Evolve Charizard.
+
+**Please note:**  You will need to collect separate Mega Energy X or Mega Energy Y to Mega Evolve certain Pokémon that can Mega Evolve into both a X or Y form. For example, to Mega Evolve Charizard into Mega Charizard X, you will need to collect the associated amount of Charizard Mega Energy X.
+
+Once you’ve Mega-Evolved a Pokémon for the first time, it’s possible to Mega Evolve them without using Mega Energy.
