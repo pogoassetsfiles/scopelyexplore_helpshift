@@ -1,0 +1,42 @@
+---
+id: 1254
+title: How can I purchase items and PokéCoins?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1254-how-can-i-purchase-items-and-pokecoins/
+---
+
+Pokémon GO is free to download and play. For Trainers who want to enhance their Pokémon GO experience, items are available for purchase.
+
+## Buying Items from the Shop
+
+To buy these items, you must first purchase PokéCoins (the currency of Pokémon GO). PokéCoins can then be exchanged for premium items in Pokémon GO.
+
+**To purchase PokéCoins:**
+
+* In the Map View, tap the  **Main Menu** [![image](../data/images/726f6c5c-cc6b-4179-9529-9759c66787bf-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/726f6c5c-cc6b-4179-9529-9759c66787bf-t.png)
+* Tap **Shop**
+* Tap a pack of PokéCoins to purchase.
+* You’ll be prompted to complete the purchase via Google Play or Galaxy Store on Android devices or the App Store on iOS devices. Once the purchase is complete, you’ll be able to exchange your PokéCoins for premium items.
+
+**To exchange PokéCoins for items:**
+
+* From the Map View, tap the  **Main Menu** [![image](../data/images/726f6c5c-cc6b-4179-9529-9759c66787bf-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/726f6c5c-cc6b-4179-9529-9759c66787bf-t.png)
+* Tap **Shop**
+* Tap an item to select it for exchange.
+* Tap  **Exchange**  complete the exchange. Your items will then appear in your Bag. Note that there may be a short delay before items appear in your Bag.
+
+[![image](../data/images/ff9eaae7-52bd-4fe9-ae12-2c5ebf90373a-2t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/9b49a76f-217a-4c0e-bfd2-b9e55db0bb3a.jpg)
+
+Please note that certain items, such as event tickets and some item bundles may only available for purchase with real money. These can be purchased by tapping the item and repeating the steps to purchase PokéCoins above.
+
+**Tip** : You can also [exchange PokéCoins for clothing and accessories](https://scopelyexplore.helpshift.com/hc/faq/1090-how-do-i-customize-my-avatar/) for your avatar.
+
+## Earning Free PokéCoins with the Defender Bonus
+
+You can [earn free PokéCoins by placing your Pokémon at Gyms](https://scopelyexplore.helpshift.com/hc/faq/1172-earning-the-defender-bonus/). The longer the Pokémon stay at the Gym, the more PokéCoins you earn. You redeem your PokéCoins only after your Pokémon return from the Gym.
+
+## Restricting In-App Purchases on your Device
+
+You can restrict in-app purchases on your device to prevent accidental or unauthorized purchases from the Shop:
+
+* [iOS devices](https://scopelyexplore.helpshift.com/hc/faq/1257-restricting-in-app-purchases-ios/)
+* [Android devices](https://scopelyexplore.helpshift.com/hc/faq/1258-restricting-in-app-purchases-android/)
