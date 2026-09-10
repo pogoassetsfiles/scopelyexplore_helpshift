@@ -1,0 +1,37 @@
+---
+id: 1108
+title: How to add Pokémon GO widgets to your device home screen
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1108-how-to-add-pokemon-go-widgets-to-your-device-home-screen/
+---
+
+If you want to track your progress towards certain objectives, like [hatching Eggs](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/) or [earning Buddy Candy](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2155-buddy-adventure/), you can add a helpful widget to your device’s home screen. These widgets will allow you to see your progress towards these objectives at a glance. Additionally, tapping them will bring you to the relevant screen in Pokémon GO.
+
+Note that these widgets work best when you have [Adventure Sync](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3265-adventure-sync-1644001375/) enabled.
+
+### Apple Devices
+
+* From your Home Screen, tap an empty area until the apps jiggle.
+
+* Tap the ‘Edit’ button in the left hand corner.
+
+* Tap the Add Widget  [![](../data/images/5fbd4df1-ff20-429d-a689-86fe38e24e50.jpg)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/5fbd4df1-ff20-429d-a689-86fe38e24e50.jpg)button in the upper-left corner.
+
+* Select Pokémon GO, then tap Add Widget.
+
+* Tap Done.
+
+You can also add Pokémon GO widgets to your Today View by swiping left from your home screen and following the above steps.
+
+[Learn more](https://support.apple.com/en-us/HT207122) about Widgets on your Apple Device.
+
+### Android Devices
+
+* On a Home screen, touch and hold an empty space.
+
+* Tap Widget [![](../data/images/bc4508ba-415d-4eb5-9bcb-d1ac5573c831.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/bc4508ba-415d-4eb5-9bcb-d1ac5573c831.png)
+
+* Tap and hold the Pokémon GO widget. You’ll get images of your Home screens.
+
+* Slide the widget to where you want it. Lift your finger to place the widget.
+
+[Learn more](https://support.google.com/android/answer/9450271?hl=en#zippy=%2Cadd-or-resize-a-widget) about home screen widgets for your Android Device.
