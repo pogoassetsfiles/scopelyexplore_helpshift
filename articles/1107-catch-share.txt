@@ -1,0 +1,93 @@
+---
+id: 1107
+title: Catch & Share
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1107-catch-share/
+---
+
+**Catch & Share**  is a feature in which players can share Pokémon they’ve caught, including the location of the catch, with other players in Campfire.
+
+There are two ways that you can share your Catch Cards with other players in Campfire using Catch & Share:
+
+* Sharing a recently caught Pokémon from the Wild
+* Sharing a recently caught Pokémon from a Raid
+
+All public posts can be seen by other players and can be “liked” by tapping the heart icon. You can also share your posts privately with a select audience of your choosing. When someone likes your photo, you will get a notification. At this time, comments are not available for Catch & Share posts.
+
+Please note that the Catch & Share feature is not available for Trainers with child accounts.
+
+### Sharing a recently caught Pokémon from the wild
+
+To share a recently caught Pokémon from the wild to Campfire, tap on the menu button on the bottom right hand side of the screen once the Pokémon has been caught and tap on “Catch Card”.
+
+![image](../data/images/dbfkpek3odbqpdhdcuyf_y9som9ninm7ydozmzhnkmcnaea5z4dcmbyr1pqikricm_m6fraon7drzy2-opf9rqqqr5s8hbf01wwmixkoaxajzjgdymlfpg3xzcfx1q8chybe0scyzksag-mqtgj14_k.png)
+
+![image](../data/images/8dj-194xa8glj0lvwhzkg5ki8lxal84lx7hv0ffln3hazlhsco6rdb4b6s6pihwjttdvbk-iujfgpn83lpnybbviihh1q-oogoyx99suxkkcno9zllthxvhc56c9jdkep0fmnd-qw3qrogebpg47ini.png)
+
+From this screen you can share the default Catch Card for your Pokémon by selecting the “Share To Campfire” option. You will then be taken to Campfire to create your post.
+
+![image](../data/images/xxzb-fy6ehnfvthq5smtd2ku9ogkq5k-14fmrauialq2-_t7rclmhokr4jzr5x-5n_ocpwo46khamhkfcywxbwgt5ptwd8d3vy8ph8zpwb1ztmpdgjiv_3bjnxojieuckycwre1dmxe5qiujc64hbjw.png)
+
+![image](../data/images/6c4kccnuwvmhwsq9n77w_u9njrt60iqwhatyfti7wktf8tn-9ipcpt9mnwnlnqstlf8r360izj0ugyer2mwx5vrvnhrxmo2yhrzo-rlpbs2k9wxwefltpvxtwfip8e8yu1fsinrrizxtqrprswvaxko.png)
+
+You will have the option to write a description, show the general location that the Pokémon was caught, and have the option to make the post private, visible to only friends, or public.
+
+**Please note:** When you make the post visible to your friends or the public, the location of where you caught the Pokémon will also be visible on the Campfire map to the selected audience.
+
+### Sharing a recently caught Pokémon from a Raid
+
+Similarly to sharing recently caught Pokémon in the wild, Pokémon caught at a Raid can be shared to Campfire as a post.
+
+**To share a recently caught Pokémon from a Raid to Campfire:**
+
+* Tap on the menu button on the bottom right hand side of the screen once the Pokémon has been caught.
+* Tap on “Catch Card”.
+
+![image](https://lh6.googleusercontent.com/MDNoZdlk8Km26KJUGRsUegcRw2F7J-n8G1YemQbrZW6SyzSWbZineU2irztvUjpI_BWc4_r1K2wR7wWylwDlljrKfQ5KJUCUur2bFk7MlBAAfDDmfO42kmSR1v_RCQBhSive-umHRHyC4XEBN1-LAWU)
+
+![image](../data/images/8ncde1ctg9zvxxnzleuwhsiieflzebnjvut1cdjmc3hp3tguxj-mef-sxnwleh0b6mhfqzcfxhfqq4s7nctrtjo8d51mtttoquqjgueeeb5pykocyzv6zy8vw5hyew9g5f6eyilpm8mgby-gl3kgllu.png)
+
+To share the default Catch Card, tap on “Share to Campfire.” You will then be taken to Campfire to create your post.
+
+![image](../data/images/ralmwvffmlskp9h7t3kwdfg4lxa_bqjgdklvvjw92ocw9eqp7tevsbbnf-jdh7a6io-best_i9m5rwwpjvdmi8d-r75cn5i0ltis5pv7rynljvt9ke2du9rglqns4a3iszmlq-enlwqsrjwlsetm6go.png)
+
+![image](../data/images/buqixlgxwzppvjagygbxyrfldmtpvzfddv4y27no_4fyx7exrtjpd85bpgqozpmkz9sfu0qls4pvqayn3fqe1o8jpn6f54uqlaxx0eig_h6036ro2bv2mebi2h4cbjqxp908mofktuowjlbrb_aoitc.png)
+
+You will have the option to write a description, show the general location that the Pokémon was caught, and have the option to make the post private, visible to only friends, or public.
+
+**Please note:**  When you make the post visible to your friends or the public, the location of where you caught the Pokémon will also be visible on the Campfire map to the selected audience.
+
+### Post privacy settings and deleting a post
+
+When you post a Catch Card to Campfire, you are able to select who can see the post. You can either make the post private (only visible to you), make it visible to only your friends, or you can make it public. This can be edited at any time by tapping on your post and selecting a different option.
+
+The location where you catch the Pokémon is always displayed on the Catch Card.
+
+**Please note:** When you post to Campfire and make the post visible to your friends or the public, the location of where the Pokémon was caught will also be visible on the Campfire map to the selected audience. Set your post to “only me” if you do not wish for the location of where the Pokemon was caught to be visible to others on the Campfire map.
+
+**To delete a post:**
+
+* Tap on your shared photo
+* Select the three dots on the bottom right hand side of your photo.
+* Tap delete.
+
+### Viewing and sharing posts in Campfire
+
+Catch & Share posts are available on the Campfire map to view when you log in to Campfire. Players can see their own recent posts for 24 hours, friend’s posts for up to 24 hours or more, and all recent public posts in their area.
+
+### Reporting a post
+
+If you find an inappropriate post or violations of the [Scopely Explore Player Guidelines](https://nianticlabs.com/guidelines?hl=en), the best thing to do is report it.
+
+**To report a post:**
+
+* Tap the photo for the post on the map, then tap the photo again.
+* Select the three dots at the bottom of the photo.
+* Select “Report.” From there you can select the reason for your report, and add a brief description.
+
+![image](../data/images/1wktbpryxmuq5bakl7n3ofwpoc4ku93vttsdgc06tjc4rtr7w1e1ukara-hyhnbxp86dartn6aq_-qjq1dfp2ajwg0iyaixdjwyepiinix_kdww4qnc6iqnmwg_-as-5dln1ohapaefizh_xnta-gns.png)
+
+![image](../data/images/2-p2diakjg_c8bqhixqxhm9up_wkreimdly1xzxda89-qhwqwgr7myvxuusyoqwlnax_lfoi2alj2-crzbwzfclwqdewm91rrlaaf_2isjr0v_rk4fr15ji1uk2wsb7zdxq9ux5lp6avrfbx7e4uifc.png)
+
+![image](../data/images/fb_7o9zyyo9e4dsq8amitwme0amnijqop-cxhj0mka9tfxwk7lzx1z4ltucrlo2-_gfw5ozfkc3srenryw_vdgeb5xpzew4yosu_njq4ey8zsstyrqwqbi_zuml1m1rlzf6rvl61zk1xtd3sfxy3txk.png)
+
+All reports for inappropriate content are taken very seriously by Scopely Explore. The moderation team will review all reports and take appropriate action. If you encounter any time sensitive issues, please [contact support](https://niantic.helpshift.com/hc/en/34-campfire/faq/3519-how-to-contact-campfire-support/?p=web) after you submit your report.
