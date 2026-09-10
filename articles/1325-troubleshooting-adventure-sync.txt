@@ -1,0 +1,91 @@
+---
+id: 1325
+title: Troubleshooting Adventure Sync
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1325-troubleshooting-adventure-sync/
+---
+
+If you are experiencing Adventure Sync issues, read below to learn about the most common problems and how to fix them. If you don’t see your specific issue on the list, [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) via in-app support so we can provide you with more personalized troubleshooting.
+
+### How do I know if Adventure Sync is activated?
+
+Adventure Sync is an optional mode that you can toggle on or off in your Settings menu. You can confirm that it is activated by ensuring that “Adventure Sync” is checked.
+
+###
+
+### Adventure Sync isn’t tracking my fitness progress.
+
+* Make sure your phone has the required sensors to track your distance and steps.
+
+* Make sure your device’s location permissions are set to “always allow” [app name] to access your location even when the app is closed.
+
+* For Android:
+
+* Access the App permissions from your device’s Settings -> Apps & notifications -> [App Name] -> Permissions -> and toggle on “Location”, and make sure “Location” is toggled on.
+
+* Please note that some phones may require a different path to enabling location permissions in the settings menu.
+
+* For iOS:
+
+* Go to iOS Settings -> Privacy -> Location Services -> [App Name] -> and turn Location Permissions to “Always”
+
+* Open the Google Fit or Apple Health app to ensure that your device is properly recording your fitness progress and that the app is connected:
+
+* For Apple Health:
+
+* Open Apple Health
+
+* Tap  **Sources**
+
+* Under  **Apps** , make sure that the app is listed as a connected source
+
+* For Google Fit (may vary depending on device and OS):
+
+* Open the  **Google Fit**  app.
+
+* In the  **Settings**  menu under  **Manage connected applications** , make sure the app is listed as a connected application
+
+* If your Android device is incompatible with Google Fit, you will not be able to use Adventure Sync’s fitness tracking feature.
+
+### Adventure Sync is crediting me with only a portion of my distance walked.
+
+* There may be a delay of up to several hours for the app to sync with Apple Health or Google Fit to track your steps, so please be aware that the game may not always show the most up-to-date information on your distance walked. Restarting your app may help in this scenario.
+
+* Your device’s battery saving mode can disable the sensors required for Adventure Sync and may interfere with the functionality of this feature. Please disable your device’s battery saving mode when using this feature. Battery-saving modes for Google Fit or Apple Health may also interfere with Adventure Sync, so please ensure those are turned off as well in their individual app settings.
+
+* Fitness data that is manually entered into Apple Health or Google Fit will not count towards your Adventure Sync progress.
+
+### I am prompted to enable location permissions every time I open the app (iOS).
+
+On certain iOS devices, you may be asked to allow location permissions every time you open the app until you “always allow” location permissions. The first time you install the app, get a new phone, or uninstall/reinstall the app, you may see the following prompt:
+
+![image](https://lh3.googleusercontent.com/Yt_z6SYEyKVPXcPoEeSpwyPBYklPxKYpKHhFme3LF8cJIXJfAz_ceG_kBy50_PEMHnMjUveXK0ujFbk6m9RiGSuDBbPDPV0tU0s2g_98h2Qfo82s11MexfrO0faGpoEoCXg6Gerw_UgwoBxGAFkbpQQ)
+
+###
+
+Please select “Allow While Using App” at this point. After closing the app, iOS will trigger another prompt to confirm your location settings after some time:
+
+![image](https://lh4.googleusercontent.com/BALrvq3y3KaxrKifnFn3S6uwMbnQHCn_bCA-0OZKSw5bmZ05n85KfR7BdjPsQVkxiIrMS5loii-LX4fNied3sm5h9Sbp22F40ygvEjXr8CVDQ4UyTqcKXoi-epFoL1RzzizjHvCP6tX9jr4WPg0HMQs)
+
+###
+
+Please select “Change to Always Allow” to ensure Adventure Sync can accurately track location data while the app is turned off.
+
+If you do not receive any of the iOS or in-game prompts, the best way to enable Adventure Sync is the following:
+
+* Go to iOS Settings -> Privacy -> Location Services -> [App Name] -> and turn Location Permissions to “Always”
+
+* Enable Adventure Sync in your app settings.
+
+###
+
+iOS may also send additional prompts even after selecting “Change to Always Allow” to remind users that the app is accessing your location. Adventure Sync will be turned off unless “Always Allow” is selected after seeing these prompts appear.
+
+![image](https://lh3.googleusercontent.com/JxLGBtR0tVkLpy3z-fhL7woroegLnVoaZrcLjNVslR6B7RtBZ2bUOxbrzv2sNtetv6N_v1qae9oR-m8wVhBhyJTz6nS5ZilR--7qKb4A59YwMckwiNsdJobojkHcjPi7hSBW3RmP5CHECQTrsVkY5HA)
+
+###
+
+### How do I disable Adventure Sync?
+
+Uncheck the Adventure Sync option in the Settings menu.
+
+**Note** : For devices with Android 10, Adventure Sync must be disabled via in-game settings. Disabling Activity Recognition via the Android OS won't fully disable Adventure Sync.
