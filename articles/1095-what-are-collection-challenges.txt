@@ -1,0 +1,42 @@
+---
+id: 1095
+title: What Are Collection Challenges?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1095-what-are-collection-challenges/
+---
+
+Certain events may feature different  **Collection Challenges** , sets of specific Pokémon to collect in order to earn rewards.
+
+To get started on a Collection Challenge, open the Today View, then tap the Events tab to see which Pokémon are part of the challenge. Once you collect that Pokémon, a checkmark will appear next to it or, if this is the first time you caught the Pokémon, the Pokémon’s silhouette will be replaced by an image of the Pokémon.
+
+[![image](../data/images/319473d7-5c59-4987-97f7-17e3b36b6a4b-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ca2b9aa8-e38f-43cc-b53a-d60ed0f467a9.png)
+
+Different events will feature different Pokémon as part of Collection Challenges, but the challenge will usually disappear once its corresponding event ends, so do your best to collect all the Pokémon in the challenge before then.
+
+
+The Collection Challenge details will specify whether you can collect a specific Pokémon by catching, hatching, evolving or trading. Keep in mind that some event Pokémon are only available to catch as research task rewards or in Raid Battles.
+
+
+As you complete Collection Challenges, you’ll be able to earn rewards and make progress on your Elite Collector medal!
+
+[![image](../data/images/c01c9a6f-763a-473c-80ce-395ea6d16285-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a0302446-61e7-455a-8485-bcf43a7d7837.png)
+
+### Why didn't my Collection Challenge progress after I caught the Pokémon?
+
+If you caught a specific Pokémon required to advance the Collection Challenge but the progress didn’t advance, it’s possible that the Collection Challenge requires you to catch that Pokémon in a particular way. For example, some Collection Challenges may require certain Pokémon to be caught in raids, such as Shadow Pokémon, or by evolving.
+
+ An icon may accompany each individual Pokémon explaining the required method for catching it. Below are the different Collection Challenge icons and their explanation:
+
+![image](../data/images/e7b7bd49-757b-4f72-88d6-91b810ad0fe4.png)
+ This specific Pokémon should be acquired by trading
+
+![image](../data/images/aae7e257-3097-4bce-8d34-85f4f57a539b.png)
+ This specific Pokémon should be acquired by evolution
+
+![image](../data/images/6bc20768-9555-47d7-8212-18e7467beed9.png)
+ This specific Pokémon should be acquired by hatching an Egg
+
+![image](../data/images/5c600534-5cdc-4988-bd88-6478428eca0f.png)
+ This specific Pokémon is wearing a costume
+
+![image](../data/images/90f01d3d-6383-4a69-b23a-1d28528b1378.png)
+This specific Pokémon is a Shadow Pokémon
