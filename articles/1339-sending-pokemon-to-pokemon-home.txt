@@ -1,0 +1,75 @@
+---
+id: 1339
+title: Sending Pokémon to Pokémon HOME
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1339-sending-pokemon-to-pokemon-home/
+---
+
+**Pokémon HOME**  is a cloud service for Nintendo Switch and compatible mobile devices that is designed as a place where all Pokémon can gather. You can send Pokémon from Pokémon GO to Pokémon HOME, but note that you cannot send Pokémon from Pokémon HOME to Pokémon GO.
+
+### Linking your Pokémon HOME and Pokémon GO accounts
+
+In order to send Pokémon from Pokémon GO to Pokémon HOME, you must first link your Pokémon HOME account to your Pokémon GO account. To do so, please follow these steps.
+
+* Open the Pokémon GO app.
+
+* On the map, tap the Poké Ball  [![](../data/images/83d203b2-cdd7-46fb-8940-1a9ddcda0dfa.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/83d203b2-cdd7-46fb-8940-1a9ddcda0dfa.png)  icon.
+
+* At the top right of the screen, tap the  **Settings [![](../data/images/166f9edb-37d8-421d-b2df-e13817cf1daf.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/166f9edb-37d8-421d-b2df-e13817cf1daf.png)** button.
+
+* Tap  **Connected Devices and Services**
+
+* On the Connected Devices and Services page, tap  **Pokémon HOME** .
+
+* Sign in using the Nintendo Account associated with your Pokémon HOME account.
+
+Once your accounts have been linked, your Pokémon HOME account information will be displayed in the Pokémon HOME section of the Settings menu and will be saved until you choose to remove it. From the Pokémon HOME section, tap  **Send Pokémon**  to begin the process of sending Pokémon to your Pokémon HOME account.
+
+### Sending your Pokémon to Pokémon HOME
+
+Tap  **Send Pokémon**  from the Pokémon HOME section in the Pokémon GO Settings menu to access the  **GO Transporter** . The GO Transporter uses GO Transporter Energy to send Pokémon to Pokémon HOME, and the amount of energy required depends on the Pokémon being sent. Select the Pokémon you’d like to send to see how much energy will be required.
+
+[![image](../data/images/6ba8bb50-9579-4b82-b6d0-47da8b2b8ab2-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/054a31d4-b657-4578-896c-a0b14b807f52.png)
+
+The GO Transporter will be fully charged the first time you send a Pokémon to Pokémon HOME, and afterwards it will automatically accumulate energy over time. You can also charge your GO Transporter immediately by using PokéCoins.
+
+
+Once you’ve selected the Pokémon you want to send to Pokémon HOME, tap  **Transport** to finish the process. Pokémon that have been sent to Pokémon HOME cannot return to Pokémon GO, so make sure to double-check the list of Pokémon you’re sending before confirming.
+
+The Pokémon you transfer from Pokémon GO will not be automatically placed in your Pokémon Boxes in Pokémon HOME. You’ll need to receive the Pokémon in Pokémon HOME before they appear in your Pokémon Boxes. [Learn more about accepting the transfer in Pokémon HOME here.](https://support.pokemon.com/hc/en-us/articles/360050219032-How-to-transfer-Pok%C3%A9mon-from-Pok%C3%A9mon-GO-to-Pok%C3%A9mon-HOME)
+
+### Pokémon you can’t send to Pokémon HOME
+
+Some Pokémon cannot be sent to Pokémon HOME, and thus cannot be selected on the GO Transporter screen. Such Pokémon include Spinda, favorited Pokémon, Buddy Pokémon, Pokémon defending Gyms, costumed Pokémon, Shadow Pokémon, and Mega-Evolved Pokémon.
+
+
+Lucky and Purified Pokémon will lose their Lucky and Purified statuses when sent to Pokémon HOME, and other Pokémon may change forms altogether during the journey, such as the below examples.
+
+* Origin Forme Giratina will become Altered Forme Giratina.
+
+* Sunshine Form Cherrim will become Overcast Form Cherrim.
+
+* Sunny Form, Rainy Form, and Snowy Form Castform will become Castform in its usual form.
+
+* Gigantamax Pokémon are not able to be sent to Pokémon HOME.
+
+* Pokémon caught with special PokéBalls, such as GO Safari Balls, cannot be sent to Pokémon HOME.
+
+As new Pokémon and Pokémon forms are discovered in Pokémon GO, the list of Pokémon that can’t be sent to Pokémon HOME or that will change in some way when sent to Pokémon HOME may expand. The confirmation screen will indicate whether the Pokémon you are sending to Pokémon HOME will change forms along the way.
+
+[![image](../data/images/b99cfcb3-bc2f-4eca-b669-9d45972720fe-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/3dc7df8d-a3cf-43de-97eb-7cff11477eb4.png)
+
+### Obtaining the Mystery Box
+
+If you don’t already have a Mystery Box, you will automatically receive one after sending Pokémon to Pokémon HOME. The mystery box is a special item in Pokémon GO that temporarily causes the Pokémon Meltan to appear in the wild. After activating the Mystery Box, you’ll need to wait three days and send another Pokémon to Pokémon HOME (or to  *Pokémon: Let’s Go, Pikachu!*  or  *Pokémon: Let’s Go, Eevee!* ) before you can activate it again. You can [read more about the Mystery Box here](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2789-what-is-the-mystery-box/?p=web&s=accessories-and-services&f=what-is-the-mystery-box).
+
+For more information about connecting Pokémon HOME to other Pokémon games, please check the links below.
+
+* [About connecting Pokémon HOME to different games](https://support.pokemon.com/hc/en-us/articles/360038131072-About-connecting-Pok%C3%A9mon-HOME-to-different-games)
+
+* [Can I transfer Pokémon from my Pokémon GO account to multiple different Pokémon HOME accounts, such as mine and those of family members?](https://support.pokemon.com/hc/en-us/articles/360050305651-Can-I-transfer-Pok%C3%A9mon-from-my-Pok%C3%A9mon-GO-account-to-multiple-different-Pok%C3%A9mon-HOME-accounts-such-as-mine-and-those-of-family-members-)
+
+* [Is it possible for each member of a family to link their own Pokémon GO account to a single Pokémon HOME account and transfer Pokémon to it?](https://support.pokemon.com/hc/en-us/articles/360050305631-Is-it-possible-for-each-member-of-a-family-to-link-their-own-Pok%C3%A9mon-GO-account-to-a-single-Pok%C3%A9mon-HOME-account-and-transfer-Pok%C3%A9mon-to-it-)
+
+* [Can Pokémon transferred from Pokémon GO to Pokémon HOME be brought into Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee!?](https://support.pokemon.com/hc/en-us/articles/360049800792-Can-Pok%C3%A9mon-transferred-from-Pok%C3%A9mon-GO-to-Pok%C3%A9mon-HOME-be-brought-into-Pok%C3%A9mon-Let-s-Go-Pikachu-or-Pok%C3%A9mon-Let-s-Go-Eevee-)
+
+**Note on data shared with The Pokémon Company:**  When you link your Pokémon GO account with a Pokémon HOME account, certain limited information, including your Trainer name and Pokémon information, will be shared with The Pokémon Company during the process of sending Pokémon to Pokémon HOME. Data shared with The Pokémon Company is subject to The Pokémon Company’s own privacy policy.
