@@ -1,0 +1,36 @@
+---
+id: 1332
+title: Discontinued Support for 32-Bit Android Devices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1332-discontinued-support-for-32-bit-android-devices/
+---
+
+Pokémon GO has ended support for 32-bit Android devices. We encourage affected Trainers on these devices to upgrade their devices if they would like to continue playing Pokémon GO without any interruptions.
+
+## Am I affected by this change?
+
+Only Trainers with 32-bit Android devices are affected by this change. Android users on 64-bit devices and iOS users are not affected and do not need to take any action.
+
+If you're unsure whether your Android device is 32-bit or 64-bit, check with your device manufacturer. Most Android phones manufactured before 2015 are 32-bit. If your device has at least 4GB of RAM, it is highly likely that your device is a 64-bit model.
+
+**Examples of devices on 32-bit Android** (note that this list is not exhaustive):
+
+* Samsung Galaxy S4, S5, Note 3, J2, J3
+* Sony Xperia Z2, Z3
+* Motorola Moto G (1st gen), Nexus 6
+* LG Fortune, Tribute
+* OnePlus One
+* HTC One (M8)
+* ZTE Overture 3
+* Certain Android devices released before 2015
+
+## What do I need to do?
+
+If you’re using a 32-bit Android device, you’ll need to obtain a compatible 64-bit Android device or iOS device to continue playing Pokémon GO.
+
+Before obtaining a new device, we also recommend saving your account login info (i.e. your login provider, email address, and password) so you can log back into your account on your new phone.
+
+## Why this change?
+
+By removing support for 32-bit Android devices, we are able to streamline our development process and focus resources on supporting newer operating systems and technologies.
+
+A vast majority of Android users have already migrated from 32-bit to 64-bit devices. As players migrate from older devices to newer ones, we periodically update our supported device requirements to focus on the devices our players use.
