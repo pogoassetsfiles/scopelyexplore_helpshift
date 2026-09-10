@@ -1,0 +1,340 @@
+---
+id: 1092
+title: Glossary
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1092-glossary/
+---
+
+Image
+Term
+Definition
+
+[![image](../data/images/67c7719e-3600-40ea-a0a0-5e3af21358ee-t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/641f7fbd-3cf1-4b9a-9033-d23dc02a6cf8.jpg)
+
+**AR Mode**
+
+
+
+Provides an augmented reality experience using your device’s camera.
+
+[![image](../data/images/06197b5b-f2f6-4d67-9c94-5453bcfae12c-t.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/189c791e-c8ea-4ebe-b6f1-17d6ccc7e9c9.jpg)
+
+**AR Mode+**
+
+
+
+An enhanced version of Pokémon GO’s augmented reality feature (AR Mode).
+
+
+
+**Battle**
+
+
+
+At rival Gyms, you can battle other teams’ Pokémon for a chance at claiming the Gym.
+
+ [![image]()]() [![image](../data/images/9d52e447-73f3-447f-a03e-0464bc64debd-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/4ef13617-4c27-415b-a73c-c22db43f19fb.png)
+
+**Candy**
+
+
+You acquire Candy by catching Pokémon, hatching Eggs, and transferring Pokémon to the Professor. Candy is used to evolve and strengthen Pokémon.
+
+
+
+**Combat Power (CP)**
+
+
+A Pokémon’s attack strength is measured in units of Combat Power. A Pokémon’s CP determines how well it will perform in battle.
+
+
+
+**Curveball bonus**
+
+
+A bonus earned by spinning a Poké Ball in a circular motion before you release it.
+
+
+
+**Defender Bonus**
+
+
+Use this bonus to redeem free PokéCoins for keeping your Pokémon in Gyms.
+
+[![image]()]()[![image](../data/images/4604f5cb-c220-48df-8931-90cdaa15e124-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/26e144db-d3e6-4537-8fcb-a11405e6681e.png)
+
+**Eggs**
+
+
+
+Pokémon Eggs are items that can be found at PokéStops. Once you place an Egg in an incubator and walk a specific distance, the Egg will hatch into a Pokémon.
+
+
+
+**Evolution**
+
+
+
+Evolution is the process of using Candy to change a Pokémon into an individual of an evolved species of Pokémon.
+
+
+
+**Evolution items**
+
+
+Items used in conjunction with Candy to unlock more evolutions of a Pokémon. You can collect Evolution items by visiting PokéStops.
+
+
+
+**Experience Points (XP)**
+
+
+
+Your advancement is measured in Experience Points (XP). Increase your XP to advance to higher Trainer levels.
+
+
+
+**Fainted Pokémon**
+
+
+
+A Pokémon faints when its HP is depleted to zero. Fainted Pokémon must be revived using the items Revive or Max Revive.
+
+[![image](../data/images/bc49954a-b300-4597-a98d-04134d44d7e2-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a219ebb0-4f89-4537-bcd7-0d667912aa53.png)
+
+**Gifts**
+
+
+When you spin a Photo Disc at a PokéStop or Gym, you have a chance of receiving a Gift. You can’t open the Gifts you receive, you can send them to a friend. Gifts contain an assortment of useful items, which your friend will receive along with a postcard showing where you picked up your Gift.
+
+[![image](../data/images/71fd56e8-d8d2-4b88-a682-1e2a75c324b4-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ee686c71-d40f-4c86-952b-596be872aaa8.png)
+
+**Golden Razz Berry**
+
+
+
+A more powerful version of the Razz Berry.
+
+[![image]()]()[![image](../data/images/97870ee1-6c79-4fe3-a4b4-fa15733bc1ed-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ac9872c2-b308-493c-b148-38a232ca27cf.png)
+
+**Gyms**
+
+
+
+Gyms are locations where you can battle the Pokémon of rival teams.
+
+Gyms belonging to your team are known as friendly Gyms, and Gyms that have been claimed by other teams are known as rival Gyms.
+
+Gyms that have not yet been claimed are known as open Gyms.
+
+
+
+**Hit Points (HP)**
+
+
+
+A Pokémon’s health is measured in Hit Points (HP).
+
+A Pokémon with zero HP faints. Use a Revive or Max Revive item to  revive fainted Pokémon.
+
+[![image]()]()[![image](../data/images/779c6262-7a14-4a41-bb68-c43d9d2719e0-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/1a7b318d-fa9d-46ec-9675-a32c93ff534d.png)
+
+**Incense**
+
+
+Incense attracts wild Pokémon to your location with its aromatic scent.
+
+[![image]()]()[![image](../data/images/921bd5cb-387c-4260-a541-01153efba41a-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/39c1f349-b1a7-4fb4-b202-abb6b7d074fd.png)
+
+**Incubator**
+
+
+
+Placing an Egg into an incubator allows it to hatch into a Pokémon as you walk.
+
+
+
+**King’s Rock**
+
+
+See Evolution items
+
+[![image]()]()[![image](../data/images/97396fdd-10d4-4ca5-a288-2171a5862a1b-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/2cdc773b-aef8-41d5-bba3-be8f054ae152.png)
+
+**Lure Module**
+
+
+You can attract wild Pokémon to a PokéStop for a limited time with a Lure Module.
+
+[![image]()]()[![image](../data/images/c8507bac-7875-4924-9355-bb9e8bba3b36-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/64475dfb-0eb8-4fc8-b4dc-cd454a3862a1.png)
+
+**Lucky Egg**
+
+
+You can double the amount of XP you earn in a certain amount of time by using a Lucky Egg.
+
+[![](../data/images/35affbfe-8407-4d83-b335-a6a5d66e85aa.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/35affbfe-8407-4d83-b335-a6a5d66e85aa.png)
+
+**Nanab Berries**
+
+
+During an encounter, you can feed this item to a wild Pokémon to slow down its movement and make it easier to catch.
+
+
+ **Map View**
+Map View is the main screen in Pokémon GO. It displays the map, your avatar, the locations of Pokémon, PokéStops, and Gyms in the real world.
+
+[![image]()]()[![image](../data/images/7682eaa0-777c-4927-95da-b9b1315c3e93-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/82d0c858-c891-4198-8596-27994a0bfd44.png)
+ **Medals**
+
+Medals are awarded to you for an array of gameplay achievements.
+
+
+
+**Metal Coat**
+
+
+See Evolution items
+
+[![](../data/images/15e7f6c7-1fb7-46f0-a27f-964073c4076f.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/15e7f6c7-1fb7-46f0-a27f-964073c4076f.png)
+
+**Pinap Berries**
+
+
+During an encounter, you can feed this item to a wild Pokémon to double the amount of Candy you’ll receive if your next catch attempt is successful.
+
+[![image](../data/images/6ba69a1e-0b86-4a67-b5d8-acde5e3b485a-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/3e08495f-87a2-4c86-a4f7-9cd711bfa7a8.png)
+
+**Poké Balls**
+
+
+
+Poké Balls are items used to capture wild Pokémon. They can be found at PokéStops and purchased in the shop.
+
+**Great Balls**  and  **Ultra Balls**  are high performance Poké Balls with a greater ability to catch wild Pokémon.
+
+**Premier Balls**  are used to catch the Raid Boss after successfully completing a Raid Battle. You cannot use Premier Balls to catch Wild Pokémon.
+
+[![image]()]()[![image](../data/images/523cf94b-09bc-4676-bea0-5c07673bfafa-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/410c1ac7-f948-44e9-ae2f-82a46614aa2e.png)
+
+**PokéCoins**
+
+
+PokéCoins are the currency that Trainers can exchange for premium items in the Shop.
+
+
+
+**Pokédex**
+
+
+
+Your Pokédex is where you’ll find info about all the Pokémon species you’ve caught or encountered.
+
+
+
+**Pokémon GO Plus**
+
+
+
+Pokémon GO Plus is an optional Bluetooth accessory to enhance Pokémon GO gameplay. This device allows you to catch Pokémon, hatch Eggs, and spin PokéStops without having to look at your phone.
+
+[![image]()]()[![image](../data/images/088b988f-2aae-4281-97ad-7d0d52381430-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/4a778958-7bb9-4f8b-b97f-9ddbdeb5ff8f.png)
+
+**PokéStops**
+
+
+
+PokéStops are locations where you can gather items such as Poké Balls, Potions, and Eggs.
+
+A PokéStop will change its shape when you walk close enough. Touch it to interact with it, and spin the Photo Disc to get items.
+
+
+
+**Photo Disc**
+
+
+The spinning disc in the center of PokéStops and on top of Gyms. Swipe the Photo Disc to gather items such as Poké Balls, Potions, and Eggs.
+
+[![image]()]()[![image](../data/images/c2a81b02-d0c5-48d1-a46c-7edddafc6371-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/519a62a5-b82e-4922-a64c-0ec9850a342d.png)
+
+**Potions**
+
+
+
+There are various Potions you can use to heal Pokémon. These items restore their HP (Hit Points).
+
+
+
+**Power Up**
+
+
+
+Using Stardust and Candy, Trainers can power up their Pokémon to increase their CP and HP.
+
+
+
+**Raid Battles**
+
+
+Raid Battles occur when a Boss Pokémon takes over a Gym. The goal is work with other Trainers to raid the Gym and defeat the Pokémon. If you and your fellow Trainers are successful, you’ll be rewarded with special items and a chance at catching that Pokémon.
+
+[![image](../data/images/bba7d9e4-b644-41c7-b72b-82be7fa52b30-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/8c3df716-af25-4d0c-86d5-a637257c20ad.png)
+
+**Raid Pass**
+
+
+To join a Raid Battle, you’ll first need a Raid Pass. There are three types of Passes: Raid Passes, Premium Raid Passes, and EX Raid Passes.
+
+[![image]()]()[![image](../data/images/40fce661-390e-48eb-a3e9-316067d95f71-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/e44103be-a9f5-41e8-944d-acadd650a99e.png)
+
+**Razz Berry**
+
+
+During an encounter, you can feed this item to a wild Pokémon to make it easier to catch.
+
+[![image]()]()[![image](../data/images/6449020d-1174-44c8-9590-d4be06cde065-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/60b0f929-2eaa-44d7-9b3a-898c7798cd24.png)
+
+**Stardust**
+
+
+
+Stardust is acquired by catching Pokémon, hatching Eggs, and earning the Defender bonus. It is used to Power Up Pokémon.
+
+
+
+**Sun Stone**
+
+
+See Evolution items
+
+[![image](../data/images/4fe331c6-b9ba-42db-bba7-30f791e62154-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/4c560352-e016-4ade-bf78-327dadd4b65a.png)
+
+**Super Incubators**
+
+
+
+This item hatches Eggs into Pokémon as you walk.
+
+The Super Incubators works like a standard Incubator but it hatches at a faster rate.
+
+
+
+**Trainer**
+
+
+
+Trainers are people who play Pokémon GO.
+
+
+
+**Up-Grade**
+
+
+See Evolution items
+
+
+
+**Wild Pokémon**
+
+
+
+Pokémon that have not been caught are known as wild Pokémon.
