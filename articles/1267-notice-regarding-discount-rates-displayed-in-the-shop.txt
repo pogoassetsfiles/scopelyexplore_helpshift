@@ -1,0 +1,32 @@
+---
+id: 1267
+title: Notice Regarding Discount Rates Displayed in the Shop
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+---
+
+For certain bundles or individual items sold in the shop, we may display the total cost of purchasing the items separately.
+
+For reference purposes, the chart below lists the stand-alone value in PokéCoin for items that may be offered in a pack or bundle.
+
+* Remote Raid Pass: 195
+* Premium Battle Pass: 100
+* Egg Incubator: 150
+* Super Incubator: 200
+* Poffin: 100
+* Poké Ball: 5
+* Incense: 40
+* Rocket Radar: 200
+* Star Piece: 100
+* Lucky Egg: 80
+* Max Potion: 25
+* Max Revives: 37.5
+* Specialty Lure: 180
+* Lure Module: 100
+* Item Bag Expansion: 200
+* Pokémon Storage Upgrade: 200
+* Postcard Page Upgrade: 100
+* Team Medallion: 1000
+
+Additionally, you may see a countdown timer in the Shop, which indicates the amount of time remaining to purchase that specific item, pack or bundle.
+
+Please note: the values shown above and the contents of packs/bundles or items may change or be discontinued without notice. While similar discount offers or bundles may appear at a later time, this is not guaranteed.
