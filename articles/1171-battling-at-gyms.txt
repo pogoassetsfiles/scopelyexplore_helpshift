@@ -1,0 +1,117 @@
+---
+id: 1171
+title: Battling at Gyms
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1171-battling-at-gyms/
+---
+
+## Gym overview
+
+Gyms are locations found throughout the world where you can battle the Pokémon of rival teams. Trainers from opposing teams battle for control of the Gyms. Each Gym has up to six Pokémon assigned to defend it. Trainers from an opposing team can bring six of their own Pokémon to battle against the defenders, in hopes of claiming the Gym for their own team.
+
+A Pokémon’s ability to be successful in battle is primarily influenced by its Hit Points (HP) and Combat Power (CP). HP is a measurement of the Pokémon’s health, and CP is a measurement of the strength of their attacks. Pokémon with high CP and high HP have powerful attacks as well as the ability to withstand attacks from opponents.
+
+Every Pokémon on a Gym has motivation, a measurement of the Pokémon’s desire to defend the location. Trainers from opposing teams battle to reduce the motivation of the Pokémon on the Gym. Pokémon gradually lose motivation over time and by losing battles against opposing team members. As a Pokémon loses motivation, its CP will temporarily decrease, making it weaker in battle. When a Pokémon’s motivation reaches zero, it leaves the Gym and returns to its Trainer the next time it loses a battle.
+
+For Gyms controlled by your team, your goal is to keep motivation up by giving the Pokémon treats. For Gyms controlled by opposing teams, your goal is to gain control of the Gym by depleting the motivation of opposing team’s Pokémon.
+
+## Battle at Gyms
+
+[![image]()]()A Gym controlled by a rival team can be claimed by defeating the Pokémon on the Gym. Each time you defeat a rival Pokémon, you reduce its motivation. When a Pokémon’s motivation is reduced to zero, it will leave the Gym and return to its Trainer the next time it loses a battle. When all the Pokémon leave the Gym, the Gym becomes open for you to claim.
+
+For Gyms with more powerful Pokémon, you want to work with other Trainers to defeat them. Gyms can be challenged by multiple Trainers at the same time. Trainers from two teams can even come together to take down a Gym controlled by a third team.
+
+When battling Pokémon, you battle Pokémon in the order they were assigned to the Gym; the Pokémon on the Gym for the longest time will battle first.
+
+[![image](../data/images/b3a5f7af-302a-4eee-a867-4bcf7893869b-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/af2e4dd9-9e51-460b-8226-1c73ffd6cfc7.png)
+
+### Join a battle
+
+Walk up to a Gym controlled by an opposing team and touch it to enter. Touch the  **Battle** button [![image](../data/images/ee0abca9-8ae5-4317-a65a-74b17ec06c80-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/cdf50edc-dc85-4ee3-8e10-e4ee32ce2625.png) to select your Pokémon for battle. You can bring a group of up to six Pokémon to battle against your opponents.
+
+Generally, Pokémon with high CP and HP make great additions to your group. Some Pokémon types and move types fair better against other Pokémon. For example, a Pokémon with Water-type attacks like Vaporeon will deal significant damage against Fire-type Pokémon like Arcanine.
+
+To help you pick a strong group to bring to battle, six Pokémon will automatically be recommended to use in the battle based your opponents’ strengths and weaknesses. You may customize the group or use one of your pre-selected Battle parties. Once you are happy with your selection, touch the  **GO Battle** button to start battling your opponent.
+
+### Moves and Attacks
+
+Once in the battle, you can perform one of three different actions:
+
+[![image](../data/images/fdf0aadb-b1e7-438c-b934-c86680ed95a5-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/e8997355-d1b2-4dae-a5d3-9a572e7bbe0b.png)
+
+**Fast Attack**
+
+Tap anywhere on the screen to perform a Fast Attack. Fast Attacks recharge your Charged Attack meter.
+
+[![image](../data/images/2c175e7f-4b6e-448b-add9-1e05bbc0bf17-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/725b7869-6a89-4f09-b04f-8f96ccee9433.png)
+
+**Charged Attack**
+
+Once your Charged Attack meter is full, the Charged Attack button will become enabled. Touch the button to perform a Charged Attack. Charged Attack causes large amounts of damage.
+
+[![image](../data/images/687f7ced-4413-412c-9c42-bc6e4e8e9fb8-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/bc244e2f-cd67-4c40-8aa5-409bf89aaeaa.png)
+
+**Dodge**
+
+Swipe to the left or right to dodge incoming attacks from the opponent.
+
+If you are able to reduce your opponent's HP to zero, the opponent will faint and you will win the round. After each round you win, you have the option to continue to the next round or end the battle.
+
+If all six of your Pokémon faint, you’ll lose the battle. To bring your Pokémon back to health, use Revives to restore fainted Pokémon and use Potions to restore any HP lost in battle. If you lose a battle, don’t feel discouraged. You can always battle again.
+
+## Claim an open Gym for your team
+
+[![image](../data/images/d472922c-9dba-40f9-a4ef-67d137022a39-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d5235168-bb0f-4b05-8507-53de8018f034.png) [![image]()]()
+
+Open Gyms are available for Trainers of any team to take. If you see an open Gym on the Map, walk up to it and assign a Pokémon to claim it for your team.
+
+Teams are able to assign up to 6 Pokémon to a Gym, but a single Trainer can only assign one Pokémon to the Gym — so you’ll need your teammates’ help in filling up the Gym. Only one Pokémon of a single species can be assigned to a Gym at one time. So if there’s a Pikachu assigned to a Gym, you won’t be able to assign another Pikachu.
+
+### To capture an open Gym:
+
+* Walk up to a gray-colored Gym.
+
+* Touch the Gym to enter it.
+
+* At the bottom of the screen, touch the  **Add Pokémon** [![image]()]() [![image](../data/images/68edd7d3-e3f1-45c0-a9a0-1342bb356104-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/5c7f40b7-c3e8-47e1-ab69-664a3169cd9d.png) button.
+
+* Select a Pokémon to add to the Gym. Your Pokémon won't be returned to your collection until it's knocked off the Gym, so choose carefully!
+
+Once your Pokémon is on the Gym, the Gym changes from gray to the color of your team. Your Pokémon will only stay on the Gym if it is happy, so be sure to keep your Pokémon’s motivation up by giving it treats often.
+
+## Give treats to Pokémon on friendly Gyms
+
+## [![image](../data/images/fc6cc2c7-7c1c-4186-a674-82dec97bcc3f-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/8f20c122-b323-4e41-966b-b324e2fa6cae.png)
+
+Gyms that match your Trainer’s team color are controlled by your teammates and are known as friendly Gyms. Reinforce a friendly Gym by giving Berries to the Pokémon, increasing the Pokémon’s motivation and making it harder for rival teams to capture the location.
+
+You can give Berries to any Pokémon on Gyms controlled by your team. You can give any kind of Berry to Pokémon - Golden Razz Berries, Razz Berries, Nanab Berries, and Pinap Berries. All Berries provide the same increase in motivation, with the exception of the Golden Razz Berry, which fully restores motivation. In addition to keeping your Pokémon happy and strong for battle, you’ll earn Stardust and XP for giving Berries to Pokémon defending Gyms.
+
+### To give a Berry to Pokémon:
+
+* Visit a Gym controlled by your team. You’ll see that each Pokémon has a motivation meter.
+
+* Touch a Pokémon you would like to give a Berry.
+
+* Touch the Berry to give it to the Pokémon. With each Berry, the Pokémon’s motivation meter will increase.
+
+### To give a Berry to Pokémon from afar:
+
+You can give your Pokémon treats even when you're not at the Gym, although your treats are less effective at long distances.
+
+* In Map View, touch the  **Main Menu**  [![image](../data/images/030ea812-20cd-4238-aba8-c9298da8748c-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a682b2ca-c0c3-41ed-a0aa-cd8fc43d7dd2.png) button.
+
+* Touch the  **Pokémon** [![image](../data/images/4d6e723e-8868-4063-8289-18514ce87bd9-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/1e4bca61-4d39-4e29-9b08-9c3003bcd23a.png)button.
+
+* Locate a Pokémon that is assigned to a Gym. Touch the Pokémon.
+
+* Touch the  **Go to Gym** button to give the Pokémon a Berry from afar.
+
+**Tip:**  you can check your Pokémon’s motivation meter anytime by viewing your Badge for the Gym.
+
+## Other Gym features:
+
+**Raid Battles:** When a Boss Pokémon takes over a Gym, you can participate in a Raid Battle to defeat this powerful Pokémon.
+
+**Gym Badges:** When battling in the Gym, defending the Gym for certain periods of time, or by giving Pokémon treats, you’ll receive recognition in the form of a Badge
+
+**Collecting items:** You can collect Poké Balls, Potions, and other items by spinning the Photo Disc at Gyms.
