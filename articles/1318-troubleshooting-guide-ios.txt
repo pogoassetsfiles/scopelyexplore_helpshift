@@ -1,0 +1,85 @@
+---
+id: 1318
+title: Troubleshooting Guide (iOS)
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1318-troubleshooting-guide-ios/
+---
+
+## GENERAL TROUBLESHOOTING STEPS
+
+Try completing the troubleshooting steps below in the order presented. You can also check out our issue-specific troubleshooting guides and other potentially helpful resources:
+
+* [Help with Sign-in Issues](https://niantic.helpshift.com/hc/faq/106-help-with-sign-in-issues-1585960582/)
+
+* [Help with In-Game Shop Purchases](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2042-help-with-in-game-shop-purchases/?p=web&s=shop&f=help-with-in-game-shop-purchases)
+
+* [Troubleshooting Adventure Sync](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2045-troubleshooting-adventure-sync/?p=web&s=troubleshooting&f=troubleshooting-adventure-sync)
+
+* [Troubleshooting the Pokémon GO Plus](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/385-troubleshooting-the-pokemon-go-plus/?p=web&s=accessories&f=troubleshooting-the-pokemon-go-plus)
+
+* [GPS Troubleshooting Guide](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2520-gps-troubleshooting-guide/?p=web&s=troubleshooting&f=gps-troubleshooting-guide)
+
+* [Reporting a Bug](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/379-reporting-a-bug/?l=en&p=all&s=general&f=report-a-bug)
+
+* [Known Issues](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1967-known-issues/?p=web&s=release-notes-known-issues&f=known-issues)
+
+### Ensure your Pokémon GO app is up to date
+
+Pokémon GO works best when using the newest version of the app. If you’re experiencing an issue with an older version of the app, please update your Pokémon GO app and see if this fixes the problem for you.
+
+* Open the  **App Store**  app.
+
+* Tap  **Today** .
+
+* Tap your  **profile**  button at the top of the screen.
+
+* Navigate to the  **Pokémon GO**  app and tap the  **Update**  button.
+
+### Check your internet connection
+
+Ensure your device is connected to a reliable data connection (Wifi, 3G, or 4G). Try switching internet sources: if you have trouble connecting to Wifi, try to connect using 3G or 4G. If you have trouble connecting to 3G or 4G, try to connect using Wifi.
+
+###
+
+### **Refresh your game data**
+
+Go to the Settings menu, select Advanced Settings, and tap Refresh Game Data. Refreshing your game data can resolve a variety of gameplay issues you may be experiencing.
+
+**Note:** Refreshing your game data may untoggle Adventure Sync. If you have Adventure Sync enabled, check that it's still toggled on after refreshing.
+
+### Use automatic system time
+
+Make sure that your device's time and date is set to update automatically. You can update your system time using your device’s Settings app.
+
+* Open the  **Settings**  app on your device.
+
+* Under  **Settings**  >  **General**  >  **Date & Time** , turn on the  **Set Automatically**  option.
+
+Visit the [Apple Support](https://support.apple.com/HT203483) website for additional support.
+
+### Clear Safari data
+
+Pokémon GO uses Safari to log into Pokémon GO. By clearing Safari’s data, you may be able to resolve some connectivity issues.
+
+* Open the  **Settings app**  on your device.
+
+* Select  **Safari** >  **Advanced**  >  **Website Data** .
+
+* Tap  **Clear History and Data** .
+
+For assistance performing these steps, please [visit this Apple Support help article](https://support.apple.com/HT201265) for more information.
+
+### Uninstall and reinstall Pokémon GO
+
+Delete the Pokémon GO app and reinstall the latest official version from the [Apple App Store.](https://itunes.apple.com/app/pok%C3%A9mon-go/id1094591345) Your game progress will not be lost by performing these steps, as all game progress is stored online.
+
+##
+
+### Reconnect Google’s access to Pokémon GO (Google accounts only)
+
+You may be able to resolve login issues by refreshing Google’s connection to Pokémon GO. Your game progress will not be lost by performing these steps.
+
+* Visit the [Google connected apps settings](https://security.google.com/settings/security/permissions) page and select Pokémon GO from the list of connected apps.
+
+* Click the  **Remove**  button to disconnect Pokémon GO from your Google account. [![image](../data/images/75f4d827-7a7b-4c7d-8a2b-72201bac799b-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/3d71807c-89c0-4bf9-aa80-d1338954e905.png)
+
+* To reconnect your Google account, log into Pokémon GO as you normally would. Open Pokémon GO on your phone and log in using your Google account.
