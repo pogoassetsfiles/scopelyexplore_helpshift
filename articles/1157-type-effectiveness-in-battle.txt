@@ -1,0 +1,89 @@
+---
+id: 1157
+title: Type Effectiveness in Battle
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1157-type-effectiveness-in-battle/
+---
+
+Understanding  **Pokémon types**  and  **attack types**  is an essential part of becoming a skilled Pokémon Trainer. Pokémon have different types, and so do their attacks. These types strongly influence the effectiveness of defense and attacks in battle.
+
+Each type has various strengths and weaknesses, so it’s important to design your battle parties with a strategic combination of types to cover a wide range of potential attacks or specifically target weaknesses in another party’s defense.
+
+For example, from a defending perspective, Grass-type Pokémon like Tangela are  **weak against**  Flying-, Poison-, Bug-, Fire-, and Ice-type attacks but  **strong against**  Ground-, Water-, Grass-, and Electric-type attacks. From an attacking perspective, Grass-type attacks are strong against Water-, Rock-, and Ground-type Pokémon and weak against Bug-, Fire-, Flying-, Grass-, Poison-, Dragon-, and Steel-type Pokémon.
+
+[![image](../data/images/5e9d1a65-1b35-487b-b65e-3febdd37791e.gif)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/5e9d1a65-1b35-487b-b65e-3febdd37791e.gif)
+
+In a battle, you can tell if an attack is strong or weak by the prompts that appear on screen. Strong attacks are  **super effective** , while weak attacks are  **not very effective** .
+
+### Dual-Type Pokémon
+
+Some Pokémon have two types rather than just one. Rayquaza, for example, is a Flying- and Dragon-type Pokémon. This means Rayquaza is extra weak against Ice-type attacks, since Ice-type attacks are strong against both Dragon- and Flying-type Pokémon.
+
+On the other hand, Rayquaza is extra strong against Grass-type attacks, because Grass-type attacks are weak against both Dragon- and Flying-types.
+
+[![image](../data/images/2522b512-e13d-4f04-90eb-37efaf86ebf6.gif)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/2522b512-e13d-4f04-90eb-37efaf86ebf6.gif)
+
+### Matching Attack Types with Pokémon Types
+
+Pokémon often know and learn moves that match their type. For example, Pikachu is likely to know Electric-type attacks when first caught and can learn Electric-type attacks from TMs.
+
+A Pokémon’s attack receives a boost in power when they use attacks that match their type. This means if an Electric-type Pokémon uses Electric-type and non-Electric-type Charged Attacks with the same damage output, the Electric-type attack will do more damage than the non-Electric-type attack. Pokémon still may know and learn attacks that don’t match their type, but these attacks don’t receive power boosts.
+
+Dual-type Pokémon can take advantage of this with attacks that match either of their types. Consider teaching Dual-type Pokémon attacks that match both of their types to maximize your damage potential.
+
+### Immunity
+
+Some Pokémon are immune to certain types of attacks. In Pokémon GO, this means they take even less damage than other “not-very-effective” attacks. For instance, Ghost-type Pokémon are immune to Normal-type attacks and strong against Poison-type attacks, so a Pokémon using a Normal-type attack will do less damage than a Poison-type attack of the same strength.
+
+### Strength, Weakness, and Immunity by Type
+
+[![image](../data/images/26bef714-cf9a-4c26-98ac-15a2b7259db6-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d8c66d7d-b68e-47c3-90e4-b6379586d915.png)
+
+### Type Chart Legend
+
+**Y-axis**  = Attacking
+
+**X-axis** = Defending
+
+**Green circle** = Super effective
+
+**Red triangle** = Not very effective
+
+**White space** = Normal effectiveness
+
+**Black X** = Immune
+
+[![image](../data/images/37ee1c5e-cfb9-408b-a692-a9f5d6cf0aad-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a438403c-3803-441d-8e65-0b95ede4d916.png)= Normal
+
+[![image](../data/images/14ccd68a-b16d-4836-a659-97145c1f6c44-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/247e5a77-d058-43aa-9b18-e63dc0215d0c.png)= Fire
+
+[![image](../data/images/2cdee738-aa09-453a-81d8-91b159d489be-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/5463a963-ce9d-4e0d-ae8b-1ee7410b0598.png)= Water
+
+[![image](../data/images/b41b7610-b652-4c53-af9f-d85e533031a2-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/b41b7610-b652-4c53-af9f-d85e533031a2-2t.png)= Grass
+
+[![image](../data/images/b10d6cca-6843-402d-9c20-c6170e322e83-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/506b5139-9674-475f-a843-a81271883ef5.png)= Electric
+
+[![image](../data/images/e0278a34-ed88-4afe-95d1-996f2a8a7996-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/0a991b3e-849d-425f-9312-b7ac8fda78cd.png)= Fighting
+
+[![image](../data/images/e5499b03-b0c1-4e97-9622-b09a3b6e14e2-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c6950852-d1b0-41cd-9bff-bad235cde2ee.png)= Poison
+
+[![image](../data/images/1222c5c7-f6c8-49c3-b103-98c35437744e-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c4b65442-e7e2-4428-a27b-1c811c03c207.png)= Ground
+
+[![image](../data/images/b1698007-0cd5-4373-8280-bc62af4896f1-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/b99c65bf-8fb8-46dd-b466-49334860634c.png)= Flying
+
+[![image](../data/images/cdd4e551-0e47-435a-8dae-b77beb71996f-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/27d5af84-3bbe-4420-a6b9-83fe94923bc6.png)= Psychic
+
+[![image](../data/images/788164e6-f8f3-4b2e-9048-6d76db654e65-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/58650946-c659-4eb6-8409-cbe3fe89d46f.png)= Bug
+
+[![image](../data/images/44a15623-a6c1-4ad8-8f3e-45652caf5ab2-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/178b3e1a-1367-4969-a1b8-a83b374c8b48.png)= Rock
+
+[![image](../data/images/d55a9903-08fd-4ab5-bf8d-65599f84c627-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/5ce9d46a-c731-4823-a849-369c0c1aa3c9.png)= Ghost
+
+[![image](../data/images/b8a308a3-9774-4572-8250-c3bcd54d322e-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/f104dba0-746e-4b74-a441-9f5c1fa00cbc.png)= Ice
+
+[![image](../data/images/bb171853-4f0a-4f13-ae64-3d5fa101b47c-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/25c3285c-65d8-48cf-8a35-894cd6c65675.png)= Dragon
+
+[![image](../data/images/2bda3965-e1f1-4a11-a2bb-e414a0ce268d-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/7e8bb017-5475-46ff-bc62-024fd1205c17.png)= Dark
+
+[![image](../data/images/b0aecd7c-f861-48a1-995b-3e712739ea7f-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/77272078-f4d0-46cc-81ae-a77da5ec2c1d.png)= Steel
+
+[![image](../data/images/3e50cd56-db91-4c32-9872-5e2332a2f7a1-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/517f7eb5-9188-484f-8fb2-11415d3692c2.png)= Fairy
