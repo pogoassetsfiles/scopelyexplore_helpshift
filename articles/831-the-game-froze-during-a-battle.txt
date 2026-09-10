@@ -1,0 +1,31 @@
+---
+id: 831
+title: The game froze during a battle
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/831-the-game-froze-during-a-battle/
+---
+
+If your game freezes during a battle, use the following troubleshooting steps to clear the app's cache:
+
+**STEP 1** : Restart the Pokémon GO app or your device.
+
+If restarting the Pokémon GO app does not resolve the problem, please try restarting your device.
+
+**STEP 2:**  Clear the cache within the Pokémon GO app:
+
+Settings > Advanced Settings > Clear Cache
+
+**If you are using an Android,** Go to the settings of the Pokémon GO app and clear both the app cache and data.
+
+**Please note** : Clearing the cache will reset the adventure mode settings. We apologize for the inconvenience, and kindly ask you to reconfigure the adventure mode settings after clearing the cache at your convenience.
+
+**STEP 3:** Uninstall and reinstall the Pokémon GO app.
+
+If the recommended steps do not provide any results, check out the links below for more troubleshooting tips:
+
+**Android:**
+
+https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/401-troubleshooting-guide-android/
+
+**iOS:**
+
+https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/70-troubleshooting-guide-ios/
