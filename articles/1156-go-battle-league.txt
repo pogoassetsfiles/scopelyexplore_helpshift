@@ -1,0 +1,46 @@
+---
+id: 1156
+title: GO Battle League
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1156-go-battle-league/
+---
+
+**GO Battle League**  is a global matching system that lets you battle with other Trainers around the world, earn rewards, and improve your global ranking.
+
+**Note** : This feature is only available to Trainers who are Level 10 and above.
+
+### Entering GO Battle League
+
+To access GO Battle League:
+
+* Tap the  **Main Menu**  [![image](../data/images/94f0772e-c3a6-478e-9390-13f39ca61aed-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/bfca478a-c7f2-4556-aae2-b65fab100051.png) button
+* Tap  **Battle**  [![image](../data/images/37eff32f-a90e-48b9-b1ba-ef1d7fed5684-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/70912eef-a259-448a-a643-6e1565044931.png)
+
+### Selecting Rewards
+
+Each win you achieve in a GO Battle League set yields a particular reward. You can unlock different rewards with each subsequent win in a single set. Before beginning a set, pick the type of rewards you wish to receive (Basic Rewards or Premium Rewards) before tapping Battle to begin searching for a match. You must exchange a Premium Battle Pass to receive Premium Rewards.
+
+### Seasons
+
+**GO Battle League**   **seasons**  are periods of time after which ranks and ratings are reset. Typically, each season of GO Battle League will progress through Great, Ultra and Master League battles, with only one league available at a time.
+
+All Trainers who participate in GO Battle League will receive end-of-season rewards. You can see when the current season will end under the “Current Season” section of the Battle screen.
+
+### Battling Other Trainers
+
+Once you’ve selected your battle party, Pokémon GO will match you with another Trainer that is currently seeking a battle. Once you’re paired up and the battle begins, use [Trainer Battle tactics](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2308-battling-other-trainers/) to defeat your challenger.
+
+**Note** : You cannot use two or more of the same species of Pokémon in a GO Battle League party.
+
+**Penalties for Leaving a Battle**
+
+Intentionally exiting a GO Battle League match results in an automatic loss for that match in the set. If you lose your internet connection or your app crashes unexpectedly, you may still be able to rejoin the battle by rebooting the app, but your opponent can continue attacking your Pokémon while you attempt to rejoin.
+
+To avoid being at a disadvantage during your battle, please ensure you have a strong internet connection before starting a match. However, strong Wi-Fi signal or cellular data (i.e. having full bars) isn't always sufficient to guarantee a stable connection. Both may slow down during periods of heavy usage, and you also may experience an unstable connection while traveling in a moving vehicle.
+
+### Ranks and Ratings
+
+Trainers who participate in GO Battle League are assigned a  **rank** , a measure of how many matches you’ve played and/or how many matches you’ve won. Once you attain a new rank, you cannot drop below it for the rest of the season. Ending a season with a higher rank results in better end-of-season rewards.
+
+**Note** : Only Trainer Battles initiated by the GO Battle League global matching system will influence your GO Battle League Rank. Battling nearby Trainers through scanning a Battle Code, battling friends through the Friends list, or training with Team Leaders will not influence your GO Battle League rank.
+
+Rules for how to unlock ranks vary by season.
