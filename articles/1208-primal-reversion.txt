@@ -1,0 +1,89 @@
+---
+id: 1208
+title: Primal Reversion
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1208-primal-reversion/
+---
+
+**Primal Reversion**  is a type of transformation, similar to Mega Evolution, where certain Pokémon will temporarily take on a new appearance, affect weather bonuses, improve their performance in battle, and receive other unique benefits.
+
+Please note that you can only have one Pokémon either Mega Evolved or having undergone Primal Reversion at a time.
+
+### What is Primal Energy?
+
+In order to undergo Primal Reversion, you will first need to collect enough  **Primal Energy**  for that Pokémon. You can collect Primal Energy in multiple ways. Once your Pokémon has undergone Primal Reversion, you will no longer need as much Primal Energy for future Reversions.
+
+You can earn Primal Energy by defeating a Pokémon that has undergone Primal Reversion in a Raid Battle or by completing specific research tasks.
+
+It’s important to note that Primal Energy can only be used for one specific Pokémon species. For example, the Primal Energy listed on Kyogre’s summary page can only be used for Kyogre’s Primal Reversion.
+
+### How to Initiate Primal Reversion
+
+When you’ve collected enough Primal Energy, go to an eligible Pokémon’s summary page and tap “ **Primal Revert.** ” Your Pokémon can also undergo Primal Reversion from the Raid Battle Lobby or when selecting your GO Battle League Battle Party.
+
+![](../data/images/f75413da-c043-4205-aee5-63c12433bcde.jpg)
+
+![](../data/images/49adcb92-b1ba-455e-b0f3-2c22302f0007.jpg)
+
+The first time a Pokémon undergoes Primal Reversion it will require a significant amount of Primal Energy,  however, future Primal Reversions for that specific will require less Primal Energy over time. Different Pokémon species may require different amounts of Primal Energy to undergo Primal Reversion.
+
+After undergoing Primal Reversion, your Pokémon will stay in their primal form for 8 hours, after which they will return to their standard form.
+
+### Primal Levels
+
+**Primal Levels**  are a special type of bonus that is only active while a Pokémon has undergone Primal Reversion. The more often a specific Pokémon undergoes Primal Reversion, the higher its Primal Level will be. The Primal Level also doesn’t reset when Primal Reversion ends. Note that you can only contribute to an individual Pokémon's Primal Level once per day.
+
+The higher your Pokémon’s Primal Level, the more bonuses that will be active when that Pokémon has undergone Primal Reversion. These bonuses can affect your gameplay in a variety of ways, for example, increasing XP catch bonuses for Pokémon of the same type as the Primal Reversion Pokémon.
+
+![](../data/images/a318d27f-8aba-49f3-9d15-f3d4aa8bfd7f.jpg)
+
+![](../data/images/31b969df-3e36-4539-bf9f-97c091c261e5.jpg)
+
+You can see a Pokémon’s Primal Level, and the bonuses associated with that Pokémon’s Primal Level, by tapping on the icon on its Pokémon details page.
+
+For more details on what actions are required to increase your Pokémon’s Primal Level, and the bonuses associated with that Primal Level, tap on the next Primal Level icon.
+
+### Benefits of Primal Reversion
+
+Primal Reversion can benefit Trainers in several different ways:
+
+**Raiding**  - In addition to having improved CP, attack, defense, and HP themselves, Pokémon that have undergone Primal Reversion give other Pokémon special bonuses when brought to a Raid Battle. While a Pokémon that has undergone Primal Reversion is on the battlefield, all Trainers’ Pokémon may receive an attack boost to all their attacks and gain an additional attack boost if their attack types match the change that Primal Kyogre or Primal Groudon has made to the weather. However, these bonuses don’t stack if there are multiple Mega-Evolved or Pokémon that have undergone Primal Reversion battling simultaneously, and the highest possible attack boost will be applied.
+
+Your Pokémon is able to undergo Primal Reversion from the Raid Lobby. If you have a Pokémon in your Raid Party that is eligible to undergo Primal Reversion, a Primal Reversion icon will appear in the top left corner of your Battle Party. Tap to select which of your eligible Pokemon to undergo Primal Reversion ahead of the Raid Battle start.
+
+In a Raid Lobby, Trainers with active Pokémon that have undergone Primal Reversion have an icon next to their avatar and an aura surrounding them.
+
+**Gym Battling**  - You can battle at Gyms with Pokémon that have undergone Primal Reversion, but note that you can’t leave them at a Gym to defend it. The attack boost applied to Raid Battles also applies to Gym battles. If you’re attacking a Gym with a Pokémon that has undergone Primal Reversion, other Trainers attacking the Gym at the same time will receive a boost to all their attacks and an additional attack boost if their attack types match the Pokémon that has undergone Primal Reversion’s type(s).
+
+**Battling Team GO Rocket**  - Use Primal Kyogre or Primal Groudon to battle Team GO Rocket grunts or leaders, including Giovanni.
+
+**Battling Friends**  - You can battle someone on your Friend List with your Pokémon that has undergone Primal Reversion, but they can’t be used in GO Battle League unless they are in their standard form.
+
+**Make them your buddy**  - You can set a Pokémon that has undergone Primal Reversion as your active buddy. If you’re Best Buddies, you’ll gain your Best Buddy CP boost in addition to the Primal boosts. You can also explore with the primal form of your Buddy Pokémon on the Map.
+
+**Take a GO Snapshot**  - You can take GO Snapshots of Pokémon that have undergone Primal Reversion just as you can with other Pokémon.
+
+**Catching other Pokémon**  - You can earn additional Pokémon Candies when you have an active Pokémon that has undergone Primal Reversion and you catch a Pokémon that shares its type.
+
+### Primal Raids
+
+**Primal Raids**  are similar to standard Raid Battles. However, the Pokémon you are challenging is more powerful than you may have previously experienced. To improve your chances of defeating the Primal Raid, try Mega Evolving a Pokémon in your Raid Party, inviting Friends to join you in the Primal Raid, or both!
+
+### Frequently Asked Questions
+
+**My Pokémon returned to its standard form before the timer ran out.**
+
+Trainers can only have one Primal or Mega-Evolved Pokémon active at a time. If your Pokémon undergoes Primal Reversion or Mega Evolves while another Pokémon is in primal form or Mega-Evolved, the first Pokémon will turn back into its regular form.
+
+Pokémon that have undergone Primal Reversion will stay in their primal form for 8 hours, after which they will return to their regular form. You can see the remaining time on your Pokémon that have undergone Primal Reversion’s summary page and on the Map.
+
+**I defeated a Primal Raid Boss, but they turned back into their regular form for the encounter.**
+
+When you defeat a Primal Raid Boss, they will turn back into their regular form before you encounter and catch them, so their regular form will appear in your storage. To turn them into their primal form, collect enough Primal Energy to undergo Primal Reversion.
+
+**I can’t power-up my Primal Kyogre or Primal Groudon**
+
+Pokémon can’t be powered up while in their primal form. Their boosted stats are calculated based on their stats in their normal form, so make sure you’ve powered up a Pokémon as much as possible before they undergo Primal Reversion.
+
+**I’m not collecting any Primal Energy after defeating a Primal Raid Boss.**
+
+Trainers can only collect 9,999 Primal Energy per Pokémon species. If you reach this limit, you will not receive Primal Energy after defeating a Primal Raid Boss.
