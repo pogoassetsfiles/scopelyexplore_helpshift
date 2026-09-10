@@ -1,0 +1,31 @@
+---
+id: 1200
+title: How can I increase a Pokémon’s Mega Level?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1200-how-can-i-increase-a-pokemon-s-mega-level/
+---
+
+**Mega Levels** are a special type of bonus that is only active while a Pokémon is Mega-Evolved. The more often you Mega Evolve a specific Pokémon, the higher its Mega Level will be. The Mega Level also doesn’t reset when Mega Evolution ends.
+
+However, Mega Evolving won’t be enough to unlock the highest Mega Level, Super Max Level. Super Max Level can only be unlocked by using the Pokémon’s Mega Energy to power it up.
+
+The higher your Pokémon’s Mega Level, the more bonuses that will be active when that Pokémon is Mega-Evolved. These bonuses can affect your gameplay in a variety of ways, for example, increasing XP catch bonuses for Pokémon of the same type as the Mega-Evolved Pokémon.
+
+You can see a Pokémon’s Mega Level, and the bonuses associated with that Pokémon’s Mega Level, by tapping on the Mega icon
+![image](../data/images/6a0ee35b-64b0-412f-b2b5-478f31cc2e84.png)
+ on its Pokémon details page.
+
+![image](../data/images/e4e1ed0a-9491-4a87-b45e-2b632c0a3562.png)
+
+For more details on what actions are required to increase your Pokémon’s Mega Level, and the bonuses associated with that Mega Level, tap on the next Mega Level icon.
+
+![image](../data/images/4333804e-1875-4e2a-823e-42ae19649d8d.png)
+
+![image](../data/images/3e9db8ae-a0e7-4c4f-bfdd-bee8849ccbf7.png)
+
+![image](../data/images/6b76f6bf-c516-4bc6-a42d-b79ec1749a77.png)
+
+## **FAQ**
+
+Q: Do I need to use Mega Energy to Mega Evolve each individual Pokémon even if I have Mega Evolved a Pokémon from the same species?
+
+A: Yes, each Pokémon requires Mega Energy to be used when first Mega Evolving that Pokémon even if you have already Mega Evolved a Pokémon from the same species.
