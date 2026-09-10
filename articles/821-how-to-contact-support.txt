@@ -1,0 +1,70 @@
+---
+id: 821
+title: How to Contact Support
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/821-how-to-contact-support/
+---
+
+In general, the best way to contact Pokémon GO support is through our in-app support system. To contact support through the app:
+
+> * From the Map View, open the  **Main Menu**   [![](../data/images/bd39828d-1db2-48b0-920b-3bf5232526a0.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/bd39828d-1db2-48b0-920b-3bf5232526a0.png)
+> * At the top right, tap  **Settings**   [![](../data/images/75454976-8900-4f96-93c5-27941114272a.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/75454976-8900-4f96-93c5-27941114272a.png)
+> * Tap on  **Help** [![image](../data/images/f65faf80-d324-40bc-95dc-70a5fd5c5582-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/89889191-5c8f-43e1-9760-1eec354c57a6.png) in the top right corner to access the help center.
+> * Tap this button in the upper right corner.  [![](../data/images/1fb6ed04-3849-4979-8751-b8368f455504.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/1fb6ed04-3849-4979-8751-b8368f455504.png)
+
+However, there may be a more suitable contact method for your specific issue or Help Center articles that can help you out. Review the topics below to learn more.
+
+### Sign-in Help
+
+For assistance with signing in, check out these troubleshooting guides:
+
+* [Account Issues and Help with Sign-in](https://scopelyexplore.helpshift.com/hc/faq/1275-help-with-sign-in-issues/)
+* [Troubleshooting Guide (iOS)](https://scopelyexplore.helpshift.com/hc/faq/1318-troubleshooting-guide-ios/)
+* [Troubleshooting Guide (Android)](https://scopelyexplore.helpshift.com/hc/faq/1317-troubleshooting-guide-android/)
+
+### Reporting a Bug
+
+To report a bug with Pokémon GO that isn’t already listed under the [known issues search results](https://niantic.helpshift.com/hc/en/6-pokemon-go/search/?q=known+issues&t=cGFnZT0x), please contact us through the app.
+
+**You won't get an individual response to your report, but we’ll use this information to help us reproduce the issue and identify trends.**
+
+Using the in-app option allows us to collect important contextual information (like app version and device model) to better investigate bugs.
+
+### In-Game Shop Purchases
+
+If you purchased PokéCoins and wish to receive a refund, please contact [Apple Support](https://support.apple.com/HT204084) (iOS users), [Galaxy App Store](https://www.samsung.com/us/support/answer/ANS00076970/) (Samsung users), or [Google Play Help](https://support.google.com/googleplay/answer/2479637) (Android users) to review their respective refund policies, request a refund, or to inquire about a recent transaction.
+
+If you have a question about an item purchased from the shop using PokéCoins, please contact us through the app.
+
+Please note that app store refund policies may vary based on the location of user and the age of user, including legal minority, at the time of purchase, as may be required by applicable law.
+
+* [Apple](https://www.apple.com/legal/internet-services/itunes/)
+* [Google](https://support.google.com/googleplay/answer/2479637)
+* [Samsung](https://developer.samsung.com/terms)
+
+### Requesting Modification or Removal of an In-Game Location (PokéStops or Gyms)
+
+If you believe an in-game location should be modified or removed, you can submit a request for us to review an in-game feature representing a real-world location. Please [visit this page](https://scopelyexplore.helpshift.com/hc/faq/1225-reporting-pokestop-or-gym-issues/) for information on how to submit a request.
+
+### Reporting Inappropriate Gameplay
+
+To report a player or service that violates the Terms of Service or the Scopely Explore Player Guidelines, contact us through the app. Please note that we can't discuss any actions we may have taken on another player’s account.
+
+### Submitting a Ban Appeal
+
+Our goal is to provide our players with a fair, fun, and legitimate gaming experience. We maintain a [Three Strikes Policy](https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/) against cheating and actively remove players that do not respect the rules the rest of the community follows. If you believe you were incorrectly punished, please review [this page](https://scopelyexplore.helpshift.com/hc/faq/1291-submitting-a-ban-appeal/) to submit a ban appeal.
+
+### Deleting my Account
+
+For account deletion requests, please contact us [using this form](https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/contact-us/) and select "Delete My Account" under the issue type dropdown menu. Please note that this action cannot be reversed once fully processed.
+
+### Requesting my Data
+
+Request your data by contacting us through the support menu in the app.
+
+### Inquiries About Pokémon GO Game Content Available at PokéPark KANTO
+
+If you experience any issues or would like to share feedback regarding PokéPark KANTO game content (including Raid Battles, Field Research, or Pokémon encountered in the wild), please contact us through the Pokémon GO app.
+
+## Follow Us on Social Media
+
+[Like Scopely Explore Support on Facebook](https://www.facebook.com/Scopely ExploreSupport/) or [follow @Scopely ExploreHelp on Twitter](https://twitter.com/niantichelp) to hear about changes and updates to all of our games.
