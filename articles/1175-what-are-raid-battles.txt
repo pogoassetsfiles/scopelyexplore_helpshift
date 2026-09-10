@@ -1,0 +1,131 @@
+---
+id: 1175
+title: What are Raid Battles?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1175-what-are-raid-battles/
+---
+
+**Raid Battles** occur when a Boss Pokémon takes over a Gym. Your goal is to defeat this powerful Pokémon. If you and your fellow Trainers are successful, you’ll be rewarded with special items and a chance at catching that Pokémon. You can't do it alone; you’ll need help from fellow Trainers to raid the Gym and (hopefully) prevail.
+
+Raid Battles aren’t your typical Gym battle; your opponent is more difficult to defeat than most other Pokémon. Raids have several tiers of difficulty: tier 1, tier 3, tier 5, Mega Raids and Mega Legendary Raids. The higher the difficulty, the stronger the Raid Boss and the more players you’ll need in order to succeed. There are also several different types of specialty raids, [learn more about the different types of raids](https://niantic.helpshift.com/hc/faq/29-types-of-raid-battles-1677510797/).
+
+## FINDING A RAID BATTLE
+
+You’ll receive a notification of Raid Battles happening nearby. You can also use the Nearby feature to locate raids happening around you or [accept a raid invitation from a friend](https://niantic.helpshift.com/a/pokemon-go/?p=web&s=top-articles&f=inviting-friends-to-raid-battles), no matter how far away you are from the Raid Battle.
+
+![image](../data/images/ad_4nxf1kuby8rapolusyk3967bzotfcgxtkes96a5dmbxitaf8dgqvfewujc92tdqohqf5c4e10hr36pzydwupq98jwcn6pzn9snjlagi_d9ogjk8mwdedznakivgywaffzzm7hxoajiaqzy0nl2cididqaauw.png)
+
+Before the raid begins, a Raid Egg will appear on top of the Gym. A countdown will display the time until the Egg hatches and the battle begins. If there are other Trainers in the Raid Lobby, you will also see a counter appear below the Raid Egg and in the Nearby feature. Don't worry if you miss a chance to join a Raid Battle as they happen frequently.
+
+## RAID PASSES
+
+**Raid Passes**  are items required to join Raid Battles. There are four types of passes:
+
+**Raid Pass**
+
+You can earn a Raid Pass by spinning the Photo Disc at a Gym. You can only hold one Raid Pass at a time, and you can only receive one per day. This pass grants access to Tier 1-5 Raid Battles.
+
+[![](../data/images/fe798cc8-5108-4862-819b-39a65ef93741.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/fe798cc8-5108-4862-819b-39a65ef93741.png)
+
+**Premium Battle Pass**
+
+If you have already used your Raid Pass, you can participate in another Raid Battle by purchasing a Premium Battle Pass from the Shop. Unlike the Raid Pass, you can hold more than one Premium Battle Pass in your inventory at a time. Like the Raid Pass, the Premium Battle Pass also grants access to Tier 1-5 Raid Battles. Premium Battle Passes can also be used to [unlock Premium rewards in GO Battle League](https://niantic.helpshift.com/a/pokemon-go/?p=web&s=top-articles&f=go-battle-league).
+
+[![](../data/images/30075992-7a2a-42cd-8f68-3fe949349e19.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/30075992-7a2a-42cd-8f68-3fe949349e19.png)
+
+**Remote Raid Pass**
+
+With a  **Remote Raid Pass** , Trainers can join any Raid Battle that's on the Nearby screen or tapable from the Map View. [Learn more about raiding remotely.](https://niantic.helpshift.com/a/pokemon-go/?p=web&s=top-articles&f=joining-raids-remotely)
+
+[![](../data/images/d28e8487-3340-4c2d-8e7f-6551416691ab.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d28e8487-3340-4c2d-8e7f-6551416691ab.png)
+
+**EX Raid Pass**
+
+This pass grants you access to an EX Raid. This pass can only be used at a specific Gym at a specific time. To receive an EX Raid Pass, you must have successfully completed a raid recently by defeating a Raid Boss at the Gym where the EX Raid Battle will be taking place.
+
+[![](../data/images/df6a7271-871f-4399-8933-2825dd3c4b8e.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/df6a7271-871f-4399-8933-2825dd3c4b8e.png)
+
+**To increase your chances of receiving an EX Raid Pass:**
+
+* **Join more Raid Battles.** The more Raid Battles you successfully complete, the greater your chances to receive an EX Raid Pass.
+* **Try completing raids at a variety of different Gyms.**
+* **Earn more Gym Badges.** Trainers with a high-level Gym Badge are more likely to be invited to EX Raid Battles taking place at that Gym.
+
+## JOINING A RAID BATTLE
+
+Once the Egg hatches, the raid begins and you have 45 minutes to defeat the Boss. Any number of Trainers can join a raid, but only in groups of up to 20 Trainers. If you would like to be in the same group as your friends, you can join the raid privately. Otherwise, you will be automatically matched with other players in the lobby.
+
+* **Enter the Gym** - Tap a Gym while a raid is in progress. To join remotely, you can also go to the Nearby screen and tap “View” under the raid you want to join.
+
+![image](../data/images/ad_4nxcoyrifwdslmxuj_qje6qbqxnzw832jptlcmvqizoihwygrjt6h0dxwbmvcjf7bh_lqgc32kzl5ymxcrtgtbgvzjyerxsxwpt3lurlu4qq5mmz8n4webgzcyogmf5-4ydqxbrxrtd9ujqtslzq4opyop68.png)
+* **Join the Battle**  - Choose how you’d like to join: Tap  **Battle**  to be automatically matched with other players. Tap  **Join Privately**  to enter an existing group. You’ll be asked to provide a group code.
+
+![image](../data/images/ad_4nxcntglois22lszmvixrlw3bi73uhoto1yxstki3rydls7yocqrr01uiqskr2gntamnzdrih9jw1srhy8r8hl4w5perzzo1bgy6bmucsc-8q2spjwgqz8fti9vgnnfmivxnrnb3jmkgt6cw_g_efjg5j75i.png)
+* **Use Raid Pass**  - You’ll exchange your Pass for entry into the raid.
+
+![image](../data/images/ad_4nxdey2grgc2w0og0u3esvmsrj-mz867tfwilbmw-xceafofdnaqfejpdf3eug5d1xgqtkzv51niqgl51ts-dzc-8znixp1bvr76hzc-39egrbenbm0g2ol06kbgkqup6hhpjwv1hcg8md6imgpgm3r-bbi4.png)
+* **Pick your Pokémon**  - Just like in a [Gym battle](https://niantic.helpshift.com/a/pokemon-go/?p=web&s=gyms-and-battle&f=battling-at-gyms), you’ll choose 6 Pokémon to battle in the raid. If you want your friends to join your group, share the group code displayed on the top right.
+
+![image](../data/images/ad_4nxdbvpxd2jekkvg8yjyf2ppmw0nrpjmnxxis_31qjyfck58emcafs5lx2hts3k_klt5rwjt721-fwwpabbr6-vgvw161yg1cgivhqecpeieospk4kly9xlgxjoahv8c5ukjzg5ef_ujeucrkrgalteszfum.png)
+
+Raids with more than two participants will feature a  **Ready**  button. Tap this button when you have finalized your Battle Party to indicate that you are ready to enter the battle. After all members who have joined the raid have tapped the Ready button, the timer will jump to a 10-second countdown.
+* **Begin Battle**
+
+### RVSP to a Raid Battle
+
+Using the Raid RSVP Planner, Trainers can schedule raids ahead of time, and see how many fellow Trainers have RSVP’d in advance for a specific raid and receive reminders before the raids begin.
+
+### How to RSVP to a raid:
+
+* Tap on a Gym with either an upcoming or active raid.
+* For an upcoming raid: Tap on the  **Select Time**  button.
+For an active raid: Tap the calendar icon [image] that appears to the right of the  **Battle**  button.
+* Select from one of the available time slots. You can see how many other Trainers have already RSVP’d to each time slot. Note that the raid details, including time, location and whether it is a local raid will appear at the top of this menu.
+* Tap  **OK** to confirm your RSVP.
+
+You can also RSVP to raids by tapping the  **RSVP**  button in the  **Raid** section of the  **Battle** tab on the Nearby menu. Once you’ve RSVP’d to a raid, you may receive push notifications depending on your notification settings.
+
+If your plans change, update your  **RSVP**  section of the  **Battle** tab on the Nearby menu. Tapping the  **Going**  button will allow you to adjust your RSVP status or select another time slot. If you update your status to  **Not Going** , you will need to confirm by tapping **Leave.**
+
+Other Trainers will be able to view the battles you’ve RSVP’d to. You can change this at any time via Settings.
+
+## BATTLING IN A RAID
+
+Once in the battle, you can perform one of three different actions:
+
+**Fast Attack**
+
+![image](../data/images/ad_4nxfuo_hokxcpdiy33lj1od0eq7vit8ljondd3nrjoefdqh4yvxpbofsu8_hqzps1ref4wdshuecm6pvmm3vdv86hbsxzy8ykfqc3iuyihiwh6mkj_7gdtipwkuocfipmvoorjqqndco9ior_o7x-fpqkdq.png)
+
+Tap anywhere on the screen to perform a Fast Attack. Fast Attacks charge your Charged Attack meter.
+
+**Charged Attack**
+
+![image](../data/images/ad_4nxf20u89omfgjayjdzvwqfptnx-wfwfao0cqbxm3pcig4zymwe3smv6oj-uor-lrv31kzzntnkyqutoocncfnh5k6idurw9dvvfqqy6a6p9jdtk2jkzqcyhow6awzmoeemwsc6tgzakvr4vb4r15vugeta.png)
+
+Once your Charged Attack meter is full, the Charged Attack button will become enabled. Tap the button to perform a Charged Attack. Charged Attack causes large amounts of damage.
+
+**Dodge**
+
+![image](../data/images/ad_4nxenmxwuqi9tpd2tiez_y4524vfzlyar8wt7euftdjklnsxku9oxrje8tpubbg75evehtchzoyndzzjfcmq3groljzcuqroazwcuu4ot79bwk1ljnblnzqumb73febjrz06mjt_swfs4anlsci9-p_1o_28.png)
+
+Swipe to the left or right to dodge incoming attacks from the opponent. At any time during the battle, you can flee to heal your Pokémon using Potions or Revives and then rejoin the battle.
+
+## AFTER THE RAID BATTLE
+
+If you are not able to defeat the Boss in the battle, you may rejoin the raid and battle again. You won’t need to use another Raid Pass to rejoin; your pass will grant you access to the battle for the duration of the raid. You can join as many times as you’d like before the raid ends.
+
+If you and your fellow Trainers are successful in defeating the Raid Boss, you’ll earn special items and a chance at catching the Pokémon. Special items may include Golden Razz Berries, Fast and Charged TM, or Rare Candy.
+
+You may notice that you or your fellow Trainers receive a Trainer Achievement, highlighting special circumstances like the Trainer who delivered the final attack during the Raid Battle. Receiving a Trainer Achievement will also contribute to your Raid Expert Medal. Tap the download button to save the Achievement to your device’s photo app and share it on your favorite photo-sharing app!
+
+![image](../data/images/ad_4nxcv99vc6r7t331hpv6y74sw_n5hl9jyclue0rd21sqcl4hvkvc36tgyee1zbpx3a3qimwbjxqz_qmh14q_x-oydfdsbm6mccbi92-i51ue2jnjo2qae7detpchlvtszvhyu1m0a7aqbm1wxqscaypreem8.png)
+
+After the Raid Battle, you’ll also receive a number of Premier Balls used for catching the Raid Boss. The number of Premier Balls you receive in a Raid Battle depends on how much damage you deal, whether the Gym is controlled by your team, and how quickly you defeat the Raid Boss.
+
+**Note:** In Mega Raid Battles, Trainers receive extra Mega Energy instead of extra Premier Balls for defeating the Raid Boss quickly.
+
+You can't use Great Balls or Ultra Balls to catch the Raid Boss; you’ll only be able to use these Premier Balls. However, you can use Berries to help capture this Pokémon. Aim carefully — once all of your Premier Balls run out, the Boss will flee.
+
+![image](../data/images/ad_4nxd33vjpyeqa5k_t5f2zjbeudxv7txs7gpwryr-ucozsaavvcjvgjqpng4wh4kuas73jjstx-onsrdwws7o17y_q3vbe2eq6loznimxzujzniletq7dikzedxtsvcqexlfysgxfz8i95w-kq662paq4rev0.png)
+
+Once you have defeated the Boss, you won’t be able to interact with the Gym until the raid has been completed. After the Raid Battle has been completed, the Gym is restored to its state before the raid. Any Pokémon previously assigned to the Gym return to defend the location.
