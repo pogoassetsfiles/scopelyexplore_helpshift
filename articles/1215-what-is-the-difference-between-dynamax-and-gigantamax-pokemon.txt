@@ -1,0 +1,17 @@
+---
+id: 1215
+title: What is the difference between Dynamax and Gigantamax Pokémon?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1215-what-is-the-difference-between-dynamax-and-gigantamax-pokemon/
+---
+
+Although there are many similarities between Dynamax and Gigantamax Pokémon, there are a few notable differences.
+
+Only certain species of Pokémon can Gigantamax—and even among such species, only rare specimens will be able to Gigantamax. The majority will keep their usual appearance when they Dynamax.
+
+Encountering and catching Gigantamax Pokémon in Max Battles will also be more difficult than Dynamax Pokémon. Max Battles with Gigantamax Pokémon can feature up to 20 Trainers!
+
+Although you can only bring in a maximum of 3 Max Pokémon into Max Battles against Gigantamax Pokémon just like in Max Battles against Dynamax Pokémon, if all of your Pokémon are knocked out, they won’t recover until the battle has ended. Instead, once all of your Pokémon have fainted, you will be able to cheer on your fellow Trainers. Cheering will contribute to your fellow Trainers’ Max Meter.
+
+Once you have captured the Gigantamax Pokémon, you may notice that certain Gigantamax Pokémon are unable to evolve (e.g. Gigantamax Pikachu or Gigantamax Eevee) if their evolved form is unable to Gigantamax.
+
+Finally, although Gigantamax Pokémon can be traded with Friends, these trades will always be [Special Trades](https://niantic.helpshift.com/hc/faq/96-trading-pokemon/#special-trades-and-limitations).
