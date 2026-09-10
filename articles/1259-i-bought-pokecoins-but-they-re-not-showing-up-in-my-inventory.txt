@@ -1,0 +1,7 @@
+---
+id: 1259
+title: I bought PokéCoins, but they’re not showing up in my inventory
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1259-i-bought-pokecoins-but-they-re-not-showing-up-in-my-inventory/
+---
+
+If you purchased PokéCoins from the Shop and don’t see them in your inventory, please try restarting the app or signing out (tap Main Menu > Settings and select "Sign out.") and signing back in. If you still have any questions, please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
