@@ -1,0 +1,29 @@
+---
+id: 1203
+title: Using a Mega-Evolved Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1203-using-a-mega-evolved-pokemon/
+---
+
+Trainers can use Mega-Evolved Pokémon in different several ways:
+
+**Raiding**  - In addition to having improved CP, attack, defense, and HP themselves, Mega-Evolved Pokémon give other Pokémon special bonuses when brought to a Raid Battle. While a Mega-Evolved Pokémon is on the battlefield, all Trainers’ Pokémon receive an attack boost to all their attacks and gain an additional attack boost if their attack types match the Mega-Evolved Pokémon’s type(s). However, these bonuses don’t stack if there are multiple Mega-Evolved Pokémon battling simultaneously, and the highest possible attack boost will be applied.
+
+You are able to Mega Evolve your Pokémon from the Raid Lobby. If you have a Pokémon in your Raid Party that is eligible to Mega Evolve, a Mega Evolution icon will appear in the top left corner of your Battle Party. Tap to select which of your eligible Pokemon to Mega Evolve ahead of the Raid Battle start.
+
+[![image](../data/images/03be0793-7d59-46fa-b919-e676e3fd5f11-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/6225ab5e-1a0d-45e9-9152-e6bf56ecf901.png) [![image](../data/images/08ed1990-a3e8-49f3-995e-e5372d594b0e-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c50b3af9-a4e5-428a-b9b7-ee91b3793836.png)
+
+In a Raid Lobby, Trainers with an active Mega-Evolved Pokémon have a Mega icon next to their avatar and an aura surrounding them:
+
+[![image](https://lh5.googleusercontent.com/LTbLHBoRk1O1OQSqR65FheWVAjc-mSyvQmxDp1g4IADG-eGQfxvsm4drQ-LqddkJVK_J0Tu9j4XQ8d_c-i_Bn5ESmLiZi2J70buVdcCXqfdSY2aUHUJai-rvUg13YctoiD61dvw_)](https://lh5.googleusercontent.com/LTbLHBoRk1O1OQSqR65FheWVAjc-mSyvQmxDp1g4IADG-eGQfxvsm4drQ-LqddkJVK_J0Tu9j4XQ8d_c-i_Bn5ESmLiZi2J70buVdcCXqfdSY2aUHUJai-rvUg13YctoiD61dvw_)
+
+**Gym Battling**  - You can battle at Gyms with Mega-Evolved Pokémon, but note that you can’t leave them at a Gym to defend it. The attack boost applied to Raid Battles also applies to Gym battles. If you’re attacking a Gym with a Mega Pokémon, other Trainers attacking the Gym at the same time will receive a boost to all their attacks and an additional attack boost if their attack types match the Mega-Evolved Pokémon’s type(s).
+
+**Battling Team GO Rocket**  - Use your Mega-Evolved Pokémon to battle Team GO Rocket grunts or leaders, including Giovanni.
+
+**Battling Friends**  - You can battle someone on your Friend List with your Mega-Evolved Pokémon, but Mega-Evolved Pokémon can’t be used in GO Battle League except during special event cups.
+
+**Make them your buddy**  - You can set a Mega-Evolved Pokémon as your active buddy. If you’re Best Buddies, you’ll gain your Best Buddy CP boost in addition to the Mega Evolution boosts.
+
+**Take a GO Snapshot**  - You can take GO Snapshots of Mega-Evolved Pokémon just as you can with regular Pokémon.
+
+**Catching other Pokémon**  - You can earn additional Pokémon Candies when you have an active Mega-Evolved Pokémon and you catch a Pokémon that shares a type with your Mega-Evolved Pokémon.
