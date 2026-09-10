@@ -1,0 +1,27 @@
+---
+id: 1165
+title: Creating Battle Parties
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1165-creating-battle-parties/
+---
+
+**Battle parties**  are groups of three or six Pokémon you can quickly select for Gym, Raid, or Trainer Battles.
+
+**To create a battle party with an account lower than level 10:**
+
+* From the Map View, tap the  **Main Menu** [![image](../data/images/c127eea5-6987-428b-b09e-449f10084b02-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/9896ca37-9ee5-499d-bd1b-67a7efd5b4b3.png) button.
+
+* Tap the  **Pokémon** [![image](../data/images/8403c834-2722-4463-9de9-6cd6ccb34594-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/29fd63d9-24f3-4af0-b116-a5160fac5c39.png)button.
+
+* At the top of the screen, tap the  **Party**  tab.
+
+**To create a battle party with an account level 10 or above:**
+
+* Tap the  **Main Menu**  [![image](../data/images/aabbbbfb-2981-44c3-a99a-097ce6120704-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/fc449404-d575-4423-85c7-367c97c5a2ea.png) button.
+
+* Tap the  **Battle**  [![image](../data/images/ae4e0be9-ea80-45c2-818d-cad3ecf3dab3-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/9bff5b56-05a1-4b5b-b9d7-392779ade5f8.png) button.
+
+* At the top of the screen, tap the  **Party**  tab.
+
+Once you have selected your battle parties, join a battle to use them. You can select an eligible battle party by swiping left over the recommended or previously used battle party.
+
+[![image](../data/images/867bea47-b1de-4013-b644-35bce49abb2a-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/867bea47-b1de-4013-b644-35bce49abb2a-t.png)
