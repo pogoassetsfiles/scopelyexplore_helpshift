@@ -1,0 +1,15 @@
+---
+id: 1169
+title: Troubleshooting GO Battle League
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1169-troubleshooting-go-battle-league/
+---
+
+If you are experiencing issues with GO Battle League, please first check if your issue is listed on our [Known Issues page](https://niantic.helpshift.com/hc/faq/2699-go-battle-league-known-issues-1598471929/) or [contact us via in-app support](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) so we can provide you with personalized support.
+
+Latency in GO Battle League can manifest in various ways, such as the battle interaction freezing, delays in Pokémon attacks, or difficulty swapping Pokémon during battle.
+
+These issues are most often the result of a weak or inconsistent connection. Switching between cellular data and Wi-Fi to see which provides a more consistent and stable connection may address these issues. One type of connection may be subject to more interference than the other depending on your location and/or signal strength.
+
+If you’re unsure of which connection to use, online ping tests allow you to determine which type of connection is stronger for you at the moment.
+
+Additionally, if you are moving, either on foot or as a passenger in a vehicle, this can impact the strength or consistency of your data connection. Ensuring a consistent physical location can help to mitigate this issue.
