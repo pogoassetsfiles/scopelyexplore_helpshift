@@ -1,0 +1,17 @@
+---
+id: 1257
+title: Restricting In-App Purchases (iOS)
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1257-restricting-in-app-purchases-ios/
+---
+
+**To set in-app purchase restrictions:**
+
+* Open the  **Settings**  app and visit  **Screen Time** . Enable Screen Time if you haven’t already done so, then tap Content & Privacy Restrictions.
+* Tap the switch next to  **Content & Privacy Restrictions**  to enable the options below.
+* Tap  **iTunes & App Store Purchases** .
+
+On Apple devices, you have two options to restrict in-app purchases: always require a password for in-app purchases or disallow in-app purchases entirely.
+
+To disable in-app purchases entirely, tap In-app Purchases and select Don’t Allow. To require a password for in-app purchases, select Always Require under REQUIRE PASSWORD.
+
+Visit Apple Support for [more information on enabling purchasing restrictions](https://support.apple.com/HT204396). Parents can also use the [Ask to Buy feature](https://support.apple.com/HT201089) to limit their children’s access to purchasing.
