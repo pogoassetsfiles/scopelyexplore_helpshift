@@ -1,0 +1,31 @@
+---
+id: 1326
+title: GPS Troubleshooting Guide
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1326-gps-troubleshooting-guide/
+---
+
+If you’re experiencing location accuracy issues you believe are related to your GPS, please use the steps below to troubleshoot.
+
+### **Ensure you’re using a supported device**
+
+GPS accuracy largely depends on the device you're using. You can [find a list of supported devices here](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/92-supported-devices/?p=web&s=troubleshooting&f=supported-devices).
+
+Many tablets, including those without built-in data network connectivity (3G or 4G), do not contain built-in GPS sensors. In areas or at events with busy or congested mobile data networks, tablets may not maintain a strong enough GPS signal to play Pokémon GO.
+
+### **Ensure your signal strength is strong**
+
+Ensure you have a strong internet connection, either via a cellular or Wi-Fi. However, please be aware that strong Wi-Fi signal or cellular data (i.e. having full bars) isn't always sufficient to guarantee a stable connection. Both may slow down during periods of heavy usage, and you also may experience an unstable connection while traveling in a moving vehicle.
+
+If possible, try switching between Wi-Fi and cellular data, to see if your GPS accuracy improves.
+
+### **Playing in urban areas**
+
+When playing in urban areas with lots of tall buildings, keep in mind that your GPS may drift or jump.
+
+### **Enable the “Improve Location Accuracy” setting (Android only)**
+
+If you’re playing on an Android device, [enable the Improve Location Accuracy setting](https://support.google.com/nexus/answer/3467281). This allows your device to use the information other than GPS (such as data from internal sensors) to determine your location.
+
+### **“Failed to detect location” error**
+
+If you are receiving the "failed to detect location" error, there may be a setting called “mock locations” that is preventing you from playing Pokémon GO. To turn off this setting, visit Settings > System > Advanced > Developer options and make sure that "Select mock location app" is disabled.
