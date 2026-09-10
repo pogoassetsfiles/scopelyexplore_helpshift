@@ -1,0 +1,17 @@
+---
+id: 1147
+title: What is the Lucky Trinket?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1147-what-is-the-lucky-trinket/
+---
+
+The  **Lucky Trinket**  is a one-time-use item that can be used to turn one friend from your Friend List into a [Lucky Friend](https://niantic.helpshift.com/faq/1485-lucky-friends/). When used, the Lucky Trinket will set the status of you and your chosen friend to Lucky, even if you aren’t Best Friends!
+
+[![](../data/images/d331a836-26be-4512-b31e-bea45837b682.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/d331a836-26be-4512-b31e-bea45837b682.png)
+
+The Lucky Trinket will only stay in your Item Bag for a limited time, so don’t forget to use it!
+
+You must be at least Great Friends with the Trainer you wish to apply your Lucky Trinket to. You cannot use a Lucky Trinket with a Trainer you are currently Lucky Friends with. Using a Lucky Trinket on a friend does not change the distance at which you can complete a trade.
+
+If you do not want to allow other Trainers to use their Lucky Trinkets on you, you can disable this permission in the Friends section of your General Settings page.
+
+[![image](../data/images/54874b6c-d844-4711-8007-79f6b0d152ce.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/50740d10-c42d-4360-97b2-53c4f9af6af3.jpeg)
