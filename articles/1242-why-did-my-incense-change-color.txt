@@ -1,0 +1,7 @@
+---
+id: 1242
+title: Why did my Incense change color?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1242-why-did-my-incense-change-color/
+---
+
+Incense in your inventory may change color during special events. If you notice your Incense are a different color than usual, it means you can use them to attract special Pokémon that wouldn’t appear normally. Keep an eye on [the Today View](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/) to see what in-game events are in progress.
