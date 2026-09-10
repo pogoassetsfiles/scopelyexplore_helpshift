@@ -1,0 +1,19 @@
+---
+id: 1180
+title: I’m unable to catch a Raid Boss after defeating it
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1180-i-m-unable-to-catch-a-raid-boss-after-defeating-it/
+---
+
+Here are some tips for catching a Raid Boss:
+
+* Use Razz Berries or Golden Razz Berries to increase your chances of catching the Raid Boss.
+
+* Hitting an excellent or great throw increases your chance of catching the Pokémon.
+
+* Patiently observe the Raid Boss’ movement and attack patterns and time your throw accordingly, so they don’t move away from where you throw the ball or knock the ball away.
+
+* Spin the Premier Ball in a circular motion before you release it for a chance to receive a curveball bonus. In addition to earning extra XP, using a curveball decreases the chance that the Pokémon will break free.
+
+* You’ll receive a number of Premier Balls for catching the Raid Boss. The number of Premier Balls you receive in a Raid Battle depends on how much damage you deal, whether the Gym is controlled by your team, and how quickly you defeat the Raid Boss. Take these factors into consideration when starting a Raid Battle and try to get as many Premier Balls as you can.
+
+If you believe you were unable to catch a Raid Boss due to a technical issue, please [contact us via in-app support](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
