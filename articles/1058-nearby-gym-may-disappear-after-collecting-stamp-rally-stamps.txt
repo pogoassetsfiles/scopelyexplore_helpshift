@@ -1,0 +1,14 @@
+---
+id: 1058
+title: Nearby Gym May Disappear After Collecting Stamp Rally Stamps
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1058-nearby-gym-may-disappear-after-collecting-stamp-rally-stamps/
+---
+
+**Issue Description:**
+Trainers using app versions earlier than 0.417 may experience an issue where a nearby Gym disappears from the map after collecting a Stamp Rally stamp.
+
+**Status:**
+Fixed in app version 0.417. Please update to app version 0.417 or later to avoid this issue.
+
+**Workaround:**
+If you encounter this issue, please relaunch the app. The Gym should appear again after restarting the game.
