@@ -1,0 +1,61 @@
+---
+id: 1338
+title: Troubleshooting Official Bluetooth Devices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1338-troubleshooting-official-bluetooth-devices/
+---
+
+If you are having difficulty with your Poké Ball Plus, Pokémon GO Plus, or Pokémon GO Plus + device, removing the connection from your app and reconnecting it will resolve the issue in most cases.
+
+To remove the connection:
+
+* In the Map View, tap the Main Menu [![](../data/images/3c1247c0-1a52-4aa6-9377-d4c6223ac541.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/3c1247c0-1a52-4aa6-9377-d4c6223ac541.png)  button.
+
+* At the top right, tap the Settings [![](../data/images/f1380b7a-b11b-4e14-953a-6485aa05e764.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/f1380b7a-b11b-4e14-953a-6485aa05e764.png)  button.
+
+* Tap  **Connected Devices and Services** .
+
+* Tap  **Accessory Devices** .
+
+* Tap the eject icon next to your device's name under the Available Devices menu.
+
+Once you’ve disconnected your device from Pokémon GO, the connection icon will be removed from the Map View. To re-pair and connect the device, follow the instructions [here](https://niantic.helpshift.com/hc/faq/4161-pairing-and-connecting-pokemon-go-to-official-devices).
+
+Note that if you are in a crowded area, it may be difficult to establish the connection between your device and the Pokémon GO app, so you may want to move to a less crowded location before trying this step.
+
+If this doesn’t resolve the issues you’re experiencing, try the following:
+
+* Exit to the Map View and re-enter the  **Accessory Devices**  menu.
+
+* Restart the Pokémon GO app
+
+* Uninstall and reinstall the Pokémon GO app
+
+* Restart your phone
+
+* Clear the list of connected devices from your phone
+
+* Factory reset the device
+
+* To factory reset your Pokémon GO Plus:
+
+* Press and hold the Main Button for 5 seconds. The indicator light will glow blue.
+
+* Press and hold the Main Button again for 5 seconds. The device will vibrate.
+
+* To factory reset your Poké Ball Plus:
+
+* Press and hold the white, front button and the red, top button simultaneously for 5 seconds. The indicator light will pulse.
+
+* Press the top, red button twice and the indicator light will flash white
+
+* Press and hold both the front, white button and red, top buttons simultaneously and continue to hold the two buttons until the device vibrates twice
+
+* To factory reset your Pokémon GO Plus +:
+
+* Press and hold the black, side button
+
+* While holding the black, side button, use something to press and hold the black indented button on the back.
+
+* While holding, wait for a short vibration and then a longer vibration to indicate the device has successfully been reset.
+
+For additional troubleshooting tips, please see The Pokémon Company’s troubleshooting guides for the [Poké Ball Plus](https://support.pokemon.com/hc/en-us/articles/360001435906-Pok%C3%A9-Ball-Plus-and-Pok%C3%A9mon-GO-Troubleshooting),  [Pokémon GO Plus](https://support.pokemon.com/hc/en-us/articles/360021482952-Pok%C3%A9mon-GO-Plus-troubleshooting), and [Pokémon GO Plus +](https://www.pokemongoplusplus.com/en/go/#pairing).
