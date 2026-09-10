@@ -1,0 +1,9 @@
+---
+id: 13
+title: What is the Battery Saver setting?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/13-what-is-the-battery-saver-setting/
+---
+
+**Battery Saver**  is a toggleable option in the Settings menu that disables your display while your device is pointed downward. Pokémon GO will continue to track distance traveled as though the display were on while Battery Saver is activated. Your phone will also still vibrate to notify you of nearby Pokémon as long as the Vibration option is enabled.
+
+**Please note**  that the Battery Saver option is different than mobile device battery saving modes. Device-based battery saving modes can sometimes [affect Adventure Sync's distance tracking](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2045-troubleshooting-adventure-sync/?p=web&s=troubleshooting&f=troubleshooting-adventure-sync), while Pokémon GO’s Battery Saver option doesn't.
