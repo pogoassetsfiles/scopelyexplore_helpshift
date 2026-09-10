@@ -1,0 +1,16 @@
+---
+id: 1021
+title: Unable to sign in to Pokémon HOME through Pokémon GO
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1021-unable-to-sign-in-to-pokemon-home-through-pokemon-go/
+---
+
+**Issue Description:** An error occurs that prevents signing in to Pokémon HOME from Pokémon GO.
+
+**Issue Status:**  Investigating. In the meantime, please try the troubleshooting steps below. Please note that the troubleshooting steps may or may not solve the issue.
+
+**Troubleshooting Steps:**
+
+* Sign out from https://accounts.nintendo.com/portal on all applicable devices, including Nintendo Switch, mobile device (all browsers), and personal computer.
+* Uninstall Pokémon GO and Pokémon HOME on your mobile device.
+* Reinstall both apps on your mobile device.
+* Open Pokémon HOME and log into your Nintendo account: Pokémon GO > Log into your account > Main Menu > Settings > Connected Devices and Services > Pokémon HOME > “Sign in with Nintendo”.
