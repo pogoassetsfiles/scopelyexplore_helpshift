@@ -1,0 +1,55 @@
+---
+id: 1213
+title: Collecting Max Particles and Dynamaxing or Gigantamaxing Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1213-collecting-max-particles-and-dynamaxing-or-gigantamaxing-pokemon/
+---
+
+**Max Particles**  are mysterious energy particles that are concentrated at Power Spots. Trainers use Max Particles to join Max Battles and train a Pokémon’s Max Moves.
+
+### Collecting Max Particles
+
+Trainers can collect Max Particles at Power Spots. To collect Max Particles:
+
+* Locate a Power Spot on the Map and tap to enter.
+
+* While viewing the Power Spot details, tap the Max Particle bubbles to collect them.
+
+You can receive extra Max Particles when you’re interacting with a Power Spot for the first time.
+
+Max Particles can also be collected as you explore your local area, including with Adventure Sync. Keep in mind that you can only collect up to 800 Max Particles a day. Additionally, your Item Bag can only carry 1500 Max Particles at a time.
+
+### Using Max Particles
+
+Max Particles can be used to enter a Max Battle and train a specific Max Pokémon’s Max Moves.
+
+**Entering Max Battles**
+
+Each Trainer must use a certain amount of Max Particles to engage in battle. The specific amount of Max Particles required will vary depending on the power of the Max Battle boss.
+
+Max Particles are only spent upon the successful defeat of the Max Battle boss. Learn more about Max Battles [here](https://niantic.helpshift.com/hc/faq/4798-max-battles-and-catching-dynamax-pokemon/).
+
+**Training Max Moves**
+
+Max Pokémon are able to use special, powerful Attacks called  **Max Moves** . Max Moves can be used when battling other Max Pokémon at Power Spots. There are three different types of Max Move:
+
+* **Attack:** An extra-powerful Charged Attack that will vary from Pokémon to Pokémon based on their individual Fast Attack. This can also be changed by using a Fast TM or Elite Fast TM to change the Pokémon’s Fast Attack.
+
+* **Max Guard:** Creates a barrier between the user and the Power Spot Boss, reducing damage taken.
+
+* **Max Spirit:** Raises the spirits of the user and any allied Pokémon, recovering some HP.
+
+Each of these Max Moves has a level associated with it. Use Max Particles and Candy to train the individual Max Moves, making them more effective when you go into battle against a Max Pokémon. To Train Max Moves:
+
+* Tap   [![](../data/images/98d402fe-6546-40a2-a2df-4bc95a213907.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/98d402fe-6546-40a2-a2df-4bc95a213907.png)   to open the main menu.
+
+* Tap  [![](../data/images/cf0aecd8-64b3-4051-b2d8-2d0356e71f22.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/cf0aecd8-64b3-4051-b2d8-2d0356e71f22.png)  to open your Pokémon Storage.
+
+* Locate your Max Pokémon.
+
+* Scroll to  **Max Moves** .
+
+* Tap the Max Move you want to train and select to which level you want to improve it.
+
+* Tap  **Train** .
+
+* Confirm you want to use the Candy and Max Particles by tapping  **Yes** .
