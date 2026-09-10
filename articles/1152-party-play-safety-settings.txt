@@ -1,0 +1,36 @@
+---
+id: 1152
+title: Party Play Safety & Settings
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1152-party-play-safety-settings/
+---
+
+While we encourage all Trainers to abide by our Community Guidelines and Terms of Service, there are a number of additional settings that will allow you to customize your Party Play experience according to your comfort level and preferred play style.
+
+**What will other Trainers see about me?**
+
+When you are joining a Party, the host and other members of your Party will see your Trainer nickname and Trainer Avatar. No other trainers will be able to see your approximate real-time location other than those in your Party.
+
+Once your Party Play session has begun, your Trainer avatar will appear on your Party’s Map View in an approximation of your actual location in the real world. To disable this feature:
+
+* In Map View, tap the  **Main Menu**   [![](../data/images/1f262fcc-8e29-4816-a0cd-8e9af40927a5.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/1f262fcc-8e29-4816-a0cd-8e9af40927a5.png)
+* At the top right, tap  **Settings**   [![](../data/images/9e861c04-e08f-4047-bb57-fb745ac2a824.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/9e861c04-e08f-4047-bb57-fb745ac2a824.png)
+* Tap  **General**
+* Scroll to the  **Party Play**  section and tap  **Share Location with Party**  to toggle this feature on or off.
+
+During your Party Play session, the other members of your Party will be able to see your contributions from the Party Tab. You will stop sharing your approximate actual location when the Party ends.
+
+**Kids Accounts and Party Play**
+
+Trainers logging in using kids’ accounts via Pokémon Trainer Central or Kids at Scopely Explore are able to participate in Party Play, however, their parent or guardian must first enable this feature by granting appropriate permissions in their Parent Portal.
+
+Read [this article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1026-how-can-my-child-access-social-features-such-as-friends-gifting-and-trading/?p=web&s=friends-gifting-and-trading&f=how-can-my-child-access-social-features-such-as-friends-gifting-and-trading) to learn more about child accounts and how to grant permissions.
+
+If the necessary parent permissions are not enabled via the Parent Portal, these Trainers will not be able to see the  **Party**  tab at all. Regardless of the parent permissions, kids' accounts will never appear on their Party’s Map View, nor will they be able to see other Trainers on their own Map View.
+
+In order for a Trainer logging in using a kids’ account to join a Party, there are additional requirements that must be met:
+
+* The Party must contain at least 2 other players
+* They cannot be host
+* They must be friends with the host of the Party
+
+* If the host leaves the Party, the kids’ account will also leave the Party. If this results in only 1 Trainer remaining in the Party, the Party Play session will end.
