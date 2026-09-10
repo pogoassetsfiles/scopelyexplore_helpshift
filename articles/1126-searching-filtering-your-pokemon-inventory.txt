@@ -1,0 +1,157 @@
+---
+id: 1126
+title: Searching & Filtering your Pokémon Inventory
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1126-searching-filtering-your-pokemon-inventory/
+---
+
+As your Pokémon collection grows, you can use keyword searches to quickly and easily narrow down the list of Pokémon that you have caught.
+
+## SEARCHING YOUR COLLECTION:
+
+* In Map View, tap the  **Main Menu**   [![](../data/images/c41ff7d5-e314-4d63-b440-da22948cbddc.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/c41ff7d5-e314-4d63-b440-da22948cbddc.png) button.
+
+* Tap the  **Pokémon**   [![](../data/images/842a5032-d56c-435a-bbf3-0f05438c1818.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/842a5032-d56c-435a-bbf3-0f05438c1818.png) button.
+
+* Tap the  **Magnifying Glass  [![](../data/images/f2840e94-fa71-47f9-b0c7-c353ece6cb8c.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/f2840e94-fa71-47f9-b0c7-c353ece6cb8c.png)**  button at the top of your list to open the search field.
+
+* Enter a search term into the field. You may combine multiple search terms for more filtered results. You may also select a search term from a list of recommended search terms or from your recent searches.
+
+* **Suggested search terms:**  You can enable this feature by going to your Settings menu, tapping on General, and tapping on the button next to Show Suggested Search Terms to turn it on. Once this feature is enabled, you will be able to see suggested search terms under your search field after typing 2 or more letters.
+
+## FINDING SPECIFIC POKÉMON
+
+* **Combat Power (CP):**  To show Pokémon of a specific CP or a CP range, enter  *CP* followed by the number or range into the search bar. For example,  *CP300*  will show all Pokémon with a CP of 300.
+
+* **Distance:**
+
+* Type  *distance 1000*  to find all your Pokémon caught within a 1,000 km radius of your current location
+
+* Type  *distance 1000-* to find all your Pokémon caught further than 1,000 km away from your current location.
+
+* Type  *distance 1000-1200*  to find all your Pokémon caught between 1,000 and 1,200 km from your current location. Please note that numbers in these examples (1,000 and 1,200) can be replaced with any number.
+
+* **Dynamax Pokémon:**  Enter  *dynamax*  to show all Dynamax Pokémon in your list.
+
+* **Evolutionary family:**  Add  *+*  before a Pokémon’s name. For example, searching for  *+Pikachu*  will show any Pichu, Pikachu, and Raichu in your list. Note that this only works if you've caught one of the Pokémon within a given family.
+
+* **Fusion Pokémon:**  Enter  *fusion*  to show any Pokémon that are able to be fused or have already undergone a Fusion.
+
+* **Gigantamax Pokémon:** Enter  *gigantamax*  to show all Gigantamax Pokémon in your list.
+
+* **Health Points (HP):**  To show Pokémon of a specific HP or a HP range, enter  *HP* followed by the number or range into the search bar. For example,  *HP150* will show all Pokémon with an HP of 150. Note that this doesn’t consider whether Pokémon are currently hurt or have fainted.
+
+* **Large or Small Pokémon:**  To show Pokémon in a specific size category, enter  *xl* ,  *xs* ,  *xxl* ,  or  *xxs*  into the search bar.
+
+* **Mega-Evolvable Pokémon:** Search  *megaevolve* to show all Pokémon that are currently eligible to Mega Evolve or undergo Primal Reversion. This search considers both Mega Energy and Primal Energy.
+
+* **Mega Level:**  Search  *mega1–3* to find Pokémon by their current Mega Level.
+
+* *mega1* shows Pokémon that have reached "Base Level" (i.e. Mega Level 1).
+
+* *mega2-3* will show High Level (the second Mega Level) through Max Level (the highest Mega Level).
+
+* **Move:** Add  *@* before a move name to show all Pokémon with that move. For example,  *@scratch*  will show all Pokémon that know the Fast Attack Scratch.
+
+* **Move type:** Add  *@* before a move type to show all Pokémon that know a move of that specific type. For example, searching for  *@grass*  will show all Pokémon with a grass-type attack in your list.
+
+* **Name:**  Search by the Pokémon's name. For example, searching  *Pikachu* will show all the Pikachu in your Pokémon list.
+
+* **Nickname:**  Search by a  *Nickname* that you’ve given a Pokémon. For example, searching  *Joe* will show all the Pokémon with the nickname “Joe.”
+
+* **Pokédex number:** Search by  *number* to show all the Pokémon matching that Pokédex number. For example, searching for  *25* will show all the Pikachu in your list.
+
+* **Pokémon type:** Enter a  *Pokémon type*  to show all Pokemon that match that type. For example, searching for  *grass* will show all grass-type Pokémon in your list.
+
+* **Region:** Search  *Kanto, Johto, Hoenn, Sinnoh, Unova, Galar,*  *Hisui, Paldea,*  *Alola or Kalos*  to show all Pokémon from that region.
+
+* **Special Moves:** Search  *@special*  to find Pokémon with special moves that can’t be learned with a TM (ex. a Mewtwo with Shadowball or a Purified Pokémon with Return).
+
+* **Types of Quick and Charged Attacks:** To search for a Pokémon with a specific type of Quick or Charged Attack, add  *@1, @2, or @3* before a move type search. For example, searching for  *@3ghost*  will show any Pokémon with a Ghost-Type second Charged Attack.
+
+## FINDING POKÉMON WITH A SPECIFIC STATUS
+
+* **Age (in Days):**  Search  *age* plus a number to see how many days ago you caught a particular Pokémon. For example,  *age0* will show Pokémon you caught within the last 24 hours and age1 will show Pokémon you caught 24 to 48 hours ago.
+
+* **Buddy Level:**  Enter  *buddy0–5*  to find Pokémon by their current buddy status.
+
+* *buddy0*  shows Pokémon with whom you have no buddy history.
+
+* *buddy1* shows Pokémon you've set as your buddy but never became "Good Buddies" (i.e. Buddy Level 1).
+
+* *buddy2–5* will show Good Buddies (the first Buddy Level) through Best Buddies (the highest Buddy Level).
+
+* **Evolvable Pokémon:**  Enter  *evolve* to show any Pokémon that are eligible to evolve in your list. This search considers both special items and candy.
+
+* **Favourite Pokémon:** Enter  *favorite* to show any Pokémon that you have marked as a favorite.
+
+* You can tap on the star in a Pokémon’s profile to favorite that Pokémon. This will help make sure your favorite Pokémon cannot be transferred away.
+
+* **Gym defenders:**  Enter  *defender* to show any Pokémon in your list currently defending a Gym.
+
+* **Hyper Training:**  Enter  *hypertraining*  to show any Pokémon that are currently undergoing Hyper Training.
+
+* **Item-based Evolutions:**  Enter  *item* to show any Pokémon that can be evolved with an item.
+
+* **New Evolution:** Enter  *evolvenew* to see all Pokémon that you can evolve to fill in a new Pokédex entry. Note that this shows Pokémon you can evolve right away in addition to Pokémon you’ll need extra Candy, items, or special conditions to evolve. To see Pokémon you can evolve right away, search  *evolve&evolvenew* .
+
+* **Quest-Based Evolutions:**  Enter  *evolvequest*  to show any Pokémon that can be evolved through a quest.
+
+* **Trade Evolutions:** Enter  *tradeevolve* to find Pokémon that are eligible for Candy-free or reduced Candy Evolution after being traded to another Trainer.
+
+* **Weather-boosted:** Enter  *@weather*  to show any Pokémon in your list with one or both attacks boosted by the current weather.
+
+* **Year:** Search  *year plus a number*  to show Pokémon acquired in a given year. For example,  *year2016*  will show all Pokémon you acquired in 2016.
+
+## FINDING TYPES OF POKÉMON
+
+* **Appraisal:**  Enter  *0-4**  to search for Pokémon by the quality of their appraisal.  *4**  indicates the highest appraisal possible, while  *0**  indicates a lower appraisal.
+
+* **Attribute Appraisal:**  Enter a  *0-4*  in combination with a specific base stat to see all Pokémon with the corresponding appraisal for that stat.
+
+* *1Attack*  would show any Pokémon with an appraisal for the Attack stat in the first range.
+
+* *2Defense*  would show any Pokémon with an appraisal for the Defense stat in the second range.
+
+* *3HP* would show any Pokémon with an appraisal for the HP stat in the third range.
+
+* **Egg-exclusive Pokémon:**  Enter  *eggsonly* to show any Egg Exclusive Pokémon in your list. For example, searching  *eggsonly* could show Togepi, Magby, Igglybuff, etc.
+
+* **Hatched Pokémon:**  Enter  *hatched* to show any Pokémon in your list that hatched from an Egg.
+
+* **Lucky Pokémon:**  Enter  *lucky* to show all lucky Pokémon in your list.
+
+* **Legendary Pokémon:** Enter  *legendary* to show all Legendary Pokémon in your list.
+
+* **Mythical Pokémon:**  Enter  *mythical* to show all Mythical Pokémon in your list.
+
+* **Pokémon with a Background:** Enter  *background*  to show Pokémon that have a rare background in its profile. You can also enter  *locationbackground*  to show Pokémon that have a background showcasing the location where the Pokémon was caught.
+
+* **Purified Pokémon:**  Enter  *Purified* to show Purified Pokémon.
+
+* **Shadow Pokémon:**  Enter  *Shadow* to show Shadow Pokémon.
+
+* **Shiny Pokémon:**  Enter  *shiny* to show all Shiny Pokémon in your list.
+
+* **Special Event Pokémon:**  Enter  *costume* to show any Pokémon from Special Events, like Pikachu wearing a witch’s hat from Halloween.
+
+* **Tagged Pokémon:** To search for Pokémon that you have added a specific tag to, enter  *#* followed by the name of the tag. For example,  *#battle*  would show any Pokémon you’ve added the battle tag to.
+
+* **Traded Pokémon:**  Type  *traded* to see Pokémon you received in a trade.
+
+* **Ultra Beasts:**  Enter  *ultra beasts*  or  *ultrabeast*  to see Ultra Beasts that you have caught.
+
+## OTHER TIPS
+
+* **Combining searches:**  Use  *&* or | to combine searches for Pokémon matching multiple criteria. For example, searching for  *grass&evolve*  will show all Grass-type Pokémon currently able to evolve.
+
+* **Exclude Pokémon:**  Use ! before your search to search for all Pokémon except those that match your search. For example, searching for *!defender*  will show all Pokémon not currently defending a Gym.
+
+* **Maximum searches:**  To search for Pokémon with a maximum HP or CP, add - before the number value. For example, searching  *cp-300*  will show all Pokémon with CP of 300 or lower.
+
+* **Minimum searches:**  To search for Pokémon with a minimum HP or CP, add  *-* to the end of a search. For example, searching  *cp300-*  will show all Pokémon with CP of 300 or higher.
+
+* **Multiple searches:**  Use  *, : or ;* to search for Pokémon from multiple criteria. For example, searching  *electric,@weather*  will show all Electric-type Pokémon and all Pokémon with an attack that is currently boosted by the current weather.
+
+* **Punctuation:**  For Pokémon whose name contains punctuation or special characters, the search will not return those Pokémon unless your query also includes the punctuation. For example, a search for  *mr.*  will return Mr. Mime and Mr. Rime however a search for  *mr mime*  will not return any Pokémon.
+
+* **Ranged searches:**  To search for Pokémon within a certain HP or CP, add a numerical range to the search. For example,  *cp200-300*  will show all Pokémon with CP between 200 and 300.
