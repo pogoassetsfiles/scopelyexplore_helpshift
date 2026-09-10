@@ -1,0 +1,27 @@
+---
+id: 1166
+title: Battle Training with Team Leaders
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1166-battle-training-with-team-leaders/
+---
+
+**Battle Training**  allows you to practice Trainer Battles. In training, you’ll battle against a Team Leader (Blanche, Candela, or Spark) instead of other Trainers or Team GO Rocket. Your Pokémon won’t take damage during training, so you can keep battling as many times as you like without needing to use Potions or Revives.
+
+**To start Battle Training below level 10:**
+
+* From the **Map View,** open the  **Nearby**  menu by tapping the bar at the bottom right of the screen.
+
+* Tap the  **Battle** tab.
+
+* Tap on the image of a Team Leader to start a battle.
+
+[![image](../data/images/82deb380-b420-45f5-a0cf-4437ea405d21-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/82deb380-b420-45f5-a0cf-4437ea405d21-t.png)
+
+**To start Battle Training at or above level 10:**
+
+* From the Map View, tap the  **Main Menu**  [![image](../data/images/12ee88b1-f65d-4152-b8bb-a38f02e94a6f-t.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/12ee88b1-f65d-4152-b8bb-a38f02e94a6f-t.png) button.
+
+* Tap the  **Battle**  [![image](../data/images/ec437d1b-67ed-49e0-93b5-f72314fcd3e5-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/51332d00-0acd-4601-9c4c-da86797a0a09.png) button.
+
+* Scroll to  **Training**  and tap a Team Leader to start a battle.
+
+**Note** : You can battle as many times as you want, but you’ll only receive rewards once per day. If you successfully defeat a Team Leader, you’ll also level up your Ace Trainer medal.
