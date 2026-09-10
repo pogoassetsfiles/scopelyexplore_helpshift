@@ -1,0 +1,83 @@
+---
+id: 1116
+title: Finding & Catching Wild Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1116-finding-catching-wild-pokemon/
+---
+
+## Finding wild Pokémon
+
+Your device will vibrate to alert you when a wild Pokémon has appeared on the Map. If you don’t see any Pokémon nearby, explore your nearby area! Pokémon love places like parks, so try visiting a local recreational area. You can also attract more Pokémon to your location by using an item known as [Incense](https://niantic.helpshift.com/hc/faq/2480-what-are-incense/).
+
+Some wild Pokémon will appear only in certain environments and climates. For example, some Pokémon may appear only near lakes, oceans, or other bodies of water.
+
+Pokémon located in your area are displayed in the Nearby Pokémon section at the bottom right of the screen in Map View. Pokémon already in your Pokédex will show in color, and Pokémon you haven’t previously encountered appear in the Nearby section as silhouettes.
+
+## Catching wild Pokémon
+
+When you encounter a wild Pokémon, you may have multiple attempts to capture it before it runs away.
+
+You can use Berries and high performance Poké Balls when attempting to catch Pokémon.
+
+There are three types of Berries to choose from:
+
+* **Razz Berries** help prevent the Pokémon from breaking free from the Poké Ball. You can use **Golden Razz Berries** to further increase your chances of catching powerful Pokémon, as well.
+
+* **Nanab Berries**  make the Pokémon easier to catch by slowing down its movement.
+
+* **Pinap Berries** double the amount of Candy you’ll receive if your next catch attempt succeeds. You can use  **Silver Pinap Berries**  to increase your chances of a successful catch, and receive double the amount of Candy if caught.
+
+High performance Poké Balls like Great Balls and Ultra Balls increase your ability to catch wild Pokémon. Tap the Berry button or Poké Ball button during the encounter to access these items.
+
+**Note:** You can visit your Settings page to remember your last-used Poké Ball to make your catch experience easier. If you have used up all of that type of Poké Ball in your Item Bag, it will default to Poké Balls.
+
+### Encounter features
+
+![image](../data/images/ee5e72a1-8175-4f5b-8ea3-51925a9c4ec4.jpg)
+
+* Leave the encounter
+
+* Camera
+
+* Toggle AR mode
+
+* Pokémon’s name and CP
+
+* Access Berries from your bag
+
+* Poké Ball
+
+* Access Poké Balls from your bag
+
+* Number of Poké Balls remaining in your bag
+
+### To catch a Pokémon
+
+* When a wild Pokémon is nearby, your device will vibrate, and the Pokémon will appear on the map. Tap the Pokémon to begin your attempt to catch it.
+
+* The Pokémon will appear in front of you.
+
+* Tap and hold your Poké Ball.
+
+* A target ring will appear around the Pokémon. The ring’s color indicates the difficulty level of capturing the Pokémon. A green ring indicates the capture is low difficulty, orange indicates intermediate difficulty, and red indicates extreme difficulty.
+
+* You have the greatest chance of capturing the Pokémon while the colored ring is at its smallest diameter. At the opportune moment, fling the Poké Ball toward the Pokémon.
+
+* If you are successful, the Poké Ball will capture the Pokémon. Watch out, though—Pokémon can break free from the Poké Ball.
+
+### Catch Bonuses
+
+You can earn certain bonuses when catching Pokémon:
+
+* **New Pokémon:**  earned for catching a new Pokémon
+
+* **First throw:**  earned for catching a Pokémon with just one attempt.
+
+* **Curveball:**  drag and rapidly spin the Poké Ball in a circular motion before you release it for a chance to receive a curveball bonus. In addition to earning extra XP, using a curveball makes the Pokémon easier to catch by decreasing the chances of it breaking free from the Poké Ball.
+
+* **Nice, great, and excellent throw:**  earned for accuracy in throwing the Poké Ball within the target ring.
+
+* **Collector bonus:**  earned for catching your 100th Pokémon within a single species.
+
+* **Daily bonus:**  earned by catching your first Pokémon of the day.
+
+**Tip:**  You can also acquire new Pokémon by hatching Eggs and evolving captured Pokémon.
