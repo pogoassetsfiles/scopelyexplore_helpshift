@@ -1,0 +1,8 @@
+---
+id: 994
+title: AR crashes on Pixel 10 devices
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/994-ar-crashes-on-pixel-10-devices/
+---
+
+**Issue Description:** AR crashes on the Pixel 10 device.
+ **Issue Status:** Investigating. AR will be disabled in the 0.377 release until the issue can be resolved.
