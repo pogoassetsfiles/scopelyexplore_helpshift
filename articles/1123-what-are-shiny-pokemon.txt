@@ -1,0 +1,27 @@
+---
+id: 1123
+title: What are Shiny Pokémon?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1123-what-are-shiny-pokemon/
+---
+
+**Shiny Pokémon**  are rare variants of Pokémon that are differently colored than other Pokémon of their species. If you’re lucky, you may randomly encounter Shiny Pokémon in the wild, especially during special events like Community Days or Pokémon GO Fest.
+
+You can tell if the Pokémon you’ve encountered is a Shiny Pokémon if you see an icon above their CP like the one in the picture below.
+
+[![image](../data/images/a92d988d-3d7e-4df7-85eb-977278ce9bab-2t.PNG)](https://d2duuy9yo5pldo.cloudfront.net/niantic/53078190-e7d6-4ef8-86e2-99f66ed1ca71.PNG)
+
+Besides encounters in the wild, Raid Boss encounters, Special Research Breakthroughs, Research Task rewards, and other rewards are just a few ways you may encounter a Shiny Pokémon. Stay tuned to the official Pokémon GO blog for details on which Shiny Pokémon you may encounter or will be available in the game, as not all Pokémon in the game have a shiny variant available to date.
+
+**Note:** Ditto will not disguise itself as other Shiny Pokémon, even if Ditto is Shiny. However, a Shiny Ditto may disguise itself as a non-Shiny Pokémon!
+
+### Event-Limited Shiny Pokémon
+
+Some Pokémon, such as Smeargle, Unown and Meltan, can’t be encountered in their Shiny variants outside of specific events. We’ll share when these Pokémon can be found in their Shiny variants in our official event updates on our blog.
+
+### Regional Forms vs. Shiny Variants
+
+You may encounter Pokémon that may appear Shiny at first glance but are actually regional forms of Pokémon.
+
+For example, Kanto Rattata are purple and stand on all fours, while Alolan Rattata are black and stand upright. Also, Kanto Rattata are Normal-type Pokémon, while Alolan Rattata are Normal and Dark-type.
+
+**Note:** Certain Pokémon’s regional forms may also be Shiny. Just like with standard Pokémon, you can tell if they’re Shiny if there’s a shiny icon above their CP.
