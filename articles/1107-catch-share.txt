@@ -42,7 +42,7 @@ Similarly to sharing recently caught Pokémon in the wild, Pokémon caught at a 
 * Tap on the menu button on the bottom right hand side of the screen once the Pokémon has been caught.
 * Tap on “Catch Card”.
 
-![image](https://lh6.googleusercontent.com/MDNoZdlk8Km26KJUGRsUegcRw2F7J-n8G1YemQbrZW6SyzSWbZineU2irztvUjpI_BWc4_r1K2wR7wWylwDlljrKfQ5KJUCUur2bFk7MlBAAfDDmfO42kmSR1v_RCQBhSive-umHRHyC4XEBN1-LAWU)
+![image](../data/images/mdnozdlk8km26kjugrsuegcrw2f7j-n8g1yemqbrzw6syzswbzineu2irztvujpi_bwc4_r1k2wr7wwylwdlljrkfq5kjucuur2bfk7mlbaafddmfo42kmsr1v_rcqbhsive-umhrhyc4xebn1-lawu.png)
 
 ![image](../data/images/8ncde1ctg9zvxxnzleuwhsiieflzebnjvut1cdjmc3hp3tguxj-mef-sxnwleh0b6mhfqzcfxhfqq4s7nctrtjo8d51mtttoquqjgueeeb5pykocyzv6zy8vw5hyew9g5f6eyilpm8mgby-gl3kgllu.png)
 
