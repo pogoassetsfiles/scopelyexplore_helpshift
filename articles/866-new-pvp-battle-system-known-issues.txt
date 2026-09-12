@@ -15,7 +15,7 @@ While we work on fixing these issues, please try these tips to mitigate some of 
 * Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
 * Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
 
-**Last updated** : August 24, 2026
+**Last updated** : September 11, 2026
 
 ## Open Issues
 
@@ -25,6 +25,12 @@ Adverse network conditions may cause unexpected gameplay issues
 
 **Issue Status:** Investigating
 
+Trying to activate a Charged Attack immediately after switching a Pokémon in may instead activate a Fast Attack
+
+**Issue Description:**  When a Trainer switches in a Pokémon that has previously charged up its Charged Attack and immediately tries to activate the Charged Attack, a Fast Attack may activate instead, delaying the activation of the Charged Attack
+
+**Issue Status:**  Investigating
+
 ## Fixed in future release
 
 Battle may be recorded as a loss when matchmaking fails with "Opponent has quit the battle"
@@ -33,58 +39,76 @@ Battle may be recorded as a loss when matchmaking fails with "Opponent has quit 
 
 **Issue Status:**  Fixed in future release
 
+The active Pokémon may be switched out after using a Charged Attack without Trainer input
+
+**Issue Description:**  Immediately after a Trainer’s active Pokémon completes a Charged Attack, that Pokémon may be unexpectedly switched out with another Pokémon in the Trainer’s party.
+
+**Issue Status:**  Fixed in future release
+
+Some Trainers may find that their screen freezes right before a Trainer Battle starts
+
+**Issue Description:**  After finding an opponent and right before the battle starts, some Trainers may find that their screen has frozen on a white screen and are unable to participate in the battle.
+
+**Issue Status:** Fixed in future release
+
+When a Fast Attack and Charged Attack happen simultaneously, damage from the Fast Attack may be inflicted first
+
+**Issue Description:**  If the opponent’s Fast Attack is activated when a Charged Attack button is tapped, Fast Attack damage from the opponent Pokémon may be inflicted before the Charged Attack minigame starts.
+
+**Issue Status:**  Fixed in future release
+
+Fast Attacks do not activate when a Trainer taps the screen with multiple inputs
+
+**Issue Description:**  When a Trainer attempts to activate Fast Attacks by tapping their screen with more than one input, such as multiple fingers, the Fast Attack may not be performed consistently.
+
+**Issue Status:**  Fixed in future release
+
+After a Pokémon is switched in, its first Fast Attack’s animation may not be shown
+
+**Issue Description:** The first Fast Attack performed by a Pokémon immediately after being switched in may not have the usual Fast Attack animation. This is a visual issue only and all effects of the Fast Attack are still applied.
+
+**Issue Status:**  Fixed in future release
+
+CP changing Pokémon do not get the expected resulting CP after transforming
+
+**Issue Description:**  CP changing Pokémon, such as Aegislash, do not get the expected resulting CP after their transformation.
+
+**Issue Status:**  Fixed in future release
+
+When Mimikyu’s Disguise breaks, changes in its Stats do not visually match effects from Stat Changing Charged Attacks
+
+**Issue Description:**  After Mimikyu’s Disguise breaks, its Defense Stat does not visually match Stat changes from Defense-lowering Charged Attacks. This is a visual issue only and Mimikyu’s Defense Stat is still affected by Defense-lowering Charged Attacks.
+
+**Issue Status:**  Fixed in future release
+
+## Resolved
+
 After a Trainer’s second Pokémon faints, the last Pokémon switched in and its Charged Attack buttons may not visually appear
 
 **Issue Description:**  When a Trainer’s second Pokémon faints and their last Pokémon is switched in, the last Pokémon may not visually appear on the battlefield and the Charged Attack buttons may still show the previous fainted Pokémon’s Charged Attacks.
 
-**Issue Status:**  Fixed in future release
+**Issue Status:**  Resolved
 
 After a Trainer’s second Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately
 
 **Issue Description:**  When a Trainer’s last Pokémon is switched in after their previous Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately without the Trainer tapping on the Charged Attack button.
 
-**Issue Status:**  Fixed in future release
+**Issue Status:**  Resolved
 
 Battle may pause for a few seconds after completing a Charged Attack minigame
 
 **Issue Description:**  Trainers may find that, after completing a Charged Attack minigame, the battle may pause for a few seconds before the Charged Attack activates and that they are unable to perform any actions during this pause.
 
-**Issue Status:**  Fixed in Future Release
+**Issue Status:**  Resolved
 
 Unintended Fast Attack may activate when switching a Pokémon in
 
 **Issue Description:**  If a Trainer taps on the switch menu on the side rapidly, an unintended Fast Attack may activate after the Pokémon is switched in.
 
-**Issue Status:** Fixed in future release
+**Issue Status:** Resolved
 
-## Resolved
+Rematches for battles made from the QR matchmaking function may result in an immediate win or loss
 
-Charged Attacks may fail to start
-
-**Issue Description:** Trainers may have difficulties deploying Charge Attacks due to Charged Attack buttons being unresponsive or bubbles failing to appear in time.
-
-**Issue Status:**  Resolved
-
-Camera may briefly become choppy after blocking a Charged Attack with a Protect Shield
-
-**Issue Description:** When a Trainer uses a Protect Shield to block an incoming Charged Attack, the Camera may briefly become choppy when the Charged Attack is performed. This is a visual issue only and will not affect any aspects of the battle.
-
-**Issue Status:**  Resolved
-
-Attempting to switch Pokémon immediately after a battle starts may activate a Fast Attack instead
-
-**Issue Description:**  When a Trainer taps on the switch menu to switch their active Pokémon immediately after the battle starts, a Fast Attack may be activated instead of the switch. This issue only occurs immediately after the battle has started so subsequent attempts to switch Pokémon will behave normally.
-
-**Issue Status:**  Resolved
-
-Charged Attack energy may reset when switching a Pokémon in
-
-**Issue Description:** When switching in a Pokémon that had previously charged up their Charged Attack, its Charged Attack energy may have reset.
-
-**Issue Status:**  Resolved
-
-Camera may become locked in the wrong position during the battle
-
-**Issue Description:**  The Camera may start showing the opponent Pokémon’s perspective during the battle.
+**Issue Description:** When two Trainers use the QR matchmaking function to battle each other, tapping Rematch after the first battle may result in an immediate win or loss for the Trainers without the battle actually taking place.
 
 **Issue Status:**  Resolved
