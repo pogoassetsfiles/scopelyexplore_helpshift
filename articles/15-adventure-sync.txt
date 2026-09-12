@@ -50,7 +50,7 @@ Depending on your device type, you can add the Adventure Sync widget to your hom
 
 * Tap Done.
 
-![image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCw6KEwM8muHEtqMZJZQtDnyjurKmXd_9zuWi2ztqWh4jutn6oV4ftpJTguPfBLMbeiY-Q131AtFhIaSK719JH6XOnb3AmKfknly0l2BbEFV-kO5rjkqa1HzQI-xg-wzLvqYWNWVOi1OqQOfYQdG_uzM8?key=yBAHRQ24muuntRXKuvgPGg)
+![image](../data/images/ad_4nxecw6kewm8muhetqmzjzqtdnyjurkmxd_9zuwi2ztqwh4jutn6ov4ftpjtgupfblmbeiy-q131atfhiask719jh6xonb3amkfknly0l2bbefv-ko5rjkqa1hzqi-xg-wzlvqywnwvoi1oqqofyqdg_uzm8.png)
 
 You can also add the Pokémon GO widget to your Today View by swiping left from your home screen and following the above steps.
 
