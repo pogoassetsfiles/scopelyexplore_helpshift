@@ -42,8 +42,6 @@ Learn more about Primal Reversion [here](https://niantic.helpshift.com/hc/faq/3
 
 Trainers can also make use of the mysterious Shadow Tamer device during Shadow Raid Battles to assist in the Battle against the Shadow Pokémon.
 
-Similar to when Team GO Rocket takes over PokéStops, Trainers can only challenge Team GO Rocket to battle in Shadow Raids by traveling to a Gym in-person, and cannot invite other Trainers to participate with Remote Raid Passes.
-
 Learn more about Team GO Rocket [here](https://niantic.helpshift.com/hc/section/378-team-go-rocket/).
 
 ### Elite Raids
