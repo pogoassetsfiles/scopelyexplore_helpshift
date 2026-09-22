@@ -15,7 +15,7 @@ While we work on fixing these issues, please try these tips to mitigate some of 
 * Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
 * Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
 
-**Last updated** : September 11, 2026
+**Last updated** : September 22, 2026
 
 ## Open Issues
 
@@ -33,30 +33,6 @@ Trying to activate a Charged Attack immediately after switching a Pokémon in ma
 
 ## Fixed in future release
 
-Battle may be recorded as a loss when matchmaking fails with "Opponent has quit the battle"
-
-**Issue Description:**  Trainers may be incorrectly granted a loss if the matchmaking process fails with "Opponent has quit the battle"
-
-**Issue Status:**  Fixed in future release
-
-The active Pokémon may be switched out after using a Charged Attack without Trainer input
-
-**Issue Description:**  Immediately after a Trainer’s active Pokémon completes a Charged Attack, that Pokémon may be unexpectedly switched out with another Pokémon in the Trainer’s party.
-
-**Issue Status:**  Fixed in future release
-
-Some Trainers may find that their screen freezes right before a Trainer Battle starts
-
-**Issue Description:**  After finding an opponent and right before the battle starts, some Trainers may find that their screen has frozen on a white screen and are unable to participate in the battle.
-
-**Issue Status:** Fixed in future release
-
-When a Fast Attack and Charged Attack happen simultaneously, damage from the Fast Attack may be inflicted first
-
-**Issue Description:**  If the opponent’s Fast Attack is activated when a Charged Attack button is tapped, Fast Attack damage from the opponent Pokémon may be inflicted before the Charged Attack minigame starts.
-
-**Issue Status:**  Fixed in future release
-
 Fast Attacks do not activate when a Trainer taps the screen with multiple inputs
 
 **Issue Description:**  When a Trainer attempts to activate Fast Attacks by tapping their screen with more than one input, such as multiple fingers, the Fast Attack may not be performed consistently.
@@ -69,12 +45,6 @@ After a Pokémon is switched in, its first Fast Attack’s animation may not be 
 
 **Issue Status:**  Fixed in future release
 
-CP changing Pokémon do not get the expected resulting CP after transforming
-
-**Issue Description:**  CP changing Pokémon, such as Aegislash, do not get the expected resulting CP after their transformation.
-
-**Issue Status:**  Fixed in future release
-
 When Mimikyu’s Disguise breaks, changes in its Stats do not visually match effects from Stat Changing Charged Attacks
 
 **Issue Description:**  After Mimikyu’s Disguise breaks, its Defense Stat does not visually match Stat changes from Defense-lowering Charged Attacks. This is a visual issue only and Mimikyu’s Defense Stat is still affected by Defense-lowering Charged Attacks.
@@ -83,32 +53,32 @@ When Mimikyu’s Disguise breaks, changes in its Stats do not visually match eff
 
 ## Resolved
 
-After a Trainer’s second Pokémon faints, the last Pokémon switched in and its Charged Attack buttons may not visually appear
+Battle may be recorded as a loss when matchmaking fails with "Opponent has quit the battle"
 
-**Issue Description:**  When a Trainer’s second Pokémon faints and their last Pokémon is switched in, the last Pokémon may not visually appear on the battlefield and the Charged Attack buttons may still show the previous fainted Pokémon’s Charged Attacks.
-
-**Issue Status:**  Resolved
-
-After a Trainer’s second Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately
-
-**Issue Description:**  When a Trainer’s last Pokémon is switched in after their previous Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately without the Trainer tapping on the Charged Attack button.
-
-**Issue Status:**  Resolved
-
-Battle may pause for a few seconds after completing a Charged Attack minigame
-
-**Issue Description:**  Trainers may find that, after completing a Charged Attack minigame, the battle may pause for a few seconds before the Charged Attack activates and that they are unable to perform any actions during this pause.
-
-**Issue Status:**  Resolved
-
-Unintended Fast Attack may activate when switching a Pokémon in
-
-**Issue Description:**  If a Trainer taps on the switch menu on the side rapidly, an unintended Fast Attack may activate after the Pokémon is switched in.
+**Issue Description:**  Trainers may be incorrectly granted a loss if the matchmaking process fails with "Opponent has quit the battle"
 
 **Issue Status:** Resolved
 
-Rematches for battles made from the QR matchmaking function may result in an immediate win or loss
+The active Pokémon may be switched out after using a Charged Attack without Trainer input
 
-**Issue Description:** When two Trainers use the QR matchmaking function to battle each other, tapping Rematch after the first battle may result in an immediate win or loss for the Trainers without the battle actually taking place.
+**Issue Description:**  Immediately after a Trainer’s active Pokémon completes a Charged Attack, that Pokémon may be unexpectedly switched out with another Pokémon in the Trainer’s party.
+
+**Issue Status:**  Resolved
+
+Some Trainers may find that their screen freezes right before a Trainer Battle starts
+
+**Issue Description:**  After finding an opponent and right before the battle starts, some Trainers may find that their screen has frozen on a white screen and are unable to participate in the battle.
+
+**Issue Status:** Resolved
+
+When a Fast Attack and Charged Attack happen simultaneously, damage from the Fast Attack may be inflicted first
+
+**Issue Description:**  If the opponent’s Fast Attack is activated when a Charged Attack button is tapped, Fast Attack damage from the opponent Pokémon may be inflicted before the Charged Attack minigame starts.
+
+**Issue Status:**  Resolved
+
+CP changing Pokémon do not get the expected resulting CP after transforming
+
+**Issue Description:**  CP changing Pokémon, such as Aegislash, do not get the expected resulting CP after their transformation.
 
 **Issue Status:**  Resolved
