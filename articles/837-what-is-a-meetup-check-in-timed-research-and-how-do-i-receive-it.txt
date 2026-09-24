@@ -91,3 +91,5 @@ Please make sure that:
 * You restarted Pokémon GO.
 
 If the steps above do not resolve the issue, please submit an in-game support ticket for further assistance.
+
+If you are using an adult account and believe you should have access to the feature but do not see it, please contact Campfire Support for further assistance.
