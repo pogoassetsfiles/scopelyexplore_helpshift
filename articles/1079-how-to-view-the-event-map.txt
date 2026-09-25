@@ -1,0 +1,13 @@
+---
+id: 1079
+title: How to view the event map
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1079-how-to-view-the-event-map/
+---
+
+For real-world events (such as Pokémon GO Fest),  **if**  **you have an event ticket** , you can view the event map by downloading the [Campfire app](https://campfire.nianticlabs.com/en/). When signing in for the first time, please use the same email address associated with your game account.
+
+Once you select the special event map, you’ll be able to see relevant points of interest, including the store, as well as PokéStops and Gyms that are only visible to event ticket holders, along with other event locations.
+
+![image](../data/images/f3e02c71-00b5-4ace-ac56-da810b0ad16b.png)
+
+For some real-world events (e.g., Pokémon GO City Safari), a Stamp Rally may be featured as part of the event. Stamp Rally locations are also shown on the Google My Maps link for the Stamp Rally collection. Learn more about Stamp Rallies [here](https://scopelyexplore.helpshift.com/hc/faq/860-what-is-the-stamp-rally/).
