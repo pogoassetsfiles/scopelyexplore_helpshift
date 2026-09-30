@@ -1,0 +1,9 @@
+---
+id: 2618
+title: The “Claim Rewards” button is missing after completing a Research page
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2618-the-claim-rewards-button-is-missing-after-completing-a-research-page/
+---
+
+**Issue Description:** Trainers may find that they are unable to claim their rewards for completing a Research page due to a missing “Claim Rewards” button.
+
+**Issue Status:**  Fixed in 0.431 release. In the meantime, closing and restarting Pokémon GO will solve this issue.
