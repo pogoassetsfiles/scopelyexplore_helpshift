@@ -6,7 +6,7 @@ url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1225-reporting-
 
 ## Report game problems with a Pokéstop or Gym
 
-If you experienced gameplay issues while interacting with a PokéStop or Gym, you can [contact us to report a bug](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support).
+If you experienced gameplay issues while interacting with a PokéStop or Gym, you can [contact us to report a bug](https://scopelyexplore.helpshift.com/hc/faq/821-how-to-contact-support/).
 
 ## Request modification or removal of a PokéStop or Gym
 
@@ -19,7 +19,7 @@ We will remove PokéStops or Gyms from Pokémon GO for a very specific and limit
 * The PokéStop or Gym has been permanently removed or is a duplicate of an existing PokéStop or Gym.
 * The PokéStop or Gym's real-world location appears to be within 40 meters of private residential property.
 
-If you are a business or property owner, contact us via this page if you believe a PokéStop or Gym shouldn’t be in Pokémon GO or should be modified.
+If you are a business or property owner, [contact us via this page if you believe a PokéStop or Gym shouldn’t be in Pokémon GO or should be modified.](https://scopelyexplore.helpshift.com/hc/app/4-report-an-issue-with-a-pokestop-gym/contact-us/)
 
 **Please**  ***only***  **submit removal or modification inquiries through the page linked above.** [For all other inquiries, contact us via this form](https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/contact-us/) **.**
 
