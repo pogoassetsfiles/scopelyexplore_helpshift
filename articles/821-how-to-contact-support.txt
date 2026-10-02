@@ -23,7 +23,7 @@ For assistance with signing in, check out these troubleshooting guides:
 
 ### Reporting a Bug
 
-To report a bug with Pokémon GO that isn’t already listed under the [known issues search results](https://niantic.helpshift.com/hc/en/6-pokemon-go/search/?q=known+issues&t=cGFnZT0x), please contact us through the app.
+To report a bug with Pokémon GO that isn’t already listed under the [known issues search results](https://scopelyexplore.helpshift.com/hc/section/116-release-notes-known-issues/), please contact us through the app.
 
 **You won't get an individual response to your report, but we’ll use this information to help us reproduce the issue and identify trends.**
 
@@ -67,4 +67,4 @@ If you experience any issues or would like to share feedback regarding PokéPark
 
 ## Follow Us on Social Media
 
-[Like Scopely Explore Support on Facebook](https://www.facebook.com/Scopely ExploreSupport/) or [follow @Scopely ExploreHelp on Twitter](https://twitter.com/niantichelp) to hear about changes and updates to all of our games.
+[Like Scopely Explore Support on Facebook](https://www.facebook.com/Scopely ExploreSupport/) or [follow @Scopely ExploreHelp on Twitter](https://x.com/ScopelyExplore) to hear about changes and updates to all of our games.
