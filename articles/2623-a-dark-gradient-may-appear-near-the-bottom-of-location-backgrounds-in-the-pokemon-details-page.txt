@@ -1,0 +1,11 @@
+---
+id: 2623
+title: A dark gradient may appear near the bottom of Location Backgrounds in the Pokémon Details Page
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2623-a-dark-gradient-may-appear-near-the-bottom-of-location-backgrounds-in-the-pokemon-details-page/
+---
+
+**Issue Description:**
+There may be a dark gradient seen near the bottom of the Location Background of the Pokémon in the Pokémon Details Page.
+
+**Issue Status:**
+This issue is expected to be fixed in version 0.433.
