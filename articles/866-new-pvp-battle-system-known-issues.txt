@@ -15,70 +15,50 @@ While we work on fixing these issues, please try these tips to mitigate some of 
 * Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
 * Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
 
-**Last updated** : September 22, 2026
+**Last updated** : October 8, 2026
 
 ## Open Issues
 
-Adverse network conditions may cause unexpected gameplay issues
+### Adverse network conditions may cause unexpected gameplay issues
 
 **Issue Description:**  When battling in adverse network conditions, game actions may behave in unexpected ways. Some examples include, but are not limited to, the battle becoming unresponsive immediately after switching Pokémon at the start of battle, and Pokémon switched in not displaying correctly.
-
-**Issue Status:** Investigating
-
-Trying to activate a Charged Attack immediately after switching a Pokémon in may instead activate a Fast Attack
-
-**Issue Description:**  When a Trainer switches in a Pokémon that has previously charged up its Charged Attack and immediately tries to activate the Charged Attack, a Fast Attack may activate instead, delaying the activation of the Charged Attack
-
-**Issue Status:**  Investigating
+ **Issue Status:** Investigating
 
 ## Fixed in future release
 
-Fast Attacks do not activate when a Trainer taps the screen with multiple inputs
+### Fast Attacks may land sooner than expected right after a Pokémon switch in adverse network conditions
 
-**Issue Description:**  When a Trainer attempts to activate Fast Attacks by tapping their screen with more than one input, such as multiple fingers, the Fast Attack may not be performed consistently.
+**Issue Description:**  When a Trainer switches Pokémon, Fast Attacks that were in progress around the switch may resolve faster than their normal duration. As a result, a Fast Attack may deal damage earlier than expected.
+I **ssue Status:** Fixed in a future release
 
-**Issue Status:**  Fixed in future release
+### Tapping rapidly may prevent Pokémon selection when switching
 
-After a Pokémon is switched in, its first Fast Attack’s animation may not be shown
+**Issue Description:** When a Trainer rapidly taps on available Pokémon to switch in after their active Pokémon faints, their selection may not register. When the switch timer expires, a Pokémon is selected automatically.
+ **Issue Status:**  Fixed in future release
 
-**Issue Description:** The first Fast Attack performed by a Pokémon immediately after being switched in may not have the usual Fast Attack animation. This is a visual issue only and all effects of the Fast Attack are still applied.
+### Trainers may receive a loss when a GO Battle League battle fails to start
 
-**Issue Status:**  Fixed in future release
+**Issue Description:**  When entering a GO Battle League battle, the app may become stuck on the “Battle Starting” screen. The battle is then completed automatically and recorded as a loss without any battling.
+ **Issue Status:** Fixed in future release
 
-When Mimikyu’s Disguise breaks, changes in its Stats do not visually match effects from Stat Changing Charged Attacks
+### Trying to activate a Charged Attack immediately after switching a Pokémon in may instead activate a Fast Attack
 
-**Issue Description:**  After Mimikyu’s Disguise breaks, its Defense Stat does not visually match Stat changes from Defense-lowering Charged Attacks. This is a visual issue only and Mimikyu’s Defense Stat is still affected by Defense-lowering Charged Attacks.
-
-**Issue Status:**  Fixed in future release
+**Issue Description:** When a Trainer switches in a Pokémon that has previously charged up its Charged Attack and immediately tries to activate the Charged Attack, a Fast Attack may activate instead, delaying the activation of the Charged Attack
+ **Issue Status:** Fixed in a future release
 
 ## Resolved
 
-Battle may be recorded as a loss when matchmaking fails with "Opponent has quit the battle"
+### Fast Attacks do not activate when a Trainer taps the screen with multiple inputs
 
-**Issue Description:**  Trainers may be incorrectly granted a loss if the matchmaking process fails with "Opponent has quit the battle"
+**Issue Description:**  When a Trainer attempts to activate Fast Attacks by tapping their screen with more than one input, such as multiple fingers, the Fast Attack may not be performed consistently.
+ **Issue Status:**  Resolved
 
-**Issue Status:** Resolved
+### After a Pokémon is switched in, its first Fast Attack’s animation may not be shown
 
-The active Pokémon may be switched out after using a Charged Attack without Trainer input
+**Issue Description:** The first Fast Attack performed by a Pokémon immediately after being switched in may not have the usual Fast Attack animation. This is a visual issue only and all effects of the Fast Attack are still applied.
+ **Issue Status:**  Resolved
 
-**Issue Description:**  Immediately after a Trainer’s active Pokémon completes a Charged Attack, that Pokémon may be unexpectedly switched out with another Pokémon in the Trainer’s party.
+### When Mimikyu’s Disguise breaks, changes in its Stats do not visually match effects from Stat Changing Charged Attacks
 
-**Issue Status:**  Resolved
-
-Some Trainers may find that their screen freezes right before a Trainer Battle starts
-
-**Issue Description:**  After finding an opponent and right before the battle starts, some Trainers may find that their screen has frozen on a white screen and are unable to participate in the battle.
-
-**Issue Status:** Resolved
-
-When a Fast Attack and Charged Attack happen simultaneously, damage from the Fast Attack may be inflicted first
-
-**Issue Description:**  If the opponent’s Fast Attack is activated when a Charged Attack button is tapped, Fast Attack damage from the opponent Pokémon may be inflicted before the Charged Attack minigame starts.
-
-**Issue Status:**  Resolved
-
-CP changing Pokémon do not get the expected resulting CP after transforming
-
-**Issue Description:**  CP changing Pokémon, such as Aegislash, do not get the expected resulting CP after their transformation.
-
-**Issue Status:**  Resolved
+**Issue Description:**  After Mimikyu’s Disguise breaks, its Defense Stat does not visually match Stat changes from Defense-lowering Charged Attacks. This is a visual issue only and Mimikyu’s Defense Stat is still affected by Defense-lowering Charged Attacks.
+ **Issue Status:**  Resolved
