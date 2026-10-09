@@ -8,7 +8,7 @@ url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1220-routes-faq
 
 **Why is Routes not available to me?**
 
-In order to be able to follow a Route, you must first reach Level 7. Additionally, if you login with a child account (via Kids at Scopely Explore or Pokémon Trainer Central), check the  **Friends and related features**  settings in the Parent Portal.
+In order to be able to follow a Route, you must first reach Level 7. Additionally, if you login with a child account (via Niantic Kids or Pokémon Trainer Central), check the  **Friends and related features**  settings in the Parent Portal.
 
 **How can I find nearby Routes?**
 
@@ -17,6 +17,10 @@ Approved Routes will appear in the Route tab of the Nearby menu. Sometimes Route
 **Why are there no Routes near me?**
 
 We appreciate your excitement to participate in Routes! Our team is continuing to work hard to get more Route submissions approved for a quality experience.
+
+**Why am I not seeing any Zygarde Cells on Routes?**
+
+Any Zygarde Cells you encounter on Routes will now be automatically collected and sent to the Zygarde Cube in your Item Bag. Since you no longer need to actively tap on Zygarde Cells to collect them, they will not appear visually on the Route.
 
 ### Creating Routes
 
@@ -38,7 +42,7 @@ Your Trainer Nickname will appear on the Routes detail page. You can hide this i
 
 **Why can’t I create a Route?**
 
-While everyone is able to follow Routes, the ability to create new Routes is only available to Pokémon GO players Level 30 and up. Please stay tuned - we will expand access soon. Note that Routes creation is not available for Trainers who log in with a child account through Pokémon Trainer Central or Kids at Scopely Explore.
+While everyone is able to follow Routes, the ability to create new Routes is only available to Pokémon GO players Level 30 and up. Please stay tuned - we will expand access soon. Note that Routes creation is not available for Trainers who log in with a child account through Pokémon Trainer Central or Niantic Kids.
 
 **Why was my Route rejected?**
 
@@ -52,7 +56,7 @@ While there are a number of reasons your Route could have been rejected during t
 
 **What happens if my start or end point is removed?**
 
-If changes are made to your start or end point via Scopely Explore Wayfarer edits, your Route will automatically adjust to reflect these changes.
+If changes are made to your start or end point via Niantic Wayfarer edits, your Route will automatically adjust to reflect these changes.
 
 If a start or end point is removed from the Map, your Route will also be archived and any Trainers currently following that Route will lose their progress. Your earned Route Badge will remain, but you won’t be able to replay the same Route. If you try to start it again from your Route Badge, it will result in an error and you won’t be able to proceed.
 
