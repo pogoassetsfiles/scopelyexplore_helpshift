@@ -5,4 +5,4 @@ url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2627-some-zubat
 ---
 
 **Issue description:** Some Zubat, Golbat, and Crobat may appear as a bright white glow in Pokémon Storage. Note that setting this Pokémon as your Buddy Pokémon may cause additional issues with the Pokémon GO app. Please avoid selecting one of these Pokémon as your Buddy.
- **Issue status:** This visual issue has been fixed for newly encountered Zubat, Golbat, and Crobat. We’re working on a solution for affected Pokémon already in your storage. You can keep an affected Pokémon while we work on this, or transfer it if you’d prefer not to keep it in its current state.
+ **Issue status:** Resolved. If you are still experiencing issues, please [contact support.](https://scopelyexplore.helpshift.com/hc/faq/821-how-to-contact-support/)
