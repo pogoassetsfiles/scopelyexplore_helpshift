@@ -56,7 +56,7 @@ Don’t forget to [add these new Postcards to your Postcard book](https://nianti
 
 Once you have followed the Route path and have reached the end point, or the start point if the Route is a loop, you will earn the Route Badge! Similar to a Gym Badge, each Route has its own individual Badge that features an image from the start or end point. Complete the same Route multiple times to level up your Route Badge. You can see all of your Route Badges on your Trainer Profile under the  **Routes**  section.
 
-After you have reached the end point, tap on the Route Menu button and tap the  **Complete Route**  button to finish your Route. Routes will not complete automatically to give you the opportunity to collect any Zygarde Cells you may not have noticed. Tap  **Yes**  on the confirmation screen to complete the Route. The Route title and badge will be recorded in your Journal.
+After you have reached the end point, tap on the Route Menu button and tap the  **Complete Route**  button to finish your Route. Tap  **Yes**  on the confirmation screen to complete the Route. The Route title and badge will be recorded in your Journal.
 
 The last step in completing the Route is to give the Route a star rating. Your rating will be used to assess the quality of the Route, but will not be shared publicly. If you have previously given that specific Route a rating, you will not see this screen.
 
