@@ -1,0 +1,9 @@
+---
+id: 2634
+title: Unable to rejoin a remote Mega Raid after leaving or being defeated
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2634-unable-to-rejoin-a-remote-mega-raid-after-leaving-or-being-defeated/
+---
+
+**Issue description:** Trainers who leave a remote Mega Raid or are defeated in one may be unable to rejoin it, even though their Remote Raid Pass was used.
+
+**Issue status:** A fix is planned for version 433.1. In the meantime, affected Trainers can contact Support in the app to request a replacement Remote Raid Pass.
