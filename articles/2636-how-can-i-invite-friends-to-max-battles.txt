@@ -1,0 +1,50 @@
+---
+id: 2636
+title: How Can I Invite Friends to Max Battles?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2636-how-can-i-invite-friends-to-max-battles/
+---
+
+Trainers who join a Max Battle in-person can invite other friends to the Battle, regardless of their friends’ locations. However, invited Trainers can’t invite their own friends to the same lobby, and the limit for the maximum number of Trainers who can join a Battle remotely still applies across all Trainers in the lobby, including any invited friends.
+
+Note that Trainers will only be able to participate in 10 Remote Raids per day. This maximum may change and increase for special events. If you attempt to invite a friend who has already reached this daily limit, you will receive an error message.
+
+**Note about child accounts:** Trainers with child accounts can only use this feature if their parents or guardians opt into enabling social features through the [Kids at Scopely Explore Parent Portal](https://parents.nianticlabs.com/) or [Pokémon Trainer Central](https://access.pokemon.com/login?login_challenge=FHbgjBQfu4gTP-8XFp510FgJ7I2gVihnCrgrFkAjPGihCM5JK4YunYE-iAomah8xYSqfJ2RaEGXFBJChVK7DQYE1X7_4kjNvOIE3fMqZxWo8u6U747eMkS9W0XUo2QfCogaSApL50dwvs0s1sSkw1rOXvPpxun6kGddoqwlaHDtnUg_RzR7NH6mf6JvlWmZlF4L1WT4LQQpK0awkZypT8SvpXZySUsknlL66N3jJIhIvl26qRKMJRWB5DQw8lPkBMY_s028vfblhccB0Dq0NYbUb-tCpQjeBams-yA0kUw5YdtIB_8RgDwjOly1r-XbSfPnX5k80nEJCzz-94PPHLwZQv3vMjkZZkZpHI1g8_yFtcpWnRkX5REs0Ts_dSJOw3EPTooc6u1t657QSRrmbyriMTGNk989ujhO0wZNSEqSwzAzWaUbZg6cPzZ8zBCtjlzm_1Dchazj8TgDgi3bK3EcfOYorjJHm62VNzUSesFc94QJBwJsQyCAWq-tEi8_jwYsFL2pWeJBPx-i_R8Qm_4E0otK5jMiOdrPgk8G3FJ1VnUt32Yg1yA9uWzVvsUVO8-hZZIRvvXpgNjPBITO5LOy50ZLo0Ml2K1Oz_QIgPAqjs2J2O9pwQ1imLzHIorUynMAxmTWhTym7C_twXR9chL2O--mPare7um28WCgwKpvbjhTZnV5LuhHPYlZQlepYUUQInGwjCaOAcm4kiwjauEE3LDaJPnoNruhkkv2uPbWIYXvPPfEk31k8bpBqROWDNLFnAV3Sf-MEnCk53LV_dyNj8mDNfv62YiJL4F28mbiRdBymFh8zB7kI2UdDwoCYG7DV6n4VqyYrFzOPD5qjB1H3YdT30KR-By45YIgyrbQyeYJaRyK8Qqg440Ci82Hn8dMjPbzXl54x3IxAgJp8CsFEHJdyqNe3yuV0za44BFy7QHyxS7vz6lKbDiTlM1e0oLxDzquDl1NbNtK9ip9VVyUD-ZMtrLzyiebZ7VCgdjxTEV4vvCU0cFEjBLrquJ18PoNRvomu5ZUR8mehn9qxBL8GijfDklwV2jIqVV0hsQjLd06vBoJl5qyJwqlpry0OdqyMFQ6T1Q2dn0xRgiKkwQ1EjNH8U4ountx-jWfRs054y_h12H1B4xvkHSFfNVImhz_gjd-Ll7w9izIFx7UVMQPTPSz6Lc2E--Nd5WbXbSbnfO92hsoYNhBTll3MjkFuSz1tL8L5rERP4NiZZkRMvK6zl7A9KKUSWsNlXSp0wm60QGD1oSoL-aJxX6n6ubsenNua0oapomc3ATvKxjXoUUYdCwAVQ-bnpzo-iB-8wF3YrLkHUQXpkpJkDYIHp7zHyoWqAaNfnKEHPvCfFleliuMvKMt1ocGql0MmW8xUuev2Q0-8WVIingaj9igxefip6ZWLbEAe52-xCqsuUZU8eVXDLC704Xom1O8dBZHD1ntL2rK4nUA95dMPAhGeMEtrrExLPTT5p8LXEjyQXH0TQ6DasdMk6NeVZPowSpmvd3ebLzIA7Zh4QNLBfOeTFcau9VlK5pJJZMX5wQ1OY40g_5NSJEhDQAuZNj650NS4QfsEtwSMa3HkKHFyPLQaoLt_5D7tJvRiwk3Rk6uNNnYx_Xo-yzkoUUG8cVV6JbbYmYniBdGUvlLmzSiMqW5xWkDYQUjXSowCevnGrD_jS2FrR0HhMvkF2qTh-dkfWmI6ntMEoO4zz7driHHFmk6ll9yDZ1qQKW7GSVt7D86r-HXjewVLWwAtywnLjYWxxC7Ike2UEoElQxbFRWxbli1sAxRmKrHFKlWDMgnLZUuvyjSt-Q5mgXxSfVLoO_cwi8wXY809IpNU5YUn0OZMjEJGxg%3D%3D) website.
+
+### **To invite a friend to a Max Battle:**
+
+* Enter a Power Spot by tapping on it on the Map or in the Nearby Menu.
+* If you have enough Max Particles, tap  **Battle**  to join the lobby.
+* Tap the  **Invite Friends**   **button** on the right side of the screen.
+* Select the friends you would like to invite to the raid (up to 3), then tap “Invite Friends.”
+
+* There is an upper limit to how many Trainers can join a battle remotely, which applies to friends you invite as well as other Trainers.
+* While you can invite friends to join you in a Max Battle, they can also join ongoing Max Battles directly from their Friends List.
+* If no one accepts your invitation, after a brief cooldown you will be able to send subsequent invitations to other friends.
+* Select three Pokémon you want to bring with you into battle, keeping in mind that you must bring at least one Max Pokémon and that only Dynamax or Gigantamax Pokémon can join Max Battles.
+* When 4 Trainers have joined or the lobby timer reaches 0, you will enter into the Max Battle.
+
+Learn more about [Max Battles](https://scopelyexplore.helpshift.com/hc/aq/1214-max-battles-and-catching-max-pokemon/).
+
+**To accept an invitation to a Max Battle:**
+
+When a friend invites you to a Max Battle, you either receive an in-game notification (if you have the app open) or a push notification (if the app is running in the background or closed). However, you’ll only receive push notifications if the “Raid and Max Battle Invitations” setting is toggled on in your Settings menu.
+
+To accept the invitation and join a Max Battle:
+
+* Tap the in-game notification to view the Max Battle. Tapping the push notification will open the Pokémon GO app, after which you can tap the active Max Battle invitation from the Nearby menu.
+* Join the Max Battle lobby by tapping the “Battle” button. You’ll need to use a Remote Raid Pass as well as Max Particles if you are not within an interactable distance of the Power Spot. If you are near the Power Spot, you only need to use Max Particles to join the Max Battle.
+ **Note:**  If the lobby is already full or is already hosting the maximum number of Trainers battling remotely, you won’t be able to join.
+* If you don’t tap the invitation, it will disappear once the Max Battle has started. However, if you successfully join through an invitation but encounter an error and are unable to complete the battle, the invitation will remain in the “Nearby” menu. This allows you to rejoin as long as the battle is ongoing and up to a few minutes after it has been completed so you can still encounter and catch the Dynamax or Gigantamax Pokémon.
+
+### **Creating a Private Group for a Max Battle:**
+
+You can create a private group for Dynamax Battles by following the steps below:
+
+* Enter a Power Spot by tapping on it on the Map.
+* Tap on the  **Private Group**  button under the  **Battle**  button
+* Enter a group code and tap  **Create Group**
+* Share your group code with your friends and wait for them to join
+
+You can also change your private group to a public group by tapping on the  **Private**  button at the top of the lobby screen.
+
+**Please note:**  Creating a private group is not available when battling Gigantamax Pokémon.
