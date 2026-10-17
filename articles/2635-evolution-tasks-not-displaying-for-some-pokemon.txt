@@ -1,0 +1,8 @@
+---
+id: 2635
+title: Evolution tasks not displaying for some Pokémon
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2635-evolution-tasks-not-displaying-for-some-pokemon/
+---
+
+**Issue Description:**  When opening Pokémon storage and tapping a Pokémon that requires an evolution task to be completed, the task details do not appear under the “Evolve” button. This has been confirmed to affect Woobat, Charcadet, Primeape, and Qwilfish, however other Pokémon with evolution tasks may also be affected.
+ **Issue Status:**  Investigating.
