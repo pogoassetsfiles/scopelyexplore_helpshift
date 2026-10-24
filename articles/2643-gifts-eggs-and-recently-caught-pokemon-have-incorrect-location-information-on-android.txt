@@ -1,0 +1,8 @@
+---
+id: 2643
+title: Gifts, Eggs and recently caught Pokémon have incorrect location information on Android
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2643-gifts-eggs-and-recently-caught-pokemon-have-incorrect-location-information-on-android/
+---
+
+**Issue Description:**  Some Gifts, Eggs, and recently caught Pokémon display inaccurate location data in their details for Trainers using Android devices. This is a visual issue only, the correct details will be reflected upon resolution of this issue.
+ **Issue Status:** This issue originates with a third-party mapping service. A fix is in progress.
