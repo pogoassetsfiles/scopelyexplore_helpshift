@@ -1,10 +1,10 @@
 ---
 id: 866
-title: New PvP Battle System Known Issues
+title: GO Battle League Known Issues
 url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/866-new-pvp-battle-system-known-issues/
 ---
 
-Here is a list of issues related to the new PvP battle system for GO Battle League that are currently being investigated by our engineering team. This list will be updated regularly, and issues will be added and removed as they are discovered and resolved.
+Here is a list of issues related to GO Battle League that are currently being investigated by our engineering team. This list will be updated regularly, and issues will be added and removed as they are discovered and resolved.
 
 Please note that this is not a comprehensive list of all issues we are aware of or working to fix. You can find the list of known issues unrelated to GO Battle League [here](https://scopelyexplore.helpshift.com/hc/section/116-release-notes-known-issues/).
 
@@ -15,7 +15,7 @@ While we work on fixing these issues, please try these tips to mitigate some of 
 * Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
 * Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
 
-**Last updated** : October 8, 2026
+**Last updated** : October 27, 2026
 
 ## Open Issues
 
@@ -26,39 +26,59 @@ While we work on fixing these issues, please try these tips to mitigate some of 
 
 ## Fixed in future release
 
-### Fast Attacks may land sooner than expected right after a Pokémon switch in adverse network conditions
-
-**Issue Description:**  When a Trainer switches Pokémon, Fast Attacks that were in progress around the switch may resolve faster than their normal duration. As a result, a Fast Attack may deal damage earlier than expected.
-I **ssue Status:** Fixed in a future release
-
 ### Tapping rapidly may prevent Pokémon selection when switching
 
 **Issue Description:** When a Trainer rapidly taps on available Pokémon to switch in after their active Pokémon faints, their selection may not register. When the switch timer expires, a Pokémon is selected automatically.
- **Issue Status:**  Fixed in future release
-
-### Trainers may receive a loss when a GO Battle League battle fails to start
-
-**Issue Description:**  When entering a GO Battle League battle, the app may become stuck on the “Battle Starting” screen. The battle is then completed automatically and recorded as a loss without any battling.
  **Issue Status:** Fixed in future release
 
 ### Trying to activate a Charged Attack immediately after switching a Pokémon in may instead activate a Fast Attack
 
 **Issue Description:** When a Trainer switches in a Pokémon that has previously charged up its Charged Attack and immediately tries to activate the Charged Attack, a Fast Attack may activate instead, delaying the activation of the Charged Attack
- **Issue Status:** Fixed in a future release
+ **Issue Status:** Fixed in future release
+
+### Protect Shields may appear without activating
+
+**Issue description:** When a Trainer tries to activate a Protect Shield too late or in adverse network conditions, the Protect Shield may appear on screen but not block any incoming damage. This is a visual issue only, and the Protect Shield charge is not consumed.
+ **Issue status:** Fixed in future release
+
+### Visual effects may not appear for some Fast Attacks
+
+**Issue description:**  Some Fast Attacks with shorter duration may not play their visual effects when used. This is a visual issue only, and the correct damage is still dealt to the opposing Pokémon.
+ **Issue status:** Fixed in future release
+
+### In rare situations, some Charged Attacks may not deal the correct amount of damage
+
+**Issue description:** In rare gameplay situations, Charged Attacks may not deal the full amount of damage to opponents, even when the Trainer perfectly completes the Charged Attack minigame.
+ **Issue status:** Fixed in future release
+
+### Charged Attack energy may be lost if the opposing Pokémon faints
+
+**Issue description:**  In rare gameplay situations, if a Trainer uses a Charged Attack at the same time as their opponent’s Pokémon faints, their Pokémon may lose Charged Attack energy unexpectedly.
+ **Issue status:** Fixed in future release
+
+### An unintended Pokémon switch may be forced if the opposing Pokémon faints
+
+**Issue description:** If an opponent's Pokemon faints at the same time as a Trainer switches their Pokémon, the active Pokemon may be switched unexpectedly after a slight delay.
+ **Issue status:**  Fixed in future release
+
+### Fast Attack animations may appear to play repeatedly when an opponent uses a Charged Attack
+
+**Issue description:** If a Trainer attempts to use multiple Fast Attacks while an opponent switches their Pokémon and immediately uses a Charged Attack, the Fast Attack animation may play repeatedly. This is a visual issue only, and correct Fast Attack timings and sequencing are maintained.
+ **Issue status:** Fixed in future release
 
 ## Resolved
 
-### Fast Attacks do not activate when a Trainer taps the screen with multiple inputs
+### Fast Attacks may land sooner than expected right after a Pokémon switch in adverse network conditions
 
-**Issue Description:**  When a Trainer attempts to activate Fast Attacks by tapping their screen with more than one input, such as multiple fingers, the Fast Attack may not be performed consistently.
- **Issue Status:**  Resolved
+**Issue Description:** When a Trainer switches Pokémon, Fast Attacks that were in progress around the switch may resolve faster than their normal duration. As a result, a Fast Attack may deal damage earlier than expected.
+ **Issue Status:** Resolved
 
-### After a Pokémon is switched in, its first Fast Attack’s animation may not be shown
+### Trainers may receive a loss when a GO Battle League battle fails to start
 
-**Issue Description:** The first Fast Attack performed by a Pokémon immediately after being switched in may not have the usual Fast Attack animation. This is a visual issue only and all effects of the Fast Attack are still applied.
- **Issue Status:**  Resolved
+**Issue Description:** When entering a GO Battle League battle, the app may become stuck on the “Battle Starting” screen. The battle is then completed automatically and recorded as a loss without any battling.
+ **Issue Status:** Resolved
 
-### When Mimikyu’s Disguise breaks, changes in its Stats do not visually match effects from Stat Changing Charged Attacks
+### Cramorant's Gulp Missile may deduct Charged Attack energy
 
-**Issue Description:**  After Mimikyu’s Disguise breaks, its Defense Stat does not visually match Stat changes from Defense-lowering Charged Attacks. This is a visual issue only and Mimikyu’s Defense Stat is still affected by Defense-lowering Charged Attacks.
- **Issue Status:**  Resolved
+**Issue description:** When Cramorant is in Gulping Form or Gorging Form and uses its Gulp Missile counterattack to cause an opponent to faint, extra energy may be lost.
+ **Issue Status:** Resolved
