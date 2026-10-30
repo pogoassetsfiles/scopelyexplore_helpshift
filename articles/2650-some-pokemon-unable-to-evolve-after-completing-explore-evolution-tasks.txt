@@ -1,0 +1,8 @@
+---
+id: 2650
+title: Some Pokémon unable to evolve after completing explore evolution tasks
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2650-some-pokemon-unable-to-evolve-after-completing-explore-evolution-tasks/
+---
+
+**Issue Description:**  Trainers who have completed the "Explore X km" evolution tasks required to evolve certain Pokémon (e.g. Bramblin, Pawmo) are unable to evolve it.
+ **Issue Status:**  Working on a fix. Any Pokémon that have met the eligibility will be able to evolve once the fix has been deployed.
