@@ -1,0 +1,8 @@
+---
+id: 2648
+title: Rare Candy removed from Tappable Halloween surprises
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2648-rare-candy-removed-from-tappable-halloween-surprises/
+---
+
+**Issue Description:** Due to an issue with Rare Candy in Tappable Halloween surprises that appear on the map, they have temporarily been removed from the Halloween Part 1 event.
+ **Issue Status:** Working on a fix.
