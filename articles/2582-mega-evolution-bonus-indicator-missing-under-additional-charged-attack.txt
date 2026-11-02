@@ -8,4 +8,4 @@ url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2582-mega-evolu
 
 Please note that this is a visual issue only and the power bonus is still being applied. Learn more about how the Mega Evolution power bonus is applied to the additional Charge Attack [here](https://scopelyexplore.helpshift.com/hc/faq/1197-what-is-mega-evolution/).
 
-**Issue Status:**  Investigating.
+**Issue Status:**  Resolved.
