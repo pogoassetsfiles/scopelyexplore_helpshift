@@ -4,33 +4,62 @@ title: What is the Explorer Gadget?
 url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 ---
 
-The  **Explorer Gadget**  is an in-game feature that allows you to attempt to catch by automatically throwing Poké Balls at nearby Pokémon and spin PokéStops when Pokémon GO is not actively open on your device.
+The  **Explorer Gadget**  is an in-game feature that allows you to simplify your Pokémon GO gameplay by taking certain actions automatically. Whether you are actively playing Pokémon GO or have it open in the background, the Explorer Gadget will do two things as you explore: throw Poké Balls and spin PokéStops.
 
-**Please note:**  The Explorer Gadget will not attempt to catch certain Pokémon, such as Pokémon that aren’t yet registered in your Pokédex. However, it will attempt to catch Pokémon with different forms if you have already caught one form of that Pokémon (for example, if you have caught a Pom-Pom Style Oricorio, the Explorer Gadget will still attempt to catch Baile Style, Sensu Style, and Pa'u Style Oricorios even if you haven't caught them yet).
+To get started using the Explorer Gadget, open it by either tapping on the Explorer Gadget icon at the top right of your Map View or in the Key Items section of your Item Bag. To activate the Explorer Gadget, tap on the  **Use**  button.
 
-### How do I use the Explorer Gadget?
+![image](../data/images/26fc781c-8b47-4f71-92bd-ea389e6114d8.png)
 
-Using the Explorer Gadget is simple. All you need to do is:
+![image](../data/images/7bedf898-3961-4341-b82e-e82a7e528391.png)
 
-* Tap on the Explorer Gadget icon at the top right of your Map View in Pokémon GO or find it in the Key Items section of your Item Bag.
+![image](../data/images/1252208e-fd4c-4723-9bfb-7c8c2f45e8af.png)
 
-* **Please note**  that the Explorer Gadget icon in your Map View will not appear if you have an accessory device paired to Pokémon GO. Trainers with a paired accessory device can use the Explorer Gadget by selecting it in the Key Items section of your Item Bag as long as the paired accessory device is disconnected.
-* Tap  **Use**  in the Explorer Gadget window that pops up.
+Once you activate your Explorer Gadget, it will continue to attempt catching nearby Pokémon and spin nearby PokéStops for you until you run out of available Pokémon or Item Bag storage, or you reach the daily maximum activity, whichever comes first. You also have the option to pause and resume the Explorer Gadget by tapping on the Explorer Gadget icon on the Map View.
 
-Once you activate your Explorer Gadget, it will continue to attempt catching nearby Pokémon and spin nearby PokéStops for you while Pokémon GO is closed or not actively being used on your device. You also have the option to pause and resume the Explorer Gadget by tapping on the Explorer Gadget icon again.
+You must still explore the world while carrying your device for the Explorer Gadget to operate fully.
 
-**Please note** : You must still explore the world while carrying your device for the Explorer Gadget to operate fully.
+**Please note**  you can either use the Explorer Gadget or an accessory device like the Pokémon GO Plus+. If you attempt to activate the Explorer Gadget while you are already using an accessory device, you will be prompted to disconnect the accessory device.
 
-You will be able to see a summary of what Pokémon were caught, how many Pokémon were caught, and how many PokéStops were spun once you launch Pokémon GO again. Pokémon caught by the Explorer Gadget will automatically be sorted from Newest to Oldest in the summary and will only show Pokémon caught with the Explorer Gadget.
+### How do I catch Pokémon with the Explorer Gadget?
 
-**Please note:** Currently, this feature is in a phased rollout.
+Once activated, the Explorer Gadget will automatically attempt to catch Pokémon when they appear on the Map by throwing a Poké Ball. Unlike manually attempting to catch a Pokémon, the Explorer Gadget will only attempt to catch it once. If the catch attempt is not successful, the Pokémon will flee.
 
-The Explorer Gadget has a limit to how many Pokémon it can catch and how many PokéStops it can spin per day. Once it has reached this limit, the Explorer Gadget will stop its activity for the day.
+If you are using the Explorer Gadget while actively playing Pokémon GO, you will see a pink Poké Ball icon appear over encountered Pokémon on the Map, indicating that the Explorer Gadget is attempting to catch that Pokémon.
+
+[![](../data/images/922d2755-0252-4825-8143-a1859a69392c.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/922d2755-0252-4825-8143-a1859a69392c.png)  [![](../data/images/c66288db-31e5-4ac4-b4d9-93ad1c35cb54.png)](https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/c66288db-31e5-4ac4-b4d9-93ad1c35cb54.png)
+
+The Explorer Gadget can only use Poké Balls when attempting to catch Pokémon, not Great Balls or Ultra Balls. If you do not have any Poké Balls in your Item Bag, the Explorer Gadget will not attempt to catch Pokémon.
+
+If you have no Poké Balls when activating the Explorer Gadget, you will automatically receive some Poké Balls to get you started. However, if you use up all your Poké Balls before the daily catch limit is reached, the Explorer Gadget will alert you on the Map View.
+
+![image](../data/images/d8dee3ba-863d-4853-b6c6-a738a55df2e0.png)
+
+Additionally, similar to other accessory devices, the Explorer Gadget cannot use Berries when attempting to catch a Pokémon.
+
+**Please note:**  The Explorer Gadget will not attempt to catch certain Pokémon, such as Pokémon that aren’t yet registered in your Pokédex. However, it will attempt to catch Pokémon with different forms if you have already caught one form of that Pokémon (for example, if you have caught a Pom-Pom Style Oricorio, the Explorer Gadget will still attempt to catch Baile Style, Sensu Style, or Pa'u Style Oricorios even if you haven't caught that specific form yet).
+
+The Explorer Gadget has a daily limit for how many Pokémon it can catch and how many PokéStops it can spin based on your Trainer level. Once it has reached this limit, the Explorer Gadget will stop attempting to catch Pokémon until the next day.
+
+Before midnight local time, if you deactivate the Explorer Gadget by switching to an accessory device, or if you have completed all of your available catches for that day, you will see a pop-up with a summary of the Pokémon caught by the Explorer Gadget appear, sorted from most to least recent. Any Pokémon that flee will not appear on this summary, but you can view these records in your Journal. If you manually catch Pokémon while the Explorer Gadget is active, these Pokémon will not appear on the summary. Note that, if the Explorer Gadget has incomplete activity by midnight local time, no summary will automatically appear but you can view this summary in your Journal.
+
+### How do I use the Explorer Gadget to spin PokéStops?
+
+Similar to catching Pokémon, the Explorer Gadget will automatically spin PokéStops within your interaction radius as you explore. If you have available space in your Item Bag, these items will be automatically added to your bag. If your Item Bag is full, you will see a warning on the Explorer Gadget icon on the Map View and in the Explorer Gadget summary, and the Explorer Gadget will not spin PokéStops.
+
+![image](../data/images/424a0ac8-9871-442f-95e6-1181b25b70bf.png)
+
+![image](../data/images/834bd280-feab-4dcf-a549-bfb8db081041.png)
+
+Similar to catching Pokémon, the Explorer Gadget has an upper limit to how many PokéStops it can spin. Once it has reached this limit, it will stop activity for the day.}
 
 ### Are there any requirements to use the Explorer Gadget?
 
-In order to use the Explorer Gadget, you must be at least Trainer level 20, have no accessory devices actively connected, and have not reached the daily limit of the Explorer Gadget yet for the day.
+In order to use the Explorer Gadget, you must meet the following requirements:
 
-Additionally, if you have no space left in your Pokémon Storage or Item Bag either prior to activating the Explorer Gadget or during its usage, the Explorer Gadget will surface an alert in the Map View.
+* Have reached Trainer level 20 or higher
+* Not be using any accessory devices
+* Have not reached the daily limit for the Explorer Gadget
+* Have available space in your Pokémon Storage and Item Bag
+* (To catch Pokémon) have Poké Balls in your Item Bag
 
-If you have no Poké Balls when activating the Explorer Gadget, you will automatically receive some additional Poké Balls to get you started. However, if you use up all your Poké Balls before the daily catch limit is reached, the Explorer Gadget will surface an alert in the Map View.
+Additionally, to ensure best results, it is recommended that you continue to explore the real world while using the Explorer Gadget.
