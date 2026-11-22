@@ -1,0 +1,8 @@
+---
+id: 2659
+title: Bisharp evolution requirement to evolve into Kingambit does not progress
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2659-bisharp-evolution-requirement-to-evolve-into-kingambit-does-not-progress/
+---
+
+**Issue description:** After defeating a Dark-type or Steel-type Raid Battle Pokémon, Trainers who needed to exit and subsequently re-join the Raid Battle do not get properly credited with the progression for the evolution requirement.
+ **Issue status:**  Working on a fix
