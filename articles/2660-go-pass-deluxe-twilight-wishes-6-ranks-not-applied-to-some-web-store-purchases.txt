@@ -1,0 +1,8 @@
+---
+id: 2660
+title: GO Pass Deluxe: Twilight Wishes +6 Ranks Not Applied to Some Web Store Purchases
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2660-go-pass-deluxe-twilight-wishes-6-ranks-not-applied-to-some-web-store-purchases/
+---
+
+**Issue description:**  Some Trainers who purchased GO Pass Deluxe: Twilight Wishes +6 Ranks through the Pokémon GO Web Store before the GO Pass began in their local time did not receive the additional six ranks included with their purchase.
+ **Status:**  Resolved. Affected Trainers have been granted the missing six ranks.
