@@ -1,0 +1,130 @@
+---
+id: 2591
+title: How can I purchase items as gifts for friends?
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+---
+
+How can I send items to friends?
+
+*Paid gifts are a new feature that is currently only available in some regions. We look forward to expanding access to more Trainers soon!*
+
+Trainers can send certain items to friends by purchasing them as  **paid gifts**  in the in-app shop. Most items that are available for purchase can be sent to friends as paid gifts. Purchasing a paid gift will also grant the purchaser Reward Road Points. Note that the recipient does not earn Reward Road Points when they open a paid gift.
+
+The following items are not able to be sent as paid gifts:
+
+* Limited Time Boxes & Packs
+* Stickers
+* PokéCoins
+* Team Medallions
+* Avatar Items & Poses
+
+Only items available for purchase can be purchased as a gift for friends (for example, the basic GO Pass cannot be sent as a gift to a friend because it’s free, however GO Pass Deluxe can be sent as a gift to a friend).
+
+## How do I send a paid gift?
+
+You can send a paid gift by following these steps:
+
+* Tap on an item in the in-game Shop.
+* Tap on the  **Gift**  button.
+* Select a friend from your Friends List. Friends are sorted by eligibility, and the last three friends you sent paid gifts to will appear at the top.
+* After selecting a friend, you will see a purchase confirmation screen to finalize the purchase.
+* After confirming your purchase, you will receive a confirmation that your paid gift has been sent along with an entry in your Journal. Once you have sent a paid gift, you cannot cancel or take it back.
+
+Note that you can only purchase up to 20 paid gifts per day. Once you have reached this limit, you will not be able to send any more paid gifts that day. Sending free gifts that you collect from Poké Stops do not contribute to this upper limit.
+
+## Who is eligible to receive a paid gift?
+
+In order to receive a paid gift, the recipient must meet the following requirements:
+
+* Be at least Great Friends or higher
+* Doesn’t login using a child account (i.e. Pokémon Trainer Central or Kids @ Scopley Explore).
+* Uses the same currency
+
+* **Please Note:**  Currencies are determined differently based on your App Store or Google Play settings.
+* Trainer Level 5 or higher
+* Has sufficient available space in their Item Bag for the items in the paid gift
+* Completed the paid gifts First Time User Experience and enabled the setting
+
+## How do I receive a paid gift from a friend?
+
+Receiving a paid gift from a friend is simple. Once the paid gift has been sent to you, all you need to do is open Pokémon GO and a popup with your paid gift will appear on your screen.
+
+![image](../data/images/a5f109da-dd6f-456e-9ca6-07c376a47039.png)
+
+Additionally, if you have enabled push notifications Pokémon GO, you will receive a push notification to inform you when you receive a paid gift.
+
+You can see more information about the paid gift, including who sent it and the items it contains, by tapping on the letter image in the popup. Details around received paid gifts will also appear in your Journal.
+
+## How do I opt-out of receiving paid gifts?
+
+Follow these steps to opt-out of receiving paid gift:
+
+* From the Map View, tap  **Main Menu**
+![image](../data/images/ab6c38cd-17d9-4cf6-92f9-528b710a0cf3.png)
+ at the bottom center of your screen
+* At the top right, tap  **Settings**
+![image](../data/images/3a31957f-71f1-4d90-8f27-7473864c8b4d.png)
+https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/9e861c04-e08f-4047-bb57-fb745ac2a824.png
+* Scroll down to the  **Friends**  section of your Settings
+* Tap  **Allow Friends to Send You Paid Gifts**  to toggle this feature on or off
+
+You can also exclude specific friends from sending you paid gifts by following these steps:
+
+* From the Map View, tap  **Main Menu**
+![image](../data/images/ab6c38cd-17d9-4cf6-92f9-528b710a0cf3.png)
+ at the bottom center of your screen
+* At the top right, tap  **Settings**
+![image](../data/images/3a31957f-71f1-4d90-8f27-7473864c8b4d.png)
+https://d2duuy9yo5pldo.cloudfront.net/scopelyexplore/9e861c04-e08f-4047-bb57-fb745ac2a824.png
+* Scroll down to the  **Friends**  section
+* Tap  **Pause Gifts List**
+* Tap the  **Pause**  button next to the Friend that you would like to exclude
+* Tap  **Yes, Pause**  to confirm you would like to exclude this Friend
+
+You can always revert this setting for individual friends by repeating the above steps. Learn more about how you can [control your experience in Pokémon GO](https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/).
+
+## Why am I not able to send certain items as a paid gift?
+
+You may not be able to send certain items to a Trainer if that Trainer has not reached the minimum Trainer level to unlock those items. Certain items like event tickets and Remote Raid Passes have an upper limit to how many of that item a Trainer can possess. If that Trainer has already reached the upper limit of those items you will not be able to send these items to them as a paid gift.
+
+Additionally, you can only purchase twenty paid gifts per day and will not be able to send any more paid gifts once you have reached that limit.
+
+## Frequently Asked Questions:
+
+### Can I send PokéCoins as a paid gift?
+
+* No, while certain items in the in-app shop are eligible to be sent to other Trainers as a paid gift, PokéCoins cannot be sent as a paid gift.
+
+### Can I buy a paid gift using PokéCoins?
+
+* No, only certain items that can be purchased with real money can be sent as paid gifts. Please see above for specific item exclusions.
+
+### Can I cancel a gift?
+
+* Yes, you can cancel sending a paid gift at any point in the sending process before tapping the confirmation button. Once a paid gift has been confirmed and sent, however, it is unable to be canceled.
+
+### Why is my friend greyed out?
+
+* If a friend on your Friend List is greyed out, this means that they don’t currently meet the eligibility criteria.
+
+### Why did I receive an error when sending a gift?
+
+* If you received an error when attempting to send a paid gift to a friend, it could be because of one of the following reasons:
+
+* They already have the maximum number of a specific item in their Item Bag.
+* They already own the event ticket you are attempting to buy for them.
+* They already have the Research (either active or completed).
+* You do not meet the minimum friendship level to buy that particular Trainer a gift.
+* They have opted out of receiving paid gifts.
+
+### How many paid gifts can I send per day?
+
+* You can purchase and send up to 20 paid gifts per day.
+
+### Why was I unable to send a paid gift after completing my purchase?
+
+* This can happen if the intended recipient becomes ineligible to receive the paid gift right before you confirm your purchase. If this happens, you will receive a notice that will prompt you to either send the paid gift to another friend or request a refund.
+
+### What should I do if my game crashed after purchasing a paid gift but before being able to send it?
+
+* If you complete a purchase but your app crashes before you can send them the items to a friend, the items that you purchased will be added to your Item Bag as paid gift items. You will be able to send them or request a refund by going to your Item Bag and tapping on the  **Gift**  button at the top of the screen.
