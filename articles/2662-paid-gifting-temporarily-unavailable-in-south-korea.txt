@@ -1,0 +1,10 @@
+---
+id: 2662
+title: Paid gifting temporarily unavailable in South Korea
+url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2662-paid-gifting-temporarily-unavailable-in-south-korea/
+---
+
+**Description:**
+Due to a price display issue affecting paid gifting in South Korea, the feature has been temporarily disabled.
+
+**Status:** We are working on a fix and will provide an update once paid gifting is available again.
