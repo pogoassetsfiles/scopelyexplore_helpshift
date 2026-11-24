@@ -5,4 +5,4 @@ url: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/2650-some-pokem
 ---
 
 **Issue Description:**  Trainers who have completed the "Explore X km" evolution tasks required to evolve certain Pokémon (e.g. Bramblin, Pawmo) are unable to evolve it.
- **Issue Status:**  Working on a fix. Any Pokémon that have met the eligibility will be able to evolve once the fix has been deployed.
+ **Issue Status:**  Resolved.
