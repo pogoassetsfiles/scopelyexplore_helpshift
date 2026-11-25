@@ -37,7 +37,6 @@ Note that you can only purchase up to 20 paid gifts per day. Once you have reach
 In order to receive a paid gift, the recipient must meet the following requirements:
 
 * Be at least Great Friends or higher
-* Doesn’t login using a child account (i.e. Pokémon Trainer Central or Kids @ Scopley Explore).
 * Uses the same currency
 
 * **Please Note:**  Currencies are determined differently based on your App Store or Google Play settings.
